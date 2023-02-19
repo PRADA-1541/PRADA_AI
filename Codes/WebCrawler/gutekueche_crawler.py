@@ -8,7 +8,7 @@ from selenium.common import exceptions
 import os
 import json
 
-IMPLICIT_WAIT = 8
+IMPLICIT_WAIT = 10
 COLLECT_PROFILES = 1
 COLLECT_REVIEWS = 2
 END_OF_PAGE = 83
@@ -60,7 +60,7 @@ def is_recipe_link(link):
 
 
 # create a new browser instance
-driver = create_driver(headless=True)
+driver = create_driver(headless=False)
 
 # 레시피 링크 리스트 파일이 없으면 링크 탐색
 if os.path.isfile(file_path):
@@ -95,33 +95,31 @@ else:
             fline.write(link + '\n')
 
 print(recipe_links)
-driver.close()
-"""
-
-
 
 # test용
 cnt = 0
 
-
 # 레시피 링크별 데이터 스크래핑
 for recipe in recipe_links:
     #if cnt == 5: break
-    #cnt += 1
+    cnt += 1
 
     driver.get(recipe)
+    if cnt == 1:
+        time.sleep(10)
     driver.implicitly_wait(IMPLICIT_WAIT) # 컨텐츠 로딩까지 잠시 대기
+    #time.sleep(0.8)
 
-    container = driver.find_element(By.TAG_NAME, 'article')
-    header = container.find_element(By.CLASS_NAME, 'loc.article-post-header')
+    container = driver.find_element(By.ID, 'middle')
 
     if mode == COLLECT_PROFILES:
+        article = container.find_element(By.TAG_NAME, 'article')
         item_profile = dict()
         item_profile['ID'] = item_id
-        item_profile['Name'] = header.find_element(By.TAG_NAME, 'h1').text
+        item_profile['Name'] = article.find_element(By.TAG_NAME, 'h1').text
         rating_avg = "NA"
         try:
-            rating_avg = header.find_element(By.ID, 'mntl-recipe-review-bar__rating_2-0').text
+            rating_avg = article.find_element(By.CLASS_NAME, 'rateit_value').text
 
         except exceptions.NoSuchElementException:
             pass
@@ -129,35 +127,34 @@ for recipe in recipe_links:
         finally:
             item_profile['AverageRating'] = rating_avg
 
-        content = container.find_element(By.CLASS_NAME, 'loc.article-content')
-        content_data = content.find_element(By.ID, 'article-content_1-0')
-        recipe_details = content_data.find_element(By.ID, 'recipe-details_1-0')
-        recipe_details_items = recipe_details.find_elements(By.CLASS_NAME, 'mntl-recipe-details__item')
-
-        for item in recipe_details_items:
-            recipe_details_label = item.find_element(By.CLASS_NAME, 'mntl-recipe-details__label').text[:-1]
-            recipe_details_value = item.find_element(By.CLASS_NAME, 'mntl-recipe-details__value').text
-            item_profile[recipe_details_label] = recipe_details_value
-
-        ingredients_list = content_data.find_element(By.CLASS_NAME, 'mntl-structured-ingredients__list')
-        ingredients_items = ingredients_list.find_elements(By.CLASS_NAME, 'mntl-structured-ingredients__list-item')
+        content = article.find_element(By.CLASS_NAME, 'teaser-detail.sec')
+        item_profile["description"] = content.find_element(By.TAG_NAME, 'p').text
+        ingredients_list = container.find_element(By.CLASS_NAME, 'ingredients-table')
+        ingredients_items = ingredients_list.find_elements(By.TAG_NAME, 'tr')
         ingredients = []
 
         for item in ingredients_items:
-            ingredient = item.find_elements(By.TAG_NAME, 'span')
-            ingredient_quantity = ingredient[0].text + ' '
-            ingredient_unit = ingredient[1].text + ' '
-            ingredient_name = ingredient[2].text
+            ingredient_quantity = item.find_element(By.TAG_NAME, 'td').text + ' '
+            ingredient_unit_and_name = item.find_elements(By.TAG_NAME, 'th')
+            ingredient_unit = ingredient_unit_and_name[0].text + ' '
+            ingredient_name = ingredient_unit_and_name[1].text + ' '
             #ingredients.append({"name": ingredient_name,
             #                    "quantity": ingredient_quantity,
             #                    "unit": ingredient_unit})
-            ingredients.append(ingredient_quantity + ingredient_name + ingredient_unit)
+            ingredients.append(ingredient_quantity + ingredient_unit + ingredient_name)
+
         item_profile["Ingredients"] = ingredients
 
-        directions_list = content_data.find_element(By.ID, 'mntl-sc-block_2-0')
-        directions_steps = directions_list.find_elements(By.TAG_NAME, 'p')
-        directions = [step.text for step in directions_steps]
+        cocktail_keywords_div = article.find_element(By.CLASS_NAME, 'recipe-categories')
+        cocktail_keywords = cocktail_keywords_div.find_elements(By.TAG_NAME, 'a')
+        keywords = [keyword.text for keyword in cocktail_keywords]
 
+        item_profile["Keywords"] = keywords[:-1]
+
+        directions_section = article.find_element(By.CLASS_NAME, 'sec.rezept-preperation')
+        directions_list = directions_section.find_element(By.TAG_NAME, 'ol')
+        directions_steps = directions_list.find_elements(By.TAG_NAME, 'li')
+        directions = [step.text for step in directions_steps]
         item_profile["Directions"] = directions
 
         item_list.append(item_profile)
@@ -220,7 +217,7 @@ driver.close()
 if mode == COLLECT_PROFILES:
     # 프로필 저장
     output_json = {"cocktail_profiles": item_list}
-    with open("all_recipe_cocktail_profiles.json", "w", encoding='utf8') as outfile:
+    with open("../../Dataset/gutekueche_cocktail_profiles.json", "w", encoding='utf8') as outfile:
         json.dump(output_json, outfile, ensure_ascii=False, indent=4)
 
 elif mode == COLLECT_REVIEWS:
@@ -238,6 +235,4 @@ for l in recipe_links:
 
 for item in item_list:
     print(item)
-
-"""
 
