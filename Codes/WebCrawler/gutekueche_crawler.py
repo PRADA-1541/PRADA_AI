@@ -13,20 +13,21 @@ COLLECT_PROFILES = 1
 COLLECT_REVIEWS = 2
 END_OF_PAGE = 83
 TEST_END_OF_PAGE = 3
+scrape_range = 0 # scrape_range~scrape_range+200
 
 file_name = 'gutekueche.txt'
 file_path = os.path.join(os.path.curdir, file_name)
 need_crawl = False
 
 recipe_links = list()
-item_id = 1
+item_id = 1 + 200 * scrape_range
 item_list = []
 review_list = []
 
 """
 mode: 칵테일 정보 = 1, 리뷰 및 평점 수집 = 2
 """
-mode = COLLECT_PROFILES
+mode = COLLECT_REVIEWS
 ###
 # 웹드라이버 옵션 설정 후 생성
 def create_driver(headless=False):
@@ -67,7 +68,6 @@ if os.path.isfile(file_path):
     with open(file_path, 'r', encoding='utf8') as file:
         for line in file:
             recipe_links.append(line[:-1])
-    print(recipe_links)
 
 else:
 
@@ -95,20 +95,20 @@ else:
             fline.write(link + '\n')
 
 print(recipe_links)
+recipe_links = recipe_links[scrape_range:scrape_range+200]
 
 # test용
 cnt = 0
 
 # 레시피 링크별 데이터 스크래핑
 for recipe in recipe_links:
-    #if cnt == 5: break
+    # if cnt == 5: break
     cnt += 1
-
-    driver.get(recipe)
+    driver.get(recipe+'?comments=all#comment_sort')
     if cnt == 1:
         time.sleep(10)
     driver.implicitly_wait(IMPLICIT_WAIT) # 컨텐츠 로딩까지 잠시 대기
-    #time.sleep(0.8)
+    time.sleep(2)
 
     container = driver.find_element(By.ID, 'middle')
 
@@ -160,52 +160,24 @@ for recipe in recipe_links:
         item_list.append(item_profile)
 
     elif mode == COLLECT_REVIEWS:
-        content = container.find_element(By.CLASS_NAME, 'loc.article-content')
-        content_data = content.find_element(By.ID, 'article-content_1-0')
-        review_container = content_data.find_element(By.CLASS_NAME, 'feedback-list')
+        comment_section = container.find_element(By.ID, 'plugin-user-comments')
 
-        # 리뷰가 있으면 리뷰 수집
         try:
-            reviews_list = review_container.find_element(By.CLASS_NAME, 'feedback-list__items')
-        # 리뷰가 없으면 다음 레시피로
+            comments = comment_section.find_elements(By.CLASS_NAME, 'comment.comment-l1.grid')
+            for comment in comments:
+                user_id = comment.find_element(By.TAG_NAME, 'strong').text
+                comment_text = comment.find_element(By.TAG_NAME, 'p').text
+                time_stamp = comment.find_element(By.TAG_NAME, 'time').text
+                review_profile = dict()
+                review_profile['Cocktail'] = item_id
+                review_profile['User'] = user_id
+                review_profile['Review'] = comment_text
+                review_profile['Timestamp'] = time_stamp
+                review_list.append(review_profile)
+
         except exceptions.NoSuchElementException:
-            continue
+            pass
 
-        while True:
-            # 로드 버튼이 있으면 클릭
-            try:
-                load_review_button = reviews_list.find_element(By.CLASS_NAME, 'feedback-list__load-more')
-                load_review_button = load_review_button.find_element(By.TAG_NAME, 'button')
-
-
-                load_review_button.click()
-                time.sleep(1)
-                driver.implicitly_wait(IMPLICIT_WAIT)  # 컨텐츠 로딩까지 잠시 대기
-
-            except exceptions.NoSuchElementException:
-                break
-
-        review_items = reviews_list.find_elements(By.CLASS_NAME, 'feedback-list__item')
-
-        for item in review_items:
-            review_profile = dict()
-
-            review_profile['Cocktail'] = item_id
-
-            review_profile['User'] = item.find_element(By.CLASS_NAME, 'feedback__display-name').text
-
-            review_display = item.find_element(By.CLASS_NAME, 'feedback__text')
-            review_paras = review_display.find_elements(By.TAG_NAME, 'p')
-            review_feedback = ""
-            for para in review_paras:
-                review_feedback += para.text + ' '
-            review_profile['Review'] = review_feedback
-
-            review_ratings = item.find_element(By.CLASS_NAME, 'feedback__stars')
-            full_stars = review_ratings.find_elements(By.CLASS_NAME, 'icon.ugc-icon-star.ugc-icon-avatar-null')
-            review_profile['Rating'] = len(full_stars)
-
-            review_list.append(review_profile)
     item_id += 1
 
 # get the page source
@@ -222,13 +194,10 @@ if mode == COLLECT_PROFILES:
 
 elif mode == COLLECT_REVIEWS:
     output_json = {"cocktail_reviews": review_list}
-    with open("all_recipe_cocktail_reviews.json", "w", encoding='utf8') as outfile:
+    with open("gutekueche_cocktail_reviews_"+str(scrape_range)+".json", "w", encoding='utf8') as outfile:
         json.dump(output_json, outfile, ensure_ascii=False, indent=4)
 
 
-print('category')
-
-print('recipe')
 print(len(recipe_links))
 for l in recipe_links:
     print(l)
