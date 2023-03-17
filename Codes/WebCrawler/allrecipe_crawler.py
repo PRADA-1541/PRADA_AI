@@ -26,7 +26,7 @@ mode: 칵테일 정보 = 1, 리뷰 및 평점 수집 = 2
 mode = COLLECT_REVIEWS
 ###
 # 웹드라이버 옵션 설정 후 생성
-def create_driver(headless=False):
+def create_driver(headless=True):
     options = Options()
     options.headless = headless
     driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
@@ -53,7 +53,7 @@ def is_recipe_link(link):
 
 
 # create a new browser instance
-driver = create_driver()
+driver = create_driver(False)
 
 # 레시피 링크 리스트 파일이 없으면 링크 탐색
 if os.path.isfile(file_path):
@@ -101,11 +101,12 @@ for recipe in recipe_links:
 
     container = driver.find_element(By.TAG_NAME, 'article')
     header = container.find_element(By.CLASS_NAME, 'loc.article-post-header')
+    cocktail_name = header.find_element(By.TAG_NAME, 'h1').text
 
     if mode == COLLECT_PROFILES:
         item_profile = dict()
         item_profile['ID'] = item_id
-        item_profile['Name'] = header.find_element(By.TAG_NAME, 'h1').text
+        item_profile['Name'] = cocktail_name
         rating_avg = "NA"
         try:
             rating_avg = header.find_element(By.ID, 'mntl-recipe-review-bar__rating_2-0').text
@@ -135,9 +136,7 @@ for recipe in recipe_links:
             ingredient_quantity = ingredient[0].text + ' '
             ingredient_unit = ingredient[1].text + ' '
             ingredient_name = ingredient[2].text
-            #ingredients.append({"name": ingredient_name,
-            #                    "quantity": ingredient_quantity,
-            #                    "unit": ingredient_unit})
+
             ingredients.append(ingredient_quantity + ingredient_name + ingredient_unit)
         item_profile["Ingredients"] = ingredients
 
@@ -159,6 +158,7 @@ for recipe in recipe_links:
             reviews_list = review_container.find_element(By.CLASS_NAME, 'feedback-list__items')
         # 리뷰가 없으면 다음 레시피로
         except exceptions.NoSuchElementException:
+            item_id += 1
             continue
 
         while True:
@@ -166,7 +166,6 @@ for recipe in recipe_links:
             try:
                 load_review_button = reviews_list.find_element(By.CLASS_NAME, 'feedback-list__load-more')
                 load_review_button = load_review_button.find_element(By.TAG_NAME, 'button')
-
 
                 load_review_button.click()
                 time.sleep(1)
@@ -181,7 +180,7 @@ for recipe in recipe_links:
             review_profile = dict()
 
             review_profile['Cocktail'] = item_id
-
+            review_profile['Name'] = cocktail_name
             review_profile['User'] = item.find_element(By.CLASS_NAME, 'feedback__display-name').text
 
             review_display = item.find_element(By.CLASS_NAME, 'feedback__text')
@@ -194,6 +193,7 @@ for recipe in recipe_links:
             review_ratings = item.find_element(By.CLASS_NAME, 'feedback__stars')
             full_stars = review_ratings.find_elements(By.CLASS_NAME, 'icon.ugc-icon-star.ugc-icon-avatar-null')
             review_profile['Rating'] = len(full_stars)
+            review_profile['Date'] = item.find_element(By.CLASS_NAME, 'feedback__meta-date').text
 
             review_list.append(review_profile)
     item_id += 1
@@ -207,12 +207,12 @@ driver.close()
 if mode == COLLECT_PROFILES:
     # 프로필 저장
     output_json = {"cocktail_profiles": item_list}
-    with open("all_recipe_cocktail_profiles.json", "w", encoding='utf8') as outfile:
+    with open("../../Dataset/all_recipe_cocktail_profiles.json", "w", encoding='utf8') as outfile:
         json.dump(output_json, outfile, ensure_ascii=False, indent=4)
 
 elif mode == COLLECT_REVIEWS:
     output_json = {"cocktail_reviews": review_list}
-    with open("all_recipe_cocktail_reviews.json", "w", encoding='utf8') as outfile:
+    with open("all_recipe_cocktail_reviews2.json", "w", encoding='utf8') as outfile:
         json.dump(output_json, outfile, ensure_ascii=False, indent=4)
 
 

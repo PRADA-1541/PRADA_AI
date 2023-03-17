@@ -13,7 +13,7 @@ COLLECT_PROFILES = 1
 COLLECT_REVIEWS = 2
 END_OF_PAGE = 83
 TEST_END_OF_PAGE = 3
-scrape_range = 0 # scrape_range~scrape_range+200
+scrape_range = 4 # scrape_range~scrape_range+200
 
 file_name = 'gutekueche.txt'
 file_path = os.path.join(os.path.curdir, file_name)
@@ -95,7 +95,9 @@ else:
             fline.write(link + '\n')
 
 print(recipe_links)
-recipe_links = recipe_links[scrape_range:scrape_range+200]
+from_ = scrape_range*200
+end_ = min([from_ + 200, len(recipe_links)])
+recipe_links = recipe_links[from_:end_]
 
 # test용
 cnt = 0
@@ -103,6 +105,9 @@ cnt = 0
 # 레시피 링크별 데이터 스크래핑
 for recipe in recipe_links:
     # if cnt == 5: break
+    if cnt == 529:
+        item_id += 1
+        continue
     cnt += 1
     driver.get(recipe+'?comments=all#comment_sort')
     if cnt == 1:
