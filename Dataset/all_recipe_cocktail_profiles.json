@@ -1,1 +1,1290 @@
-{"cocktail_profiles": [{"ID": 1, "Name": "Bahama Mama", "AverageRating": "4.7", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["1 crushed icecup ", "1 orange juicefluid ounce ", "1 pineapple juicefluid ounce ", "\u00bd rumfluid ounce ", "\u00bd coconut-flavored rumfluid ounce ", "\u00bd grenadine syrupfluid ounce "], "Directions": ["Combine crushed ice, orange juice, pineapple juice, regular rum, coconut-flavored rum, and grenadine in a blender. Blend until the drink's consistency is slushy."]}, {"ID": 2, "Name": "The REAL Long Island Iced Tea", "AverageRating": "4.7", "Prep Time": "10 mins", "Total Time": "10 mins", "Servings": "1", "Yield": "1 drink", "Ingredients": ["\u00bd vodkafluid ounce ", "\u00bd rumfluid ounce ", "\u00bd ginfluid ounce ", "\u00bd tequilafluid ounce ", "\u00bd triple sec (orange-flavored liqueur)fluid ounce ", "1 sweet and sour mixfluid ounce ", "1 cola, or to tastefluid ounce ", "1 lemon slice "], "Directions": ["Gather all ingredients.", "DOTDASH MEREDITH FOOD STUDIOS", "Fill a cocktail shaker with ice. Pour vodka, rum, gin, tequila, triple sec, and sour mix over ice; cover and shake.", "DOTDASH MEREDITH FOOD STUDIOS", "Pour cocktail into a Collins or hurricane glass; top with splash of cola for color. Garnish with a lemon slice.", "DOTDASH MEREDITH FOOD STUDIOS"]}, {"ID": 3, "Name": "Cosmopolitan Cocktail", "AverageRating": "4.7", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Yield": "1 cocktail", "Ingredients": ["1 \u00bd vodkafluid ounces ", "\u00bc lime juicefluid ounce ", "\u00bc triple secfluid ounce ", "\u00bc cranberry juicefluid ounce ", "1 icecup ", "1 lime wedge for garnish "], "Directions": ["Combine vodka, lime juice, triple sec, and cranberry juice in a cocktail shaker. Add ice, cover and shake until chilled. Strain into a chilled cocktail glass.", "Garnish with a lime wedge."]}, {"ID": 4, "Name": "Pineapple Upside-Down Cake in a Glass", "AverageRating": "4.8", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": [" ice ", "1 grenadine syrupsplash ", "3 pineapple juiceounces ", "1 cake-flavored vodka(1.5 fluid ounce) jigger ", "1 maraschino cherry "], "Directions": ["Gather all ingredients.", "DOTDASH MEREDITH FOOD STUDIOS", "Fill a glass with ice. Splash grenadine over ice.", "DOTDASH MEREDITH FOOD STUDIOS", "Pour in pineapple juice and cake-flavored vodka; stir.", "DOTDASH MEREDITH FOOD STUDIOS", "Garnish with maraschino cherry to serve.", "DOTDASH MEREDITH FOOD STUDIOS"]}, {"ID": 5, "Name": "Margarita Cocktail", "AverageRating": "4.8", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["1 kosher salttablespoon ", "1 \u00bd tequilafluid ounces ", "1 orange flavored liqueur (such as Cointreau\u00ae)fluid ounce ", "\u00bd lime juicefluid ounce ", "1 icecup ", "1 lime wheel "], "Directions": ["Sprinkle salt on a small plate. Lightly wet the rim of a cocktail glass or margarita glass with a damp paper towel. Dip the moistened rim in salt to coat. Set aside.", "Combine tequila, orange-flavored brandy, and lime juice in a cocktail shaker. Add ice and shake until chilled. Strain into a salt-rimmed cocktail glass or a salt-rimmed, ice-filled margarita glass. Garnish with a lime wheel."]}, {"ID": 6, "Name": "Classic Old Fashioned", "AverageRating": "4.6", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["2 simple syrupteaspoons ", "1 waterteaspoon ", "2 bittersdashes ", "1 ice cubescup ", "1 bourbon whiskey(1.5 fluid ounce) jigger ", "1 orangeslice ", "1 maraschino cherry "], "Directions": ["Pour simple syrup, water, and bitters into a whiskey glass; stir to combine. Add ice cubes and pour in bourbon. Garnish with orange slice and maraschino cherry."]}, {"ID": 7, "Name": "Kombucha Mule", "AverageRating": "NA", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Yield": "1 kombucha mule cocktail", "Ingredients": ["1 \u00bd icecups ", "\u00bd freshly squeezed lime juicefluid ounce ", "2 vodkafluid ounces ", "4 ginger-flavored Kombucha (such as KeVita\u00aeMaster Brew Ginger)ounces ", " 1 thin lime slice (optional) "], "Directions": ["Fill a copper mule mug with ice. Add lime juice and vodka; stir to combine. Top with ginger kombucha. Lightly stir again and garnish with lime slice."]}, {"ID": 8, "Name": "Hot Buttered Rum Batter", "AverageRating": "4.8", "Prep Time": "10 mins", "Cook Time": "10 mins", "Total Time": "20 mins", "Servings": "100", "Yield": "6 cups mix", "Ingredients": ["1 unsalted butterpound ", "1 brown sugarpound ", "1 confectioners' sugarpound ", "1 vanilla ice cream, softenedquart ", "1 ground cinnamontablespoon ", "1 ground nutmegteaspoon "], "Directions": ["Melt butter in a large pot over medium heat. Blend in brown sugar and confectioners' sugar until smooth.", "Remove from the heat. Add ice cream, cinnamon, and nutmeg and whisk until incorporated. Pour mixture into a plastic container, cover, and store in the freezer."]}, {"ID": 9, "Name": "White Russian", "AverageRating": "4.3", "Prep Time": "2 mins", "Total Time": "2 mins", "Servings": "1", "Ingredients": ["\u00bd cream or milkcup ", "1 coffee flavored liqueurfluid ounce ", "1 vodkafluid ounce ", "1 icecup "], "Directions": ["Combine cream, coffee-flavored liqueur, and vodka in a glass. Pour over ice in a highball glass."]}, {"ID": 10, "Name": "Blue Motorcycle", "AverageRating": "4.2", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["2 ice cubescups ", "\u00be vodkafluid ounce ", "\u00be tequilafluid ounce ", "\u00be rumfluid ounce ", "\u00be ginfluid ounce ", "\u00be Blue Curacaofluid ounce ", "1 sour mixdash ", "2 lemon-lime flavored carbonated beveragefluid ounces ", "1 fresh lemonslice "], "Directions": ["Fill a cocktail shaker with ice. Combine vodka, tequila, rum, gin, Blue Curacao, sour mix, and lemon-lime soda in the cocktail shaker. Shake vigorously to get a frothy head on the drink.", "Pour the contents of the shaker, including ice, into a tall bar glass and garnish with slice of lemon."]}, {"ID": 11, "Name": "Blueberry Tea Cocktail", "AverageRating": "5.0", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["1 amaretto liqueurfluid ounce ", "1 orange liqueur (such as Grand Marnier\u00ae)fluid ounce ", "4 orange pekoe tea, or more to tastefluid ounces "], "Directions": ["Combine amaretto and orange liqueurs in a brandy snifter or glass. Pour in hot tea."]}, {"ID": 12, "Name": "Cape Cod", "AverageRating": "4.7", "Prep Time": "2 mins", "Total Time": "2 mins", "Servings": "1", "Ingredients": [" ice cubes ", "1 \u00bd vodkafluid ounces ", "\u2153 cranberry juicecup ", "1 limewedge "], "Directions": ["Place ice in a short tumbler or old fashioned glass; pour in vodka and cranberry juice. Squeeze lime wedge into drink, then add it to the glass. Serve."]}, {"ID": 13, "Name": "Basil Gimlet", "AverageRating": "NA", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Yield": "1 basil gimlet", "Ingredients": ["6 fresh basil leaveslarge ", "\u00be simple syrupfluid ounce ", "1 icecup ", "\u00be fresh lime juicefluid ounce ", "2 ginfluid ounces ", " 1 small basil leaf for garnish "], "Directions": ["Place coupe glass in the freezer while you are preparing the cocktail.", "Combine 6 basil leaves and simple syrup in a cocktail shaker and muddle until basil leaves are crushed. Add ice, lime juice, and gin. Cover and shake until chilled, 15 to 20 seconds.", "Strain cocktail into coupe glass and garnish with remaining basil leaf."]}, {"ID": 14, "Name": "Jamaican Rum Punch", "AverageRating": "4.8", "Prep Time": "10 mins", "Total Time": "10 mins", "Servings": "8", "Yield": "7 cups", "Ingredients": ["2 \u00bd pineapple juicecups ", "2 \u00bd orange juicecups ", "1 151 proof rum (such as Bacardi\u00ae)cup ", "\u00bd dark rum (such as Meyer's\u00ae)cup ", "\u00bc coconut-flavored rum (such as Malibu\u00ae)cup ", "\u00bc fresh lime juicecup ", "3 grenadine syruptablespoons ", "1 orange, sliced ", "1 lime, sliced ", "1 lemon, sliced "], "Directions": ["Stir pineapple juice, orange juice, 151 proof rum, dark rum, coconut-flavored rum, lime juice, and grenadine syrup together in a punch bowl. Float orange slices, lime slices, and lemon slices in the punch.", "Ladle the punch into ice filled glasses, or chill the punch in the refrigerator until ready to serve."]}, {"ID": 15, "Name": "Budget Jungle Juice for a Crowd", "AverageRating": "4.7", "Prep Time": "10 mins", "Total Time": "10 mins", "Servings": "96", "Yield": "6 gallons", "Ingredients": ["2 orange-flavored drinkgallons ", "4 pink lemonadequarts ", "4 pineapple and orange juice blendquarts ", "4 vodka(750 milliliter) bottles ", "2 white rum(750 milliliter) bottles ", "2 fruit punch(46 fluid ounce) cans "], "Directions": ["Pour orange drink, pink lemonade, pineapple-orange juice blend, vodka, rum, and fruit punch into a large punch bowl or container; stir well."]}, {"ID": 16, "Name": "Finnish Long Drink", "AverageRating": "5.0", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Yield": "1 long drink", "Ingredients": ["1 ice, or as neededcup ", "\u00bd freshly squeezed lemon juicefluid ounce ", "2 white grapefruit juicefluid ounces ", "2 ginfluid ounces ", "3 grapefruit flavored soda (such as Fresca\u00ae)ounces ", "1 club soda, or as neededsplash ", " 1 slice grapefruit for garnish "], "Directions": ["Fill a highball glass with ice. Add lemon juice, grapefruit juice, gin, and grapefruit soda; stir to combine.", "Top with club soda, lightly stir again, and garnish with grapefruit slice."]}, {"ID": 17, "Name": "Negroni Sbagliato", "AverageRating": "NA", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "2", "Yield": "2 negroni cocktails", "Ingredients": [" ice as needed ", "1 Camparifluid ounce ", "1 dry vermouthfluid ounce ", "\u00bd agave nectarteaspoon ", " sparkling wine or Prosecco ", " 2 orange twists "], "Directions": ["Fill a cocktail shaker with ice. Add Campari, vermouth, and agave. Shake well.", "Fill champagne glass 1/2 way with mixture and top it off with sparkling white wine or Prosecco. Stir and serve with an orange twist."]}, {"ID": 18, "Name": "Classic Spanish Sangria", "AverageRating": "4.6", "Prep Time": "10 mins", "Additional Time": "2 hrs", "Total Time": "2 hrs 10 mins", "Servings": "6", "Ingredients": ["1 orange ", "1 lemon ", "1 lime ", "1 \u00bd rumcups ", "\u00bd white sugar, or to tastecup ", "1 dry red wine(750 milliliter) bottle ", "1 orange juicecup "], "Directions": ["Have orange, lemon, lime, rum, wine, and orange juice well chilled.", "Slice orange, lemon, and lime into thin rounds; place in a large glass pitcher. Pour in rum and 1/2 cup sugar. Chill in the refrigerator until flavors blend, about 2 hours.", "Crush fruit lightly with a wooden spoon; stir in wine and orange juice. Adjust sweetness as desired."]}, {"ID": 19, "Name": "Ginger-Hibiscus Sparkler", "AverageRating": "NA", "Prep Time": "5 mins", "Cook Time": "5 mins", "Total Time": "10 mins", "Servings": "4", "Ingredients": ["\u00bc dried hibiscus petalscup ", "1 \u00bd boiling watercups ", "\u00bd fresh lime juicecup ", "\u00bd ginger liqueur (such as Domaine de Canton\u00ae)cup ", "\u00bd ginger beercup ", "4 fresh mint for garnishsprigs ", " fresh ginger, peeled and thinly sliced "], "Directions": ["Steep hibiscus flowers in boiling water for 5 minutes; strain into a heatproof bowl set in a bowl of ice to speed cooling. Cool completely.", "Transfer to a small pitcher. Stir in lime juice and ginger liqueur. Pour into ice-filled Collins glasses (about 5 oz. per glass) and top each with 1 oz. ginger beer. Garnish with mint sprigs and ginger slices."]}, {"ID": 20, "Name": "Ultimate Frozen Strawberry Margarita", "AverageRating": "4.8", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "4", "Ingredients": ["2 ice cubes, or as neededcups ", "6 tequilafluid ounces ", "2 triple secfluid ounces ", "8 frozen sliced strawberries in syrupounces ", "4 frozen limeade concentratefluid ounces "], "Directions": ["Fill a blender with ice cubes; pulse until ice is crushed.", "Pour in tequila and triple sec, then add strawberries and limeade concentrate. Blend until smooth, about 30 seconds.", "Pour into four margarita glasses and serve immediately."]}, {"ID": 21, "Name": "Sangria! Sangria!", "AverageRating": "4.8", "Prep Time": "15 mins", "Total Time": "15 mins", "Servings": "6", "Ingredients": ["1 dry red wine(750 milliliter) bottle ", "\u00bd brandycup ", "\u00bd triple seccup ", "\u2153 frozen lemonade concentratecup ", "\u2153 orange juicecup ", "\u00bc lemon juicecup ", "\u00bc white sugar (Optional)cup ", "1 orange, sliced into roundsmedium ", "1 lemon, sliced into roundsmedium ", "1 lime, sliced into roundsmedium ", "8 maraschino cherries ", "2 carbonated water (Optional)cups "], "Directions": ["Mix together red wine, brandy, triple sec, lemonade concentrate, orange juice, lemon juice, and sugar in a bowl. Add orange, lemon, and lime slices and maraschino cherries.", "Serve immediately over ice, or refrigerate 8 hours to overnight for best flavor.", "For a fizzy sangria, add club soda just before serving."]}, {"ID": 22, "Name": "Moscow Mule Cocktail", "AverageRating": "4.7", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["1 \u00bd vodkafluid ounces ", "\u00bd lime juicefluid ounce ", " ice cubes ", "\u00bd ginger beercup ", "1 lime wedge for garnish "], "Directions": ["Pour vodka and lime juice into a mug; add ice cubes and ginger beer. Stir to combine.", "Drop a lime wedge into the mug for garnish."]}, {"ID": 23, "Name": "Best Strawberry Daiquiri", "AverageRating": "4.6", "Prep Time": "10 mins", "Total Time": "10 mins", "Servings": "8", "Yield": "8 daiquiris", "Ingredients": ["4 frozen strawberriesounces ", "\u00bd white sugarcup ", "\u00bd lemon juicecup ", "\u215b lime juicecup ", "\u00be rumcup ", "\u00bc lemon-lime flavored carbonated beveragecup ", "6 ice, or as neededcups "], "Directions": ["Place frozen strawberries in a blender; add sugar, lemon juice, and lime juice. Pour in rum and lemon-lime beverage, then add ice. Blend until smooth."]}, {"ID": 24, "Name": "Grateful Dead Cocktail", "AverageRating": "3.5", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["1 tequilafluid ounce ", "1 vodkafluid ounce ", "1 light rumfluid ounce ", "1 ginfluid ounce ", "1 raspberry-flavored liqueur (such as Chambord\u00ae)fluid ounce ", "1 icecup ", "1 sour mixtablespoon "], "Directions": ["Combine tequila, vodka, rum, gin, and raspberry liqueur in a highball glass. Fill with ice and top with sour mix."]}, {"ID": 25, "Name": "Mimosa", "AverageRating": "4.6", "Prep Time": "2 mins", "Total Time": "2 mins", "Servings": "2", "Ingredients": ["\u00bc orange juicecup ", "\u00be champagne, chilledcup "], "Directions": ["Divide orange juice evenly into two flute glasses; top with chilled Champagne and serve."]}, {"ID": 26, "Name": "Electric Lemonade", "AverageRating": "4.9", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": [" ice cubes ", "2 sour mixfluid ounces ", "1 citron vodka(1.5 fluid ounce) jigger ", "\u00bd Blue Curacaofluid ounce ", "1 lemon-lime flavored carbonated beverage(12 fluid ounce) can or bottle ", "1 lemon - cut into wedges, for garnish "], "Directions": ["Fill a Collins glass with ice. Pour sour mix, vodka, and blue curacao over ice.", "Fill to the top with lemon-lime soda. Garnish with lemon wedge; serve with a straw."]}, {"ID": 27, "Name": "Classic Bloody Mary", "AverageRating": "4.4", "Prep Time": "2 mins", "Total Time": "2 mins", "Servings": "1", "Ingredients": ["1 sea salt, or as neededteaspoon ", " ice cubes, as needed ", "\u00be spicy tomato-vegetable juice cocktail (such as V8\u00ae)cup ", "1 vodka(1.5 fluid ounce) jigger ", "2 Worcestershire saucedashes ", "1 hot pepper sauce (such as Tabasco\u00ae)dash ", " salt and ground black pepper to taste ", "1 celerystalk ", "2 garlic-stuffed green olives, threaded onto a toothpick "], "Directions": ["Pour salt onto a small plate. Moisten the rim of a glass and press into the salt. Fill the glass with ice cubes.", "Fill a cocktail shaker with ice cubes; add vegetable juice cocktail, vodka, Worcestershire sauce, hot pepper sauce, salt, and pepper. Cover and shake until the outside of shaker has frosted, about 20 seconds.", "Strain Bloody Mary into the prepared glass and garnish with celery stalk and olives."]}, {"ID": 28, "Name": "Vodka Paralyzer", "AverageRating": "4.5", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["1 ice cubescup ", "4 colafluid ounces ", "1 coffee flavored liqueurfluid ounce ", "1 vodka(1.5 fluid ounce) jigger ", "2 milkfluid ounces ", "1 maraschino cherry "], "Directions": ["Fill a highball glass with ice.", "In the order listed, pour in cola, coffee liqueur, vodka, then milk. Stir briefly and top with a maraschino cherry."]}, {"ID": 29, "Name": "The Real Mojito", "AverageRating": "4.8", "Prep Time": "10 mins", "Total Time": "10 mins", "Servings": "1", "Yield": "1 cocktail", "Ingredients": ["10 fresh mint leaves ", "\u00bd lime, cut into 3 wedges, dividedmedium ", "2 white sugar, or to tastetablespoons ", "1 ice cubes, or as neededcup ", "1 \u00bd white rumfluid ounces ", "\u00bd club soda, or as neededcup "], "Directions": ["Place mint leaves and 1 lime wedge into a sturdy glass. Use a muddler and crush to release mint oils and lime juice.", "DOTDASH MEREDITH FOOD STUDIOS", "DOTDASH MEREDITH FOOD STUDIOS", "Add remaining lime wedges and 2 tablespoons sugar, and muddle again to release the lime juice. Do not strain the mixture.", "DOTDASH MEREDITH FOOD STUDIOS", "DOTDASH MEREDITH FOOD STUDIOS", "Fill the glass almost to the top with ice. Pour in rum and fill the glass with club soda.", "DOTDASH MEREDITH FOOD STUDIOS", "DOTDASH MEREDITH FOOD STUDIOS", "DOTDASH MEREDITH FOOD STUDIOS", "Stir, taste, and add more sugar if desired."]}, {"ID": 30, "Name": "Big Batch Freezer Dirty Martini", "AverageRating": "4.0", "Prep Time": "5 mins", "Freeze Time": "4 hrs", "Total Time": "4 hrs 5 mins", "Servings": "8", "Ingredients": ["1 vodkaliter ", "4 vermouthfluid ounces ", "2 olive brinefluid ounces ", "2 waterfluid ounces ", " olives for garnish "], "Directions": ["Pour 6 ounces of vodka from the bottle and set aside for another use.", "To the reserved vodka in the bottle, add vermouth, brine, and water. Put the top on the bottle and invert bottle to incorporate the ingredients.", "Place bottle in the freezer for at least 4 hours and up to 2 months.", "To serve, pour desired amount into chilled glass and garnish with olives."]}, {"ID": 31, "Name": "Gluehwein", "AverageRating": "4.8", "Prep Time": "5 mins", "Cook Time": "35 mins", "Total Time": "40 mins", "Servings": "6", "Yield": "3 cups", "Ingredients": ["\u00be watercup ", "\u00be white sugarcup ", "1 cinnamon stick(3 inch) ", "2 oranges, dividedmedium ", "10 whole cloves ", "1 red wine(750 milliliter) bottle "], "Directions": ["Gather all ingredients.", "DOTDASH MEREDITH FOOD STUDIOS", "Combine water, sugar, and cinnamon stick in a saucepan; bring to a boil. Reduce heat to low.", "DOTDASH MEREDITH FOOD STUDIOS", "Cut one orange in half; squeeze orange halves over the sugar mixture to release their juice. Push 5 cloves into the outside of each orange peel; place peels into the simmering mixture. Continue to simmer over the lowest heat until thick and syrupy, 20 to 30 minutes.", "DOTDASH MEREDITH FOOD STUDIOS", "While the mixture is simmering, slice remaining orange and set aside for serving.", "When the mixture is finished simmering, stir in wine and heat until steaming but not simmering, 3 to 5 minutes. Discard orange peels and cinnamon stick.", "DOTDASH MEREDITH FOOD STUDIOS", "Ladle into mugs and garnish with orange slices.", "DOTDASH MEREDITH FOOD STUDIOS"]}, {"ID": 32, "Name": "The Perfect Margarita", "AverageRating": "4.7", "Prep Time": "10 mins", "Total Time": "10 mins", "Servings": "1", "Yield": "1 margarita", "Ingredients": ["1 limewedge ", "1 coarse sea salt, or as neededteaspoon ", "1 large ice cube ", "1 ice cubes, or as neededcup ", "2 white tequilafluid ounces ", "1 \u00bd triple secfluid ounces ", "1 freshly squeezed lime juicefluid ounce ", "1 limeslice "], "Directions": ["Moisten the rim of a glass with a lime wedge. Sprinkle salt onto a plate. Lightly dip the moistened rim into the salt. Place a large ice cube in the glass and freeze the prepared glass until ready to serve.", "Fill a cocktail shaker with fresh ice. Add tequila, triple sec, and lime juice. Cover and shake vigorously until the outside of the shaker has frosted.", "Strain margarita into the chilled glass and garnish with a slice of lime."]}, {"ID": 33, "Name": "Orange Crush! Fresh Squeezed Orange and Vodka Cocktail", "AverageRating": "4.7", "Prep Time": "10 mins", "Total Time": "10 mins", "Servings": "1", "Yield": "1 cocktail", "Ingredients": ["2 ice cubes, or as neededcups ", "2 orange-flavored vodkafluid ounces ", "1 triple sec liqueurfluid ounce ", "2 Valencia oranges, juiced ", "1 lemon-lime soda (such as Sprite\u00ae)splash ", "1 orangeslice "], "Directions": ["Fill a pint glass with ice cubes. Pour in orange-flavored vodka, triple sec, and orange juice, then top with lemon-lime soda. Mix well and garnish with orange slice."]}, {"ID": 34, "Name": "Espresso Martini Cocktail", "AverageRating": "5.0", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["1 \u00bd vodkafluid ounces ", "1 \u00bd coffee-flavored liqueur (such as Kahlua\u00ae)fluid ounces ", "1 white creme de cacaofluid ounce ", "1 brewed espressofluid ounce ", "1 icecup "], "Directions": ["Pour vodka, coffee liqueur, cr\u00e8me de cacao, and espresso into a cocktail shaker; add ice, cover and shake until chilled.", "Strain into a chilled martini glass."]}, {"ID": 35, "Name": "Cape Codder Cocktail", "AverageRating": "4.5", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Yield": "1 cocktail", "Ingredients": ["1 \u00bd vodkafluid ounces ", "5 cranberry juicefluid ounces ", "1 ice cubescup ", "1 lime wedge for garnish "], "Directions": ["Pour vodka and cranberry juice into a highball glass filled with ice; stir well.", "Garnish with a lime wedge."]}, {"ID": 36, "Name": "Kombucha Margarita", "AverageRating": "NA", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Yield": "1 kombucha margarita", "Ingredients": ["2 icecups ", "2 silver tequilafluid ounces ", "\u00be triple sec (orange-flavored liqueur)fluid ounce ", "\u00be freshly squeezed lime juicefluid ounce ", "1 coarse salt, or as neededtablespoon ", " 1 lime wedge ", "3 citrus flavored kombucha, or your favorite flavorounces "], "Directions": ["Fill a cocktail shaker half-full with ice. Add tequila, triple sec, and lime juice to the shaker. Seal and shake vigorously until outside is frosted, 10 to 15 seconds.", "Sprinkle salt onto a plate. Moisten the rim of a glass with the lime wedge. Press the moistened rim into the salt. Fill glass with ice.", "Strain margarita into the glass and top with kombucha. Stir gently and garnish with lime wedge, if desired."]}, {"ID": 37, "Name": "Old-Fashioned Swedish Gl\u00f6gg", "AverageRating": "4.8", "Prep Time": "15 mins", "Cook Time": "20 mins", "Additional Time": "1 hrs 10 mins", "Total Time": "1 hrs 45 mins", "Servings": "60", "Yield": "7 750-milliliter bottles", "Ingredients": ["5 port wine(750 milliliter) bottles ", "1 100 proof bourbon whiskey(750 milliliter) bottle ", "1 white rum(750 milliliter) bottle ", "1 cinnamon stick(3 inch) ", "1 strip of orange peel(3 inch) ", "4 whole cloves ", "3 whole cardamom pods, cracked ", "1 (8 inch) square of cheesecloth ", "\u00be white sugarcup ", "1 dark raisins(15 ounce) package ", "1 blanched slivered almonds(6 ounce) package "], "Directions": ["Heat port wine in a large stockpot with a lid over medium heat until just below the simmering point. Add bourbon and rum; heat until just below simmering. Save the bottles and their caps for storing leftover gl\u00f6gg.", "Meanwhile, place cinnamon stick, orange peel, cloves, and cardamom pods in the center of the cheesecloth square. Gather edges of the cheesecloth and tie with kitchen twine to secure; set aside.", "When wine mixture is very hot but not boiling, carefully light it with a long-handled match. Wearing a heatproof cooking mitt, carefully pour sugar into the flames; let mixture burn for 1 minute. Place the lid on the stockpot to extinguish the flames and turn off the heat. Let mixture cool, covered, about 10 minutes.", "Add the cheesecloth spice bundle, raisins, and almonds to warm wine mixture; let it cool to room temperature, about 1 hour.", "Strain cooled gl\u00f6gg and reserve the raisins and almonds.", "To serve: Pour gl\u00f6gg into a saucepan and warm over medium-low heat until hot but not simmering, about 5 minutes. Ladle 3 ounces of warmed gl\u00f6gg into a small coffee cup or a small Swedish-style gl\u00f6gg mug, and garnish each serving with a few reserved raisins and almonds."]}, {"ID": 38, "Name": "Pineapple Margarita", "AverageRating": "4.7", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Yield": "1 pineapple margarita", "Ingredients": ["2 ice, or as neededcups ", "3 pineapple juicefluid ounces ", "2 silver tequilafluid ounces ", "\u00be triple secfluid ounce ", "\u00be freshly squeezed lime juicefluid ounce ", "1 coarse salt, or as neededtablespoon ", " 2 lime wedges ", " pineapple wedge for garnish (optional) "], "Directions": ["Fill a cocktail shaker half-full with ice. Add pineapple juice, tequila, triple sec, and lime juice to the shaker. Seal and shake vigorously until outside is frosted, 10 to 15 seconds.", "Sprinkle salt onto a plate. Moisten the rim of a glass with a lime wedge. Press the moistened rim into the salt. Fill glass with ice.", "Strain margarita into the glass and garnish with pineapple and lime wedge, if desired."]}, {"ID": 39, "Name": "Dirty Martini", "AverageRating": "4.6", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "2", "Ingredients": ["6 vodkafluid ounces ", "1 dry vermouthdash ", "1 brine from olive jarfluid ounce ", "4 stuffed green olives "], "Directions": ["Gather all ingredients.", "DOTDASH MEREDITH FOOD STUDIOS", "Stir together vodka, dry vermouth, brine, and olives in a mixing glass. Pour into a glass or shaker with ice.", "DOTDASH MEREDITH FOOD STUDIOS", "Serve on the rocks, or strain into chilled cocktail glasses.", "DOTDASH MEREDITH FOOD STUDIOS"]}, {"ID": 40, "Name": "Hot Toddy", "AverageRating": "4.6", "Prep Time": "5 mins", "Additional Time": "5 mins", "Total Time": "10 mins", "Servings": "1", "Ingredients": ["2 boiling waterfluid ounces ", "1 \u00bd whiskeyfluid ounces ", "1 honeyteaspoon ", "3 whole cloves ", "1 cinnamon stick ", "1 lemonslice ", "1 ground nutmegpinch "], "Directions": ["Pour boiling water, whiskey, and honey into a mug. Add cloves, cinnamon, and lemon slice. Let mixture stand for 5 minutes so flavors can mingle, then sprinkle with a pinch of nutmeg before serving."]}, {"ID": 41, "Name": "The Real Rum Runner", "AverageRating": "4.8", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["2 ice, divided, or as neededcups ", "1 pineapple juicefluid ounce ", "1 orange juicefluid ounce ", "1 blackberry liqueurfluid ounce ", "1 banana liqueurfluid ounce ", "1 light rumfluid ounce ", "1 dark rumfluid ounce ", "1 grenadine syrup, or more to tastesplash ", "1 high-proof rum (such as Bacardi\u00ae151)fluid ounce ", "1 orangeslice "], "Directions": ["Combine 1 cup ice, pineapple juice, orange juice, blackberry liqueur, banana liqueur, light rum, dark rum, and grenadine in a cocktail shaker; shake to combine.", "Fill a hurricane glass with ice. Pour in mixture. Add high-proof rum for a floater and garnish with orange slice."]}, {"ID": 42, "Name": "Strawberry Mojito", "AverageRating": "4.6", "Prep Time": "15 mins", "Total Time": "15 mins", "Servings": "8", "Yield": "8 mojitos", "Ingredients": [" white sugar, for rimming ", "2 limes, quarteredlarge ", "\u00bd mint leavesbunch ", "7 strawberries, quartered ", "1 white sugarcup ", "2 club sodacups ", "1 white rumcup ", "8 ice cubescups "], "Directions": ["Pour about 1/2 inch of sugar onto a small, shallow plate. Run a lime wedge around the rims of 8 cocktail glasses, then dip the rims into sugar to coat; set aside.", "Squeeze all of the lime wedges into a sturdy glass pitcher. Toss juiced limes into the pitcher along with mint, strawberries, and 1 cup sugar. Crush with a muddler to release strawberry juice and mint oil. Stir in club soda and rum until sugar has dissolved.", "Pour into the prepared glasses over ice cubes to serve."]}, {"ID": 43, "Name": "Mai Tai", "AverageRating": "4.8", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["1 ice cubescup ", "3 pineapple juicefluid ounces ", "2 orange juicefluid ounces ", "1 spiced rum(1.5 fluid ounce) jigger ", "\u00bd coconut-flavored rum(1.5 fluid ounce) jigger ", "1 grenadine syrupteaspoon "], "Directions": ["Fill a cocktail shaker with ice cubes.", "Add pineapple juice, orange juice, spiced rum, coconut rum, and grenadine. Shake vigorously and strain into a glass full of ice."]}, {"ID": 44, "Name": "Washington Apple Cocktail", "AverageRating": "NA", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "2", "Yield": "2 cocktails", "Ingredients": ["2 whiskeyfluid ounces ", "1 \u00bd cranberry juicefluid ounces ", "1 sour apple schnapps (such as DeKuyper\u00ae Sour Apple Pucker)fluid ounce ", "1 agave nectarteaspoon ", " ice cubes as needed ", " 2 apple slices for garnish "], "Directions": ["Combine whiskey, cranberry juice, apple schnapps, and agave in a cocktail shaker. Fill cocktail shaker with ice and shake well.", "Strain into frosted martini glasses and garnish with an apple slice."]}, {"ID": 45, "Name": "Virgin Strawberry Daiquiri", "AverageRating": "4.2", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["2 strawberries, hulledlarge ", "\u00bc white sugarcup ", "\u00be chilled lemon-lime sodacup ", "1 lemon juicetablespoon ", "4 icecubes "], "Directions": ["Combine strawberries, sugar, lemon-lime soda, and lemon juice in the container of a blender. Add ice and blend until smooth.", "Pour into a fancy glass to serve."]}, {"ID": 46, "Name": "Blue Hawaiian Cocktail", "AverageRating": "4.7", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Yield": "1 cocktail", "Ingredients": ["1 crushed icecup ", "2 pineapple juicefluid ounces ", "1 light rumfluid ounce ", "1 blue Curacao liqueurfluid ounce ", "1 cream of coconutfluid ounce ", "1 pineapple slice ", "1 maraschino cherry "], "Directions": ["Combine crushed ice, pineapple juice, rum, blue Curacao, and cream of coconut in a blender. Puree on high speed until smooth. Pour into a chilled highball glass.", "Garnish with a slice of pineapple and a maraschino cherry."]}, {"ID": 47, "Name": "Tom Collins Cocktail", "AverageRating": "4.9", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["2 \u00bd ice, dividedcups ", "2 ginfluid ounces ", "\u00be lemon juicefluid ounce ", "\u00bd simple syrupfluid ounce ", "2 club sodafluid ounces ", "1 lemon wedge "], "Directions": ["Fill a Collins glass with 1 1/2 cups ice; set aside in the freezer.", "Combine gin, lemon juice, and simple syrup in a cocktail shaker. Add 1 cup ice, cover, and shake until chilled.", "Strain into the chilled Collins glass. Top with club soda and garnish with lemon wedge."]}, {"ID": 48, "Name": "Blood Orange Margarita", "AverageRating": "NA", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "2", "Yield": "2 blood orange margaritas", "Ingredients": ["\u00bd tequila (such as Reposado\u00ae)fluid ounce ", "1 \u00bd triple sec (orange-flavored liqueur)fluid ounces ", "2 \u00bd blood orange sparkling waterfluid ounces ", "1 blood orange, juiced ", "\u00bd lime, juiced ", " ice cubes "], "Directions": ["Combine tequila, triple sec, sparkling water, blood orange juice, and lime juice in a cocktail shaker. Fill with ice .", "Shake well and strain into chilled margarita glasses."]}, {"ID": 49, "Name": "Vodka Martini Cocktail", "AverageRating": "4.5", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Yield": "1 cocktail", "Ingredients": ["3 vodkafluid ounces ", "1 dry vermouthfluid ounce ", "1 ice cubescup ", "3 olivessmall "], "Directions": ["Combine vodka and dry vermouth in a cocktail mixing glass. Fill with ice and stir until chilled. Strain into a chilled martini glass.", "Garnish with three olives on a toothpick."]}, {"ID": 50, "Name": "Mojitos by the Pitcher", "AverageRating": "4.9", "Prep Time": "10 mins", "Total Time": "10 mins", "Servings": "6", "Ingredients": ["\u00bd white sugarcup ", "36 fresh mint, or to tasteleaves ", "3 limes, quarteredmedium ", "1 rum (such as Bacardi\u00ae)cup ", "1 club sodaliter "], "Directions": ["Muddle sugar and mint leaves together in a pitcher until leaves are well broken down. Add limes and muddle until limes are juiced. Pour rum into sugar mixture; add club soda and stir until sugar is dissolved."]}, {"ID": 51, "Name": "Margaritas", "AverageRating": "4.8", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "4", "Ingredients": ["4 crushed ice, or as neededcups ", "1 frozen limeade concentrate(6 ounce) can ", "6 tequilafluid ounces ", "2 triple secfluid ounces "], "Directions": ["Fill blender with crushed ice. Pour in limeade concentrate, tequila, and triple sec. Blend until smooth. Pour into glasses and serve."]}, {"ID": 52, "Name": "White Russian Cocktail", "AverageRating": "4.8", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["1 icecup ", "2 vodkafluid ounces ", "1 coffee-flavored liqueurfluid ounce ", "1 heavy creamfluid ounce "], "Directions": ["Fill an old-fashioned glass with ice. Pour in vodka and coffee liqueur. Top off with cream."]}, {"ID": 53, "Name": "Pumpkin Spice Martini", "AverageRating": "4.6", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["1 ice cubescup ", "1 vanilla flavored vodka (such as Stoli\u00ae)(1.5 fluid ounce) jigger ", "1 Irish cream liqueur (such as Bailey's\u00ae)(1.5 fluid ounce) jigger ", "1 pumpkin flavored liqueur (such as Hiram Walker\u00ae)(1.5 fluid ounce) jigger ", "1 ground cinnamonpinch ", "1 ground nutmegpinch "], "Directions": ["Fill a shaker with ice.", "Pour vanilla-flavored vodka, Irish cream liqueur, and pumpkin-flavored liqueur over ice. Cover and shake until the outside of the shaker has frosted.", "Strain into a chilled martini glass. Garnish with ground cinnamon and ground nutmeg."]}, {"ID": 54, "Name": "Party Punch IV", "AverageRating": "4.7", "Prep Time": "10 mins", "Total Time": "10 mins", "Servings": "48", "Yield": "48 (4 ounce) servings", "Ingredients": ["1 frozen pineapple juice concentrate(16 ounce) can ", "1 frozen orange juice concentrate(12 fluid ounce) can ", "12 vodkafluid ounces ", "2 lemon-lime flavored carbonated beverage, chilled(2 liter) bottles ", "1 maraschino cherries(4 ounce) jar ", "4 oranges, sliced into rounds ", "2 ice cubestrays "], "Directions": ["In a punch bowl, combine pineapple juice concentrate, orange juice concentrate and vodka. Pour in lemon-lime soda. Float cherries and orange slices on top. Add ice before serving."]}, {"ID": 55, "Name": "Hot Spiked Cider", "AverageRating": "4.3", "Prep Time": "5 mins", "Cook Time": "10 mins", "Total Time": "15 mins", "Servings": "6", "Ingredients": ["1 waterquart ", "3 orange spice tea bags ", "2 apple cidercups ", "1 \u00bd light rumcups ", "\u00bd light brown sugarcup ", "2 cinnamon sticks ", "3 butterteaspoons ", "6 cinnamon sticks, garnish "], "Directions": ["Pour water into a large saucepan and bring to a boil.", "Remove from heat and add orange spice tea bags. Cover and let steep for 5 minutes.", "Remove tea bags and stir in apple cider, rum, brown sugar, and 2 cinnamon sticks. Heat cider over medium-low heat until just steaming.", "Ladle hot cider into 6 mugs and drop 1/2 teaspoon butter into each. Garnish with a cinnamon \"swizzle\" stick."]}, {"ID": 56, "Name": "Manhattan Cocktail", "AverageRating": "4.6", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["2 rye whiskeyfluid ounces ", "\u00bd sweet vermouthfluid ounce ", "1 Angostura bittersdash ", "1 ice cubescup ", "1 maraschino cherry "], "Directions": ["Combine whiskey, vermouth, and bitters in a cocktail mixing glass. Add ice and stir until chilled.", "Strain into a chilled cocktail glass and garnish with a maraschino cherry."]}, {"ID": 57, "Name": "Classic Canadian Caesar", "AverageRating": "4.5", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Ingredients": ["1 lime wedge ", "1 celery salt, or as neededtablespoon ", " ice cubes, as needed ", "1 vodkafluid ounce ", "1 Worcestershire sauce, or to tastedash ", "1 hot pepper sauce (such as Tabasco\u00ae), or to tastedash ", "8 tomato and clam juice cocktail (such as Clamato\u00ae)fluid ounces ", "1 celery stick "], "Directions": ["Wet the rim of a cocktail glass with lime wedge; set lime wedge aside for garnish.", "Place celery salt in a small dish; press the rim of the glass into salt to coat. Add ice to the glass.", "Pour vodka, Worcestershire sauce, and hot pepper sauce over ice; top with tomato-clam juice.", "Garnish with lime wedge and celery stick. Serve with a straw."]}, {"ID": 58, "Name": "Pitcher Perfect Margaritas", "AverageRating": "4.5", "Prep Time": "10 mins", "Total Time": "10 mins", "Servings": "8", "Ingredients": ["3 icecups ", "2 tequilacups ", "1 triple seccup ", "\u00be fresh lime juicecup ", "\u00be sweetened lime juicecup ", " kosher salt ", "8 lime wedges "], "Directions": ["Combine ice, tequila, triple sec, fresh lime juice, and sweetened lime juice in a large pitcher; stir.", "Pour kosher salt onto a plate. Rub the rim of a glass with lime wedge. Dip the rim of the glass into salt; fill the glass with margarita mixture; repeat for each serving."]}, {"ID": 59, "Name": "Spiced Pear Old-Fashioned", "AverageRating": "NA", "Prep Time": "5 mins", "Total Time": "5 mins", "Servings": "1", "Yield": "1 spiced pear old-fashioned", "Ingredients": ["\u00bc pear, chopped ", "2 fresh rosemary, dividedsprigs ", " 1 lemon twist ", "1 pure maple syrupteaspoon ", "3 cardamom bittersdashes ", "1 \u00bd bourbonfluid ounces ", "\u00bd ginger liqueur (such as Domaine de Canton\u00ae)fluid ounce ", "1 ice cubescup ", "3 club soda, chilledounces ", " 1 very large ice cube ", " 1 pear wedge for garnish "], "Directions": ["Muddle chopped pear, 1 rosemary sprig, lemon twist, maple syrup, and bitters in a cocktail shaker with a muddler or the handle of a wooden spoon until pear is liquified. Add bourbon, ginger liqueur, and 1 cup ice to the cocktail shaker. Cover and shake until well chilled.", "Place large ice cube into the rocks glass and set a small fine sieve over the glass. Strain the drink through the cocktail shaker top and the sieve to catch any large pieces of pulp or rosemary. Top with club soda. Garnish with pear wedge and rosemary sprig."]}]}
+{
+    "cocktail_profiles": [
+        {
+            "ID": 1,
+            "Name": "Jamaican Rum Punch",
+            "AverageRating": "4.8",
+            "Prep Time": "10 mins",
+            "Total Time": "10 mins",
+            "Servings": "8",
+            "Yield": "7 cups",
+            "Ingredients": [
+                "2 ½ pineapple juicecups ",
+                "2 ½ orange juicecups ",
+                "1 151 proof rum (such as Bacardi®)cup ",
+                "½ dark rum (such as Meyer's®)cup ",
+                "¼ coconut-flavored rum (such as Malibu®)cup ",
+                "¼ fresh lime juicecup ",
+                "3 grenadine syruptablespoons ",
+                "1 orange, sliced ",
+                "1 lime, sliced ",
+                "1 lemon, sliced "
+            ],
+            "Directions": [
+                "Stir pineapple juice, orange juice, 151 proof rum, dark rum, coconut-flavored rum, lime juice, and grenadine syrup together in a punch bowl. Float orange slices, lime slices, and lemon slices in the punch.",
+                "Ladle the punch into ice filled glasses, or chill the punch in the refrigerator until ready to serve."
+            ]
+        },
+        {
+            "ID": 2,
+            "Name": "Party Punch IV",
+            "AverageRating": "4.7",
+            "Prep Time": "10 mins",
+            "Total Time": "10 mins",
+            "Servings": "48",
+            "Yield": "48 (4 ounce) servings",
+            "Ingredients": [
+                "1 frozen pineapple juice concentrate(16 ounce) can ",
+                "1 frozen orange juice concentrate(12 fluid ounce) can ",
+                "12 vodkafluid ounces ",
+                "2 lemon-lime flavored carbonated beverage, chilled(2 liter) bottles ",
+                "1 maraschino cherries(4 ounce) jar ",
+                "4 oranges, sliced into rounds ",
+                "2 ice cubestrays "
+            ],
+            "Directions": [
+                "In a punch bowl, combine pineapple juice concentrate, orange juice concentrate and vodka. Pour in lemon-lime soda. Float cherries and orange slices on top. Add ice before serving."
+            ]
+        },
+        {
+            "ID": 3,
+            "Name": "Margaritas",
+            "AverageRating": "4.8",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "4",
+            "Ingredients": [
+                "4 crushed ice, or as neededcups ",
+                "1 frozen limeade concentrate(6 ounce) can ",
+                "6 tequilafluid ounces ",
+                "2 triple secfluid ounces "
+            ],
+            "Directions": [
+                "Fill blender with crushed ice. Pour in limeade concentrate, tequila, and triple sec. Blend until smooth. Pour into glasses and serve."
+            ]
+        },
+        {
+            "ID": 4,
+            "Name": "Ginger-Hibiscus Sparkler",
+            "AverageRating": "NA",
+            "Prep Time": "5 mins",
+            "Cook Time": "5 mins",
+            "Total Time": "10 mins",
+            "Servings": "4",
+            "Ingredients": [
+                "¼ dried hibiscus petalscup ",
+                "1 ½ boiling watercups ",
+                "½ fresh lime juicecup ",
+                "½ ginger liqueur (such as Domaine de Canton®)cup ",
+                "½ ginger beercup ",
+                "4 fresh mint for garnishsprigs ",
+                " fresh ginger, peeled and thinly sliced "
+            ],
+            "Directions": [
+                "Steep hibiscus flowers in boiling water for 5 minutes; strain into a heatproof bowl set in a bowl of ice to speed cooling. Cool completely.",
+                "Transfer to a small pitcher. Stir in lime juice and ginger liqueur. Pour into ice-filled Collins glasses (about 5 oz. per glass) and top each with 1 oz. ginger beer. Garnish with mint sprigs and ginger slices."
+            ]
+        },
+        {
+            "ID": 5,
+            "Name": "Finnish Long Drink",
+            "AverageRating": "5.0",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Yield": "1 long drink",
+            "Ingredients": [
+                "1 ice, or as neededcup ",
+                "½ freshly squeezed lemon juicefluid ounce ",
+                "2 white grapefruit juicefluid ounces ",
+                "2 ginfluid ounces ",
+                "3 grapefruit flavored soda (such as Fresca®)ounces ",
+                "1 club soda, or as neededsplash ",
+                " 1 slice grapefruit for garnish "
+            ],
+            "Directions": [
+                "Fill a highball glass with ice. Add lemon juice, grapefruit juice, gin, and grapefruit soda; stir to combine.",
+                "Top with club soda, lightly stir again, and garnish with grapefruit slice."
+            ]
+        },
+        {
+            "ID": 6,
+            "Name": "Cosmopolitan Cocktail",
+            "AverageRating": "4.7",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Yield": "1 cocktail",
+            "Ingredients": [
+                "1 ½ vodkafluid ounces ",
+                "¼ lime juicefluid ounce ",
+                "¼ triple secfluid ounce ",
+                "¼ cranberry juicefluid ounce ",
+                "1 icecup ",
+                "1 lime wedge for garnish "
+            ],
+            "Directions": [
+                "Combine vodka, lime juice, triple sec, and cranberry juice in a cocktail shaker. Add ice, cover and shake until chilled. Strain into a chilled cocktail glass.",
+                "Garnish with a lime wedge."
+            ]
+        },
+        {
+            "ID": 7,
+            "Name": "Pumpkin Spice Martini",
+            "AverageRating": "4.6",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "1 ice cubescup ",
+                "1 vanilla flavored vodka (such as Stoli®)(1.5 fluid ounce) jigger ",
+                "1 Irish cream liqueur (such as Bailey's®)(1.5 fluid ounce) jigger ",
+                "1 pumpkin flavored liqueur (such as Hiram Walker®)(1.5 fluid ounce) jigger ",
+                "1 ground cinnamonpinch ",
+                "1 ground nutmegpinch "
+            ],
+            "Directions": [
+                "Fill a shaker with ice.",
+                "Pour vanilla-flavored vodka, Irish cream liqueur, and pumpkin-flavored liqueur over ice. Cover and shake until the outside of the shaker has frosted.",
+                "Strain into a chilled martini glass. Garnish with ground cinnamon and ground nutmeg."
+            ]
+        },
+        {
+            "ID": 8,
+            "Name": "The Real Rum Runner",
+            "AverageRating": "4.8",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "2 ice, divided, or as neededcups ",
+                "1 pineapple juicefluid ounce ",
+                "1 orange juicefluid ounce ",
+                "1 blackberry liqueurfluid ounce ",
+                "1 banana liqueurfluid ounce ",
+                "1 light rumfluid ounce ",
+                "1 dark rumfluid ounce ",
+                "1 grenadine syrup, or more to tastesplash ",
+                "1 high-proof rum (such as Bacardi®151)fluid ounce ",
+                "1 orangeslice "
+            ],
+            "Directions": [
+                "Combine 1 cup ice, pineapple juice, orange juice, blackberry liqueur, banana liqueur, light rum, dark rum, and grenadine in a cocktail shaker; shake to combine.",
+                "Fill a hurricane glass with ice. Pour in mixture. Add high-proof rum for a floater and garnish with orange slice."
+            ]
+        },
+        {
+            "ID": 9,
+            "Name": "Electric Lemonade",
+            "AverageRating": "4.9",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                " ice cubes ",
+                "2 sour mixfluid ounces ",
+                "1 citron vodka(1.5 fluid ounce) jigger ",
+                "½ Blue Curacaofluid ounce ",
+                "1 lemon-lime flavored carbonated beverage(12 fluid ounce) can or bottle ",
+                "1 lemon - cut into wedges, for garnish "
+            ],
+            "Directions": [
+                "Fill a Collins glass with ice. Pour sour mix, vodka, and blue curacao over ice.",
+                "Fill to the top with lemon-lime soda. Garnish with lemon wedge; serve with a straw."
+            ]
+        },
+        {
+            "ID": 10,
+            "Name": "Pitcher Perfect Margaritas",
+            "AverageRating": "4.5",
+            "Prep Time": "10 mins",
+            "Total Time": "10 mins",
+            "Servings": "8",
+            "Ingredients": [
+                "3 icecups ",
+                "2 tequilacups ",
+                "1 triple seccup ",
+                "¾ fresh lime juicecup ",
+                "¾ sweetened lime juicecup ",
+                " kosher salt ",
+                "8 lime wedges "
+            ],
+            "Directions": [
+                "Combine ice, tequila, triple sec, fresh lime juice, and sweetened lime juice in a large pitcher; stir.",
+                "Pour kosher salt onto a plate. Rub the rim of a glass with lime wedge. Dip the rim of the glass into salt; fill the glass with margarita mixture; repeat for each serving."
+            ]
+        },
+        {
+            "ID": 11,
+            "Name": "Sangria! Sangria!",
+            "AverageRating": "4.8",
+            "Prep Time": "15 mins",
+            "Total Time": "15 mins",
+            "Servings": "6",
+            "Ingredients": [
+                "1 dry red wine(750 milliliter) bottle ",
+                "½ brandycup ",
+                "½ triple seccup ",
+                "⅓ frozen lemonade concentratecup ",
+                "⅓ orange juicecup ",
+                "¼ lemon juicecup ",
+                "¼ white sugar (Optional)cup ",
+                "1 orange, sliced into roundsmedium ",
+                "1 lemon, sliced into roundsmedium ",
+                "1 lime, sliced into roundsmedium ",
+                "8 maraschino cherries ",
+                "2 carbonated water (Optional)cups "
+            ],
+            "Directions": [
+                "Mix together red wine, brandy, triple sec, lemonade concentrate, orange juice, lemon juice, and sugar in a bowl. Add orange, lemon, and lime slices and maraschino cherries.",
+                "Serve immediately over ice, or refrigerate 8 hours to overnight for best flavor.",
+                "For a fizzy sangria, add club soda just before serving."
+            ]
+        },
+        {
+            "ID": 12,
+            "Name": "Classic Old Fashioned",
+            "AverageRating": "4.6",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "2 simple syrupteaspoons ",
+                "1 waterteaspoon ",
+                "2 bittersdashes ",
+                "1 ice cubescup ",
+                "1 bourbon whiskey(1.5 fluid ounce) jigger ",
+                "1 orangeslice ",
+                "1 maraschino cherry "
+            ],
+            "Directions": [
+                "Pour simple syrup, water, and bitters into a whiskey glass; stir to combine. Add ice cubes and pour in bourbon. Garnish with orange slice and maraschino cherry."
+            ]
+        },
+        {
+            "ID": 13,
+            "Name": "Cape Cod",
+            "AverageRating": "4.7",
+            "Prep Time": "2 mins",
+            "Total Time": "2 mins",
+            "Servings": "1",
+            "Ingredients": [
+                " ice cubes ",
+                "1 ½ vodkafluid ounces ",
+                "⅓ cranberry juicecup ",
+                "1 limewedge "
+            ],
+            "Directions": [
+                "Place ice in a short tumbler or old fashioned glass; pour in vodka and cranberry juice. Squeeze lime wedge into drink, then add it to the glass. Serve."
+            ]
+        },
+        {
+            "ID": 14,
+            "Name": "Sarah's Spiked Raspberry Lemonade",
+            "AverageRating": "NA",
+            "Prep Time": "2 mins",
+            "Total Time": "2 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "6 fresh raspberries, divided ",
+                "1 raspberry flavored liqueurtablespoon ",
+                "2 vodkatablespoons ",
+                "¾ lemonadecup "
+            ],
+            "Directions": [
+                "Combine 3 raspberries, raspberry liqueur, and vodka in an old fashioned glass. Muddle raspberries, liqueur, and vodka together.",
+                "Pour lemonade on top and stir to combine. Thread remaining raspberries onto a swizzle stick as garnish. Enjoy."
+            ]
+        },
+        {
+            "ID": 15,
+            "Name": "Tom Collins Cocktail",
+            "AverageRating": "4.9",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "2 ½ ice, dividedcups ",
+                "2 ginfluid ounces ",
+                "¾ lemon juicefluid ounce ",
+                "½ simple syrupfluid ounce ",
+                "2 club sodafluid ounces ",
+                "1 lemon wedge "
+            ],
+            "Directions": [
+                "Fill a Collins glass with 1 1/2 cups ice; set aside in the freezer.",
+                "Combine gin, lemon juice, and simple syrup in a cocktail shaker. Add 1 cup ice, cover, and shake until chilled.",
+                "Strain into the chilled Collins glass. Top with club soda and garnish with lemon wedge."
+            ]
+        },
+        {
+            "ID": 16,
+            "Name": "Negroni Sbagliato",
+            "AverageRating": "NA",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "2",
+            "Yield": "2 negroni cocktails",
+            "Ingredients": [
+                " ice as needed ",
+                "1 Camparifluid ounce ",
+                "1 dry vermouthfluid ounce ",
+                "½ agave nectarteaspoon ",
+                " sparkling wine or Prosecco ",
+                " 2 orange twists "
+            ],
+            "Directions": [
+                "Fill a cocktail shaker with ice. Add Campari, vermouth, and agave. Shake well.",
+                "Fill champagne glass 1/2 way with mixture and top it off with sparkling white wine or Prosecco. Stir and serve with an orange twist."
+            ]
+        },
+        {
+            "ID": 17,
+            "Name": "Spiced Pear Old-Fashioned",
+            "AverageRating": "NA",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Yield": "1 spiced pear old-fashioned",
+            "Ingredients": [
+                "¼ pear, chopped ",
+                "2 fresh rosemary, dividedsprigs ",
+                " 1 lemon twist ",
+                "1 pure maple syrupteaspoon ",
+                "3 cardamom bittersdashes ",
+                "1 ½ bourbonfluid ounces ",
+                "½ ginger liqueur (such as Domaine de Canton®)fluid ounce ",
+                "1 ice cubescup ",
+                "3 club soda, chilledounces ",
+                " 1 very large ice cube ",
+                " 1 pear wedge for garnish "
+            ],
+            "Directions": [
+                "Muddle chopped pear, 1 rosemary sprig, lemon twist, maple syrup, and bitters in a cocktail shaker with a muddler or the handle of a wooden spoon until pear is liquified. Add bourbon, ginger liqueur, and 1 cup ice to the cocktail shaker. Cover and shake until well chilled.",
+                "Place large ice cube into the rocks glass and set a small fine sieve over the glass. Strain the drink through the cocktail shaker top and the sieve to catch any large pieces of pulp or rosemary. Top with club soda. Garnish with pear wedge and rosemary sprig."
+            ]
+        },
+        {
+            "ID": 18,
+            "Name": "The Perfect Margarita",
+            "AverageRating": "4.7",
+            "Prep Time": "10 mins",
+            "Total Time": "10 mins",
+            "Servings": "1",
+            "Yield": "1 margarita",
+            "Ingredients": [
+                "1 limewedge ",
+                "1 coarse sea salt, or as neededteaspoon ",
+                "1 large ice cube ",
+                "1 ice cubes, or as neededcup ",
+                "2 white tequilafluid ounces ",
+                "1 ½ triple secfluid ounces ",
+                "1 freshly squeezed lime juicefluid ounce ",
+                "1 limeslice "
+            ],
+            "Directions": [
+                "Moisten the rim of a glass with a lime wedge. Sprinkle salt onto a plate. Lightly dip the moistened rim into the salt. Place a large ice cube in the glass and freeze the prepared glass until ready to serve.",
+                "Fill a cocktail shaker with fresh ice. Add tequila, triple sec, and lime juice. Cover and shake vigorously until the outside of the shaker has frosted.",
+                "Strain margarita into the chilled glass and garnish with a slice of lime."
+            ]
+        },
+        {
+            "ID": 19,
+            "Name": "Basil Gimlet",
+            "AverageRating": "NA",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Yield": "1 basil gimlet",
+            "Ingredients": [
+                "6 fresh basil leaveslarge ",
+                "¾ simple syrupfluid ounce ",
+                "1 icecup ",
+                "¾ fresh lime juicefluid ounce ",
+                "2 ginfluid ounces ",
+                " 1 small basil leaf for garnish "
+            ],
+            "Directions": [
+                "Place coupe glass in the freezer while you are preparing the cocktail.",
+                "Combine 6 basil leaves and simple syrup in a cocktail shaker and muddle until basil leaves are crushed. Add ice, lime juice, and gin. Cover and shake until chilled, 15 to 20 seconds.",
+                "Strain cocktail into coupe glass and garnish with remaining basil leaf."
+            ]
+        },
+        {
+            "ID": 20,
+            "Name": "Grateful Dead Cocktail",
+            "AverageRating": "3.5",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "1 tequilafluid ounce ",
+                "1 vodkafluid ounce ",
+                "1 light rumfluid ounce ",
+                "1 ginfluid ounce ",
+                "1 raspberry-flavored liqueur (such as Chambord®)fluid ounce ",
+                "1 icecup ",
+                "1 sour mixtablespoon "
+            ],
+            "Directions": [
+                "Combine tequila, vodka, rum, gin, and raspberry liqueur in a highball glass. Fill with ice and top with sour mix."
+            ]
+        },
+        {
+            "ID": 21,
+            "Name": "Blue Motorcycle",
+            "AverageRating": "4.2",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "2 ice cubescups ",
+                "¾ vodkafluid ounce ",
+                "¾ tequilafluid ounce ",
+                "¾ rumfluid ounce ",
+                "¾ ginfluid ounce ",
+                "¾ Blue Curacaofluid ounce ",
+                "1 sour mixdash ",
+                "2 lemon-lime flavored carbonated beveragefluid ounces ",
+                "1 fresh lemonslice "
+            ],
+            "Directions": [
+                "Fill a cocktail shaker with ice. Combine vodka, tequila, rum, gin, Blue Curacao, sour mix, and lemon-lime soda in the cocktail shaker. Shake vigorously to get a frothy head on the drink.",
+                "Pour the contents of the shaker, including ice, into a tall bar glass and garnish with slice of lemon."
+            ]
+        },
+        {
+            "ID": 22,
+            "Name": "Dirty Martini",
+            "AverageRating": "4.6",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "2",
+            "Ingredients": [
+                "6 vodkafluid ounces ",
+                "1 dry vermouthdash ",
+                "1 brine from olive jarfluid ounce ",
+                "4 stuffed green olives "
+            ],
+            "Directions": [
+                "Gather all ingredients.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Stir together vodka, dry vermouth, brine, and olives in a mixing glass. Pour into a glass or shaker with ice.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Serve on the rocks, or strain into chilled cocktail glasses.",
+                "DOTDASH MEREDITH FOOD STUDIOS"
+            ]
+        },
+        {
+            "ID": 23,
+            "Name": "Margarita Cocktail",
+            "AverageRating": "4.8",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "1 kosher salttablespoon ",
+                "1 ½ tequilafluid ounces ",
+                "1 orange flavored liqueur (such as Cointreau®)fluid ounce ",
+                "½ lime juicefluid ounce ",
+                "1 icecup ",
+                "1 lime wheel "
+            ],
+            "Directions": [
+                "Sprinkle salt on a small plate. Lightly wet the rim of a cocktail glass or margarita glass with a damp paper towel. Dip the moistened rim in salt to coat. Set aside.",
+                "Combine tequila, orange-flavored brandy, and lime juice in a cocktail shaker. Add ice and shake until chilled. Strain into a salt-rimmed cocktail glass or a salt-rimmed, ice-filled margarita glass. Garnish with a lime wheel."
+            ]
+        },
+        {
+            "ID": 24,
+            "Name": "Hot Buttered Rum Batter",
+            "AverageRating": "4.8",
+            "Prep Time": "10 mins",
+            "Cook Time": "10 mins",
+            "Total Time": "20 mins",
+            "Servings": "100",
+            "Yield": "6 cups mix",
+            "Ingredients": [
+                "1 unsalted butterpound ",
+                "1 brown sugarpound ",
+                "1 confectioners' sugarpound ",
+                "1 vanilla ice cream, softenedquart ",
+                "1 ground cinnamontablespoon ",
+                "1 ground nutmegteaspoon "
+            ],
+            "Directions": [
+                "Melt butter in a large pot over medium heat. Blend in brown sugar and confectioners' sugar until smooth.",
+                "Remove from the heat. Add ice cream, cinnamon, and nutmeg and whisk until incorporated. Pour mixture into a plastic container, cover, and store in the freezer."
+            ]
+        },
+        {
+            "ID": 25,
+            "Name": "Bahama Mama",
+            "AverageRating": "4.7",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "1 crushed icecup ",
+                "1 orange juicefluid ounce ",
+                "1 pineapple juicefluid ounce ",
+                "½ rumfluid ounce ",
+                "½ coconut-flavored rumfluid ounce ",
+                "½ grenadine syrupfluid ounce "
+            ],
+            "Directions": [
+                "Combine crushed ice, orange juice, pineapple juice, regular rum, coconut-flavored rum, and grenadine in a blender. Blend until the drink's consistency is slushy."
+            ]
+        },
+        {
+            "ID": 26,
+            "Name": "Pineapple Margarita",
+            "AverageRating": "4.7",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Yield": "1 pineapple margarita",
+            "Ingredients": [
+                "2 ice, or as neededcups ",
+                "3 pineapple juicefluid ounces ",
+                "2 silver tequilafluid ounces ",
+                "¾ triple secfluid ounce ",
+                "¾ freshly squeezed lime juicefluid ounce ",
+                "1 coarse salt, or as neededtablespoon ",
+                " 2 lime wedges ",
+                " pineapple wedge for garnish (optional) "
+            ],
+            "Directions": [
+                "Fill a cocktail shaker half-full with ice. Add pineapple juice, tequila, triple sec, and lime juice to the shaker. Seal and shake vigorously until outside is frosted, 10 to 15 seconds.",
+                "Sprinkle salt onto a plate. Moisten the rim of a glass with a lime wedge. Press the moistened rim into the salt. Fill glass with ice.",
+                "Strain margarita into the glass and garnish with pineapple and lime wedge, if desired."
+            ]
+        },
+        {
+            "ID": 27,
+            "Name": "Mai Tai",
+            "AverageRating": "4.8",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "1 ice cubescup ",
+                "3 pineapple juicefluid ounces ",
+                "2 orange juicefluid ounces ",
+                "1 spiced rum(1.5 fluid ounce) jigger ",
+                "½ coconut-flavored rum(1.5 fluid ounce) jigger ",
+                "1 grenadine syrupteaspoon "
+            ],
+            "Directions": [
+                "Fill a cocktail shaker with ice cubes.",
+                "Add pineapple juice, orange juice, spiced rum, coconut rum, and grenadine. Shake vigorously and strain into a glass full of ice."
+            ]
+        },
+        {
+            "ID": 28,
+            "Name": "Classic Spanish Sangria",
+            "AverageRating": "4.6",
+            "Prep Time": "10 mins",
+            "Additional Time": "2 hrs",
+            "Total Time": "2 hrs 10 mins",
+            "Servings": "6",
+            "Ingredients": [
+                "1 orange ",
+                "1 lemon ",
+                "1 lime ",
+                "1 ½ rumcups ",
+                "½ white sugar, or to tastecup ",
+                "1 dry red wine(750 milliliter) bottle ",
+                "1 orange juicecup "
+            ],
+            "Directions": [
+                "Have orange, lemon, lime, rum, wine, and orange juice well chilled.",
+                "Slice orange, lemon, and lime into thin rounds; place in a large glass pitcher. Pour in rum and 1/2 cup sugar. Chill in the refrigerator until flavors blend, about 2 hours.",
+                "Crush fruit lightly with a wooden spoon; stir in wine and orange juice. Adjust sweetness as desired."
+            ]
+        },
+        {
+            "ID": 29,
+            "Name": "Mojitos by the Pitcher",
+            "AverageRating": "4.9",
+            "Prep Time": "10 mins",
+            "Total Time": "10 mins",
+            "Servings": "6",
+            "Ingredients": [
+                "½ white sugarcup ",
+                "36 fresh mint, or to tasteleaves ",
+                "3 limes, quarteredmedium ",
+                "1 rum (such as Bacardi®)cup ",
+                "1 club sodaliter "
+            ],
+            "Directions": [
+                "Muddle sugar and mint leaves together in a pitcher until leaves are well broken down. Add limes and muddle until limes are juiced. Pour rum into sugar mixture; add club soda and stir until sugar is dissolved."
+            ]
+        },
+        {
+            "ID": 30,
+            "Name": "Big Batch Freezer Dirty Martini",
+            "AverageRating": "4.0",
+            "Prep Time": "5 mins",
+            "Freeze Time": "4 hrs",
+            "Total Time": "4 hrs 5 mins",
+            "Servings": "8",
+            "Ingredients": [
+                "1 vodkaliter ",
+                "4 vermouthfluid ounces ",
+                "2 olive brinefluid ounces ",
+                "2 waterfluid ounces ",
+                " olives for garnish "
+            ],
+            "Directions": [
+                "Pour 6 ounces of vodka from the bottle and set aside for another use.",
+                "To the reserved vodka in the bottle, add vermouth, brine, and water. Put the top on the bottle and invert bottle to incorporate the ingredients.",
+                "Place bottle in the freezer for at least 4 hours and up to 2 months.",
+                "To serve, pour desired amount into chilled glass and garnish with olives."
+            ]
+        },
+        {
+            "ID": 31,
+            "Name": "Classic Bloody Mary",
+            "AverageRating": "4.4",
+            "Prep Time": "2 mins",
+            "Total Time": "2 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "1 sea salt, or as neededteaspoon ",
+                " ice cubes, as needed ",
+                "¾ spicy tomato-vegetable juice cocktail (such as V8®)cup ",
+                "1 vodka(1.5 fluid ounce) jigger ",
+                "2 Worcestershire saucedashes ",
+                "1 hot pepper sauce (such as Tabasco®)dash ",
+                " salt and ground black pepper to taste ",
+                "1 celerystalk ",
+                "2 garlic-stuffed green olives, threaded onto a toothpick "
+            ],
+            "Directions": [
+                "Pour salt onto a small plate. Moisten the rim of a glass and press into the salt. Fill the glass with ice cubes.",
+                "Fill a cocktail shaker with ice cubes; add vegetable juice cocktail, vodka, Worcestershire sauce, hot pepper sauce, salt, and pepper. Cover and shake until the outside of shaker has frosted, about 20 seconds.",
+                "Strain Bloody Mary into the prepared glass and garnish with celery stalk and olives."
+            ]
+        },
+        {
+            "ID": 32,
+            "Name": "Best Strawberry Daiquiri",
+            "AverageRating": "4.6",
+            "Prep Time": "10 mins",
+            "Total Time": "10 mins",
+            "Servings": "8",
+            "Yield": "8 daiquiris",
+            "Ingredients": [
+                "4 frozen strawberriesounces ",
+                "½ white sugarcup ",
+                "½ lemon juicecup ",
+                "⅛ lime juicecup ",
+                "¾ rumcup ",
+                "¼ lemon-lime flavored carbonated beveragecup ",
+                "6 ice, or as neededcups "
+            ],
+            "Directions": [
+                "Place frozen strawberries in a blender; add sugar, lemon juice, and lime juice. Pour in rum and lemon-lime beverage, then add ice. Blend until smooth."
+            ]
+        },
+        {
+            "ID": 33,
+            "Name": "White Russian",
+            "AverageRating": "4.3",
+            "Prep Time": "2 mins",
+            "Total Time": "2 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "½ cream or milkcup ",
+                "1 coffee flavored liqueurfluid ounce ",
+                "1 vodkafluid ounce ",
+                "1 icecup "
+            ],
+            "Directions": [
+                "Gather all ingredients.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Combine cream, coffee-flavored liqueur, and vodka in a glass.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Pour over ice in a highball glass.",
+                "DOTDASH MEREDITH FOOD STUDIOS"
+            ]
+        },
+        {
+            "ID": 34,
+            "Name": "Virgin Strawberry Daiquiri",
+            "AverageRating": "4.2",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "2 strawberries, hulledlarge ",
+                "¼ white sugarcup ",
+                "¾ chilled lemon-lime sodacup ",
+                "1 lemon juicetablespoon ",
+                "4 icecubes "
+            ],
+            "Directions": [
+                "Combine strawberries, sugar, lemon-lime soda, and lemon juice in the container of a blender. Add ice and blend until smooth.",
+                "Pour into a fancy glass to serve."
+            ]
+        },
+        {
+            "ID": 35,
+            "Name": "Kombucha Margarita",
+            "AverageRating": "NA",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Yield": "1 kombucha margarita",
+            "Ingredients": [
+                "2 icecups ",
+                "2 silver tequilafluid ounces ",
+                "¾ triple sec (orange-flavored liqueur)fluid ounce ",
+                "¾ freshly squeezed lime juicefluid ounce ",
+                "1 coarse salt, or as neededtablespoon ",
+                " 1 lime wedge ",
+                "3 citrus flavored kombucha, or your favorite flavorounces "
+            ],
+            "Directions": [
+                "Fill a cocktail shaker half-full with ice. Add tequila, triple sec, and lime juice to the shaker. Seal and shake vigorously until outside is frosted, 10 to 15 seconds.",
+                "Sprinkle salt onto a plate. Moisten the rim of a glass with the lime wedge. Press the moistened rim into the salt. Fill glass with ice.",
+                "Strain margarita into the glass and top with kombucha. Stir gently and garnish with lime wedge, if desired."
+            ]
+        },
+        {
+            "ID": 36,
+            "Name": "Strawberry Mojito",
+            "AverageRating": "4.6",
+            "Prep Time": "15 mins",
+            "Total Time": "15 mins",
+            "Servings": "8",
+            "Yield": "8 mojitos",
+            "Ingredients": [
+                " white sugar, for rimming ",
+                "2 limes, quarteredlarge ",
+                "½ mint leavesbunch ",
+                "7 strawberries, quartered ",
+                "1 white sugarcup ",
+                "2 club sodacups ",
+                "1 white rumcup ",
+                "8 ice cubescups "
+            ],
+            "Directions": [
+                "Pour about 1/2 inch of sugar onto a small, shallow plate. Run a lime wedge around the rims of 8 cocktail glasses, then dip the rims into sugar to coat; set aside.",
+                "Squeeze all of the lime wedges into a sturdy glass pitcher. Toss juiced limes into the pitcher along with mint, strawberries, and 1 cup sugar. Crush with a muddler to release strawberry juice and mint oil. Stir in club soda and rum until sugar has dissolved.",
+                "Pour into the prepared glasses over ice cubes to serve."
+            ]
+        },
+        {
+            "ID": 37,
+            "Name": "Washington Apple Cocktail",
+            "AverageRating": "NA",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "2",
+            "Yield": "2 cocktails",
+            "Ingredients": [
+                "2 whiskeyfluid ounces ",
+                "1 ½ cranberry juicefluid ounces ",
+                "1 sour apple schnapps (such as DeKuyper® Sour Apple Pucker)fluid ounce ",
+                "1 agave nectarteaspoon ",
+                " ice cubes as needed ",
+                " 2 apple slices for garnish "
+            ],
+            "Directions": [
+                "Combine whiskey, cranberry juice, apple schnapps, and agave in a cocktail shaker. Fill cocktail shaker with ice and shake well.",
+                "Strain into frosted martini glasses and garnish with an apple slice."
+            ]
+        },
+        {
+            "ID": 38,
+            "Name": "Moscow Mule Cocktail",
+            "AverageRating": "4.7",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "1 ½ vodkafluid ounces ",
+                "½ lime juicefluid ounce ",
+                " ice cubes ",
+                "½ ginger beercup ",
+                "1 lime wedge for garnish "
+            ],
+            "Directions": [
+                "Pour vodka and lime juice into a mug; add ice cubes and ginger beer. Stir to combine.",
+                "Drop a lime wedge into the mug for garnish."
+            ]
+        },
+        {
+            "ID": 39,
+            "Name": "Spiked Lemonade",
+            "AverageRating": "NA",
+            "Prep Time": "10 mins",
+            "Total Time": "10 mins",
+            "Servings": "2",
+            "Yield": "2 spiked lemonades",
+            "Ingredients": [
+                "½ freshly squeezed lemon juicecup ",
+                "¼ warm watercup ",
+                "¼ white sugarcup ",
+                "½ cold watercup ",
+                "3 coconut-flavored rum(1.5 fluid ounce) jiggers ",
+                " ice cubes, as needed "
+            ],
+            "Directions": [
+                "Place sugar in warm water, stirring until sugar is completely dissolved. Add lemon juice, cold water, and coconut rum. Stir until completely incorporated.",
+                "Fill 2 glasses with ice cubes and divide lemon juice mixture amongst both glasses."
+            ]
+        },
+        {
+            "ID": 40,
+            "Name": "The Real Mojito",
+            "AverageRating": "4.8",
+            "Prep Time": "10 mins",
+            "Total Time": "10 mins",
+            "Servings": "1",
+            "Yield": "1 cocktail",
+            "Ingredients": [
+                "10 fresh mint leaves ",
+                "½ lime, cut into 3 wedges, dividedmedium ",
+                "2 white sugar, or to tastetablespoons ",
+                "1 ice cubes, or as neededcup ",
+                "1 ½ white rumfluid ounces ",
+                "½ club soda, or as neededcup "
+            ],
+            "Directions": [
+                "Place mint leaves and 1 lime wedge into a sturdy glass. Use a muddler and crush to release mint oils and lime juice.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Add remaining lime wedges and 2 tablespoons sugar, and muddle again to release the lime juice. Do not strain the mixture.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Fill the glass almost to the top with ice. Pour in rum and fill the glass with club soda.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Stir, taste, and add more sugar if desired."
+            ]
+        },
+        {
+            "ID": 41,
+            "Name": "Manhattan Cocktail",
+            "AverageRating": "4.6",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "2 rye whiskeyfluid ounces ",
+                "½ sweet vermouthfluid ounce ",
+                "1 Angostura bittersdash ",
+                "1 ice cubescup ",
+                "1 maraschino cherry "
+            ],
+            "Directions": [
+                "Gather all ingredients.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Combine whiskey, vermouth, and bitters in a cocktail mixing glass. Add ice and stir until chilled.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Strain into a chilled cocktail glass and garnish with a maraschino cherry.",
+                "DOTDASH MEREDITH FOOD STUDIOS"
+            ]
+        },
+        {
+            "ID": 42,
+            "Name": "Espresso Martini Cocktail",
+            "AverageRating": "5.0",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "1 ½ vodkafluid ounces ",
+                "1 ½ coffee-flavored liqueur (such as Kahlua®)fluid ounces ",
+                "1 white creme de cacaofluid ounce ",
+                "1 brewed espressofluid ounce ",
+                "1 icecup "
+            ],
+            "Directions": [
+                "Pour vodka, coffee liqueur, crème de cacao, and espresso into a cocktail shaker; add ice, cover and shake until chilled.",
+                "Strain into a chilled martini glass."
+            ]
+        },
+        {
+            "ID": 43,
+            "Name": "Cape Codder Cocktail",
+            "AverageRating": "4.5",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Yield": "1 cocktail",
+            "Ingredients": [
+                "1 ½ vodkafluid ounces ",
+                "5 cranberry juicefluid ounces ",
+                "1 ice cubescup ",
+                "1 lime wedge for garnish "
+            ],
+            "Directions": [
+                "Pour vodka and cranberry juice into a highball glass filled with ice; stir well.",
+                "Garnish with a lime wedge."
+            ]
+        },
+        {
+            "ID": 44,
+            "Name": "Blue Hawaiian Cocktail",
+            "AverageRating": "4.7",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Yield": "1 cocktail",
+            "Ingredients": [
+                "1 crushed icecup ",
+                "2 pineapple juicefluid ounces ",
+                "1 light rumfluid ounce ",
+                "1 blue Curacao liqueurfluid ounce ",
+                "1 cream of coconutfluid ounce ",
+                "1 pineapple slice ",
+                "1 maraschino cherry "
+            ],
+            "Directions": [
+                "Combine crushed ice, pineapple juice, rum, blue Curacao, and cream of coconut in a blender.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Blend on high speed until smooth.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Pour into a chilled highball glass. Garnish with a slice of pineapple and a maraschino cherry."
+            ]
+        },
+        {
+            "ID": 45,
+            "Name": "Kombucha Mule",
+            "AverageRating": "NA",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Yield": "1 kombucha mule cocktail",
+            "Ingredients": [
+                "1 ½ icecups ",
+                "½ freshly squeezed lime juicefluid ounce ",
+                "2 vodkafluid ounces ",
+                "4 ginger-flavored Kombucha (such as KeVita®Master Brew Ginger)ounces ",
+                " 1 thin lime slice (optional) "
+            ],
+            "Directions": [
+                "Fill a copper mule mug with ice. Add lime juice and vodka; stir to combine. Top with ginger kombucha. Lightly stir again and garnish with lime slice."
+            ]
+        },
+        {
+            "ID": 46,
+            "Name": "Pineapple Upside-Down Cake in a Glass",
+            "AverageRating": "4.8",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                " ice ",
+                "1 grenadine syrupsplash ",
+                "3 pineapple juiceounces ",
+                "1 cake-flavored vodka(1.5 fluid ounce) jigger ",
+                "1 maraschino cherry "
+            ],
+            "Directions": [
+                "Gather all ingredients.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Fill a glass with ice. Splash grenadine over ice.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Pour in pineapple juice and cake-flavored vodka; stir.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Garnish with maraschino cherry to serve.",
+                "DOTDASH MEREDITH FOOD STUDIOS"
+            ]
+        },
+        {
+            "ID": 47,
+            "Name": "Budget Jungle Juice for a Crowd",
+            "AverageRating": "4.7",
+            "Prep Time": "10 mins",
+            "Total Time": "10 mins",
+            "Servings": "96",
+            "Yield": "6 gallons",
+            "Ingredients": [
+                "2 orange-flavored drinkgallons ",
+                "4 pink lemonadequarts ",
+                "4 pineapple and orange juice blendquarts ",
+                "4 vodka(750 milliliter) bottles ",
+                "2 white rum(750 milliliter) bottles ",
+                "2 fruit punch(46 fluid ounce) cans "
+            ],
+            "Directions": [
+                "Pour orange drink, pink lemonade, pineapple-orange juice blend, vodka, rum, and fruit punch into a large punch bowl or container; stir well."
+            ]
+        },
+        {
+            "ID": 48,
+            "Name": "Mimosa",
+            "AverageRating": "4.6",
+            "Prep Time": "2 mins",
+            "Total Time": "2 mins",
+            "Servings": "2",
+            "Ingredients": [
+                "¼ orange juicecup ",
+                "¾ champagne, chilledcup "
+            ],
+            "Directions": [
+                "Divide orange juice evenly into two flute glasses; top with chilled Champagne and serve."
+            ]
+        },
+        {
+            "ID": 49,
+            "Name": "Blood Orange Margarita",
+            "AverageRating": "NA",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "2",
+            "Yield": "2 blood orange margaritas",
+            "Ingredients": [
+                "½ tequila (such as Reposado®)fluid ounce ",
+                "1 ½ triple sec (orange-flavored liqueur)fluid ounces ",
+                "2 ½ blood orange sparkling waterfluid ounces ",
+                "1 blood orange, juiced ",
+                "½ lime, juiced ",
+                " ice cubes "
+            ],
+            "Directions": [
+                "Combine tequila, triple sec, sparkling water, blood orange juice, and lime juice in a cocktail shaker. Fill with ice .",
+                "Shake well and strain into chilled margarita glasses."
+            ]
+        },
+        {
+            "ID": 50,
+            "Name": "Vodka Paralyzer",
+            "AverageRating": "4.5",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "1 ice cubescup ",
+                "4 colafluid ounces ",
+                "1 coffee flavored liqueurfluid ounce ",
+                "1 vodka(1.5 fluid ounce) jigger ",
+                "2 milkfluid ounces ",
+                "1 maraschino cherry "
+            ],
+            "Directions": [
+                "Fill a highball glass with ice.",
+                "In the order listed, pour in cola, coffee liqueur, vodka, then milk. Stir briefly and top with a maraschino cherry."
+            ]
+        },
+        {
+            "ID": 51,
+            "Name": "Orange Crush! Fresh Squeezed Orange and Vodka Cocktail",
+            "AverageRating": "4.7",
+            "Prep Time": "10 mins",
+            "Total Time": "10 mins",
+            "Servings": "1",
+            "Yield": "1 cocktail",
+            "Ingredients": [
+                "2 ice cubes, or as neededcups ",
+                "2 orange-flavored vodkafluid ounces ",
+                "1 triple sec liqueurfluid ounce ",
+                "2 Valencia oranges, juiced ",
+                "1 lemon-lime soda (such as Sprite®)splash ",
+                "1 orangeslice "
+            ],
+            "Directions": [
+                "Fill a pint glass with ice cubes. Pour in orange-flavored vodka, triple sec, and orange juice, then top with lemon-lime soda. Mix well and garnish with orange slice."
+            ]
+        },
+        {
+            "ID": 52,
+            "Name": "The REAL Long Island Iced Tea",
+            "AverageRating": "4.7",
+            "Prep Time": "10 mins",
+            "Total Time": "10 mins",
+            "Servings": "1",
+            "Yield": "1 drink",
+            "Ingredients": [
+                "½ vodkafluid ounce ",
+                "½ rumfluid ounce ",
+                "½ ginfluid ounce ",
+                "½ tequilafluid ounce ",
+                "½ triple sec (orange-flavored liqueur)fluid ounce ",
+                "1 sweet and sour mixfluid ounce ",
+                "1 cola, or to tastefluid ounce ",
+                "1 lemon slice "
+            ],
+            "Directions": [
+                "Gather all ingredients.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Fill a cocktail shaker with ice. Pour vodka, rum, gin, tequila, triple sec, and sour mix over ice; cover and shake.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Pour cocktail into a Collins or hurricane glass; top with splash of cola for color. Garnish with a lemon slice.",
+                "DOTDASH MEREDITH FOOD STUDIOS"
+            ]
+        },
+        {
+            "ID": 53,
+            "Name": "Old-Fashioned Swedish Glögg",
+            "AverageRating": "4.8",
+            "Prep Time": "15 mins",
+            "Cook Time": "20 mins",
+            "Additional Time": "1 hrs 10 mins",
+            "Total Time": "1 hrs 45 mins",
+            "Servings": "60",
+            "Yield": "7 750-milliliter bottles",
+            "Ingredients": [
+                "5 port wine(750 milliliter) bottles ",
+                "1 100 proof bourbon whiskey(750 milliliter) bottle ",
+                "1 white rum(750 milliliter) bottle ",
+                "1 cinnamon stick(3 inch) ",
+                "1 strip of orange peel(3 inch) ",
+                "4 whole cloves ",
+                "3 whole cardamom pods, cracked ",
+                "1 (8 inch) square of cheesecloth ",
+                "¾ white sugarcup ",
+                "1 dark raisins(15 ounce) package ",
+                "1 blanched slivered almonds(6 ounce) package "
+            ],
+            "Directions": [
+                "Heat port wine in a large stockpot with a lid over medium heat until just below the simmering point. Add bourbon and rum; heat until just below simmering. Save the bottles and their caps for storing leftover glögg.",
+                "Meanwhile, place cinnamon stick, orange peel, cloves, and cardamom pods in the center of the cheesecloth square. Gather edges of the cheesecloth and tie with kitchen twine to secure; set aside.",
+                "When wine mixture is very hot but not boiling, carefully light it with a long-handled match. Wearing a heatproof cooking mitt, carefully pour sugar into the flames; let mixture burn for 1 minute. Place the lid on the stockpot to extinguish the flames and turn off the heat. Let mixture cool, covered, about 10 minutes.",
+                "Add the cheesecloth spice bundle, raisins, and almonds to warm wine mixture; let it cool to room temperature, about 1 hour.",
+                "Strain cooled glögg and reserve the raisins and almonds.",
+                "To serve: Pour glögg into a saucepan and warm over medium-low heat until hot but not simmering, about 5 minutes. Ladle 3 ounces of warmed glögg into a small coffee cup or a small Swedish-style glögg mug, and garnish each serving with a few reserved raisins and almonds."
+            ]
+        },
+        {
+            "ID": 54,
+            "Name": "Vodka Martini Cocktail",
+            "AverageRating": "4.5",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Yield": "1 cocktail",
+            "Ingredients": [
+                "3 vodkafluid ounces ",
+                "1 dry vermouthfluid ounce ",
+                "1 ice cubescup ",
+                "3 olivessmall "
+            ],
+            "Directions": [
+                "Combine vodka and dry vermouth in a cocktail mixing glass. Fill with ice and stir until chilled. Strain into a chilled martini glass.",
+                "Garnish with three olives on a toothpick."
+            ]
+        },
+        {
+            "ID": 55,
+            "Name": "Hot Toddy",
+            "AverageRating": "4.6",
+            "Prep Time": "5 mins",
+            "Additional Time": "5 mins",
+            "Total Time": "10 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "2 boiling waterfluid ounces ",
+                "1 ½ whiskeyfluid ounces ",
+                "1 honeyteaspoon ",
+                "3 whole cloves ",
+                "1 cinnamon stick ",
+                "1 lemonslice ",
+                "1 ground nutmegpinch "
+            ],
+            "Directions": [
+                "Pour boiling water, whiskey, and honey into a mug. Add cloves, cinnamon, and lemon slice. Let mixture stand for 5 minutes so flavors can mingle, then sprinkle with a pinch of nutmeg before serving."
+            ]
+        },
+        {
+            "ID": 56,
+            "Name": "Classic Canadian Caesar",
+            "AverageRating": "4.5",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "1 lime wedge ",
+                "1 celery salt, or as neededtablespoon ",
+                " ice cubes, as needed ",
+                "1 vodkafluid ounce ",
+                "1 Worcestershire sauce, or to tastedash ",
+                "1 hot pepper sauce (such as Tabasco®), or to tastedash ",
+                "8 tomato and clam juice cocktail (such as Clamato®)fluid ounces ",
+                "1 celery stick "
+            ],
+            "Directions": [
+                "Wet the rim of a cocktail glass with lime wedge; set lime wedge aside for garnish.",
+                "Place celery salt in a small dish; press the rim of the glass into salt to coat. Add ice to the glass.",
+                "Pour vodka, Worcestershire sauce, and hot pepper sauce over ice; top with tomato-clam juice.",
+                "Garnish with lime wedge and celery stick. Serve with a straw."
+            ]
+        },
+        {
+            "ID": 57,
+            "Name": "Blueberry Tea Cocktail",
+            "AverageRating": "5.0",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "1",
+            "Ingredients": [
+                "1 amaretto liqueurfluid ounce ",
+                "1 orange liqueur (such as Grand Marnier®)fluid ounce ",
+                "4 orange pekoe tea, or more to tastefluid ounces "
+            ],
+            "Directions": [
+                "Combine amaretto and orange liqueurs in a brandy snifter or glass. Pour in hot tea."
+            ]
+        },
+        {
+            "ID": 58,
+            "Name": "Gluehwein",
+            "AverageRating": "4.8",
+            "Prep Time": "5 mins",
+            "Cook Time": "35 mins",
+            "Total Time": "40 mins",
+            "Servings": "6",
+            "Yield": "3 cups",
+            "Ingredients": [
+                "¾ watercup ",
+                "¾ white sugarcup ",
+                "1 cinnamon stick(3 inch) ",
+                "2 oranges, dividedmedium ",
+                "10 whole cloves ",
+                "1 red wine(750 milliliter) bottle "
+            ],
+            "Directions": [
+                "Gather all ingredients.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Combine water, sugar, and cinnamon stick in a saucepan; bring to a boil. Reduce heat to low.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Cut one orange in half; squeeze orange halves over the sugar mixture to release their juice. Push 5 cloves into the outside of each orange peel; place peels into the simmering mixture. Continue to simmer over the lowest heat until thick and syrupy, 20 to 30 minutes.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "While the mixture is simmering, slice remaining orange and set aside for serving.",
+                "When the mixture is finished simmering, stir in wine and heat until steaming but not simmering, 3 to 5 minutes. Discard orange peels and cinnamon stick.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Ladle into mugs and garnish with orange slices.",
+                "DOTDASH MEREDITH FOOD STUDIOS"
+            ]
+        },
+        {
+            "ID": 59,
+            "Name": "Ultimate Frozen Strawberry Margarita",
+            "AverageRating": "4.8",
+            "Prep Time": "5 mins",
+            "Total Time": "5 mins",
+            "Servings": "4",
+            "Ingredients": [
+                "2 ice cubes, or as neededcups ",
+                "6 tequilafluid ounces ",
+                "2 triple secfluid ounces ",
+                "8 frozen sliced strawberries in syrupounces ",
+                "4 frozen limeade concentratefluid ounces "
+            ],
+            "Directions": [
+                "Gather ingredients and fill a blender with ice cubes. Pulse until ice is crushed.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Pour in tequila and triple sec, then add strawberries and limeade concentrate.",
+                "DOTDASH MEREDITH FOOD STUDIOS",
+                "Blend until smooth, about 30 seconds. Pour into four margarita glasses and serve immediately.",
+                "DOTDASH MEREDITH FOOD STUDIOS"
+            ]
+        }
+    ]
+}
