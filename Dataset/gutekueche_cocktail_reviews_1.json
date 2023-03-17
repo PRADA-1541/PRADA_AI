@@ -1,0 +1,2998 @@
+{
+    "cocktail_reviews": [
+        {
+            "Cocktail": 203,
+            "User": "Maarja",
+            "Review": "Ich nehme an, das Sorbet ist auch selbst gemacht? Ich könnte vielleicht Äpfel und Birnen pürieren und in Eiswürfelformen einfrieren?",
+            "Timestamp": "am 15.10.2022 um 22:58 Uhr"
+        },
+        {
+            "Cocktail": 204,
+            "User": "DIELiz",
+            "Review": "der Sherry Flip scheint eine köstlich süsse Trinkgelegenheit zu sein. Bin mir bei der Wahl des passenden Sherry's noch nicht sicher. Durch Zuckersirup ist ja schon Süsse vorhanden. Tendiere trotzdem zu einem schweren Sherry",
+            "Timestamp": "am 16.01.2021 um 23:50 Uhr"
+        },
+        {
+            "Cocktail": 204,
+            "User": "hexy235",
+            "Review": "Dieser Cocktail schaut ja sehr gut aus und die Zutaten hat man auch meistens zu Hause, werde ich probieren.",
+            "Timestamp": "am 07.06.2019 um 21:45 Uhr"
+        },
+        {
+            "Cocktail": 205,
+            "User": "elisaKOCHT",
+            "Review": "der Weihnachtscocktail ist einfach zu machen und schmeckt ausgesprochen gut. Anstatt Physalis habe ich mit Orangenscheiben garniert",
+            "Timestamp": "am 24.12.2018 um 23:57 Uhr"
+        },
+        {
+            "Cocktail": 205,
+            "User": "Silviatempelmayr",
+            "Review": "Und für die Kinder nehme ich einfach Johanisbeersaft. Da haben sie auch ein leckeres Getränk wie die Erwachsenen.",
+            "Timestamp": "am 18.12.2017 um 19:19 Uhr"
+        },
+        {
+            "Cocktail": 206,
+            "User": "Katerchen",
+            "Review": "Schöner Cocktail, der öfters zubereitet wird. Ich mache zur Dekoration noch einen Zuckerrand mit Zitronensaft ans Glas.",
+            "Timestamp": "am 03.09.2021 um 15:43 Uhr"
+        },
+        {
+            "Cocktail": 206,
+            "User": "Silviatempelmayr",
+            "Review": "Vom Zitronensaft kann man ruhig etwas mehr nehmen. Ich mag es wenn der Cocktail schön säuerlich schmeckt.",
+            "Timestamp": "am 23.12.2020 um 17:32 Uhr"
+        },
+        {
+            "Cocktail": 206,
+            "User": "Melaniep",
+            "Review": "Maracuja ist wuderbar für exotische Cocktails, im Gegensatz zu Mango harmoniert Maracuja schön mit Rum und ist sehr erfrischend.",
+            "Timestamp": "am 24.05.2018 um 22:53 Uhr"
+        },
+        {
+            "Cocktail": 207,
+            "User": "alpenkoch",
+            "Review": "echt jetzt? ein Holunder Whiskey ist mit immerhin 5 Milliliter Whiskey auf 210 Milliliter anderer Flüssigkeit zubereitet? ich habe schon einige Holler Whiskey Rezepte im Internet überflogen, da muß ich mir echt mal die Mengenverhältnisse ansehen. JA, trotzdem, bleibt es jedem Mixer überlassen wieviel er zusammenmixt",
+            "Timestamp": "am 13.02.2021 um 18:52 Uhr"
+        },
+        {
+            "Cocktail": 208,
+            "User": "Katerchen",
+            "Review": "Rotwein mit Fruchtsaft wie hier den Heidelbeersaft kenne ich. Allerdings habe ich das noch nie mit einem Eierlikör getrunken. Eine gute Idee – Danke.",
+            "Timestamp": "am 31.05.2022 um 11:25 Uhr"
+        },
+        {
+            "Cocktail": 209,
+            "User": "martha",
+            "Review": "Dieser leichte alkoholfreie Sommercocktail schmeckt der ganzen Familie, ist schnell zubereitet und sieht auch sehr gut aus.",
+            "Timestamp": "am 18.08.2020 um 08:39 Uhr"
+        },
+        {
+            "Cocktail": 209,
+            "User": "Silviatempelmayr",
+            "Review": "Der Cocktail sieht ja so richtig nach Sonne aus. Ist ein idealer Urlaubstrink. Sehr schön und leicht zu dekorieren.",
+            "Timestamp": "am 11.06.2018 um 22:27 Uhr"
+        },
+        {
+            "Cocktail": 210,
+            "User": "snakeeleven",
+            "Review": "Der Campari Blossom ist ein sehr schnell zubereiteter Cocktail, der wahrscheinlich auch sehr gut ankommt.",
+            "Timestamp": "am 20.03.2019 um 13:44 Uhr"
+        },
+        {
+            "Cocktail": 211,
+            "User": "Maarja",
+            "Review": "Den Eiergrog nach Helgoländer Art habe ich tatsächlich mal auf Helgoland getrunken. Ein Wirt hat mir genau diese Zubereitungsart erklärt",
+            "Timestamp": "am 14.12.2022 um 07:42 Uhr"
+        },
+        {
+            "Cocktail": 212,
+            "User": "julia_resch",
+            "Review": "Sobald ich wieder Erdbeeren im Garten habe, werde ich das gleich ausprobieren. Hört sich sehr gut an.",
+            "Timestamp": "am 24.04.2022 um 14:36 Uhr"
+        },
+        {
+            "Cocktail": 212,
+            "User": "DIELiz",
+            "Review": "Der Erdbeer Gin-Tonic ist eine tolle Ccktailöidee für jede Sommerparty. Müsste auch mit Waldbeeren sehr gut schmecken",
+            "Timestamp": "am 14.06.2021 um 23:58 Uhr"
+        },
+        {
+            "Cocktail": 212,
+            "User": "Hermine_Rumpfmüller",
+            "Review": "Die englische Queen Mum hat sich täglich einen Gin hinter die Binde gekippt und ist dabei über 100 Jahre alt geworden...",
+            "Timestamp": "am 01.05.2021 um 13:38 Uhr"
+        },
+        {
+            "Cocktail": 212,
+            "User": "Silviatempelmayr",
+            "Review": "Das Grün der Erdbeeren sieht zwar schön aus, ich würde es aber wegschneiden. Ich mag am liebsten süße Erdbeeren.",
+            "Timestamp": "am 17.11.2020 um 21:31 Uhr"
+        },
+        {
+            "Cocktail": 212,
+            "User": "snakeeleven",
+            "Review": "ich nehme für diesen Cocktail am liebsten die Sorte \"Senga Sengana\" , die sind nicht zu süss und das Fruchtfleisch ist etwas fester.",
+            "Timestamp": "am 29.05.2020 um 10:45 Uhr"
+        },
+        {
+            "Cocktail": 212,
+            "User": "Pesu07",
+            "Review": "Gin-Tonic trinkt ich sehr gerne, da ich den bitteren Geschmack total gerne mag. Der Erdbeer Gin-Tonic ist eine tolle Abwechslung zum klassischen.",
+            "Timestamp": "am 24.01.2020 um 16:16 Uhr"
+        },
+        {
+            "Cocktail": 212,
+            "User": "Heinrich45",
+            "Review": "Bei jahrelangem Alkoholmissbrauch sollte man rechtzeitig auf frische Früchte zurückgreifen. Also eine gelungene Kombi",
+            "Timestamp": "am 30.12.2019 um 19:39 Uhr"
+        },
+        {
+            "Cocktail": 214,
+            "User": "DIELiz",
+            "Review": "auf Grund des Namens hätte ich zuerst keinen Alkohol vermutet. Klingt so harmlos ;-) Aber dieser Cocktail gefällt mir von den Zutaten her",
+            "Timestamp": "am 14.10.2022 um 16:35 Uhr"
+        },
+        {
+            "Cocktail": 215,
+            "User": "DIELiz",
+            "Review": "der Fireball- Cocktail schmeckt uns besonders gut mit Cointreau zubereitet. Natürlich passt jeder andere Orangenlikör ebenso",
+            "Timestamp": "am 17.01.2022 um 23:54 Uhr"
+        },
+        {
+            "Cocktail": 215,
+            "User": "Silviatempelmayr",
+            "Review": "Der Fireball- Cocktail wäre ein Highlight bei einem Feuerwehrfest. Er ist einfach zu mixen und schmeckt sehr gut.",
+            "Timestamp": "am 31.01.2021 um 21:12 Uhr"
+        },
+        {
+            "Cocktail": 215,
+            "User": "snakeeleven",
+            "Review": "Ich habe das Rezpt für den \" Fireball-Cocktail\" ausprobiert, allerdings habe ich anstatt Orangenlikör, Cointreau reingemixt.",
+            "Timestamp": "am 04.07.2019 um 10:52 Uhr"
+        },
+        {
+            "Cocktail": 215,
+            "User": "hexy235",
+            "Review": "Die Kombination der Zutaten schmeckt sicher sehr gut. Auf dem Foto schaut es aber nach einem Drink mit Orangensaft aus.",
+            "Timestamp": "am 29.05.2019 um 21:52 Uhr"
+        },
+        {
+            "Cocktail": 215,
+            "User": "acbenni",
+            "Review": "im rezept gin und in der zubereitung wodka???? da scheint etwas nicht ganz zu stimmen.\nwas ist denn nun richtig`?",
+            "Timestamp": "am 12.02.2018 um 18:58 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Granoschi",
+            "Review": "Tonic enthält viel Zucker: Bei mir 9,3 g/ 100 ml, also enthält obiges Rezept (mindestens) 18,6 g Kohlenhydrate.",
+            "Timestamp": "am 16.02.2023 um 19:02 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Ullis",
+            "Review": "Habe jetzt Gin Tonic mit Zitrone und Rosmarin getrunken. Ich finde das eine leckere Alternative zum normalen Gin Tonic. Das hebt den Gin Geschmack!",
+            "Timestamp": "am 02.01.2023 um 14:37 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Billie-Blue",
+            "Review": "Gin Tonic ist ein Klassiker unter den Cocktails. Ich finde, vor allem im Sommer ist dieser Drink besonders gut.",
+            "Timestamp": "am 21.12.2022 um 14:37 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Billie-Blue",
+            "Review": "Klassisches Gin Tonic ist immer gut und kann man das ganze Jahr über servieren, wenn Gäste kommen. Die Qualität vom Gin ist für den guten Geschmack ausschlaggebend.",
+            "Timestamp": "am 30.11.2022 um 09:54 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Katerchen",
+            "Review": "Mit den vielen verschiedenen Gins hat man fast eine grenzenlose Möglichkeit einen Gin-Tonic mit unterschiedlichem Geschmack zu mixen.",
+            "Timestamp": "am 01.08.2022 um 15:25 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Kanguruh1",
+            "Review": "Ich trinke sehr gerne Gin Tonic und serviere ihn auch gerne meinen Gästen. Ich gebe eine Gurkenscheibe ins Glas, das unterstricht die leicht bittere Note.",
+            "Timestamp": "am 04.01.2022 um 09:36 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Artelsmair",
+            "Review": "Eignet sich für so manche Party genauso wie für einen gemütlichen Abend zu Hause. Kann ich euch sehr empfehlen.",
+            "Timestamp": "am 01.10.2021 um 07:54 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Hermine_Rumpfmüller",
+            "Review": "Beim Gin Tonic haben wir mal eine Zeit gespart, No-Name Gin und Tonic aus dem Supermarkt. Jetzt gibts wieder das Gute Material, man merkt den Unterschied",
+            "Timestamp": "am 12.04.2021 um 22:13 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "sssumsi",
+            "Review": "Gin Tonic geht immer :) Je nach Lust und Laune mit Zitrone, mit Gurke und Pfeffer, mit Orange und Rosmarin. Wers etwas süßer mag: mit Rosenblütensirup und rosa Pfefferbeeren.",
+            "Timestamp": "am 15.03.2021 um 16:27 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Paradeis",
+            "Review": "Für unsere Männerrunde ein ideales Getränk, welches wir immer wieder gerne trinken. Ist mir jedoch auch noch nie aufgefallen, dass er bei UV-Licht bläulich erscheint.",
+            "Timestamp": "am 05.02.2021 um 06:43 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Silviatempelmayr",
+            "Review": "Echt das Tonic Water leuchtet bei UV-Licht bläulich. Das ist ja interessant. Schön was man hier alles erfährt.",
+            "Timestamp": "am 23.01.2021 um 20:36 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "MKmagBier",
+            "Review": "Ah lecker. Aber \"Zitrone od. Limetten\" würde ich so nicht unterschreiben... Ist schon ein anderer Geschmack. Zumindest beim ersten :-)",
+            "Timestamp": "am 07.01.2021 um 17:27 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "sgr1909",
+            "Review": "Gin Tonic ist seit Jahren ein absoluter Klassiker und mein Geheimfavorit unter den Cocktails. Eigentlich kann man da nix falsch machen und bis jetzt hats noch jedem geschmeckt",
+            "Timestamp": "am 15.12.2020 um 05:11 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "DIELiz",
+            "Review": "ein Schwager hat eine zeitlang jeden Feierabend einen Gin Tonic mit Zitrone bzw. Limette getrunken. Ganz entspannt war er danach für seine Familie da. Mir reicht heute mein Kaffee oder Saft, aber als Kind war ich tief beeindruckt vom Gintrinker ;-)",
+            "Timestamp": "am 01.11.2020 um 02:31 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Tammy3108",
+            "Review": "Zitronen und Limetten gleich komplett ins Glas dazu. die menge machts wirklich aus um einen guten GEschmack zu bekommen.",
+            "Timestamp": "am 11.06.2020 um 22:01 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Nelson458",
+            "Review": "Sehr lecker. Je nach Geschmack kann man auch etwas, weniger Tonic nehmen, damit der Gin sich besser entfaltet. Ebenso kann man sie Zitrone durch eine Orangenscheibe ersetzen. Dies hängt vom Gin ab.",
+            "Timestamp": "am 26.03.2020 um 15:59 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Pesu07",
+            "Review": "Den Gin Tonic spritze ich mit etwas mit Mineralwasser auf und nehme dafür etwas weniger Tonic. Wird etwas spritziger.",
+            "Timestamp": "am 06.02.2020 um 16:02 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "snakeeleven",
+            "Review": "Einen Gin Tonic mit Zitrone oder Limette trinke ich gerne ,aber mit Gurkenscheiben ist er nicht mein Fall.",
+            "Timestamp": "am 11.05.2019 um 10:08 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Simonelicious",
+            "Review": "Gin Tonic schmeckt immer lecker ... aber nur so wie hier zubereitet ... nämlich mit Zitrone oder Limette ... mit Gurke geht für mich gar nicht.",
+            "Timestamp": "am 20.03.2019 um 17:34 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Zwiebel",
+            "Review": "Ich mag Gin Tonic sehr, kenne mich aber bei den verschiedenen Gin-Sorten nicht so aus. - Welcher Gin ist denn für dieses Cocktail-Rezept zu empfehlen?",
+            "Timestamp": "am 02.09.2018 um 22:02 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Melaniep",
+            "Review": "Mit Hendricks Gin, einem trockenen Tonic und hauchdünnen Gurkenscheibchen mag ich es besonders. Aber auch Tanqueray Gin ist wunderbar!",
+            "Timestamp": "am 24.05.2018 um 22:47 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Wanesser",
+            "Review": "Ich mag gin Tonic gar nicht, da er so bitter schmeckt. Für Menschen die den bitteren Geschmack mögen sicher nicht schlecht.",
+            "Timestamp": "am 07.04.2018 um 21:17 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Gabrille",
+            "Review": "Für mich ist Gin Tonic nichts, schmeckt einfach viel zu bitter.",
+            "Timestamp": "am 07.04.2018 um 21:08 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "MaryLou",
+            "Review": "Wer den bitteren Geschmack mag für den ist es der perfekten Drink, nicht nur für den Sommer. Ich mag ihn auch so zwischendurch mal.",
+            "Timestamp": "am 13.02.2018 um 06:26 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Shitake26",
+            "Review": "mein Mann hat beim Gin Tonic mit Zitrone seine Lieblingssorte Bombay Sapphire Gin, welcher auch mir sehr gut schmeckt, da dieser Gin eine sehr zarte und blumige Note hat",
+            "Timestamp": "am 09.05.2017 um 15:23 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Silviatempelmayr",
+            "Review": "Mein Mann trinkt dass sehr gerne bei seiner Männerrunde für mich ist das nichts. Es ist mir zu bitter.",
+            "Timestamp": "am 22.01.2017 um 19:00 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "cp611",
+            "Review": "Statt Gin Tonic Kokoswasser verwenden. Schmeckt anders und ein bisschen exotisch. Mit Kokosnussmilch mischen.",
+            "Timestamp": "am 22.01.2017 um 18:04 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "Schweinsbraten",
+            "Review": "Ein herrlich erfrischendes Getränk für den Sommer. Vorausgesetzt man mags auch gerne bitter. Der Gin-Tonic-Fan trinkt sein Gin-Tonic auch gerne mit Gurke!!",
+            "Timestamp": "am 30.08.2016 um 15:07 Uhr"
+        },
+        {
+            "Cocktail": 216,
+            "User": "SloppyJoe",
+            "Review": "Ein toller Drink, wenig Zutaten, aber abhängig vom verwendeten Gin und dem verwendeten Tonic kann der sehr unterschiedlich schmecken. Anstelle der Zitrone/Limette einfach mal mit gurke probieren, ist auf jeden Fall empfehlenswert",
+            "Timestamp": "am 14.04.2016 um 17:36 Uhr"
+        },
+        {
+            "Cocktail": 217,
+            "User": "Katerchen",
+            "Review": "Werde ich nachmachen. Aber um den italienischen „Flair“ zu bewahren werde ich anstelle des Whiskys einen Grappa nehmen.",
+            "Timestamp": "am 11.05.2021 um 06:39 Uhr"
+        },
+        {
+            "Cocktail": 217,
+            "User": "DIELiz",
+            "Review": "Beim Espresso Amaretto Cooler hat meine Ma keinen der frisch gepressten Zitrusfrucht-Säften als störend empfunden. Allerdings wurde ihr der Cocktail von meinem Pa gemixt. Ich bin noch neugierig und möchte kosten. Doch ich glaube an den Genuss. Grapefruitsaft ist hier die dominierende Zutat und wird unterstützt durch süssen Amaretto - für mich passt es",
+            "Timestamp": "am 04.10.2020 um 10:01 Uhr"
+        },
+        {
+            "Cocktail": 217,
+            "User": "snakeeleven",
+            "Review": "Kaffee mit Amaretto und Orangensaft kann ich mir auch gut vorstellen , aber Grapefruit und Zitronensaft würde ich weglassen",
+            "Timestamp": "am 03.02.2019 um 10:51 Uhr"
+        },
+        {
+            "Cocktail": 217,
+            "User": "hexy235",
+            "Review": "Diese Kombination von Kaffee, Amaretto und Grapefruitgeschmack kann ich mir nicht wirklich gut vorstellen.",
+            "Timestamp": "am 20.01.2018 um 20:26 Uhr"
+        },
+        {
+            "Cocktail": 217,
+            "User": "Silviatempelmayr",
+            "Review": "Da bin ich ganz deiner Meinung spicy-orange den bitteren Grapefruitgeschmack möchte ich auch nicht haben.",
+            "Timestamp": "am 17.02.2017 um 11:54 Uhr"
+        },
+        {
+            "Cocktail": 217,
+            "User": "spicy-orange",
+            "Review": "Bin leider auf die Kommentartaste gekommen! Wollte schreiben, dass ich den bitteren Grapefruitsaft weglassen würde.",
+            "Timestamp": "am 06.02.2017 um 20:44 Uhr"
+        },
+        {
+            "Cocktail": 217,
+            "User": "spicy-orange",
+            "Review": "Ich kann mich nur anschließen, der Mandelgeschmack von dem Amaretti in Kmobination mit dem Kaffee klingt wirklich gut, ich würde den Grapefruit",
+            "Timestamp": "am 06.02.2017 um 20:43 Uhr"
+        },
+        {
+            "Cocktail": 217,
+            "User": "Marille",
+            "Review": "Der sieht ja richtig lecker aus und die Kombination von Kaffee, Amaretto und Orangensaft stell ich mir sehr gut vor.",
+            "Timestamp": "am 01.12.2016 um 19:05 Uhr"
+        },
+        {
+            "Cocktail": 219,
+            "User": "martha",
+            "Review": "Schaut sehr einladend aus jedoch muss ich mal googeln was Chartreuse ist, denn unter diesem Namen kenne ich nichts.",
+            "Timestamp": "am 28.09.2022 um 07:52 Uhr"
+        },
+        {
+            "Cocktail": 221,
+            "User": "Raggiodisole",
+            "Review": "Kannte bisher nur den Curacao Blue (bin wohl doch nicht so der Kenner*ggg*), also wieder was dazu gelernt. Der Cocktail gefällt mir sehr gut und ist schon gespeichert.",
+            "Timestamp": "am 11.02.2023 um 09:39 Uhr"
+        },
+        {
+            "Cocktail": 221,
+            "User": "martha",
+            "Review": "Angenehm süß und nachdem uns dieser Cocktail geschmeckt hat werden wir ihn auch unseren Freunden bei nächster Gelegenheit servierten.",
+            "Timestamp": "am 05.01.2023 um 06:13 Uhr"
+        },
+        {
+            "Cocktail": 221,
+            "User": "Maarja",
+            "Review": "Sehr interessanter Cocktail, den werde ich ausprobieren müssen. Mal schauen wo ich diesen orangenen Likör bekomme",
+            "Timestamp": "am 06.05.2022 um 08:06 Uhr"
+        },
+        {
+            "Cocktail": 221,
+            "User": "Silviatempelmayr",
+            "Review": "Der Sweet memories gefällt mir echt gut. Coktails mit Orangengeschmack mögen meine Gäste sehr gerne.",
+            "Timestamp": "am 04.02.2021 um 21:05 Uhr"
+        },
+        {
+            "Cocktail": 221,
+            "User": "Zwiebel",
+            "Review": "Curacao orange - ich wusste gar nicht, dass es das gibt! Sieht jedenfalls sehr lecker aus. Kommt gleich in meine orange Cocktailkarte",
+            "Timestamp": "am 27.08.2018 um 13:27 Uhr"
+        },
+        {
+            "Cocktail": 221,
+            "User": "DIELiz",
+            "Review": "Mmhm, was ist das ein köstlicher Cocktail. Da hat man hinterher wirklich süsse Erinnerungen. Habe auch einmal Eiswürfel aus Orangensaft verwendet",
+            "Timestamp": "am 05.12.2017 um 22:52 Uhr"
+        },
+        {
+            "Cocktail": 222,
+            "User": "Maarja",
+            "Review": "Der ist ja so schön giftgrün. Ich nehme an, im Kiwi-Likör sind jede Menge Farbstoffe. Vielleicht sollte man den selber machen",
+            "Timestamp": "am 06.01.2022 um 20:56 Uhr"
+        },
+        {
+            "Cocktail": 223,
+            "User": "alpenkoch",
+            "Review": "Der Julie Cocktail klingt richtig lecker. Ich mag Bananengeschmack gerne. Habe den Pisang Ambon beim M!rkur entdeckt. Ist ne giftgrüne etwas eckige Flasche",
+            "Timestamp": "am 08.02.2021 um 09:02 Uhr"
+        },
+        {
+            "Cocktail": 223,
+            "User": "snakeeleven",
+            "Review": "Einen\"Pisang Ambon \" kannte ich bis jetzt auch noch nicht. Ich werde einmal suchen wo man diesen Likör kaufen kann.",
+            "Timestamp": "am 28.06.2019 um 10:31 Uhr"
+        },
+        {
+            "Cocktail": 223,
+            "User": "Silviatempelmayr",
+            "Review": "Was ist pisang ambon? Ich muss mir das suchen wo es das zu kaufen gibt. Der Cocktail hört sich sehr lecker an.",
+            "Timestamp": "am 25.03.2017 um 21:02 Uhr"
+        },
+        {
+            "Cocktail": 223,
+            "User": "hexy235",
+            "Review": "Diese Zutaten ergänzen sich perfekt, der Cocktail schmeckt sicher sehr interessant, muss ich probieren",
+            "Timestamp": "am 28.09.2016 um 19:47 Uhr"
+        },
+        {
+            "Cocktail": 224,
+            "User": "martha",
+            "Review": "Vielen Dank für den Tipp mit dem Zerstampfen der Wacholderbeeren. Wenn ich Pink Gin heute beim Einkauf entdecke, wird abends probiert.",
+            "Timestamp": "am 25.05.2021 um 09:04 Uhr"
+        },
+        {
+            "Cocktail": 224,
+            "User": "Katerchen",
+            "Review": "Eine gute Idee, die Wacholderbeeren zu zerstampfen und dann im Shaker kurz schütteln. Aber da kann man jeden Gin nehmen, ob er nun \"pink\" ist oder nicht.",
+            "Timestamp": "am 10.05.2021 um 13:03 Uhr"
+        },
+        {
+            "Cocktail": 224,
+            "User": "Zwiebel",
+            "Review": "Interessant. Bin durch diesen Cocktail gerade erst auf \"Pink Gin\" aufmerksam geworden, da ich das vorher nicht kannte. Kommt demnächst auf die Einkaufsliste.\nIn meiner Lieblingsbar in Barcelona zerstampfen sie die Wacholderbeeren übrigens, bevor sie den (nicht pinken) Gin Tonic darin mixen. - Vielleicht auch hier ein Tipp...",
+            "Timestamp": "am 02.09.2018 um 22:08 Uhr"
+        },
+        {
+            "Cocktail": 227,
+            "User": "Maarja",
+            "Review": "Ich konnte es mir erst nicht so vorstellen aber nachdem das Raffaelo nur ein einziges Pro Cocktail ist, finde ich es gut",
+            "Timestamp": "am 05.03.2022 um 07:56 Uhr"
+        },
+        {
+            "Cocktail": 227,
+            "User": "Silviatempelmayr",
+            "Review": "Ja Kokos und Raffaelo dass passt natürlich gut zusammen. Der Cocktail hat es aber schon in sich, da er so süss ist merkt man gar nicht wie stark er ist.",
+            "Timestamp": "am 13.11.2020 um 20:11 Uhr"
+        },
+        {
+            "Cocktail": 227,
+            "User": "spicy-orange",
+            "Review": "Ich mag Kokos Cocktail sehr gerne! Dieser ist richtig süß mit den Sirup im Rezept! Glaube auch, dass genügend Eis bei diesem Getränk nicht fehlen darf.",
+            "Timestamp": "am 10.05.2018 um 10:54 Uhr"
+        },
+        {
+            "Cocktail": 228,
+            "User": "Maarja",
+            "Review": "Hübscher Smoothie! Und gesund ist er auch noch. Ich hab dreimal das Rezept gelesen, weil ich nicht glauben konnte, dass hier kein Alkohol im Spiel ist :)",
+            "Timestamp": "am 19.08.2022 um 09:31 Uhr"
+        },
+        {
+            "Cocktail": 229,
+            "User": "alpenkoch",
+            "Review": "wie hübsch dieser Cinderella Cocktail aussieht. Der schmeckt bestimmt lecker. Da mache ich noch frische Erdbeeren mit rein",
+            "Timestamp": "am 24.05.2021 um 20:21 Uhr"
+        },
+        {
+            "Cocktail": 231,
+            "User": "snakeeleven",
+            "Review": "Die Idee für diesen Cocktail gefällt mir ausgesprochen gut ,ich kann mir vorstellen ,dass der Valentins-Cocktail nicht nur zum Valentinstag schmeckt.",
+            "Timestamp": "am 31.03.2019 um 16:33 Uhr"
+        },
+        {
+            "Cocktail": 232,
+            "User": "Katerchen",
+            "Review": "Was ist ein „Pa“ Aprikosen, eine Packung, eine Dose? Ich würde komplett frische Früchte verwenden und diese mit der Buttermilch pürieren.",
+            "Timestamp": "am 16.09.2021 um 13:18 Uhr"
+        },
+        {
+            "Cocktail": 235,
+            "User": "DIELiz",
+            "Review": "dieser Erdbeer-Mojito ist ein köstlicher und sehr gut aussehender Cocktail. Kommt auch bei Partygästen sehr gut an",
+            "Timestamp": "am 18.01.2022 um 23:58 Uhr"
+        },
+        {
+            "Cocktail": 235,
+            "User": "Katerchen",
+            "Review": "Ein Erdbeer-Mojito ist ein genialer Cocktail während der Erdbeer-Saison. Ich verwende dazu auch selbst gemachten Erdbeersirup.",
+            "Timestamp": "am 17.12.2021 um 12:25 Uhr"
+        },
+        {
+            "Cocktail": 237,
+            "User": "Paradeis",
+            "Review": "Mit Mangopulpe schmeckt der Daiquiri doch etwas fruchtiger als mit Mangosaft. Mit frischer Mango püriert haben wir diesen Cocktail noch nie probiert sondern immer mit der Dosenpürree.",
+            "Timestamp": "am 24.08.2021 um 11:09 Uhr"
+        },
+        {
+            "Cocktail": 237,
+            "User": "Katerchen",
+            "Review": "Wenn man das Getränk sowieso im Mixer püriert kann man auch gleich reife frische Mango verwenden. Oder wie schon geschrieben, Mangosaft. Der ist aber verdünnt.",
+            "Timestamp": "am 11.07.2021 um 12:13 Uhr"
+        },
+        {
+            "Cocktail": 237,
+            "User": "Heinrich45",
+            "Review": "Ich nehme dazu auch nur normalen Mangosaft aus dem Tetrapack und kein Mangopüree. Schmeckt auch gut und ist leichter zu beschaffen",
+            "Timestamp": "am 21.03.2020 um 13:06 Uhr"
+        },
+        {
+            "Cocktail": 237,
+            "User": "Silviatempelmayr",
+            "Review": "Ich habe normalen mangosaft von pago genommen. Der Cocktail ist sehr angekommen beim letzten mädelsabend.",
+            "Timestamp": "am 10.06.2018 um 17:23 Uhr"
+        },
+        {
+            "Cocktail": 237,
+            "User": "spicy-orange",
+            "Review": "Dieser Cocktail klingt hervorragend und ist ganz nach meinem Geschmack! Wollte allerdings schon fragen, was Mangopulpe ist, aber ihr habt es eh schon super erklärt danke!",
+            "Timestamp": "am 19.02.2017 um 17:40 Uhr"
+        },
+        {
+            "Cocktail": 239,
+            "User": "Katerchen",
+            "Review": "Der Cocktail schaut zwar schön aus, aber ich bin von rohen Eiern nicht unbedingt begeistert. Außer natürlich Eierlikör, aber da ist der Alkoholgehalt relativ hoch.",
+            "Timestamp": "am 29.01.2023 um 22:26 Uhr"
+        },
+        {
+            "Cocktail": 239,
+            "User": "snakeeleven",
+            "Review": "Der Honigflip ist auch für die \"Antialkoholiker\" ,sowie fur die Autofahrer sehr gut ,da er Alkoholfrei ist und auch gut schmeckt.",
+            "Timestamp": "am 23.05.2019 um 10:10 Uhr"
+        },
+        {
+            "Cocktail": 239,
+            "User": "Schabernagi",
+            "Review": "Ein wunderbar süßer Trink, aber ich lasse das Eigelb lieber weg, rohe Eier sind mir einfach suspekt und geschmacklich macht es nicht den riesen Unterschied\nIch könnte mir vorstellen, dass auch ein Schlückchen Rum ganz gut hineinpassen würde",
+            "Timestamp": "am 16.07.2017 um 21:06 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Raggiodisole",
+            "Review": "Einer meiner Lieblingscocktails, macht so richtig Lust auf Urlaub - leider trink ich ihn viel zu selten😏",
+            "Timestamp": "am 05.02.2023 um 16:44 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Maarja",
+            "Review": "Ananas und Kokos ist schon eine ganz tolle Kombination, finde ich. Durch diesen exotischen Drink kommt man gleich in Urlaubsstimmung",
+            "Timestamp": "am 16.07.2022 um 12:09 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Nina788",
+            "Review": "Mit diesem Cocktail die Sonne am Balkon genießen und schon kann man sich ein wenig in die Ferne träumen, einer meiner Favoriten!",
+            "Timestamp": "am 21.02.2022 um 22:49 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Nina788",
+            "Review": "Einwandfreies Rezept! Einer meiner Lieblingcocktails. Sehr leckerer Cocktail, den ich demnächst mal selber machen werde. Danke https://www.gutekueche.at/",
+            "Timestamp": "am 21.02.2022 um 22:48 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Maarja",
+            "Review": "Gehört zu meinen Favoriten unter den Cocktails, schön fruchtig und nicht zu alkohohlhaltig und eine Erinnerung",
+            "Timestamp": "am 26.01.2022 um 09:16 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Maarja",
+            "Review": "Ein toller Cocktail. Der Geschmack von Kokos vermischt mit Ananas ist wirklich immer wieder gut. Ist auch ein relativ leichter Cocktail.",
+            "Timestamp": "am 31.12.2021 um 08:04 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Maarja",
+            "Review": "Oh, Pina Colada - da bekomme ich gleich Urlaubsgefühle mitten im November! Das ist ein Cocktail den ich gerne mag",
+            "Timestamp": "am 17.11.2021 um 18:31 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Pesu07",
+            "Review": "Ab und zu einen Pina Colada genießen, schadet nicht. Wenn er noch mit einer Ananasscheibe und einer Cocktailkirsche garniert wird, hat auch das Auge etwas davon.",
+            "Timestamp": "am 18.06.2021 um 19:53 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Hermine_Rumpfmüller",
+            "Review": "Schmeckt einfach nur lecker. Wir freuen uns schon auf die Terassensaison und wir mit den Nachbarn wieder literweise Pina Colada trinken können",
+            "Timestamp": "am 10.04.2021 um 19:57 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Artelsmair",
+            "Review": "Ein ganz hervorragender Kokoscocktail, der aber durchaus mit einem Schuss Milch aufgefüllt werden kann, dann ist er nicht so süß.",
+            "Timestamp": "am 29.03.2021 um 08:03 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Katerchen",
+            "Review": "Pina Colada ist ein klassischer Cocktail und versetzt einen an heiße Strandbars. Der Urlaub lässt grüßen, werde ich wieder mixen müssen.",
+            "Timestamp": "am 19.03.2021 um 19:36 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Billie-Blue",
+            "Review": "Pina Colada ist der Cocktail, um sich in Urlaubsstimmung zu bringen. Cream of Coconut ist die bessere Alternative, weil der Cocktail dann die Konsistenz bekommt, die er haben sollte.",
+            "Timestamp": "am 20.11.2020 um 19:28 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "jonas-zonas",
+            "Review": "Was hat denn der Zitronensaft darin zu suchen? Der gehört da definitiv nicht rein. Im Zweifelsfalle sorgt der höchstens dafür, daß die Sahne flockt.",
+            "Timestamp": "am 07.11.2020 um 08:04 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "DIELiz",
+            "Review": "der Pina Colada schmeckt mir auch am besten mit Cream of Coconut. Noch köstlicher schmeckt es, wenn wirklich frische Ananas verwendet wird. Garnitur ist bei uns Ananasscheibe, Kokos und die Cocktailkirsche (wenn Gäste kommen)",
+            "Timestamp": "am 25.10.2020 um 23:52 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "hildekochtfuerhorst",
+            "Review": "Dank Ihnen weiß ich jetzt von meiner Allergie Bescheid. Der Arzt sagte die eitrigen Pickel kommen von meiner Ananas-Unverträglichkeit. Scheint genetischen Ursprungs zu sein. Jedem und jeder, sowie auch den diversen, kann ich empfehlen den Ananassaft durch Mangosaft zu ersetzen. Ist zwar nur halb so gut wie das Original, aber seine Allergien kann man sich nicht aussuchen. LG, Hilde",
+            "Timestamp": "am 20.06.2020 um 02:17 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Tammy3108",
+            "Review": "super köstlich. Leider eine richtige Kalorienbombe. Wahnsiiinn. und auch sehr stark. naja. ab und zu geht das schon.",
+            "Timestamp": "am 06.06.2020 um 18:22 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Tammy3108",
+            "Review": "Oh köstlich köstlich. Aber eine ordentliche Karlorienbombe für ein Getränk. und stark auch bestimmt. Danke für das gute Rezept.",
+            "Timestamp": "am 17.05.2020 um 20:54 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Pesu07",
+            "Review": "Diesen Cocktail muss man mit einer Scheibe Ananas und einer Cocktailkirscher garniert servieren - herrlich, wie im Urlaub.",
+            "Timestamp": "am 24.01.2020 um 14:04 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Sarah",
+            "Review": "Im Sommer ist dieser Cocktail perfekt für eine Poolparty, da bekommt man direkt ein Feeling wie im Urlaub.",
+            "Timestamp": "am 27.10.2019 um 18:29 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Heinrich45",
+            "Review": "Schmeckt genial nach Sommer, Sonne, Strand und mehr. Da kommt immer gleich ein Feeling wie im Urlaub auf",
+            "Timestamp": "am 05.10.2019 um 10:57 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Maisi",
+            "Review": "Mit Kokossirup habe ich eine Pina Colada noch nie probiert, aber das Rezept hört sich interessant an und wird sicher bald probiert.",
+            "Timestamp": "am 29.04.2019 um 10:23 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "snakeeleven",
+            "Review": "Ich habe einen Pina Colada versuchsweise ohne den Ananassaft einmal ausprobiert, er schmeckte mir persönlich besser.",
+            "Timestamp": "am 08.04.2019 um 09:51 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Maisi",
+            "Review": "Dieser Cocktail nennt sich ja eigentlich schon Genussmittel!! Mag ihn sehr gerne, verbreitet auch zu Hause Urlaubsstimmung.",
+            "Timestamp": "am 22.03.2019 um 07:29 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Millavanilla",
+            "Review": "Pina Colada ist der Klassiker unter den Cocktails. An einem warem Sommerabend genossen - so kommt man ins schwärmen.",
+            "Timestamp": "am 10.03.2019 um 06:56 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Zwiebel",
+            "Review": "Das ist so ein schönes Foto! Ich kann mir fast nicht vorstellen, dass das privat jemand bei sich zu Hause macht. Was hat es damit auf sich?",
+            "Timestamp": "am 04.03.2019 um 23:58 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "snakeeleven",
+            "Review": "Den Geschmack von Kokosnuss liebe ich ,in Verbindung mit Weissen Rum ist es ein tolles Gechmackserlebniss.",
+            "Timestamp": "am 02.01.2019 um 11:11 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "abirgit",
+            "Review": "Ich liebe Pina Colada.\nDieses Rezept ist etwas anders als meines. Werde ich auf jeden Fall bei der nächsten Party probieren",
+            "Timestamp": "am 25.06.2018 um 20:33 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Melaniep",
+            "Review": "Ich liebe diesen Cocktail und noch besser mein Mann macht gerade einen für mich ;-) Danke für das Rezept",
+            "Timestamp": "am 10.06.2018 um 21:02 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Melaniep",
+            "Review": "Ich habe ihn schon öfter mit Kokossirup gemacht aber ganz ehrlich, das ist nur die halbe Wahrheit. Ohne Coconut Cream (NICHT Kokosmilch, achtung!) ist es nur die halbe Wahrheit.",
+            "Timestamp": "am 06.06.2018 um 23:45 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Melaniep",
+            "Review": "Diesen Cocktail mag ich sehr gerne, war einer meiner ersten und bleibt mein liebling :-) so ist das mal wenn man sich in etwas verliebt hat",
+            "Timestamp": "am 21.05.2018 um 20:39 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Wanesser",
+            "Review": "Bisschen zu süß für meinen Geschmack aber trotzdem gut!",
+            "Timestamp": "am 04.03.2018 um 21:43 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "oster",
+            "Review": "Da kommt wirklich Urlaubsstimmung auf. Ein echter Klassiker, der Lust auf Sonne, Sand und Meer macht! ;-)",
+            "Timestamp": "am 23.08.2017 um 00:57 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Tvoge",
+            "Review": "Einer meiner Lieblingcocktails.\nSehr leckerer Cocktail, den ich demnächst mal selber machen werde.",
+            "Timestamp": "am 13.06.2017 um 05:27 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Schabernagi",
+            "Review": "Ein herrlicher Coktailklassiker der so richtig Sommer und Urlaubsstimmung macht!",
+            "Timestamp": "am 04.06.2017 um 15:19 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "cassandra",
+            "Review": "Ich liebe sie - bei den Kalorien darf man nicht nachrechnen, aber man trinkt ja nicht drei auf einmal...",
+            "Timestamp": "am 09.05.2017 um 17:47 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "martha",
+            "Review": "Kokos und Ananas ist eine gute Kombination. Mit frischer Ananas ist der Zuckergehalt etwas niedriger, schmeckt mir aber auch besser.",
+            "Timestamp": "am 27.03.2017 um 13:03 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Silviatempelmayr",
+            "Review": "Bei Cocktails verwende ich am liebsten frische Früchte. Ananas aus der Dose mag ich nicht, den die schmecken mir zu süss.",
+            "Timestamp": "am 02.02.2017 um 19:34 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Wibi79",
+            "Review": "Das ist einer meiner Lieblingscocktails! So kann man selbst jetzt im Herbst noch in Urlaubserinnerungen schwelgen! ;-)",
+            "Timestamp": "am 02.11.2016 um 12:44 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "erdbeerli_",
+            "Review": "Ein echter Klassiker unter den Cocktails. Ich liebe diesen Cocktail - besonders im Sommer - mit frischen Ananas dazu :)",
+            "Timestamp": "am 13.10.2016 um 11:09 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Dino04",
+            "Review": "Da kommen die Urlaubsgefühle wieder hoch - Urlaub, Erholung pur, Sonne, Meer, Sandstrand, gute Cocktails..... was will man mehr",
+            "Timestamp": "am 09.10.2016 um 21:33 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "hexy235",
+            "Review": "Das ist einer meiner Lieblingscocktails, mit einer frischen Ananas und Obers schmeckt er einfach himmlisch",
+            "Timestamp": "am 23.08.2016 um 23:16 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Marille",
+            "Review": "Einer der besten Cocktails finde ich, jedenfalls wenn man den Geschmack von Kokos und Rum gerne mag!",
+            "Timestamp": "am 23.07.2016 um 19:13 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "nala73",
+            "Review": "Diesen Cocktail auf der Terasse und man fühlt sich wie im Karibik-Urlaub.",
+            "Timestamp": "am 05.07.2016 um 15:13 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "-michi-",
+            "Review": "super Cocktail, an die Kalorien darf man halt nicht denken",
+            "Timestamp": "am 09.05.2016 um 23:35 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Tinetrix10",
+            "Review": "Ist mein Lieblingscocktail da ich den Geschmack von Ananas und Kokos liebe.",
+            "Timestamp": "am 07.05.2016 um 16:37 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "spicy-orange",
+            "Review": "Mit diesem Cocktail die Sonne am Balkon genießen und schon kann man sich ein wenig in die Ferne träumen, einer meiner Favoriten!",
+            "Timestamp": "am 30.04.2016 um 09:44 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "Claudia03",
+            "Review": "ein fruchtiger Cocktail am Strand dann ist der Tag perfekt",
+            "Timestamp": "am 23.04.2016 um 07:17 Uhr"
+        },
+        {
+            "Cocktail": 240,
+            "User": "katharina",
+            "Review": "Der Cocktail macht so richtig Urlaubsstimmung einfach lecker!",
+            "Timestamp": "am 15.06.2015 um 14:52 Uhr"
+        },
+        {
+            "Cocktail": 242,
+            "User": "spicy-orange",
+            "Review": "Das klingt nach einer mega leckeren und erfrischenden Variante eines Caipiroskas. Muss ich im Sommer an einem heißen Tag unbedingt ausprobieren!",
+            "Timestamp": "am 28.04.2016 um 09:25 Uhr"
+        },
+        {
+            "Cocktail": 243,
+            "User": "snakeeleven",
+            "Review": "Ich habe noch von meinen letzten Griechenlandurlaub einen OUZO zu Hause , da muss ich doch glatt diesen Cocktail zubereiten.",
+            "Timestamp": "am 24.10.2019 um 11:13 Uhr"
+        },
+        {
+            "Cocktail": 244,
+            "User": "Katerchen",
+            "Review": "Dieser Christmas Hot Aperol sieht sehr schön aus. Der wird an den Weihnachtsfeiertagen gemacht, wird bestimmt gut beim Besuch ankommen.",
+            "Timestamp": "am 05.12.2022 um 21:42 Uhr"
+        },
+        {
+            "Cocktail": 244,
+            "User": "martha",
+            "Review": "Der schaut optisch ja wunderbar einladend aus und nachdem wir gerne Aperol in Cocktails mögen, werde ich diesen probieren und wenn er uns zusagt, dann ist es heuer unser Festtagscocktail.",
+            "Timestamp": "am 30.11.2022 um 07:36 Uhr"
+        },
+        {
+            "Cocktail": 246,
+            "User": "DIELiz",
+            "Review": "die Cocktailcreation Ritz ist ein Favorit meiner Ma. Für mich ist die Qualität der Orangen dabei wesentlich. Es ist schwer geworden, köstliche und aromareiche Orangen zu finden",
+            "Timestamp": "am 30.12.2021 um 02:52 Uhr"
+        },
+        {
+            "Cocktail": 246,
+            "User": "Katerchen",
+            "Review": "Ein schöner und gut schmeckender Orangencocktail. Und es muss nicht immer Champagner sein, ein guter Sekt tut es auch.",
+            "Timestamp": "am 29.12.2021 um 13:33 Uhr"
+        },
+        {
+            "Cocktail": 246,
+            "User": "alpenkoch",
+            "Review": "Das ist ein Cocktail, der Ritz, nach meinem Geschmack. Mit selbstgepressten Orangensaft und Orangensaft-Eiswürfel macht der auch was her. Ich trickse mit Sekt ;-)",
+            "Timestamp": "am 08.02.2021 um 09:09 Uhr"
+        },
+        {
+            "Cocktail": 246,
+            "User": "snakeeleven",
+            "Review": "Der cocktail enthält nur Geschmackvolle Sachen wie Orangensaft.Cointreau und Cognac,statt Champagner nehme ich Österreichischen Sekt.",
+            "Timestamp": "am 14.04.2019 um 11:30 Uhr"
+        },
+        {
+            "Cocktail": 246,
+            "User": "Millavanilla",
+            "Review": "Das ist ein Cocktail nach meinem Geschmack. Den werde ich sicher ausprobieren und ich bin mir sicher, dass es jeden schmecken wird.",
+            "Timestamp": "am 27.03.2019 um 07:54 Uhr"
+        },
+        {
+            "Cocktail": 247,
+            "User": "Thanya",
+            "Review": "Das Getränk sieht sehr gut aus. Erdbeeren mit Limette ist sowieso super. Wie Cinzano schmeckt, muss ich erst probieren.",
+            "Timestamp": "am 30.06.2021 um 22:29 Uhr"
+        },
+        {
+            "Cocktail": 247,
+            "User": "Katerchen",
+            "Review": "Einfach nur lecker. Da könnte man fast abhängig werden. Dieser Erdbeercocktail steht immer auf dem Plan sobald es heimische Erdbeeren gibt.",
+            "Timestamp": "am 17.04.2021 um 06:51 Uhr"
+        },
+        {
+            "Cocktail": 247,
+            "User": "snakeeleven",
+            "Review": "Das Cocktailrezept Casanova gefällt mir ausgezeichnet, es ist gut dass demnächst die Erbeersaison startet.",
+            "Timestamp": "am 26.03.2019 um 14:05 Uhr"
+        },
+        {
+            "Cocktail": 247,
+            "User": "DIELiz",
+            "Review": "Danke, das ist ein toller Cocktail. Ist bei Männern, wie Frauen gut angekommen. Habe weniger Zucker und Limette verwendet.",
+            "Timestamp": "am 30.07.2017 um 05:50 Uhr"
+        },
+        {
+            "Cocktail": 247,
+            "User": "Silviatempelmayr",
+            "Review": "Alles mit Erdbeeren kommt bei meinen Freunden immer gut an. Ich freue mich schon auf die Erdbeerzeit.",
+            "Timestamp": "am 29.01.2017 um 17:39 Uhr"
+        },
+        {
+            "Cocktail": 248,
+            "User": "Maarja",
+            "Review": "Ein optisch schöner Cocktail. Ich mag solche bitteren Getränke sehr gerne, insbesondere frischen Grapefruitsaft",
+            "Timestamp": "am 28.08.2022 um 09:55 Uhr"
+        },
+        {
+            "Cocktail": 248,
+            "User": "DIELiz",
+            "Review": "ich mag Campari, oder andere Bitter sehr gerne. Die Cocktailzutaten lassen mich im Geiste schon mixen. Derzeit gibt es schon Grapefruit-Aktionen. Da wird frisch gepresst",
+            "Timestamp": "am 03.09.2020 um 22:51 Uhr"
+        },
+        {
+            "Cocktail": 249,
+            "User": "Katerchen",
+            "Review": "Martini rosso mit Wodka und Orangensaft, der Vulcano rosso ist schnell gemacht. Ein gut schmeckender Cocktail auf einer Sommerparty.",
+            "Timestamp": "am 31.12.2022 um 17:13 Uhr"
+        },
+        {
+            "Cocktail": 250,
+            "User": "Tails24",
+            "Review": "Das ist eine wirkliche gute Idee, kommt gleich in meine Halloween Sammlung. Ich liebe Halloween sehr und freue mich schon auf nächste jahr",
+            "Timestamp": "am 02.11.2022 um 20:00 Uhr"
+        },
+        {
+            "Cocktail": 250,
+            "User": "Katerchen",
+            "Review": "Man kann auch Zuckerschrift auf ein Backpapier in Form eines Spinnennetzes spritzen und fest werden lassen. Dazu eine Schokobohne, die acht Füße bekommt. Dann auf das Glas geben",
+            "Timestamp": "am 01.11.2022 um 17:44 Uhr"
+        },
+        {
+            "Cocktail": 251,
+            "User": "Silviatempelmayr",
+            "Review": "Der Ananassaft passt wunderbar zu dem Kirschsaft. Und der Zitronensaft macht das ganze etwas frischer.",
+            "Timestamp": "am 27.05.2020 um 22:23 Uhr"
+        },
+        {
+            "Cocktail": 252,
+            "User": "alpenkoch",
+            "Review": "Als Aperitiv mit Blubberbläschen serviert oder auf einer kommenden Gartenparty ist der Campari Fizz bei uns willkommen.",
+            "Timestamp": "am 22.06.2021 um 08:07 Uhr"
+        },
+        {
+            "Cocktail": 252,
+            "User": "DIELiz",
+            "Review": "ein Campari Fizz wurde mir auch schon mit frischem Blutorangensaft serviert. Ich mag beide Varianten zum trinken gerne ;-) Ich mag den bitter-orangigen Geschmack halt gerne",
+            "Timestamp": "am 22.01.2021 um 04:43 Uhr"
+        },
+        {
+            "Cocktail": 252,
+            "User": "Pesu07",
+            "Review": "Dieser Cocktail ist für meiner einer der besten. Als Aperitiv serviert oder an einem gemütlichen Abend ist dieser immer ein Genuß. Cocktails mit Campari trinke ich am liebsten.",
+            "Timestamp": "am 10.04.2020 um 20:06 Uhr"
+        },
+        {
+            "Cocktail": 252,
+            "User": "snakeeleven",
+            "Review": "Obwohl ich meinen Campari Normalerweise am liebsten einfach nur mit Sodawasser aufgespritzt trinke hat mir dieser auch sehr gut geschmeckt.",
+            "Timestamp": "am 30.01.2019 um 11:33 Uhr"
+        },
+        {
+            "Cocktail": 254,
+            "User": "Heinrich45",
+            "Review": "Der Frosch ist ein absolutes Kultgetränk aus den 80er Jahren. Das hat damals auf keiner S-Box Party fehlen dürfen.",
+            "Timestamp": "am 02.02.2020 um 13:18 Uhr"
+        },
+        {
+            "Cocktail": 255,
+            "User": "Maarja",
+            "Review": "Über den Namen bin ich gleich gestolpert. Ich mag Orange und ich mag bitter! Und mir gefällt die Farbe von Deinem Cocktail!",
+            "Timestamp": "am 26.08.2022 um 19:23 Uhr"
+        },
+        {
+            "Cocktail": 255,
+            "User": "Katerchen",
+            "Review": "Oh je, dieser Cocktail erinnert mich an die Zeit als ich in einer Studentenkneipe hinter einem „Barmädchen“ her war und wir sämtliche Campari-Mischungen ausprobiert haben. Diese Cocktails schmecken gut, den Maracujasaft kann man gegen andere Säfte austauschen.",
+            "Timestamp": "am 01.04.2021 um 20:32 Uhr"
+        },
+        {
+            "Cocktail": 255,
+            "User": "DIELiz",
+            "Review": "danke spicy-orange :-) zu deinem Cocktail gefallen mir die Zuaten und die Farbe vom Cocktail. Ideal für meinen Mädelsabend.",
+            "Timestamp": "am 12.04.2019 um 00:55 Uhr"
+        },
+        {
+            "Cocktail": 256,
+            "User": "Maarja",
+            "Review": "Was hat dieses Cocktail-Rezept mit Kürbissen zu tun? Kann es mir bitte jemand erklären? Das wäre echt nett!",
+            "Timestamp": "am 17.01.2023 um 22:04 Uhr"
+        },
+        {
+            "Cocktail": 256,
+            "User": "Katerchen",
+            "Review": "Schwarzen search Wodka habe ich noch nie verwendet. Es ist aromatisierter search Wodka, ähnlich einem Likör. Aus was die schwarze Farbe besteht will ich lieber nicht wissen.",
+            "Timestamp": "am 23.10.2022 um 22:22 Uhr"
+        },
+        {
+            "Cocktail": 256,
+            "User": "xblue",
+            "Review": "es wird kälter, das bedeutet es ist Kürbis-Saison. ... ein Pumpkin Cocktail ist der perfekte Drink für den Herbst.",
+            "Timestamp": "am 01.02.2022 um 21:16 Uhr"
+        },
+        {
+            "Cocktail": 256,
+            "User": "DIELiz",
+            "Review": "Dieses Rotten Pumpkin Cocktail Rezept macht Lust selbst zu mixen,. Ich werde mit der Orangenspalte, Zitronenmelisse und einer Cocktailkirsche garnieren",
+            "Timestamp": "am 04.01.2021 um 23:59 Uhr"
+        },
+        {
+            "Cocktail": 257,
+            "User": "DIELiz",
+            "Review": "dieser Rosaroter Panther Cocktail schmeckt nicht nur sehr gut, er schaut auch sehr verführerisch aus",
+            "Timestamp": "am 17.01.2022 um 23:55 Uhr"
+        },
+        {
+            "Cocktail": 257,
+            "User": "Katerchen",
+            "Review": "Fehlt da nicht der search Wodka? Ich kenne den Cocktail als \"Pink Panter Cocktail\" und da muss Wodka hinein. So ist es eher ein Kinder-Cocktail.",
+            "Timestamp": "am 23.03.2021 um 20:34 Uhr"
+        },
+        {
+            "Cocktail": 257,
+            "User": "alpenkoch",
+            "Review": "das Bild beim Rosaroter Panther Cocktail ist schon super. Möchte ich sehr gerne nachmachen. So bunte Cocktails mag ich",
+            "Timestamp": "am 07.02.2021 um 10:19 Uhr"
+        },
+        {
+            "Cocktail": 257,
+            "User": "Silviatempelmayr",
+            "Review": "Die Farbe sieht gar nicht nach Orange aus. Wird das durch das Bitterlemon so schön rosa? Guter Geschmack.",
+            "Timestamp": "am 03.09.2017 um 14:20 Uhr"
+        },
+        {
+            "Cocktail": 258,
+            "User": "snakeeleven",
+            "Review": "Der Martini Royal ist ein schnell gemixter und leichter Cocktail, der immer wieder gerne getrunken wird.",
+            "Timestamp": "am 24.06.2019 um 10:59 Uhr"
+        },
+        {
+            "Cocktail": 259,
+            "User": "Silviatempelmayr",
+            "Review": "Ich mag gerne Cocktails mit schlagobers, da sie sehr cremig sind. Leider haben sie aber auch viele Kalorien.",
+            "Timestamp": "am 30.11.2017 um 20:31 Uhr"
+        },
+        {
+            "Cocktail": 259,
+            "User": "spicy-orange",
+            "Review": "Ich stelle mir die Kombination aus dem italienischen Kräuterlikör und Bananen sehr spannend vor. Mal ganz ein anderer Geschmack als die üblichen Cocktails.",
+            "Timestamp": "am 05.03.2017 um 11:48 Uhr"
+        },
+        {
+            "Cocktail": 260,
+            "User": "Silviatempelmayr",
+            "Review": "Ich mag den fruchtigen Geschmack. Besonders gefällt mir hier der Zitronensaft, dawird der Cocktail schön säuerlich.",
+            "Timestamp": "am 23.12.2020 um 17:29 Uhr"
+        },
+        {
+            "Cocktail": 260,
+            "User": "martha",
+            "Review": "Dieser Cocktail ist heuer unser Favorit bei den Sommerdrinks. Auch im Bekanntenkreis kommt er gut an, weshalb ich ihn nun schon des Öfteren gemacht habe. Tolles Rezept.",
+            "Timestamp": "am 06.08.2019 um 11:02 Uhr"
+        },
+        {
+            "Cocktail": 260,
+            "User": "snakeeleven",
+            "Review": "Jetzt in der Sommerhitze sind solche fruchtige cocktails genau das Richtige um am Abend auszuspannen.",
+            "Timestamp": "am 18.07.2019 um 10:14 Uhr"
+        },
+        {
+            "Cocktail": 260,
+            "User": "Millavanilla",
+            "Review": "Sehr fruchtige Cocktail, der ganu in die Sommerzeit passt. Einfach nur mehr auf der Terrasse genießen.",
+            "Timestamp": "am 04.04.2019 um 12:01 Uhr"
+        },
+        {
+            "Cocktail": 260,
+            "User": "martha",
+            "Review": "Hört sich nach einem tollen Sommercocktail an und nachdem die Zutaten ganz nach meinem Geschmack sind, werde ich diesen mal probieren.",
+            "Timestamp": "am 02.04.2019 um 09:08 Uhr"
+        },
+        {
+            "Cocktail": 261,
+            "User": "Katerchen",
+            "Review": "Diesen Erdbeer-Caipiroska kann man noch sehr gut mit frischen Erdbeeren garnieren. Ein hübscher Cocktail in der Erdbeersaison.",
+            "Timestamp": "am 29.07.2021 um 20:47 Uhr"
+        },
+        {
+            "Cocktail": 262,
+            "User": "Maarja",
+            "Review": "Gute Kombination! Zitrone und Holunder passen für mich perfekt zusammen. Ein Cocktail, an den ich mich ganz gut gewöhnen könnte",
+            "Timestamp": "am 20.07.2022 um 07:16 Uhr"
+        },
+        {
+            "Cocktail": 267,
+            "User": "Katerchen",
+            "Review": "Wird der Martini nun gerührt oder geschüttelt. Ich kann es mir nie merken. Man will ja stilecht sein. Sollte wohl beim nächsten Bond-Film aufpassen. :-)",
+            "Timestamp": "am 16.11.2021 um 19:58 Uhr"
+        },
+        {
+            "Cocktail": 269,
+            "User": "snakeeleven",
+            "Review": "Ich gebe Weinbrand eigentlich nur in einen schwarzen Kaffee und ohne Zucker, mit Schokomilch und Zucker ist es mir zu süss.",
+            "Timestamp": "am 30.07.2019 um 08:45 Uhr"
+        },
+        {
+            "Cocktail": 270,
+            "User": "Katerchen",
+            "Review": "Ein schneller Drink. Man kann ihn in eisgekühlten Gläsern servieren. Nicht den billigsten Portwein dafür verwenden.",
+            "Timestamp": "am 14.07.2021 um 22:42 Uhr"
+        },
+        {
+            "Cocktail": 271,
+            "User": "Katerchen",
+            "Review": "Auf den Asbach Uralt verzichte ich und nehme stattdessen einen Cognac oder gleich einen Whisky. Einen Asbach Uralt habe ich nicht zuhause.",
+            "Timestamp": "am 05.07.2021 um 21:53 Uhr"
+        },
+        {
+            "Cocktail": 271,
+            "User": "xblue",
+            "Review": "Der Trouble Shooter hört sich nacheinem günstigen Partygetränk an. Aber ist das am FRoto wirklich mit Fanta Limette zubereitet? Wirkt eher wie Orange. Ich kann es demnächst sagen, nach der Party im Sommer ;-)",
+            "Timestamp": "am 10.03.2021 um 19:54 Uhr"
+        },
+        {
+            "Cocktail": 271,
+            "User": "snakeeleven",
+            "Review": "Meiner Frau hat der Cocktail ausgezeichnet geschmeckt ,ich trinke den Asbach Uralt lieber ohne Zusätze.",
+            "Timestamp": "am 29.11.2019 um 13:57 Uhr"
+        },
+        {
+            "Cocktail": 271,
+            "User": "MaryLou",
+            "Review": "Fanta kann man wirklich mit sehr vielen Spirituosen vermischen, diese Version mit Asbach Uralt ist wirklich ein Genuss und kann auch ohne Zucker gut getrunken werden.",
+            "Timestamp": "am 29.08.2018 um 19:06 Uhr"
+        },
+        {
+            "Cocktail": 271,
+            "User": "Silviatempelmayr",
+            "Review": "Eigentlich mag ich Weinbrand überhauptnicht doch mit dem Limettengeschmack dazu schmeckt das ganz passabel.",
+            "Timestamp": "am 22.01.2018 um 21:21 Uhr"
+        },
+        {
+            "Cocktail": 272,
+            "User": "DIELiz",
+            "Review": "der Apricot Sunset ist gebucht. Apricot Brandy, Sekt und Rum sind im Haus und genau ZWEI Marillen sind auch noch da ;-) hoffentlich macht mich GK nicht zum Alki",
+            "Timestamp": "am 29.08.2020 um 23:54 Uhr"
+        },
+        {
+            "Cocktail": 272,
+            "User": "Tammy3108",
+            "Review": "hui ziemlich starkes Getränk. Werde ich probieren. Mit den Marillen vom Garten darin bestimmt gut. Danke Sollen die eher schon etwas reif sein nehme ich an?",
+            "Timestamp": "am 22.06.2020 um 23:02 Uhr"
+        },
+        {
+            "Cocktail": 272,
+            "User": "hexy235",
+            "Review": "Der Marillen-Cocktail schmeckt Marillen-Liebhabern sicher sehr gut. Ich werde ihn sicher probieren wenn die frischen Marillen am Baum sind",
+            "Timestamp": "am 09.05.2019 um 22:12 Uhr"
+        },
+        {
+            "Cocktail": 272,
+            "User": "snakeeleven",
+            "Review": "Wenn ich das nächstemal in die Wachau einen Ausflug mache ,muss ich mir einen Marillenbrand kaufen um diesen Cocktail zu mixen.",
+            "Timestamp": "am 03.04.2019 um 11:08 Uhr"
+        },
+        {
+            "Cocktail": 272,
+            "User": "Silviatempelmayr",
+            "Review": "Der ist aber schon sehr deftig. Sieht aber mit der Aprikose drinnen echt sehr lecker aus finde ich.",
+            "Timestamp": "am 19.05.2017 um 19:32 Uhr"
+        },
+        {
+            "Cocktail": 273,
+            "User": "Maarja",
+            "Review": "Das ist ein interessantes Cocktail-Rezept. Spannend finde ich, dass zunächst so eine Art Essenz aus dem Kren bereitet wird",
+            "Timestamp": "am 02.06.2022 um 18:21 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "julia_resch",
+            "Review": "Ich bin nicht der größte Fan von Campari aber dieser Cocktail ist echt lecker. Ist einmal eine Abwechslung zu den fruchtig süßen Cocktails.",
+            "Timestamp": "am 03.08.2022 um 21:16 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "Katerchen",
+            "Review": "Ein Klassiker, den kenne ich seit fast 50 Jahren. Den gab und gibt es bei fas jeden Empfang und Firmenfeiern. Ich habe einen Campari immer auf Vorrat.",
+            "Timestamp": "am 01.08.2022 um 15:12 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "Artelsmair",
+            "Review": "Ein durchaus sehr geschmackvoller Cocktail den man vor allem am Abend gern auf der Terrasse genießen kann.",
+            "Timestamp": "am 29.03.2021 um 08:01 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "Katerchen",
+            "Review": "Jetzt ist ja wieder die Orangen-Zeit. Mit frisch gepressten Orangensaft schmeckt er gleich doppelt so gut. Das bringt mich auf die Idee, was ich gleich trinken könnte.",
+            "Timestamp": "am 05.02.2021 um 21:09 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "dada11",
+            "Review": "So schnell geht gute Laune. Erfrischend und einfach Zubereitet. Ein richtiger Sundowner für mich und meine Freunde.",
+            "Timestamp": "am 24.04.2020 um 07:03 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "Pesu07",
+            "Review": "Ein super Klassiker, den ich in meiner Jugend schon gerne getrunken habe. Deshalb wird er von uns auch gerne als Aperitif gereicht.",
+            "Timestamp": "am 14.03.2020 um 18:23 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "hexy235",
+            "Review": "Das ist ein richtig guter Klassiker, der schmeckt immer gut, egal ob Sommer oder Winter, ob Party oder als Aperitif",
+            "Timestamp": "am 23.05.2019 um 21:03 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "Maisi",
+            "Review": "Ach, denn habe ich schon so lange nicht mehr getrunken, wird heuer im Sommer wieder nachgeholt schmeckt sehr gut.",
+            "Timestamp": "am 20.04.2019 um 07:35 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "Maisi",
+            "Review": "Ein sehr leckerer Cocktail und durch die Orange auch sehr fruchtig, gibt es immer wieder im Sommer in Urlaub.",
+            "Timestamp": "am 13.04.2019 um 07:33 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "Millavanilla",
+            "Review": "Einfach ein Klassiker der immer wieder schmeckt. Durch den bitteren Geschmack ist dieser Cocktail sehr erfrischend.",
+            "Timestamp": "am 23.03.2019 um 19:53 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "martha",
+            "Review": "War in den 90er Jahren unser Lieblingscocktail, jedoch tranken wir diesen noch zusätzlich mit etwas Soda verdünnt.",
+            "Timestamp": "am 18.02.2019 um 13:01 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "snakeeleven",
+            "Review": "Meine Gäste trinken einen Campari mit Orangensaft sehr gerne ,ich bevorzuge den Campari nur mit Soda aufgespritzt",
+            "Timestamp": "am 29.01.2019 um 11:15 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "Melaniep",
+            "Review": "Ja Campari Orange ist wirklich ein super Cocktail aber ich muss gestehen, inzwischen hab ich mich dem Aperol verschrieben :-)",
+            "Timestamp": "am 14.06.2018 um 22:32 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "hexy235",
+            "Review": "Ein echter Klassiker unter den Cocktails. Im Sommer sehr erfrischend durch den leicht bitteren Geschmack",
+            "Timestamp": "am 11.05.2018 um 20:42 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "Wanesser",
+            "Review": "Campari Orange ist mir zu bitter. Der Geschmack von Campari ist einfach nicht meins.",
+            "Timestamp": "am 07.04.2018 um 21:18 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "Wanesser",
+            "Review": "Ich mag den bitteren Geschmack des Campari nixht so sehr, verwende da lieber Aperol stattdessen.",
+            "Timestamp": "am 17.03.2018 um 21:50 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "MaryLou",
+            "Review": "Schmeckt immer wieder gut. Nicht nur im Sommer. Ohne Eiswürfel ist dieser Klassiker auch im Winter nicht zu verachten.",
+            "Timestamp": "am 01.11.2017 um 15:48 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "johuna",
+            "Review": "Der Campari Orange ist seit Jahren ein Cocktail, der sehr beliebt ist: sozusagen ein Oldtimer. Er eignet sich für jede Gelegenheit, ob Party oder Aperitif.",
+            "Timestamp": "am 22.07.2017 um 11:03 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "Shitake26",
+            "Review": "wer kennt ihn nicht, diesen klassischen Aperitif ? Trinke ihn auch gern mit Soda und einer Zitronenscheibe",
+            "Timestamp": "am 03.05.2017 um 08:47 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "Silviatempelmayr",
+            "Review": "Stimmt Peter man kann ruhig einen Schuss soda reingeben. Schmeckt sehr erfrischend und ist nicht so süss.",
+            "Timestamp": "am 07.04.2017 um 21:15 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "oster",
+            "Review": "Das klassische Rezept. Ein zusätzlicher Schuß Soda macht den Drink noch viel spritziger und erfrischender.",
+            "Timestamp": "am 22.01.2017 um 01:13 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "Silviatempelmayr",
+            "Review": "Ein ganz klassischer Cocktail, der wirklich sehr schnell zubereitet wird. Hört sich sehr lecker an für Silvester.",
+            "Timestamp": "am 29.12.2016 um 05:59 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "Haselnussgitti",
+            "Review": "Ein echter Klassiker, schmeckt immer wieder gut!",
+            "Timestamp": "am 19.09.2016 um 01:38 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "Dosch",
+            "Review": "DER Klassiker schlechthin unter den Aperitifs und einer der schmackhaftesten noch dazu! Echt lecker",
+            "Timestamp": "am 22.08.2016 um 21:13 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "Claudia03",
+            "Review": "sehr lecker - als Trink bevor das Essen kommt",
+            "Timestamp": "am 06.05.2016 um 18:24 Uhr"
+        },
+        {
+            "Cocktail": 274,
+            "User": "schurli",
+            "Review": "Ein alter Klassiker,der überall ankommt und auch gut schmeckt.",
+            "Timestamp": "am 04.05.2016 um 13:57 Uhr"
+        },
+        {
+            "Cocktail": 275,
+            "User": "Katerchen",
+            "Review": "Den mexikanischen „Sonnenuntergang“ werde ich nachmixen. Ich probiere, den Mandelsirup durch Amaretto zu ersetzen, schmeckt auch nach Mandel.",
+            "Timestamp": "am 31.01.2023 um 13:20 Uhr"
+        },
+        {
+            "Cocktail": 275,
+            "User": "Tammy3108",
+            "Review": "Oh wow sieht toll aus. Mit Mandelsirup bestimmt voll köstlich. Muss ich ausprobieren. Klingt super köstlich.",
+            "Timestamp": "am 22.05.2020 um 22:27 Uhr"
+        },
+        {
+            "Cocktail": 275,
+            "User": "martha",
+            "Review": "Ein gutes Sommergetränk, welches wir heuer öfters gemacht haben. Jedoch die Scheibe Orange für die Deko habe ich durch eine Zitronenscheibe ersetzt.",
+            "Timestamp": "am 24.10.2019 um 12:56 Uhr"
+        },
+        {
+            "Cocktail": 275,
+            "User": "snakeeleven",
+            "Review": "Ich werde diesen \"Mexican Sunset\" Cocktail ausprobieren ich hoffe der Cointreau verträgt sich mit Mandelsirup .",
+            "Timestamp": "am 28.06.2019 um 10:33 Uhr"
+        },
+        {
+            "Cocktail": 276,
+            "User": "Thanya",
+            "Review": "Wo bekommt man denn Orangenblütenwasser her? Das hört sich sehr gut an :-) Auch wenn ich nicht weiß, wie Orangenblüten schmecken :-D",
+            "Timestamp": "am 14.06.2021 um 18:39 Uhr"
+        },
+        {
+            "Cocktail": 277,
+            "User": "Katerchen",
+            "Review": "Einen Weinbergpfirsichsaft habe ich noch nicht entdeckt. Werde zum gewöhnlichen Pfirsichsaft greifen – und dann ist es ein Bellini",
+            "Timestamp": "am 18.10.2021 um 22:48 Uhr"
+        },
+        {
+            "Cocktail": 277,
+            "User": "DIELiz",
+            "Review": "der Weingartenpfirsich-Drink war köstlich. Garniert habe ich mit einem Pfirsichblatt und einer kleinen Weingartenpfirsich-Spalte",
+            "Timestamp": "am 22.09.2021 um 23:58 Uhr"
+        },
+        {
+            "Cocktail": 277,
+            "User": "snakeeleven",
+            "Review": "Immer dieser gleiche Cocktail -\"SEKT ORANGE \" , da kommt dieses Rezept als Alternative gerade recht.",
+            "Timestamp": "am 11.06.2019 um 12:22 Uhr"
+        },
+        {
+            "Cocktail": 277,
+            "User": "Wanesser",
+            "Review": "Gute Idee statt Orangensaft mal anderen Saft zum sekt zu mischen.",
+            "Timestamp": "am 23.03.2018 um 19:38 Uhr"
+        },
+        {
+            "Cocktail": 278,
+            "User": "snakeeleven",
+            "Review": "Salatgurkenscheiben mit Orangenlikör ist etwas ganz neues für mich, ich bin schon gespannt auf das Geschmackserlebnis.",
+            "Timestamp": "am 08.09.2019 um 11:45 Uhr"
+        },
+        {
+            "Cocktail": 279,
+            "User": "snakeeleven",
+            "Review": "Den Orangenlikör \"Blue Curacao\" trinke ich sehr gerne, mit Tequila gemischt habe ich ihn noch nicht getrunken, wird aber probiert.",
+            "Timestamp": "am 29.03.2019 um 09:13 Uhr"
+        },
+        {
+            "Cocktail": 279,
+            "User": "Zwiebel",
+            "Review": "Dieser Cocktail wird heute Abend probiert. Sieht gefährlich aus ;-)",
+            "Timestamp": "am 26.08.2018 um 11:57 Uhr"
+        },
+        {
+            "Cocktail": 281,
+            "User": "Maarja",
+            "Review": "Das ist ein interessanter Cocktail. Ich mag eigentlich alles mit Ingwer, so werde ich mir diesen Sommerdrink merken",
+            "Timestamp": "am 23.11.2022 um 21:22 Uhr"
+        },
+        {
+            "Cocktail": 281,
+            "User": "elisaKOCHT",
+            "Review": "Dankde, ein coller Drink der Sommercocktail Franz . Hab schon ,mal nach diesem Holunder-Tonic gesucht. Durch Schlumberger und zum Glück auch noch online erhältlich",
+            "Timestamp": "am 13.04.2018 um 03:47 Uhr"
+        },
+        {
+            "Cocktail": 282,
+            "User": "alpenkoch",
+            "Review": "auf dem Bild sieht der leckere Ananas Fizz sehr klar aus. Ich werde nen naturreineren Ananassaft nehmen der schmeckt bestimmt besser. Von frisch entsaftet träume ich bis zur nächsten GK-Treueprämie ;-)",
+            "Timestamp": "am 02.02.2021 um 10:53 Uhr"
+        },
+        {
+            "Cocktail": 283,
+            "User": "Paradeis",
+            "Review": "Sekt mit Eierlikör werden wir dieses Wochenende mal probieren, denn bisher haben wir diese beiden Alkoholika nicht kombiniert.",
+            "Timestamp": "am 02.11.2021 um 10:32 Uhr"
+        },
+        {
+            "Cocktail": 283,
+            "User": "alpenkoch",
+            "Review": "na cool, das Eierlikör - Sekt - Flip Rezept ist was für meine Mutti. Eierlikör wollte ich eh selber machen und kann dann gleich einen Ostersonntag-Cocktail machen",
+            "Timestamp": "am 26.03.2021 um 08:13 Uhr"
+        },
+        {
+            "Cocktail": 283,
+            "User": "hexy235",
+            "Review": "Dieses Rezept gefällt mir sehr gut, ich trinke gerne Sekt und auch gerne Eierlikör, also wird er mir sicher schmecken",
+            "Timestamp": "am 30.05.2019 um 19:13 Uhr"
+        },
+        {
+            "Cocktail": 284,
+            "User": "Katerchen",
+            "Review": "Den Caipi mit Wodka zubereiten ist auch eine gute Lösung. Nicht immer hat man den zugehörigen Zuckerrohrschnaps bei der Hand.",
+            "Timestamp": "am 27.03.2021 um 12:36 Uhr"
+        },
+        {
+            "Cocktail": 284,
+            "User": "Heinrich45",
+            "Review": "Schmeckt sehr erfrischend. Wodka passt halt immer gut. Dazu gemütlich ein paar Pistazien knabbern und der Tag ist erfolgreich",
+            "Timestamp": "am 22.12.2019 um 14:27 Uhr"
+        },
+        {
+            "Cocktail": 286,
+            "User": "Katerchen",
+            "Review": "Mein Neujahrsgetränk, der tut richtig gut und stellt einen wieder her. Den Glasrand tauche ich in Zitronensaft und anschließend in grob und frisch gemahlenen Pfeffer.",
+            "Timestamp": "am 01.01.2023 um 11:07 Uhr"
+        },
+        {
+            "Cocktail": 286,
+            "User": "Katerchen",
+            "Review": "Ein Bloody Mary wird von mir als Medizin verwendet. Nach einer anstrengenden Nacht wirkt er Wunder. Scharf muss er sein und das säuerliche von den Tomaten macht wieder fit. 😵‍💫",
+            "Timestamp": "am 16.10.2022 um 15:33 Uhr"
+        },
+        {
+            "Cocktail": 286,
+            "User": "Hermine_Rumpfmüller",
+            "Review": "den Geschmack muss man mögen und bei den Zutaten darf man nicht sparen. Man glaubt gar nicht wie sehr hier die Qualität des Tomatensaftes entscheidend ist..",
+            "Timestamp": "am 28.07.2021 um 16:47 Uhr"
+        },
+        {
+            "Cocktail": 286,
+            "User": "xblue",
+            "Review": "Keine Bloody Mary ist wie die andere: leicht gekühlt, wenig Alkohol und mit Limettensaft zubereitet ist das mein Cheer up Drink. Oft als letzter Drink am Faschingsdienstag",
+            "Timestamp": "am 16.02.2021 um 19:58 Uhr"
+        },
+        {
+            "Cocktail": 286,
+            "User": "Pesu07",
+            "Review": "Ich finde, das ist ein sehr gutes \"Kater\"-Frühstück. Bloody Mary schmeckt gar nicht so übel - ein Klassiker.",
+            "Timestamp": "am 30.01.2020 um 05:48 Uhr"
+        },
+        {
+            "Cocktail": 286,
+            "User": "Millavanilla",
+            "Review": "Bloody Mary erinnert mich immer an Urlaub und an Flugzeug. Ich bin aber kein großer Freund dieses Cocktails.",
+            "Timestamp": "am 30.03.2019 um 08:22 Uhr"
+        },
+        {
+            "Cocktail": 286,
+            "User": "Zwiebel",
+            "Review": "Ein wunderschöner und leckerer Cocktail! Es ist mein Liebelingsdrink. Ich könnte jeden Tag Bloody Mary trinken. Ein Schuss Limette statt Zitrone schmeckt auch gut,",
+            "Timestamp": "am 02.03.2019 um 20:58 Uhr"
+        },
+        {
+            "Cocktail": 286,
+            "User": "snakeeleven",
+            "Review": "Auf langen Flügen trinke ich sehr gerne eine Bloody Mary , den Geschmack von Wodka und Tomatensaft liebe ich.",
+            "Timestamp": "am 27.02.2019 um 08:13 Uhr"
+        },
+        {
+            "Cocktail": 286,
+            "User": "MaryLou",
+            "Review": "Ich gestehe ich habe diesen Cocktail noch nie getrunken!! Aber ich finde es wird höchste Zeit, vorallem weil ich Tomatensaft sowieso liebe, da kann ein bisschen Tabasco und Wodka bestimmt nichts daran ändern.",
+            "Timestamp": "am 12.07.2018 um 20:08 Uhr"
+        },
+        {
+            "Cocktail": 286,
+            "User": "Melaniep",
+            "Review": "Ein echter Klassiker, ich liebe diesen Cocktail. Wichtig ist nur, dass man guten Tomatensaft verwendet der auch wirklich nach Tomate schmeckt. Wem der rote Tabasco zu scharf ist kann auch den grünen verwenden, der ist milder.",
+            "Timestamp": "am 06.06.2018 um 23:43 Uhr"
+        },
+        {
+            "Cocktail": 286,
+            "User": "Schweinsbraten",
+            "Review": "EIn bisschen ein gewöhnungsbedürftiger Cocktail. Wenn man ein bisschen auf herbe Aromen steht dann wird er schmecken...",
+            "Timestamp": "am 26.03.2018 um 10:26 Uhr"
+        },
+        {
+            "Cocktail": 286,
+            "User": "Wanesser",
+            "Review": "Bloody Mary ohne Tabasco ist nicht zu scharf und ein gutes Kater Rezept!",
+            "Timestamp": "am 09.03.2018 um 18:50 Uhr"
+        },
+        {
+            "Cocktail": 286,
+            "User": "Schabernagi",
+            "Review": "Ich finde der Cocktail riecht richtig gut, aber trinken kann ich ihn nicht, nach ein zwei Schluck ist's vorbei und ich krieg nichts mehr runter",
+            "Timestamp": "am 04.06.2017 um 15:15 Uhr"
+        },
+        {
+            "Cocktail": 286,
+            "User": "Shitake26",
+            "Review": "das ultimative \"Hang-over\" bzw. \"Kater\" Rezept - da ich früher sehr viel durch die Welt geflogen bin, ließ ich während des Fluges einfach den Wodka weg, da der Tomatensaft bei niedrigem Druck in der Kabine noch besser schmeckt und auch noch gesund sowie kalorienarm ist",
+            "Timestamp": "am 03.05.2017 um 08:43 Uhr"
+        },
+        {
+            "Cocktail": 286,
+            "User": "Silviatempelmayr",
+            "Review": "Und das soll scheinbar so toll schmecken. Das ist nichts für mich. Viel zu scharf, das vertrage ich nicht.",
+            "Timestamp": "am 17.11.2016 um 15:45 Uhr"
+        },
+        {
+            "Cocktail": 287,
+            "User": "Silviatempelmayr",
+            "Review": "Ja das klingt doch sehr erfrischend. Den werde ich mir für den Sommer vormerken und ausprobieren. Tolles Rezept.",
+            "Timestamp": "am 22.12.2016 um 07:03 Uhr"
+        },
+        {
+            "Cocktail": 287,
+            "User": "spicy-orange",
+            "Review": "Oh, der Sommerdrink klingt aber hervorragend erfrischend, statt Lycheesaft könntest du auch Lycheesekt nehmen, schmeckt sicher auch prima.",
+            "Timestamp": "am 04.09.2016 um 11:23 Uhr"
+        },
+        {
+            "Cocktail": 288,
+            "User": "MaryLou",
+            "Review": "Der Caribbean schmeckt nicht nur an heißen Sommertagen mit Eiswürfel, sondern auch an einem kalten Wintertag. Wenn ich mich belohnen will trinke ich ihn auch ohne Eis.",
+            "Timestamp": "am 11.12.2020 um 20:07 Uhr"
+        },
+        {
+            "Cocktail": 290,
+            "User": "snakeeleven",
+            "Review": "Dieser fruchtig-frische\" Damencocktail\" wird bei unseren Partys besonders gerne von den Damen gerne getrunken.",
+            "Timestamp": "am 25.06.2019 um 10:05 Uhr"
+        },
+        {
+            "Cocktail": 290,
+            "User": "-michi-",
+            "Review": "Kling nach einem sehr starken Cocktail, allzu viele kann man da wohl nicht trinken :). .",
+            "Timestamp": "am 30.01.2019 um 21:57 Uhr"
+        },
+        {
+            "Cocktail": 290,
+            "User": "Silviatempelmayr",
+            "Review": "Ja der sieht echt lecker aus. Der wird bei unserem nächsten Mädelsabend gleich mal ausprobiert. Tolles Foto.",
+            "Timestamp": "am 11.06.2017 um 23:09 Uhr"
+        },
+        {
+            "Cocktail": 290,
+            "User": "hexy235",
+            "Review": "Das ist ein fruchtig, frischer Damencocktail, schmeckt gut und schaut auch gut aus, kann ich nur empfehlen",
+            "Timestamp": "am 05.10.2016 um 21:25 Uhr"
+        },
+        {
+            "Cocktail": 291,
+            "User": "Maarja",
+            "Review": "Anstelle von Melonensaft werde ich frische Melone nehmen und diese pürieren. Das Getränk wird dadurch sämiger",
+            "Timestamp": "am 06.08.2022 um 18:07 Uhr"
+        },
+        {
+            "Cocktail": 291,
+            "User": "DIELiz",
+            "Review": "ein sommerliches Getränk, nach meinem Geschmack, ist der Orangen-Melonen-Traum. Frischer Melonensaft wird bei mir durch Orangensaft aus dem \"Smoothiemacher\" ergänzt. Durch den Smoothiemacher gibt es natürlich keine klaren Säfte, denn das Fruchtfleisch ist ja im Drink ;-)",
+            "Timestamp": "am 24.06.2021 um 23:25 Uhr"
+        },
+        {
+            "Cocktail": 292,
+            "User": "DIELiz",
+            "Review": "der Beerendrink schmeckt nach Rezept ausgezeichnet. Nur zur Abwechslung werde ich demnächst auch einmal eine Variation mit Orangenscheiben ausprobieren",
+            "Timestamp": "am 22.06.2021 um 23:52 Uhr"
+        },
+        {
+            "Cocktail": 292,
+            "User": "Thanya",
+            "Review": "Was ist denn Lillet Rose? Der Drink besteht aus Erdbeeren und auf dem Foto sind Himbeeren, das passt nicht so ganz :-D",
+            "Timestamp": "am 16.06.2021 um 20:21 Uhr"
+        },
+        {
+            "Cocktail": 293,
+            "User": "MaryLou",
+            "Review": "Schmeckt bestimmt sehr gut ist aber leider nicht alkoholfrei, solltest eventuell zu den alkoholischen Rezepten hinzufügen",
+            "Timestamp": "am 20.09.2017 um 10:20 Uhr"
+        },
+        {
+            "Cocktail": 294,
+            "User": "Maarja",
+            "Review": "Der klingt fein, so schön bitter-säuerlich. Ich finde auch dass dauere Früchte sehr gut zu Wodka passen. Zucker brauche ich keinen.",
+            "Timestamp": "am 26.05.2022 um 13:30 Uhr"
+        },
+        {
+            "Cocktail": 295,
+            "User": "Paradeis",
+            "Review": "Optisch schaut dieser Cocktail toll aus. Schmeckt zwar etwas süßer, jedoch kommt er bei einigen unserer Freunde ganz gut an.",
+            "Timestamp": "am 26.05.2021 um 10:19 Uhr"
+        },
+        {
+            "Cocktail": 295,
+            "User": "Silviatempelmayr",
+            "Review": "Der Ladys Cocktail passt sehr gut für einen Mädelsabend an einem warmem sommerabend. Sieht sehr nett aus.",
+            "Timestamp": "am 06.07.2018 um 18:10 Uhr"
+        },
+        {
+            "Cocktail": 297,
+            "User": "Heinrich45",
+            "Review": "Sehr klassisches Absinth Rezept. Leider bekommt man bei uns sehr schwer einen richtig guten Absinth. Muss man leider ins Ausland dafür",
+            "Timestamp": "am 08.01.2020 um 19:46 Uhr"
+        },
+        {
+            "Cocktail": 297,
+            "User": "snakeeleven",
+            "Review": "Das mit Zucker und Zitrone muss ich direkt einmal ausprobieren, Absinth Sour Cocktail schmeckt bestimmt super.",
+            "Timestamp": "am 28.03.2019 um 12:59 Uhr"
+        },
+        {
+            "Cocktail": 297,
+            "User": "Schabernagi",
+            "Review": "Ich habe Absinth bis jetzt immer nur mit extrem süßen Getränken Gemisch, da mir der Geschmack sonst zu heftig war, aber Zitronensaft passt wirklich richtig gut dazu - gibt einen tollen Geschmack",
+            "Timestamp": "am 02.01.2018 um 18:46 Uhr"
+        },
+        {
+            "Cocktail": 297,
+            "User": "spicy-orange",
+            "Review": "Ich hab mit Absinth bisher noch keine guten Erfahrungen gemacht, aber vielleicht wäre das ein Rezept zum Ausprobieren, mit Zucker und Zitrone, sicher besser als pur ;)",
+            "Timestamp": "am 20.06.2016 um 21:28 Uhr"
+        },
+        {
+            "Cocktail": 299,
+            "User": "martha",
+            "Review": "Eine interessante Mischung, welche ich probieren werde. Orangenlikör und search Wodka sind beide gute Zutaten. Auch gute und hilfreiche Tipps.",
+            "Timestamp": "am 02.11.2022 um 11:17 Uhr"
+        },
+        {
+            "Cocktail": 300,
+            "User": "elisaKOCHT",
+            "Review": "Danke! Dieses Cocktailrezept für den Angelos verspricht viel Fruchtgeschmack. Ich mag es sauer, da werde ich das Zuckersirup erst dosiert zum Schluß zugeben, oder nicht ;-)",
+            "Timestamp": "am 26.12.2018 um 13:01 Uhr"
+        },
+        {
+            "Cocktail": 300,
+            "User": "spicy-orange",
+            "Review": "Jetzt wär ich wieder neugierig, weil mich sehr interessieren würde warum dieser Cocktail Angelos heißt, finde die Geschichten dahinter immer spannend.",
+            "Timestamp": "am 23.02.2017 um 21:41 Uhr"
+        },
+        {
+            "Cocktail": 302,
+            "User": "Katerchen",
+            "Review": "Gin und Martini kenne ich zur Genüge, aber mit Milch habe ich den noch nicht getrunken. Den werde ich mal probieren müssen.",
+            "Timestamp": "am 08.01.2022 um 21:26 Uhr"
+        },
+        {
+            "Cocktail": 302,
+            "User": "snakeeleven",
+            "Review": "Das ist ein interessanter Cocktail,Gin mit Martini gemixt kenne ich ,mit Milch muss ich es auch einmal probieren.",
+            "Timestamp": "am 26.06.2019 um 12:43 Uhr"
+        },
+        {
+            "Cocktail": 302,
+            "User": "Silviatempelmayr",
+            "Review": "Nein das ist nicht mein Geschmack. Das ist mir doch viel zu bitter. Ich trinke die Milch lieber ohne Alkohol.",
+            "Timestamp": "am 11.06.2017 um 23:11 Uhr"
+        },
+        {
+            "Cocktail": 303,
+            "User": "Katerchen",
+            "Review": "Habe ich nun ausprobiert, schmeckt mir ganz gut. Ist schön säuerlich. Nur die Farbe wie auf dem Bild habe ich nicht hinbekommen.",
+            "Timestamp": "am 08.09.2021 um 21:42 Uhr"
+        },
+        {
+            "Cocktail": 303,
+            "User": "Katerchen",
+            "Review": "Einen Amaretto Sour habe ich noch nie gehört. Dürfte eine interessante Geschmackskombination geben, süßer Mandellikör und Zitronensaft.",
+            "Timestamp": "am 17.03.2021 um 21:32 Uhr"
+        },
+        {
+            "Cocktail": 303,
+            "User": "MaryLou",
+            "Review": "Ich mag den Amaretto - Geschmack, doch Orange oder Zitrone ist mir persönlich lieber. Aber Gott sei Dank sind Geschmäcker verschieden.",
+            "Timestamp": "am 20.12.2020 um 00:18 Uhr"
+        },
+        {
+            "Cocktail": 303,
+            "User": "Silviatempelmayr",
+            "Review": "Ein praktischer Cocktail da man die Zutaten leicht zu Hause hat. Der Orangensaft gibt dem ganzen einen lecker süsslichen Geschmack.",
+            "Timestamp": "am 25.06.2020 um 21:22 Uhr"
+        },
+        {
+            "Cocktail": 303,
+            "User": "snakeeleven",
+            "Review": "Ob sich der Mandelgeschmackdes Amaretto mit Orangensaft und Zitronensaft verträgt muss ich einmal austesten.",
+            "Timestamp": "am 14.08.2019 um 11:27 Uhr"
+        },
+        {
+            "Cocktail": 304,
+            "User": "Maarja",
+            "Review": "Gute Mischung! So schön fruchtig! Mit viel crushed ice sicher ein Super Sommer Drink. Schade dass kein Foto davon zu sehen ist",
+            "Timestamp": "am 14.04.2022 um 11:29 Uhr"
+        },
+        {
+            "Cocktail": 307,
+            "User": "Paradeis",
+            "Review": "Fireball schmeckt wunderbar und diesen Cocktail genießen wir gerne mit unseren Freunden am Wochenende bzw. bei Partys.",
+            "Timestamp": "am 09.02.2021 um 07:54 Uhr"
+        },
+        {
+            "Cocktail": 307,
+            "User": "snakeeleven",
+            "Review": "Der Fireball ist ein sehr leckerer cocktail , der Cointreau, Grenadinesirup, Orangensaft und der weiße Rum ergänzen sich sehr gut",
+            "Timestamp": "am 06.03.2019 um 10:26 Uhr"
+        },
+        {
+            "Cocktail": 308,
+            "User": "DIELiz",
+            "Review": "Der Knock out schm,eckte sehr gut. Allerdings ist die Qualität des Orangensaftes und Zitronensaftes wirklich entscheidend",
+            "Timestamp": "am 12.12.2021 um 23:41 Uhr"
+        },
+        {
+            "Cocktail": 309,
+            "User": "DIELiz",
+            "Review": "dieser Beeren Gin wird meiner Ma sehr oft von meinem Vater zubereitet und serviert. Mein Pa hat auch Walderdbeeren dazu verwendet. Doch schmeckte das bewährte Getränk damit nicht",
+            "Timestamp": "am 17.10.2021 um 23:54 Uhr"
+        },
+        {
+            "Cocktail": 309,
+            "User": "Thanya",
+            "Review": "Das Rezept klingt sehr gut. Er hört sich fruchtig und erfrischend an. Ich verwende auch sehr gerne Sirup anstatt Zucker.",
+            "Timestamp": "am 26.05.2021 um 15:56 Uhr"
+        },
+        {
+            "Cocktail": 309,
+            "User": "Katerchen",
+            "Review": "Ein schön aussehender Erdbeer-Mix. Nur werde ich die Blätter wie auf dem Foto zu sehen sind, weglassen. Dann zusammen mit einem kleinen Löffel servieren.",
+            "Timestamp": "am 28.04.2021 um 21:06 Uhr"
+        },
+        {
+            "Cocktail": 310,
+            "User": "Maarja",
+            "Review": "Das kann ich mir wirklich überhaupt nicht vorstellen. Ich werde es Aber ausprobieren. Am Besten in kleiner Menge an mir selbst",
+            "Timestamp": "am 19.12.2021 um 08:02 Uhr"
+        },
+        {
+            "Cocktail": 310,
+            "User": "Katerchen",
+            "Review": "Bier mit Tomatensaft? Hört sich sehr abenteuerlich an und werde es mal für mich alleine ausprobieren. Kann mir nur nicht vorstellen, dass ich das jemals in einem bayerischen Biergarten bekommen werde :-)",
+            "Timestamp": "am 25.05.2021 um 10:11 Uhr"
+        },
+        {
+            "Cocktail": 310,
+            "User": "elisaKOCHT",
+            "Review": "noch nie gehört. Wieder etwas interessantes von Cassandra ;-) auf die mexikanische Michelada werde ich meinen Schwiegersohn ansetzen. Das könnte so richtig etwas für ihn sein. Im Moment sind die Tomaten eh so \"saftfreudig\": Kaum aufgeschnitten gibt es schon ein Tomatensaft Lackerl ;-) Hast Du ein bestimmtes, helles Bier genommen, eher herber oder ist das unwesentlich? LG :-)",
+            "Timestamp": "am 18.03.2019 um 16:16 Uhr"
+        },
+        {
+            "Cocktail": 311,
+            "User": "DIELiz",
+            "Review": "Cachaca Tonic ist ein internationaler Drink. Das chininhaltige Tonic Water mit dem leicht bitteren Geschmack werde ich noch mit gelber Limette \"aufbittern\"",
+            "Timestamp": "am 02.03.2021 um 00:28 Uhr"
+        },
+        {
+            "Cocktail": 312,
+            "User": "Katerchen",
+            "Review": "Aperol mit Melone ist eine gute Idee. Das Getränk kann man gut mit den unterschiedlichen Melonensorten machen, da variiert jedes Mal der Geschmack.",
+            "Timestamp": "am 06.08.2022 um 12:34 Uhr"
+        },
+        {
+            "Cocktail": 312,
+            "User": "MaryLou",
+            "Review": "Der Aperol macht das Getränk erst richtig interessant. Ein sehr erfrischender Cocktail in der heißen Jahreszeit. Schmeckt auch sehr gut mit einer Wassermelone. Ein paar Blatt Minze schaden auch nicht.",
+            "Timestamp": "am 05.08.2022 um 09:19 Uhr"
+        },
+        {
+            "Cocktail": 313,
+            "User": "Silviatempelmayr",
+            "Review": "Sonnenuntergang, Strand und ein leckerer Cocktail, da bekommt man doch gleich Sehnsucht nach dem Süden.",
+            "Timestamp": "am 22.12.2020 um 21:08 Uhr"
+        },
+        {
+            "Cocktail": 313,
+            "User": "martha",
+            "Review": "Ein tolles Sommergetränk, jedoch werde ich beim nächsten Mal nur 1 TL Honig für die Zubereitung nehmen.",
+            "Timestamp": "am 17.07.2020 um 08:21 Uhr"
+        },
+        {
+            "Cocktail": 313,
+            "User": "Heinrich45",
+            "Review": "Bienenhonig und Aprikosen sind sehr gesund. Man kann diesen Cocktail also ohne schlechtes Gewissen genießen",
+            "Timestamp": "am 11.06.2020 um 18:12 Uhr"
+        },
+        {
+            "Cocktail": 313,
+            "User": "snakeeleven",
+            "Review": "Der Swizzle mit Honig ist ein ausgezeichnet schmeckender Cocktail, aber Vorsicht, er ist auch sehr \"stark\".",
+            "Timestamp": "am 24.05.2019 um 10:37 Uhr"
+        },
+        {
+            "Cocktail": 313,
+            "User": "oster",
+            "Review": "Cocktails mit Limetten und Rum können eigentlich nur gut sein. Fehlt mir nur noch der Aprikosenlikör. Freu mich schon aufs Probieren.",
+            "Timestamp": "am 28.02.2019 um 15:52 Uhr"
+        },
+        {
+            "Cocktail": 314,
+            "User": "Silviatempelmayr",
+            "Review": "Von Dosenmilch habe ich noch nie gehört.. Ich werde nur Mikch verwenden. Hört sich doch interessant an.",
+            "Timestamp": "am 18.12.2017 um 19:16 Uhr"
+        },
+        {
+            "Cocktail": 315,
+            "User": "Maarja",
+            "Review": "Wow, schade dass ich den jetzt erst entdecke! Jetzt ist die Erdbeersaison vorbei. Kann man den auch mit Tiefkühlerdbeeren zubereiten?",
+            "Timestamp": "am 17.09.2021 um 20:23 Uhr"
+        },
+        {
+            "Cocktail": 316,
+            "User": "Katerchen",
+            "Review": "Für solche Drinks gebe ich die Gläser gerne in den Gefrierschrank. Die Vielfalt an guten Gins ist in der Zwischenzeit richtig groß geworden.",
+            "Timestamp": "am 12.09.2022 um 22:19 Uhr"
+        },
+        {
+            "Cocktail": 316,
+            "User": "Silviatempelmayr",
+            "Review": "Da muss ich mich erstmal schlau machen was ein Dash Angostura ist. Von dem habe ich noch nie was gehört.",
+            "Timestamp": "am 20.12.2020 um 20:57 Uhr"
+        },
+        {
+            "Cocktail": 316,
+            "User": "Millavanilla",
+            "Review": "Der Drink sieht wirklich toll aus. Wenn er wirklich diese Farbei erhält ist er wirklich ein Highlight bei jeder Party.",
+            "Timestamp": "am 20.07.2019 um 21:03 Uhr"
+        },
+        {
+            "Cocktail": 317,
+            "User": "DIELiz",
+            "Review": "hallo Katerchen, ist der 5* Kikeriki Cocktail deine eigene Erfindung? Auch der Name? Liest sich geschmacklich auch gut und macht neugierig auf deine Creationen :-)",
+            "Timestamp": "am 03.06.2021 um 23:52 Uhr"
+        },
+        {
+            "Cocktail": 317,
+            "User": "Thanya",
+            "Review": "Ich sehe, du experimentierst sehr gerne mit Eierlikör :-D Mit Orange kombiniert kann ich mir das gut vorstellen.",
+            "Timestamp": "am 03.06.2021 um 20:26 Uhr"
+        },
+        {
+            "Cocktail": 318,
+            "User": "DIELiz",
+            "Review": "welch fruchtiger und dekorativer Cocktail der Tropical Dream ist. Kommt in meiner Mädelsrunde im m er sehr gut an. Garnitur sind bei mir: Ananas und Melisse",
+            "Timestamp": "am 11.01.2022 um 23:55 Uhr"
+        },
+        {
+            "Cocktail": 318,
+            "User": "martha",
+            "Review": "Ein herrlicher Cocktail welchen wir gerne bei einem gemütlichen Beisammensein mit unseren Freunden trinken.",
+            "Timestamp": "am 23.06.2020 um 07:37 Uhr"
+        },
+        {
+            "Cocktail": 318,
+            "User": "Millavanilla",
+            "Review": "Der Cocktail sieht nicht nur gut aus, sonder schmeckt auch sehr lecker. Genau das Richtige für die Sommerparty.",
+            "Timestamp": "am 02.04.2019 um 08:06 Uhr"
+        },
+        {
+            "Cocktail": 318,
+            "User": "-michi-",
+            "Review": "Die Zutatenkombination klingt sehr gut!",
+            "Timestamp": "am 16.07.2016 um 21:19 Uhr"
+        },
+        {
+            "Cocktail": 319,
+            "User": "Katerchen",
+            "Review": "Das Diskotheken-Getränk in meiner Jugend. In privat wurde das auch ausgiebig getrunken, wir hatten eine Bezugsquelle zu den Amerikanern, da bekamen wir die „half-gallon“ Flaschen vom Jim B…",
+            "Timestamp": "am 30.12.2022 um 22:24 Uhr"
+        },
+        {
+            "Cocktail": 319,
+            "User": "Hermine_Rumpfmüller",
+            "Review": "Alter Schwede, Cola mit Four Roses. Das haben wir damals zu meiner Diskozeit fast bis zur Erblindung getrunken.",
+            "Timestamp": "am 07.04.2021 um 19:58 Uhr"
+        },
+        {
+            "Cocktail": 319,
+            "User": "Katerchen",
+            "Review": "Für Whisk(e)y-Cola kann man nur einen billigen Bourbon verwenden, alles andere an Whisky, vor Allem guter Highland Malt wäre zu Schade.",
+            "Timestamp": "am 06.04.2021 um 01:30 Uhr"
+        },
+        {
+            "Cocktail": 319,
+            "User": "snakeeleven",
+            "Review": "In meiner Jugend wurde das \"Whisky-Cola\" von uns ab und zu getrunken, jetzt trinke ich guten Whisky lieber Pur.",
+            "Timestamp": "am 19.08.2019 um 09:13 Uhr"
+        },
+        {
+            "Cocktail": 319,
+            "User": "spicy-orange",
+            "Review": "Ja da habt ihr wahrscheinlich beide recht! ein zu teurer Whiskey wäre einfach zu schade um ihn mit cola zu mischen",
+            "Timestamp": "am 03.09.2016 um 22:56 Uhr"
+        },
+        {
+            "Cocktail": 319,
+            "User": "Schweinsbraten",
+            "Review": "durch den markanten Geschmack des Colas ist teurer Whiskey dafür Geldverschwendung. Wir nehmen immer den Red Label und eine Zitrone geht auch rein.",
+            "Timestamp": "am 01.09.2016 um 15:26 Uhr"
+        },
+        {
+            "Cocktail": 319,
+            "User": "-michi-",
+            "Review": "wir verwenden hierfür jack daniels, einen anderen haben wir gar nicht zu hause. aber einen richtig teuren würde ich dafür nicht verwenden :)",
+            "Timestamp": "am 29.08.2016 um 19:58 Uhr"
+        },
+        {
+            "Cocktail": 319,
+            "User": "spicy-orange",
+            "Review": "Hallo -michi-! Welchen Whiskey hast du denn verwendet? Hättest du vielleicht einen Tipp. Es gibt ja so viele verschiedene Sorten und ich weiß nicht was man am besten kombiniert.",
+            "Timestamp": "am 24.08.2016 um 10:35 Uhr"
+        },
+        {
+            "Cocktail": 320,
+            "User": "Maarja",
+            "Review": "Klingt so fruchtig und exotisch, den werde ich probieren müssen. Weißen Rum finde ich in dieser Kombination auch gut",
+            "Timestamp": "am 10.11.2022 um 20:07 Uhr"
+        },
+        {
+            "Cocktail": 320,
+            "User": "Katerchen",
+            "Review": "Bananenlikör mit Ananassaft und Kokos ergibt ein interessanten Cocktail. Wenn es wieder schön warm ist werde ich den Cocktail auf der Terrasse servieren.",
+            "Timestamp": "am 27.04.2021 um 20:43 Uhr"
+        },
+        {
+            "Cocktail": 320,
+            "User": "martha",
+            "Review": "Die Zutaten habe ich zu Hause bis auf Creme de Bananes und wenn ich auch diesen habe, dann wird der Cocktail probiert.",
+            "Timestamp": "am 19.01.2021 um 12:22 Uhr"
+        },
+        {
+            "Cocktail": 320,
+            "User": "snakeeleven",
+            "Review": "Beim Havana Banana Cocktail verwende ich am liebsten Bacardi Rum ,das Aroma schmeckt mir am besten",
+            "Timestamp": "am 02.01.2019 um 11:08 Uhr"
+        },
+        {
+            "Cocktail": 320,
+            "User": "MaryLou",
+            "Review": "Das klingt nach Sonne und Meer, den werde ich ganz bestimmt nachmachen. Um ihn ein bisschen abzuschwächen werde ich ein Stück Banane pürieren anstatt des Likörs. Ein Versuch eben.",
+            "Timestamp": "am 26.05.2018 um 05:55 Uhr"
+        },
+        {
+            "Cocktail": 320,
+            "User": "elisaKOCHT",
+            "Review": "Havana Banana bei diesem Cocktail Namen denke ich gleich an Rum und Banane. Ein cooles Rezept das ich mit Bacardi nachmachen werde, danke",
+            "Timestamp": "am 15.04.2018 um 22:28 Uhr"
+        },
+        {
+            "Cocktail": 321,
+            "User": "Katerchen",
+            "Review": "Der Titel ist falsch, ein Badita ist nicht enthalten. Ich bereite den Cocktail wie einen Caipirinha zu, nur dass dann Honig dazukommt. Die Limonenviertel werden ohne auszupressen mit einem Stößel zerdrückt.",
+            "Timestamp": "am 22.01.2023 um 11:47 Uhr"
+        },
+        {
+            "Cocktail": 324,
+            "User": "DIELiz",
+            "Review": "dieser Grashüpfer Cocktail wird mit meinen selbstgemachten Pfefferminzlikör nicht so schön aussehen. Aber den Geschmack kann ich mir gut vorstellen. Passend dazu garniere ich mit After-Eight-Minze",
+            "Timestamp": "am 30.04.2021 um 00:09 Uhr"
+        },
+        {
+            "Cocktail": 324,
+            "User": "snakeeleven",
+            "Review": "Nun habe ich diesen Cocktail mit meinen selbstgemachten Pfefferminzlikör ausprobiert ,er schmeckte einfach Spitze.",
+            "Timestamp": "am 15.06.2019 um 13:42 Uhr"
+        },
+        {
+            "Cocktail": 324,
+            "User": "snakeeleven",
+            "Review": "Diesen Cocktail werde ich bestimmt demnächst einmal ausprobierenich bin neugierig ob der Kakaolikör mit Pfefferminzlikör harmoniert.",
+            "Timestamp": "am 22.04.2019 um 10:26 Uhr"
+        },
+        {
+            "Cocktail": 324,
+            "User": "MaryLou",
+            "Review": "Leider habe ich kein Barsieb aber ich hoffe dass ein neues Teesieb auch seine Dienste tut bis ich in ein Geschäft komme wo ich ein Solches finden werde. Der Cocktail klingt erfrischend und ich werde ihn genießen.",
+            "Timestamp": "am 29.07.2018 um 15:37 Uhr"
+        },
+        {
+            "Cocktail": 325,
+            "User": "MaryLou",
+            "Review": "Da es roten und weißen Wermut gibt, weiss ich jetzt nicht genau welcher gemeint ist . Oder gibt es nur eine süße Sorte? Ich könnte aber natürlich auch beide ausprobieren 😂.",
+            "Timestamp": "am 08.04.2022 um 09:49 Uhr"
+        },
+        {
+            "Cocktail": 328,
+            "User": "Maarja",
+            "Review": "Melonenlikör kenne ich nicht. Ich kann ihn mir auch gar nicht so gut vorstellen weil Melonen doch eigentlich eher wenig intensiv schmeckende Früchte sind",
+            "Timestamp": "am 12.05.2022 um 09:22 Uhr"
+        },
+        {
+            "Cocktail": 330,
+            "User": "Ullis",
+            "Review": "Auch dieses Rezept klingt für mich sehr ansprechend und kommt in meine Partysammlung. Das schmeckt bestimmt lecker und sieht sehr gut aus👌🏻😋",
+            "Timestamp": "am 27.12.2022 um 18:03 Uhr"
+        },
+        {
+            "Cocktail": 330,
+            "User": "Katerchen",
+            "Review": "Farblich sieht er spitzenmäßig aus, genau die Farben die ich mag. Mal sehen, ob er genauso gut schmeckt wie er aussieht.",
+            "Timestamp": "am 30.08.2021 um 16:17 Uhr"
+        },
+        {
+            "Cocktail": 330,
+            "User": "martha",
+            "Review": "Der klingt ja köstlich und die Zutaten sind ganz nach meinem Geschmack. Somit werde ich diesen Cocktail probieren.",
+            "Timestamp": "am 02.03.2021 um 09:39 Uhr"
+        },
+        {
+            "Cocktail": 331,
+            "User": "DIELiz",
+            "Review": "welch eine Sünde ist dieser süsse und cremige Cocktail. Der Blue Poison könnte auch mit alkoholfreien Blue Curacao zubereitet werden. Doch gleich der erste Versuch schmeckte nicht so gut. Als Garnitur nehmen wir auch ein Orangenstückerl",
+            "Timestamp": "am 17.09.2021 um 23:39 Uhr"
+        },
+        {
+            "Cocktail": 331,
+            "User": "alpenkoch",
+            "Review": "der Blue Poison Cocktail sieht klasse aus und ist bestimmt auch lecker. Dekriren mit ner Mangoscheibe und einer Cocktailkirsche ist auch ne gute Idee. Das blaue Gift schmeckt bestimmt auch mit Mangosaft",
+            "Timestamp": "am 17.01.2021 um 19:57 Uhr"
+        },
+        {
+            "Cocktail": 331,
+            "User": "Silviatempelmayr",
+            "Review": "Ja die Farbe des Cocktails ist echt was besonderes. Da werden die Gäste bestimmt Augen machen wenn man den serviert.",
+            "Timestamp": "am 24.12.2020 um 14:03 Uhr"
+        },
+        {
+            "Cocktail": 332,
+            "User": "Katerchen",
+            "Review": "Ein schönes und buntes Getränk, ideal für Kinder auf einem Kindergeburtstag. Die großen Mitfeiernden können ja noch einen Gin dazu schmuggeln.",
+            "Timestamp": "am 09.07.2021 um 13:29 Uhr"
+        },
+        {
+            "Cocktail": 332,
+            "User": "martha",
+            "Review": "Schmeckt wunderbar fruchtig. Ich habe ihn mit Eiswürfel und als Deko mit einer Limettenscheibe serviert. Ist sowohl bei den Erwachsenen als auch bei den Kindern gut angekommen.",
+            "Timestamp": "am 19.08.2020 um 07:03 Uhr"
+        },
+        {
+            "Cocktail": 332,
+            "User": "Silviatempelmayr",
+            "Review": "Ein total leckerer Cocktail. Der schmeckt herrlich fruchtig und durch das Soda, da kann man ruhig mehr nehmen, ist er nicht zu süss.",
+            "Timestamp": "am 09.06.2020 um 21:48 Uhr"
+        },
+        {
+            "Cocktail": 332,
+            "User": "Heinrich45",
+            "Review": "Also für einen alkoholfreien Cocktail schmeckt das Teil gar nicht mal so gut. Sollte man unbedingt mit etwas weißem Rum verfeinern",
+            "Timestamp": "am 01.01.2020 um 20:34 Uhr"
+        },
+        {
+            "Cocktail": 332,
+            "User": "hexy235",
+            "Review": "Ein sehr erfrischender Cocktail ohne Alkohol, der ist bei den Kindern sehr beliebt, da er auch sehr süß ist.",
+            "Timestamp": "am 08.06.2019 um 21:45 Uhr"
+        },
+        {
+            "Cocktail": 332,
+            "User": "snakeeleven",
+            "Review": "Dieser alkoholfreie \"Red Fanta Cocktail\" ist mit sehr viel Eiswürvel serviert ein Perfektes Erfrischungsgetränk.",
+            "Timestamp": "am 04.06.2019 um 10:25 Uhr"
+        },
+        {
+            "Cocktail": 332,
+            "User": "spicy-orange",
+            "Review": "Dieses Red Fanta schmeckt vor allem im Sommer mit viel Eiswürfeln sehr lecker. Auch mit Crushed Ice ist dieser Cocktail super, ein wenig süß, aber klasse zum Trinken.",
+            "Timestamp": "am 01.03.2017 um 20:52 Uhr"
+        },
+        {
+            "Cocktail": 333,
+            "User": "Katerchen",
+            "Review": "Den Drink würde ich gerne machen, aber in meiner Region gibt es den Schilerol nicht. Und extra schicken lassen ist nicht vernünftig.",
+            "Timestamp": "am 18.11.2022 um 12:20 Uhr"
+        },
+        {
+            "Cocktail": 334,
+            "User": "Katerchen",
+            "Review": "Der Zucker in dem Drink ist mir persönlich viel zu viel. Zucker und Alkohol verursacht einen schweren Kopf. Den Drink werde ich mal nur mit Whiskey, Minze und Soda probieren.",
+            "Timestamp": "am 19.11.2022 um 21:54 Uhr"
+        },
+        {
+            "Cocktail": 334,
+            "User": "Paradeis",
+            "Review": "Bourbon und Minze haben wir noch nie probiert. Das kommende Wochenende eignet sich perfekt, dieses zu probieren. Minze wächst in unserem Garten.",
+            "Timestamp": "am 26.05.2021 um 10:16 Uhr"
+        },
+        {
+            "Cocktail": 334,
+            "User": "DIELiz",
+            "Review": "Meine älteste Schwester hat diesen Cocktail nach eurem Rezept nachgemixt und ich habe gekostet. Ein guter Geschmack, aber mir zu stark. Womit ich dann innerhalb der Geschwister alleine stand",
+            "Timestamp": "am 30.08.2020 um 01:20 Uhr"
+        },
+        {
+            "Cocktail": 334,
+            "User": "Heinrich45",
+            "Review": "Letztes Jahr habe ich mir selber Minze am Balkon angebaut. Das funktioniert perfekt und ist spitze für solche Getränke",
+            "Timestamp": "am 18.04.2020 um 14:26 Uhr"
+        },
+        {
+            "Cocktail": 335,
+            "User": "DIELiz",
+            "Review": "dieser Malibu Sunrise Cocktail ist kein starkes Getränk und das gefällt mir. Orangensaft wird natürlich frisch gepresst. Ich werde zuerst testen ob frischer Granatapfelsaft ausreicht.",
+            "Timestamp": "am 14.01.2022 um 00:11 Uhr"
+        },
+        {
+            "Cocktail": 335,
+            "User": "martha",
+            "Review": "Die Zutaten für diesen Cocktail sind ganz nach meinem Geschmack und schon der Name erinnert mich an schöne Urlaubserinnerungen.",
+            "Timestamp": "am 24.07.2020 um 07:03 Uhr"
+        },
+        {
+            "Cocktail": 336,
+            "User": "Maarja",
+            "Review": "Der schaut ja wahnsinnig toll aus! Kommt diese schöne und intensive Farbe wirklich nur von den drei Brombeeren?",
+            "Timestamp": "am 24.12.2022 um 10:28 Uhr"
+        },
+        {
+            "Cocktail": 336,
+            "User": "hubsi",
+            "Review": "Der schaut ja sehr gut aus und nachdem ich alle Zutaten zu Hause habe, werde ich am Nachmittag meine Freundin damit überraschen.",
+            "Timestamp": "am 07.08.2022 um 12:29 Uhr"
+        },
+        {
+            "Cocktail": 336,
+            "User": "DIELiz",
+            "Review": "der Blackberry Mojito ist ein Cocktail mit einer Lieblingsfrucht und reizt daher zum nachmixen. Ich weiss es bereits, es werden mehr Brombeeren in meinem Glas landen ;-) evt. auch an einem Spiess",
+            "Timestamp": "am 06.08.2021 um 23:59 Uhr"
+        },
+        {
+            "Cocktail": 336,
+            "User": "Silviatempelmayr",
+            "Review": "Tja den Blackberry Mojito müsste man so toll hinbekommen wie auf dem Foto. Da würden die Gäste aber staunen.",
+            "Timestamp": "am 03.02.2021 um 21:14 Uhr"
+        },
+        {
+            "Cocktail": 336,
+            "User": "Millavanilla",
+            "Review": "Wirklich ein tolles Getränk - es sieht wunderschön aus und schmeckt sicherlich ausgezeichnet. Ein Highlight bei jeder Party.",
+            "Timestamp": "am 19.07.2019 um 16:42 Uhr"
+        },
+        {
+            "Cocktail": 337,
+            "User": "snakeeleven",
+            "Review": "Whiskey mit Kirschlikör gemixt ist eher etwas für meine weiblichen Gäste, ich bevorzuge Whisky pur.",
+            "Timestamp": "am 06.09.2019 um 12:09 Uhr"
+        },
+        {
+            "Cocktail": 337,
+            "User": "MaryLou",
+            "Review": "Sicher ein leckerer Cocktail dieser Tennessee, weil ich Kirschlikör ganz gern mag. Allerdings den Zuckerrand werde ich weglassen.",
+            "Timestamp": "am 26.05.2018 um 04:00 Uhr"
+        },
+        {
+            "Cocktail": 337,
+            "User": "oster",
+            "Review": "Das hört sich ja wirklich gut an. Muss ich demnächst probieren. Kirschlikör geört aber leider nicht zur Standardausrüstung meiner kleinen Bar. ;-)",
+            "Timestamp": "am 26.02.2017 um 16:10 Uhr"
+        },
+        {
+            "Cocktail": 338,
+            "User": "Katerchen",
+            "Review": "Ein Batida con Maracuja klingt nicht alltäglich. Den werde ich probieren, Cachaca beziehungsweise anderen Weißen Rum habe ich immer.",
+            "Timestamp": "am 23.01.2023 um 20:55 Uhr"
+        },
+        {
+            "Cocktail": 338,
+            "User": "DIELiz",
+            "Review": "ich wollte wissen was BATIDA bedeutet = geg..elt. : Batida ist die portugiesisch-brasilianische Bezeichnung für bestimmte alkoholische Cocktails. Ein Batida besteht aus Cachaça (weißem Zuckerrohrschnaps), Fruchtsaft oder -mark, Rohrzucker und meist auch etwas Wasser. Na dann, ich werde dieses Rezept nachmixen und weitere \"eisgekühlt\" folgen lassen. Für einen frischen Maracujasaft werde ich die Früchte passieren. Mich stören die Kerne im Drink.",
+            "Timestamp": "am 09.07.2020 um 15:42 Uhr"
+        },
+        {
+            "Cocktail": 338,
+            "User": "snakeeleven",
+            "Review": "ich wollte diesen Cocktail unbedingt probieren, da ich keinen \"Cachaca \" zu Hause hatte nahm ich weisen Rum, das schmeckte auch sehr gut.",
+            "Timestamp": "am 20.06.2020 um 16:04 Uhr"
+        },
+        {
+            "Cocktail": 339,
+            "User": "Ullis",
+            "Review": "Dieses Cocktail ist bestimmt auch ohne Alkohol lecker. Ich habe noch Reife Kiwis und Ananassaft. Guter Neujahrsstart wenn es alkoholfrei bleiben soll….",
+            "Timestamp": "am 01.01.2023 um 18:39 Uhr"
+        },
+        {
+            "Cocktail": 339,
+            "User": "Katerchen",
+            "Review": "Die Zugabe vom Blue-Curacao-Sirup dient wohl nur zur Färbung des Cocktails. Da werde ich „richtigen“ Blue Curacao nehmen.",
+            "Timestamp": "am 21.01.2022 um 22:02 Uhr"
+        },
+        {
+            "Cocktail": 339,
+            "User": "martha",
+            "Review": "Nachdem ich den Curacao blue Sirup niergends bekommen habe, habe ich diesen Cocktail eben ohne diesen zubereitet. Hat uns aber trotzdem gut geschmeckt.",
+            "Timestamp": "am 19.03.2021 um 07:17 Uhr"
+        },
+        {
+            "Cocktail": 339,
+            "User": "dada11",
+            "Review": "Einfaches Rezept mit wenig Zutaten und sehr schnell zubereitet. Schmeckt chremig und passt perfekt zum Ausspannen.",
+            "Timestamp": "am 08.05.2020 um 06:26 Uhr"
+        },
+        {
+            "Cocktail": 339,
+            "User": "snakeeleven",
+            "Review": "Kiwi werden bei uns sehr gerne gegessen da sie sehr viel Vitamine haben,als cocktail serviert schmecken sie noch besser.",
+            "Timestamp": "am 06.06.2019 um 15:42 Uhr"
+        },
+        {
+            "Cocktail": 339,
+            "User": "Silviatempelmayr",
+            "Review": "Schmeckt sehr lecker und ist obendrein durch die Kiwi noch gesund. Der fruchtsaftmix passt sehr gut zusammen.",
+            "Timestamp": "am 14.06.2018 um 22:16 Uhr"
+        },
+        {
+            "Cocktail": 339,
+            "User": "Wanesser",
+            "Review": "Säfte und Cocktails mit Kiwi sind einfach immer extrem lecker und sind perfekt für Sommer und Winter!",
+            "Timestamp": "am 16.03.2018 um 21:57 Uhr"
+        },
+        {
+            "Cocktail": 339,
+            "User": "-michi-",
+            "Review": "ist ganz lecker, habe nur kiwi gold genommen jetzt ist er nicht so schön grün gewesen wie auf dem foto. leider hab ich auch die eiswürfel vergessen, da diese nicht in der zutatenliste stehen :(",
+            "Timestamp": "am 06.08.2016 um 15:11 Uhr"
+        },
+        {
+            "Cocktail": 344,
+            "User": "Katerchen",
+            "Review": "Den gibt es heuer zu Silvester mit einer leichten Abwandlung. Statt Zitronensaft wird Limettensaft genommen. Limetten sind im Winter immer vorrätig.",
+            "Timestamp": "am 25.12.2022 um 17:18 Uhr"
+        },
+        {
+            "Cocktail": 344,
+            "User": "Billie-Blue",
+            "Review": "Ein fruchtiges Rezept, welches eigentlich die meisten gerne trinken. Darf auf einer Cocktailparty nicht fehlen.",
+            "Timestamp": "am 21.12.2022 um 14:41 Uhr"
+        },
+        {
+            "Cocktail": 344,
+            "User": "Billie-Blue",
+            "Review": "Gin mit Zitrone ist ein richtiger Sommercocktail. Aber auch zu Silvester servieren wir diesen Cocktail gerne.",
+            "Timestamp": "am 21.12.2022 um 14:39 Uhr"
+        },
+        {
+            "Cocktail": 344,
+            "User": "sssumsi",
+            "Review": "Wir trinken meist Gin-Tonic, aber diesen Gin Sour finde ich auch sehr ansprechend. Ich hab selbstgekochten Limettensirup und werds damit mal versuchen.",
+            "Timestamp": "am 19.09.2022 um 14:15 Uhr"
+        },
+        {
+            "Cocktail": 344,
+            "User": "Katerchen",
+            "Review": "Ein Klassiker in jeder Bar. Der Zuckersirup wird selbst hergestellt, da ist immer ein Vorrat daheim. Da kann man sich durch die ganze Gin-Vielfalt arbeiten.",
+            "Timestamp": "am 08.09.2021 um 21:47 Uhr"
+        },
+        {
+            "Cocktail": 344,
+            "User": "hexy235",
+            "Review": "Das Saure der Zitrone und die Süße des Zuckers harmonieren sehr gut miteinander, der Gin ist dann das Tüpfelchen auf dem I",
+            "Timestamp": "am 05.10.2016 um 21:13 Uhr"
+        },
+        {
+            "Cocktail": 345,
+            "User": "Katerchen",
+            "Review": "Blue Curacao und Sekt schmeckt immer gut, ein toller Aperitif. Wenn man es ein bisschen säuerlicher haben will kann auch ein kleiner Spritzer Zitronensaft dazugegeben werden.",
+            "Timestamp": "am 01.01.2022 um 13:20 Uhr"
+        },
+        {
+            "Cocktail": 345,
+            "User": "DIELiz",
+            "Review": "Dieser Cocktail mit dem fruchtigen und süssen Aroma ist ein prickelnder Durstlöscher an heissen Tagen.",
+            "Timestamp": "am 11.09.2021 um 02:40 Uhr"
+        },
+        {
+            "Cocktail": 345,
+            "User": "Heinrich45",
+            "Review": "Sehr spritziges Getränk. Verleiht gesunden Menschen Kraft und lässt kranke Menschen im Bett liegen.",
+            "Timestamp": "am 03.12.2019 um 22:48 Uhr"
+        },
+        {
+            "Cocktail": 347,
+            "User": "Katerchen",
+            "Review": "Ein schöner Drink, nicht nur für „Mädelrunden“ geeignet, schmeckt auch Männerrunden sehr gut. Als Dekoration kann eine Pfirsichspalte an das Glas.",
+            "Timestamp": "am 14.07.2021 um 22:17 Uhr"
+        },
+        {
+            "Cocktail": 347,
+            "User": "dada11",
+            "Review": "Sein sehr tolles Rezept für unsere \"Mädelrunde\". Alle waren begeistert. Schnell und einfach zubereitet!",
+            "Timestamp": "am 25.04.2020 um 05:00 Uhr"
+        },
+        {
+            "Cocktail": 348,
+            "User": "DIELiz",
+            "Review": "Der Lifestyle ist ein Cocktail, der sich zum sommerlichen After Work Treff gut eignet. Über den Alkoholgehalt könnte man noch diskutieren :-)",
+            "Timestamp": "am 03.07.2021 um 23:50 Uhr"
+        },
+        {
+            "Cocktail": 348,
+            "User": "Silviatempelmayr",
+            "Review": "Ja so kann man sich sein Lifestyle wirklich vorstellen. Ein sehr erfrischender und kühlendes Getränk.",
+            "Timestamp": "am 24.01.2021 um 22:08 Uhr"
+        },
+        {
+            "Cocktail": 349,
+            "User": "snakeeleven",
+            "Review": "Der \"Blue Curacao\" ist einer meiner liebsten Liköre , aber mit demn vielen Fruchtsaft ist er eher etwas für meine Frau.",
+            "Timestamp": "am 29.03.2019 um 09:14 Uhr"
+        },
+        {
+            "Cocktail": 349,
+            "User": "Silviatempelmayr",
+            "Review": "Hört sich ja interessant an. Ich mag Cocktails mit viel fruchtsaft. Die sind dann sehr süss und man schmeckt den Alkohol nicht so raus.",
+            "Timestamp": "am 04.02.2017 um 21:50 Uhr"
+        },
+        {
+            "Cocktail": 349,
+            "User": "hexy235",
+            "Review": "Ein sehr fruchtiger Cocktail, er ist sehr beliebt bei den weiblichen Partygästen, wird immer gerne getrunken",
+            "Timestamp": "am 07.10.2016 um 15:20 Uhr"
+        },
+        {
+            "Cocktail": 350,
+            "User": "Maarja",
+            "Review": "Danke für dieses schöne alkoholfreie Rezept. Klingt nach etwas Besonderem, dass man vielleicht auch erwachsenen Gästen als Alternative anbieten kann",
+            "Timestamp": "am 09.09.2021 um 08:29 Uhr"
+        },
+        {
+            "Cocktail": 351,
+            "User": "hexy235",
+            "Review": "Mit dem Sekt im Shaker schütteln? Da schüttelt man ja die ganze Kohlensäure raus, ich würde ihn am Schluss zugeben.",
+            "Timestamp": "am 27.05.2019 um 20:53 Uhr"
+        },
+        {
+            "Cocktail": 353,
+            "User": "Ullis",
+            "Review": "Diese Rezept muss ich unbedingt mal meiner Freundin mixen. Sie trinkt so gerne Aperol und diese Mischung mit Apfelsaft kennt sie noch nicht, glaube ich.",
+            "Timestamp": "am 09.01.2023 um 21:24 Uhr"
+        },
+        {
+            "Cocktail": 355,
+            "User": "hannevg",
+            "Review": "schmeckt gut gekühlt wohl am allerbesten. Muss da so viel Eiswürfel in den Drink, oder reichen doch die 6 vom Rezept?",
+            "Timestamp": "am 28.09.2017 um 15:42 Uhr"
+        },
+        {
+            "Cocktail": 356,
+            "User": "Katerchen",
+            "Review": "Ein wirklich sehr schneller Cocktail mit sehr wenig Zutaten. Für die Dekoration kann man statt der Kirsche auch Zitronenmelisse nehmen.",
+            "Timestamp": "am 01.06.2021 um 13:59 Uhr"
+        },
+        {
+            "Cocktail": 356,
+            "User": "Paradeis",
+            "Review": "Gute Anregung war der Tipp mit dem Blutorangensaft. Mit Cappy kenne ich dieses Getränk auch, jedoch mit frischen Saft zubereitet schmeckt dies doch anders.",
+            "Timestamp": "am 21.01.2021 um 07:21 Uhr"
+        },
+        {
+            "Cocktail": 356,
+            "User": "Schweinsbraten",
+            "Review": "Der Cocktail Screw Driver landläufig auch als \"Cappy-Wodka\" bekannt. Trotzdem irgendwie nicht ganz meins...",
+            "Timestamp": "am 26.03.2018 um 10:24 Uhr"
+        },
+        {
+            "Cocktail": 356,
+            "User": "DIELiz",
+            "Review": "Danke. Aber hallo, so einfach geht das?! Mit so wenigen Zutaten ein sehr guter Sommer - Cocktail dieser Screw Driver",
+            "Timestamp": "am 05.12.2017 um 22:53 Uhr"
+        },
+        {
+            "Cocktail": 356,
+            "User": "Silviatempelmayr",
+            "Review": "Ein ganz einfach zubereiteter Cocktail der sehr lecker schmeckt. Sieht auch fürs Auge toll aus ich nehme etwas weniger search Wodka.",
+            "Timestamp": "am 21.03.2017 um 13:43 Uhr"
+        },
+        {
+            "Cocktail": 356,
+            "User": "spicy-orange",
+            "Review": "Ein typischer Wodka-Orange! Schmeckt richtig gut, und der Tipp von Hexy235 mit dem Blutorangensaft ist wirklich toll, darauf wäre ich noch nicht gekommen, aber passt super!",
+            "Timestamp": "am 20.02.2017 um 19:53 Uhr"
+        },
+        {
+            "Cocktail": 356,
+            "User": "hexy235",
+            "Review": "Ein fruchtiger und sehr erfrischender Cocktail, kann man auch einmal mit Blutorangensaft probieren, passt sicher auch gut",
+            "Timestamp": "am 26.09.2016 um 21:25 Uhr"
+        },
+        {
+            "Cocktail": 357,
+            "User": "Hermine_Rumpfmüller",
+            "Review": "Meine Schwiegereltern haben letztens eine Flasche echten Absinth aus Tschechien mitgenommen. Hat über 60 Prozent, der fährt das volle Programm..",
+            "Timestamp": "am 10.08.2022 um 00:11 Uhr"
+        },
+        {
+            "Cocktail": 357,
+            "User": "Katerchen",
+            "Review": "Ein sehr starker Cocktail. Ich habe einen sechsundsechzigprozentigen Absinth und zusammen mit dem Gin sollte man ihn nicht jeden Tag trinken.",
+            "Timestamp": "am 27.01.2022 um 19:13 Uhr"
+        },
+        {
+            "Cocktail": 357,
+            "User": "snakeeleven",
+            "Review": "Der Cocktail mit den hochprozentigen Absinth und dann auch noch Gin dazu sollte sehr vorsichtig genossen werden",
+            "Timestamp": "am 08.02.2019 um 12:33 Uhr"
+        },
+        {
+            "Cocktail": 357,
+            "User": "Wanesser",
+            "Review": "Wow der hört sich ja richtig arg an..",
+            "Timestamp": "am 16.03.2018 um 21:59 Uhr"
+        },
+        {
+            "Cocktail": 357,
+            "User": "Shitake26",
+            "Review": "dieser Cocktail ist sicherlich nur für Leute geeignet, die viel vertragen - habe schon Absinth mit Glühwein auf einem Weihnachtsmarkt probiert und der ist ziemlich \"eingefahren\"",
+            "Timestamp": "am 03.05.2017 um 08:46 Uhr"
+        },
+        {
+            "Cocktail": 357,
+            "User": "oster",
+            "Review": "Interessant! Ein ganz \"schwacher\" Cocktail für zwischendurch. Werde ich demnächst ausprobieren. Hört sich vielversprechend an. ;-)",
+            "Timestamp": "am 24.03.2017 um 14:19 Uhr"
+        },
+        {
+            "Cocktail": 357,
+            "User": "spicy-orange",
+            "Review": "Dieser Cocktail hat es eindeutig in sich. Hab ihn vor kurzem ausprobiert. Geschmacklich wirklich top, allerdings wirklich sehr stark durch den Absinth, da braucht man einen guten Anlass ;)",
+            "Timestamp": "am 15.10.2016 um 19:01 Uhr"
+        },
+        {
+            "Cocktail": 357,
+            "User": "katharina",
+            "Review": "dachte von absinth wird man blind oder war das nur ein mysterium?",
+            "Timestamp": "am 15.06.2015 um 15:06 Uhr"
+        },
+        {
+            "Cocktail": 358,
+            "User": "Katerchen",
+            "Review": "Ich gebe das Chrushed Ice mit in den Shaker und gieße dann durch ein Sieb ab. Sonst verwässert das ganze zu sehr.",
+            "Timestamp": "am 18.09.2021 um 13:23 Uhr"
+        },
+        {
+            "Cocktail": 359,
+            "User": "Pesu07",
+            "Review": "Den Tom Collins dekoriere ich auch mit einer halben Scheibe Orange und einer Cocktailkirsche oder natürl. auch mit Zitronenscheiben. Schmeckt super.",
+            "Timestamp": "am 13.05.2020 um 06:19 Uhr"
+        },
+        {
+            "Cocktail": 359,
+            "User": "Millavanilla",
+            "Review": "Das ist interessant, dass es eigens dafür ein Glas gibt. Das Rezept liest sich aber sehr gut und ist sicher sehr erfrischend.",
+            "Timestamp": "am 16.04.2019 um 07:49 Uhr"
+        },
+        {
+            "Cocktail": 359,
+            "User": "Melaniep",
+            "Review": "Ein Klassiker der gerade an warmen Abenden für eine schöne Erfrischung sorgtY Passt immer und ist einfach zubereitet.",
+            "Timestamp": "am 24.06.2018 um 00:00 Uhr"
+        },
+        {
+            "Cocktail": 359,
+            "User": "Goldioma",
+            "Review": "so haben wir immer Gin.fizz gemacht. So verschieden sid eben die Bezeichnungen für ei und dasselbe Getränk",
+            "Timestamp": "am 31.05.2017 um 12:04 Uhr"
+        },
+        {
+            "Cocktail": 359,
+            "User": "Silviatempelmayr",
+            "Review": "Echt da gibt es ein eigenes Glas für das Getränk? Hört sich auch ganz lecker und sehr erfrischend an.",
+            "Timestamp": "am 27.04.2017 um 14:24 Uhr"
+        },
+        {
+            "Cocktail": 360,
+            "User": "martha",
+            "Review": "Dieser Cocktail klingt interessant und nachdem unsere Weingartenpfirsiche und zwar die Spätsorte zum Ernten sind, werden wir am Abend gleich mal probieren..",
+            "Timestamp": "am 10.09.2022 um 16:23 Uhr"
+        },
+        {
+            "Cocktail": 361,
+            "User": "martha",
+            "Review": "Dieses Cocktailrezept liest sich interessant und ist somit eine Anregung den French 75 zum Wochenende mal zu probieren.",
+            "Timestamp": "am 26.03.2021 um 07:24 Uhr"
+        },
+        {
+            "Cocktail": 364,
+            "User": "Katerchen",
+            "Review": "Super Cocktail. Kokosnusssaft und Kokosnusslikör passen wunderbar zum Ananassaft. Manchmal gebe ich etwas mehr Rum hinein.",
+            "Timestamp": "am 28.01.2023 um 15:35 Uhr"
+        },
+        {
+            "Cocktail": 364,
+            "User": "Paradeis",
+            "Review": "Wir trinken bzw. servieren bei Gartenpartys diesen Cocktail sehr gerne, weil er auch unseren Freunden schmeckt.",
+            "Timestamp": "am 14.10.2021 um 06:53 Uhr"
+        },
+        {
+            "Cocktail": 364,
+            "User": "snakeeleven",
+            "Review": "Alles was nach Kokosnuss schmeckt ,lieben wir deshalb wird auch der \" Coconut Kiss\" bei uns gerne getrunken.",
+            "Timestamp": "am 12.07.2019 um 09:29 Uhr"
+        },
+        {
+            "Cocktail": 364,
+            "User": "Tvoge",
+            "Review": "Schmeckt wie im Urlaub, erfrischend, fruchtig und lecker.\nZählt zu meinen Lieblingen von den Cocktails.",
+            "Timestamp": "am 13.06.2017 um 05:30 Uhr"
+        },
+        {
+            "Cocktail": 365,
+            "User": "Maarja",
+            "Review": "Ich mag ganz gerne Getränke mit Alkohol auf Milchbasis. Coconut gefällt mir sehr gut. Werde ihn genauso machen wie beschrieben",
+            "Timestamp": "am 26.11.2021 um 07:05 Uhr"
+        },
+        {
+            "Cocktail": 365,
+            "User": "Katerchen",
+            "Review": "Der Coconut ist ein schöner Drink. Ich werte den noch mit einem guten Schuss braunen Rum auf. Eine Cocktailkirsche als Dekoration passt optisch gut dazu.",
+            "Timestamp": "am 21.11.2021 um 14:20 Uhr"
+        },
+        {
+            "Cocktail": 365,
+            "User": "alpenkoch",
+            "Review": "Ein cremiger und leckerer Cocktail ist der Coconut. Die Dekorationsindee mit ner Ananasspalte und einer Cocktailkirsche gefällt mir auch. Mit nem Sparschäler mach ich noch ne Kokoslocke dazu",
+            "Timestamp": "am 30.01.2021 um 07:03 Uhr"
+        },
+        {
+            "Cocktail": 365,
+            "User": "Silviatempelmayr",
+            "Review": "Ein herrliches Getränk für eine Gartenparty im Sommer. Da kommt auch gleich ein wenig Urlaubsstimmung auf.",
+            "Timestamp": "am 16.01.2021 um 16:18 Uhr"
+        },
+        {
+            "Cocktail": 365,
+            "User": "snakeeleven",
+            "Review": "In diesem \" Coconut Cocktail \" sind genau die Zutaten enthalten die ich am liebsten habe, Kokuslikör und Baileys.",
+            "Timestamp": "am 22.06.2019 um 09:13 Uhr"
+        },
+        {
+            "Cocktail": 365,
+            "User": "Millavanilla",
+            "Review": "Mein Geschmack ist dieser Cocktail nicht. Dieser wäre mir mit der MIlch zu schwer. Ich mag lieber die leichten fruchtigen Cocktails.",
+            "Timestamp": "am 26.04.2019 um 07:47 Uhr"
+        },
+        {
+            "Cocktail": 365,
+            "User": "Zwiebel",
+            "Review": "Klingt lecker. Man sollte aber unbedingt Halbfettmilch nehmen, am besten Bio,meiner Meinung nach....",
+            "Timestamp": "am 06.02.2019 um 09:10 Uhr"
+        },
+        {
+            "Cocktail": 365,
+            "User": "oster",
+            "Review": "Überraschend einfach in der Zubereitung und überzeugend im Geschmack. Wirklich eine Empfehlung ! ;-)",
+            "Timestamp": "am 27.08.2017 um 02:09 Uhr"
+        },
+        {
+            "Cocktail": 365,
+            "User": "martha",
+            "Review": "Den Geschmack von Kokos mag ich sehr, weshalb ich für den Cocktail eine Kokosmilch dazu verwende. .",
+            "Timestamp": "am 27.03.2017 um 12:58 Uhr"
+        },
+        {
+            "Cocktail": 366,
+            "User": "Maarja",
+            "Review": "Klingt total lecker. Aber ich muss gestehen, ich habe noch nie Kiwilikör gesehen, geschweige denn probiert",
+            "Timestamp": "am 17.09.2021 um 20:21 Uhr"
+        },
+        {
+            "Cocktail": 367,
+            "User": "Hermine_Rumpfmüller",
+            "Review": "schmeckt richtig lecker, das ideale Getränk für einen Mädelsabend. Wenn nachher nicht immer das blöde Heimfahren wäre..",
+            "Timestamp": "am 31.10.2021 um 00:04 Uhr"
+        },
+        {
+            "Cocktail": 367,
+            "User": "DIELiz",
+            "Review": "den Red Russian Cocktail kann ich mir geschmacklich gut vorstellen. Der Cherry Heering allein ist ja schon sehr gut, richtig fruchtig im Geschmack. Zur Kirschenzeit bekommt das Glas einen Kirschohrring als Garnitur",
+            "Timestamp": "am 18.01.2021 um 08:39 Uhr"
+        },
+        {
+            "Cocktail": 367,
+            "User": "Silviatempelmayr",
+            "Review": "Wenn der Name Red Russian ist dann muss der Cocktail einfach stark sein. Ich bevorzuge aber eher leichte Getränke.",
+            "Timestamp": "am 21.12.2020 um 05:53 Uhr"
+        },
+        {
+            "Cocktail": 368,
+            "User": "xblue",
+            "Review": "die Gurkenscheiben in meinem Gin Tonic mit Gurke werden sicherlich nicht so dick geschnitten sein, wie auf dem gekauften Foto. Aber ich werde mir \"afterwards\" Salz bereitstellen ;-)",
+            "Timestamp": "am 07.03.2022 um 17:29 Uhr"
+        },
+        {
+            "Cocktail": 368,
+            "User": "Katerchen",
+            "Review": "Auch eine interessante Form von einem Gurkensalat. Ich bin immer der Meinung, man sollte mehr Gemüse essen. :-) Inzwischen gibt es sogar Tonic Water mit Gurkengeschmack.",
+            "Timestamp": "am 30.05.2021 um 07:34 Uhr"
+        },
+        {
+            "Cocktail": 368,
+            "User": "Silviatempelmayr",
+            "Review": "Mit den Gurkenscheiben würde es fast als Detoxwasser durchgehen und die sollen ja bekanntlich sehr gesund sein.",
+            "Timestamp": "am 23.06.2020 um 23:46 Uhr"
+        },
+        {
+            "Cocktail": 368,
+            "User": "Tammy3108",
+            "Review": "Na bum so viele Gurken Scheiben im Gin Tonic. Aber ja harmoniert ja bekanntlich sehr gut zusammen. Werde ich probieren",
+            "Timestamp": "am 30.05.2020 um 22:32 Uhr"
+        },
+        {
+            "Cocktail": 368,
+            "User": "Zwiebel",
+            "Review": "So und jetzt die Königsfrage: Welcher Gin passt zur Kombination mit Gurke? :-) Es scheint ja eine große Wissenschaft zu sein, wie man das richtig kombiniert...",
+            "Timestamp": "am 13.12.2018 um 22:21 Uhr"
+        },
+        {
+            "Cocktail": 368,
+            "User": "DIELiz",
+            "Review": "Gin Tonic mit Gurke ist nicht wirklich mein Drink. Aber bei meinen Freundinnen kommt der Drink wirklich gut an. Gurke erfrischt, Gurke tut der Haut gut. Gurke passt zu Gin... hab mir da Vieles angehört, also... Cheers",
+            "Timestamp": "am 07.10.2017 um 19:26 Uhr"
+        },
+        {
+            "Cocktail": 369,
+            "User": "snakeeleven",
+            "Review": "Dieser \"Halloween Bloody Heidi Cocktail\" sieht wunderbar aus. Ich werde ihn bei der nächsten Party probieren.",
+            "Timestamp": "am 18.05.2019 um 09:41 Uhr"
+        },
+        {
+            "Cocktail": 369,
+            "User": "MaryLou",
+            "Review": "Der dürfte ganz besonders gut schmecken und sieht auch dementsprechend aus. Für Halloween würde ich den Sirup aber erst leicht darüber träufeln.",
+            "Timestamp": "am 14.10.2018 um 10:44 Uhr"
+        },
+        {
+            "Cocktail": 369,
+            "User": "Silviatempelmayr",
+            "Review": "Der sieht sehr schön aus. Muss ich mal probieren ob das mein Geschmack ist. Wäre auch ein toller Partycocktail.",
+            "Timestamp": "am 07.01.2017 um 07:30 Uhr"
+        },
+        {
+            "Cocktail": 370,
+            "User": "Paradeis",
+            "Review": "Wir haben anscheinend ein zu großes Stück vom Ingwer verwendet und werden diesen Cocktail neuerlich probieren mit weniger.",
+            "Timestamp": "am 11.09.2022 um 12:09 Uhr"
+        },
+        {
+            "Cocktail": 371,
+            "User": "Maarja",
+            "Review": "Der Drink klingt gut, schade dass kein Foto dabei ist. Ich würde für mich vielleicht noch pürierte Erdbeeren untermischen",
+            "Timestamp": "am 03.09.2022 um 09:19 Uhr"
+        },
+        {
+            "Cocktail": 372,
+            "User": "Maarja",
+            "Review": "So ein schöner Cocktail! Da bekomme ich gleich richtig Sehnsucht nach Sommer. Bis zum nächsten ist es leider noch ein bisschen hin",
+            "Timestamp": "am 19.11.2022 um 07:54 Uhr"
+        },
+        {
+            "Cocktail": 372,
+            "User": "DIELiz",
+            "Review": "tolles Rezept, tolles Foto. Der Blue Lagoon wird mit frischen Zutaten nachgemacht. Zitronenschale und Ananasspalte kommen an den Glasrand",
+            "Timestamp": "am 25.03.2021 um 23:48 Uhr"
+        },
+        {
+            "Cocktail": 372,
+            "User": "martha",
+            "Review": "Allein beim Namen kommt schon Urlaubsstimmung auf. Die Zutaten für diesen Cocktail sind ganz nach meinem Geschmack.",
+            "Timestamp": "am 13.02.2019 um 12:02 Uhr"
+        },
+        {
+            "Cocktail": 372,
+            "User": "Silviatempelmayr",
+            "Review": "Das schmeckt ja a schon sehr nach Sommer, Sonne, Strand und Urlaub. Da freut man sich schon auf das warme Wetter.",
+            "Timestamp": "am 01.02.2017 um 19:30 Uhr"
+        },
+        {
+            "Cocktail": 372,
+            "User": "spicy-orange",
+            "Review": "Rum, Ananas und Blue Curacao, was braucht man mehr für einen super leckeren und erfrischenden Cocktail!",
+            "Timestamp": "am 31.08.2016 um 21:31 Uhr"
+        },
+        {
+            "Cocktail": 373,
+            "User": "Maarja",
+            "Review": "Das ist eine nette Abwandlung von Hugo. Ich glaube ich werde es auch eher mit Prosecco testen weil ich das Prickeln doch ganz gerne mag",
+            "Timestamp": "am 04.03.2022 um 08:00 Uhr"
+        },
+        {
+            "Cocktail": 375,
+            "User": "alpenkoch",
+            "Review": "Kümmerling hört sich traurig an. Da soll der Alkohol helfen gute Laune zu bekommen. Ah, Kümmerling ist ein Kräuter Likör.",
+            "Timestamp": "am 08.06.2021 um 22:52 Uhr"
+        },
+        {
+            "Cocktail": 376,
+            "User": "xblue",
+            "Review": "ein Cocktail wie der Beverly Hills Iced Tea wird durch Champagner ja richtig edel. Auf einer Hochzeitsfeier vollkommen richtig serviert",
+            "Timestamp": "am 07.02.2021 um 19:17 Uhr"
+        },
+        {
+            "Cocktail": 378,
+            "User": "Katerchen",
+            "Review": "Ein nicht kompliziertes Rezept für einen beliebten Cocktail. Den werde ich in meine Rezepte-Sammlung aufnehmen und nachmixen.",
+            "Timestamp": "am 02.09.2022 um 23:09 Uhr"
+        },
+        {
+            "Cocktail": 379,
+            "User": "Katerchen",
+            "Review": "Der Long Island Ice Tea hat im Original nichts mit Tee zu tun. Und der geht schön böse ins Blut, wenn man gegen den Durst ein paar Gläser trinken will.",
+            "Timestamp": "am 30.01.2023 um 14:34 Uhr"
+        },
+        {
+            "Cocktail": 379,
+            "User": "martha",
+            "Review": "Interessanter Geschmack. Wir haben in das Glas noch zusätzlich ein paar Limetten, welche wir würfelig geschnitten haben, hinein gegeben.",
+            "Timestamp": "am 08.03.2021 um 07:41 Uhr"
+        },
+        {
+            "Cocktail": 379,
+            "User": "Maisi",
+            "Review": "Beim lesen des Namen und beim betrachten des Fotos dachte ich zuerst wirklich an Eistee, leider hat es sich dann als Cola als Zutat erwiesen.",
+            "Timestamp": "am 29.08.2019 um 14:20 Uhr"
+        },
+        {
+            "Cocktail": 380,
+            "User": "Melaniep",
+            "Review": "Singapore Sling ist wirklich ein super Cocktail, ich mag ihn sehr. Und ja die Zutaten, aber es sollen hier ja keine abgeschriebenen/kopierten Rezepte veröffentlicht werden, somit muss es ja anders sein DIELiz",
+            "Timestamp": "am 25.05.2018 um 18:47 Uhr"
+        },
+        {
+            "Cocktail": 380,
+            "User": "DIELiz",
+            "Review": "SORRY, dieses Rezept entspricht ganz und garnicht dem Rezept aus dem Raffles!\nEs mag ja viele Abwandlungen geben. Aber in diesem Rezept fehlen einige Zutaten. Cherry Brandy (von Heering, weil unnachahmbar), Ananassaft, DOM Benedictine, Cointreau....\nDas schöne Schaumhauberl fehlt leider auch. Hab aber trotzdem Gusto bekommen ;-)",
+            "Timestamp": "am 09.12.2016 um 18:44 Uhr"
+        },
+        {
+            "Cocktail": 380,
+            "User": "hexy235",
+            "Review": "Ein wunderbarer Cocktail mit einem sehr intensiven Kirschengeschmack, einfach bei der Zubereitung und toll im Geschmack",
+            "Timestamp": "am 22.09.2016 um 22:24 Uhr"
+        },
+        {
+            "Cocktail": 382,
+            "User": "Thanya",
+            "Review": "Der Unterschied zum Kikeriki ist, dass hier Orangensaft und beim anderen Orangenlimonade verwendet wird, oder? Ich glaube, da spricht mich der Orangensaft in Kombination mit Eierlikör mehr an :-)",
+            "Timestamp": "am 05.06.2021 um 22:10 Uhr"
+        },
+        {
+            "Cocktail": 383,
+            "User": "DIELiz",
+            "Review": "Cocktail mixen und kosten, sowie die Fotoeinreichung standen auch auf meiner to do Liste ;-) nun bleibt nur noch schmecken. Ich bin schon sehr auf die geschmackliche Auswirkung vom Meersalz gespannt. Eine Probe mit Vodka interessiert auch",
+            "Timestamp": "am 15.08.2020 um 12:26 Uhr"
+        },
+        {
+            "Cocktail": 384,
+            "User": "martha",
+            "Review": "Dieser Cocktail ist mir bisher nicht bekannt und mit den beiden Zutaten sowie den Eiswürfeln braucht man nicht viel um zu probieren.",
+            "Timestamp": "am 22.02.2022 um 13:28 Uhr"
+        },
+        {
+            "Cocktail": 384,
+            "User": "Schnellkoch_Bob",
+            "Review": "Den kenne ich als \"Tabu-Power\". Mit 60 Eiswürfeln habe ich ihn aber noch nicht probiert. ;-) Interessant ist vielleicht zu erwähnen, dass man aus diesem Cocktail schnell herausschmeckt, was für ein Absinth drin ist, er aber mit billigem Absinth (mit nicht ganz originalen Zutaten) nicht zwangsläufig schlechter schmeckt.",
+            "Timestamp": "am 12.03.2021 um 12:08 Uhr"
+        },
+        {
+            "Cocktail": 384,
+            "User": "xblue",
+            "Review": "Das Rezept Fliegende Fee habe ich noch nicht kosten können. Hätte es vom Foto her in grüner kermit umbenannt ;-) werde mich noch mit Absinth useinandersetzen",
+            "Timestamp": "am 11.03.2021 um 19:44 Uhr"
+        },
+        {
+            "Cocktail": 385,
+            "User": "Maarja",
+            "Review": "Die Dekoration gefällt mir. Nette Idee mit den Augen. Für einen Horror-Drink schaut er allerdings viel zu freundlich aus",
+            "Timestamp": "am 26.10.2022 um 10:56 Uhr"
+        },
+        {
+            "Cocktail": 385,
+            "User": "Maarja",
+            "Review": "Das ist eine sehr witzige Deko - so passend für Halloween 🎃 und die Zutaten klingen nach einem süffigen Getränk",
+            "Timestamp": "am 30.10.2021 um 10:03 Uhr"
+        },
+        {
+            "Cocktail": 385,
+            "User": "Katerchen",
+            "Review": "Eine schöne Deko-Idee. Ob man den Vanillezucker im Cocktail braucht weiß ich nicht. Werde ihn mal ohne Zucker probieren, ein Beerensirup ist normalerweise süß genug.",
+            "Timestamp": "am 29.10.2021 um 12:47 Uhr"
+        },
+        {
+            "Cocktail": 385,
+            "User": "martha",
+            "Review": "Ein treffender Name für diesen Cocktail, welcher auch optisch mit der Deko wunderbar zum Fest Halloween passt.",
+            "Timestamp": "am 22.01.2021 um 12:04 Uhr"
+        },
+        {
+            "Cocktail": 385,
+            "User": "Silviatempelmayr",
+            "Review": "Die Verzierung sieht echt witzig aus, passt einfach super für Halloween. Mir ist der search Wodka etwas zu stark.",
+            "Timestamp": "am 30.10.2020 um 22:10 Uhr"
+        },
+        {
+            "Cocktail": 385,
+            "User": "snakeeleven",
+            "Review": "Der Halloween \"Russian „Horror“ Lady Cocktail\" mit search Wodka , ist ein richtig \"herbstlicher\" Cocktail.",
+            "Timestamp": "am 17.05.2019 um 10:13 Uhr"
+        },
+        {
+            "Cocktail": 385,
+            "User": "spicy-orange",
+            "Review": "oh sieht dieser Cocktail großartig aus, und alle Komponenten sind sehr köstlich und passen hervorragend zusammen, super Cocktail.",
+            "Timestamp": "am 09.11.2016 um 22:05 Uhr"
+        },
+        {
+            "Cocktail": 386,
+            "User": "snakeeleven",
+            "Review": "Ich habe das Cocktailrezept \" Cynar Martini Rosso\" ausprobiert aber der Artischocken-Likör ist mir zu bitter.",
+            "Timestamp": "am 27.06.2019 um 08:52 Uhr"
+        },
+        {
+            "Cocktail": 387,
+            "User": "Katerchen",
+            "Review": "Passoa - da habe ich erst mal googeln müssen. Ein Likör mit Passionsfruchtsaft, kann mich nicht erinnern ob ich so einen Fruchtsaft getrunken habe. Werde es gleich mal nachholen. Der Cocktail hat auch eine schöne Farbe.",
+            "Timestamp": "am 24.10.2021 um 09:33 Uhr"
+        },
+        {
+            "Cocktail": 388,
+            "User": "Maarja",
+            "Review": "Sehr fein, ich liebe Maracujas sehr. Und fruchtig-säuerliche Cocktails mit etwas weißem Rum mag ich eigentlich fast immer.",
+            "Timestamp": "am 15.10.2022 um 22:55 Uhr"
+        },
+        {
+            "Cocktail": 388,
+            "User": "Katerchen",
+            "Review": "Wie ein Caipirina, nur dass hier noch Maracujasaft dazukommt. Statt Pitu kann man fast jeden anderen Zuckerrohrschnaps (Rum) nehmen.",
+            "Timestamp": "am 19.09.2022 um 21:38 Uhr"
+        },
+        {
+            "Cocktail": 388,
+            "User": "DIELiz",
+            "Review": "Dieser Pitu-Maracuja-Longdrink wird von mir mit frisch zubereiteten Maracujasaft verfeinert. Evt. belasse ich die Kerne und gebe einen Longdrink-Löffel dazu",
+            "Timestamp": "am 26.05.2021 um 23:51 Uhr"
+        },
+        {
+            "Cocktail": 388,
+            "User": "spicy-orange",
+            "Review": "ich kenne Pitu bis jetzt immer nur in einer Caipi-Version, als andere Cocktail-Variante hab ich ihn noch nie probiert, da ist dein Rezept eine sehr gute Anregung.",
+            "Timestamp": "am 04.12.2016 um 10:38 Uhr"
+        },
+        {
+            "Cocktail": 389,
+            "User": "snakeeleven",
+            "Review": "Bacardi mit Cola wurde in meiner Jugendzeit gerne Getrunken , heute sieht man es eher selten , nur wir \"Alten \" trinken es noch.",
+            "Timestamp": "am 21.09.2019 um 16:13 Uhr"
+        },
+        {
+            "Cocktail": 392,
+            "User": "Petersilienschnecke",
+            "Review": "der verwendete Löwen-Gin ist eine Ginmarke, oder ein selbstgemachtes Produkt? Gin wollte ich mal endlich brauen",
+            "Timestamp": "am 29.09.2022 um 12:51 Uhr"
+        },
+        {
+            "Cocktail": 395,
+            "User": "martha",
+            "Review": "Diesen cremigen Cocktail habe ich nun schon einige Male den Gästen angeboten und ist immer wieder gut angekommen.",
+            "Timestamp": "am 02.11.2022 um 11:20 Uhr"
+        },
+        {
+            "Cocktail": 395,
+            "User": "Katerchen",
+            "Review": "Schlagobers und Milch mit Bacardi? Das ist mal ein Versuch wert. Um Geschmack reinzubringen sollte man noch einen Likör dazugeben.",
+            "Timestamp": "am 22.08.2021 um 11:13 Uhr"
+        },
+        {
+            "Cocktail": 395,
+            "User": "martha",
+            "Review": "Werde ich dieses Wochenende mal probieren . Die Zutaten sind ja ganz nach meinem Geschmack bzw. Vorliebe.",
+            "Timestamp": "am 18.02.2021 um 11:29 Uhr"
+        },
+        {
+            "Cocktail": 395,
+            "User": "alpenkoch",
+            "Review": "Der Facundo Blanco ist auch ein super geeigneter Cocktail für den Valentinstag. Da würde ich noch einen roten Trinkhalm auf das Glas legen",
+            "Timestamp": "am 14.02.2021 um 14:38 Uhr"
+        },
+        {
+            "Cocktail": 395,
+            "User": "snakeeleven",
+            "Review": "Das ist ein überaus köstlicher Cocktail, er ist sehr cremig ,die Farbe passt auch ,mit Eiswürfel ist er tatsächlich noch besser",
+            "Timestamp": "am 06.03.2019 um 10:24 Uhr"
+        },
+        {
+            "Cocktail": 395,
+            "User": "DIELiz",
+            "Review": "Der Facuno Blanco ist ein cremig leckerer Cocktail, der auch farblich sehr gut aussieht. Gerne gebe ich auch ein paar Eiswürfel ins Glas",
+            "Timestamp": "am 05.10.2017 um 15:04 Uhr"
+        },
+        {
+            "Cocktail": 398,
+            "User": "Katerchen",
+            "Review": "Für wieviele Gläser oder Portionen ist das Rezept gedacht? Ich würde die Wassermelonenstücke nicht durchfrieren, ich möchte diese ja mit dem Batita zusammen essen.",
+            "Timestamp": "am 24.09.2022 um 23:23 Uhr"
+        },
+        {
+            "Cocktail": 398,
+            "User": "Paradeis",
+            "Review": "Durch die gefrorenen Melonenstücke erspart man Eiswürfel bei diesem guten Sommercocktail. Schmeckt uns und ist einfach in der Zubereitung.",
+            "Timestamp": "am 09.02.2022 um 18:11 Uhr"
+        },
+        {
+            "Cocktail": 400,
+            "User": "Katerchen",
+            "Review": "Das Rezept klingt gut. Jetzt muss ich mal sehen, wo ich duiese wilde Pflaumenart herbekommen kann. In Geschäften und auf dem Markt habe ich sie noch nicht entdeckt.",
+            "Timestamp": "am 13.08.2022 um 21:45 Uhr"
+        }
+    ]
+}
