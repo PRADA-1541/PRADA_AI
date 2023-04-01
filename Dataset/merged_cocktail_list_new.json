@@ -48,7 +48,7 @@
         "Ingredients":[
             "40 ml sweet vermouth",
             "30 ml campari",
-            "1 dash soda water",
+            "0.625 ml soda water",
             "1 pc orange"
         ],
         "Directions":[
@@ -216,7 +216,7 @@
             "10 ml sugar",
             "20 ml lemon juice",
             "50 ml white rum (light rum)",
-            "1 splash grenadine syrup"
+            "5 ml grenadine syrup"
         ],
         "Directions":[
             "Shake Bacardi, Grenadine, Lemon Juice and Sugar Syrup vigorously in a shaker over lots of ice.",
@@ -244,7 +244,7 @@
             "40 ml pineapple juice",
             "10 ml lemon juice",
             "40 ml orange juice",
-            "1 dash grenadine syrup"
+            "0.625 ml grenadine syrup"
         ],
         "Directions":[
             "Prepare a fancy glass or long drink. Then shake all ingredients well with Ice in a cocktail shaker.",
@@ -265,8 +265,8 @@
         "AverageRating":4.5,
         "Ingredients":[
             "0.5 pc peach ",
-            "1 shot champagne",
-            "1 Spr peach liqueur "
+            "35 ml champagne",
+            "10 ml peach liqueur "
         ],
         "Directions":[
             "Puree the peach in a blender and strain through a bar strainer into a mixing glass.",
@@ -339,8 +339,8 @@
             "20 ml vodka",
             "60 ml tomato juice ",
             "20 ml lemon juice",
-            "1 dash tabasco",
-            "1 dash worcestershire sauce",
+            "0.625 ml tabasco",
+            "0.625 ml worcestershire sauce",
             "1 pinch pepper",
             "1 pinch salt"
         ],
@@ -390,7 +390,7 @@
             "30 ml blue curacao",
             "0.5 pc lemon",
             "8 pc ice",
-            "1 dash water",
+            "0.625 ml water",
             "1 pc lemon"
         ],
         "Directions":[
@@ -411,13 +411,13 @@
         "AverageRating":4.2,
         "Ingredients":[
             "2 cup ice",
-            "0.75 fluid_ounce vodka",
-            "0.75 fluid_ounce tequila",
-            "0.75 fluid_ounce rum",
-            "0.75 fluid_ounce gin",
-            "0.75 fluid_ounce blue curacao",
-            "1 dash sweet and sour",
-            "2 fluid_ounce lemon-lime flavored carbonated beverage",
+            "25 ml vodka",
+            "25 ml tequila",
+            "25 ml rum",
+            "25 ml gin",
+            "25 ml blue curacao",
+            "0.625 ml sweet and sour",
+            "60 ml lemon-lime flavored carbonated beverage",
             "1 pc lemon"
         ],
         "Directions":[
@@ -432,9 +432,9 @@
         "Name":"Blueberry Tea Cocktail",
         "AverageRating":5.0,
         "Ingredients":[
-            "1 fluid_ounce amaretto",
-            "1 fluid_ounce orange liqueur",
-            "4 fluid_ounce orange"
+            "30 ml amaretto",
+            "30 ml orange liqueur",
+            "120 ml orange juice"
         ],
         "Directions":[
             "Combine amaretto and orange liqueurs in a brandy snifter or glass. Pour in hot tea."
@@ -544,8 +544,8 @@
         "AverageRating":4.7,
         "Ingredients":[
             "0 pc ice",
-            "0.5 fluid_ounce vodka",
-            "0.5 cup cranberry juice",
+            "15 ml vodka",
+            "125 ml cranberry juice",
             "1 pc lime"
         ],
         "Directions":[
@@ -735,10 +735,10 @@
         "AverageRating":4.9,
         "Ingredients":[
             "0 pc ice",
-            "2 fluid_ounce sweet and sour",
-            "1.5 fluid_ounce vodka",
-            "0.5 fluid_ounce blue curacao",
-            "12 fluid_ounce lemon-lime flavored carbonated beverage",
+            "60 ml sweet and sour",
+            "45 ml vodka",
+            "15 ml blue curacao",
+            "360 ml lemon-lime flavored carbonated beverage",
             "1 pc lemon"
         ],
         "Directions":[
@@ -782,7 +782,7 @@
             "10 ml almond syrup ",
             "10 ml grapefruit juice",
             "3 pc ice",
-            "1 dash grenadine syrup"
+            "0.625 ml grenadine syrup"
         ],
         "Directions":[
             "Shake the orange juice, passion fruit syrup, grenadine, lemon juice, almond syrup and grapefruit juice vigorously in a shaker.",
@@ -808,7 +808,7 @@
         "Ingredients":[
             "30 ml gin",
             "10 ml lemon juice",
-            "1 dash champagne",
+            "0.625 ml champagne",
             "1 teaspoon sugar"
         ],
         "Directions":[
@@ -859,10 +859,10 @@
         "AverageRating":4.8,
         "Ingredients":[
             "2 cup ice",
-            "6 fluid_ounce tequila",
-            "2 fluid_ounce orange liqueur",
-            "8 ounce strawberry",
-            "4 fluid_ounce lime juice"
+            "180 ml tequila",
+            "60 ml orange liqueur",
+            "240 g strawberry",
+            "120 ml lime juice"
         ],
         "Directions":[
             "Gather ingredients and fill a blender with ice cubes. Pulse until ice is crushed.",
@@ -902,9 +902,11 @@
         "Name":"Gin Tonic",
         "AverageRating":4.6,
         "Ingredients":[
-            "40 ml gin",
-            "1 dash tonic water",
-            "2 teaspoon lemon juice"
+            "4 pc ice",
+            "60 ml gin",
+            "120 ml tonic water",
+            "15 ml lemon juice",
+            "1 pc lime"
         ],
         "Directions":[
             "In a tumbler glass filled with 2 Ice Cubes, pour the gin.",
@@ -923,7 +925,7 @@
         "Name":"Gluehwein",
         "AverageRating":4.8,
         "Ingredients":[
-            "0.75 cup water",
+            "180 ml water",
             "0.75 cup sugar",
             "1 pc cinnamon stick",
             "2 pc orange",
@@ -970,13 +972,13 @@
         "Name":"Grateful Dead Cocktail",
         "AverageRating":3.5,
         "Ingredients":[
-            "1 fluid_ounce tequila",
-            "1 fluid_ounce vodka",
-            "1 fluid_ounce white rum (light rum)",
-            "1 fluid_ounce gin",
-            "1 fluid_ounce raspberry liqueur",
+            "30 ml tequila",
+            "30 ml vodka",
+            "30 ml white rum (light rum)",
+            "30 ml gin",
+            "30 ml raspberry liqueur",
             "1 cup ice",
-            "1 tablespoon sweet and sour"
+            "15 ml sweet and sour"
         ],
         "Directions":[
             "Combine tequila, vodka, rum, gin, and raspberry liqueur in a highball glass. Fill with ice and top with sour mix."
@@ -991,7 +993,7 @@
         "Ingredients":[
             "50 ml whiskey",
             "200 ml ginger ale",
-            "2 dash bitters "
+            "1.25 ml bitters "
         ],
         "Directions":[
             "Pour bourbon into highball glass over Ice Cubes and add Angostura.",
@@ -1010,9 +1012,9 @@
         "Name":"Hot Toddy",
         "AverageRating":4.6,
         "Ingredients":[
-            "2 fluid_ounce water",
-            "0.5 fluid_ounce whiskey",
-            "1 teaspoon honey",
+            "60 ml water",
+            "15 ml whiskey",
+            "5 ml honey",
             "3 pc cloves",
             "1 pc cinnamon stick",
             "1 pc lemon",
@@ -1209,7 +1211,7 @@
             "20 ml orange liqueur",
             "20 ml vodka",
             "20 ml gin",
-            "1 dash coke",
+            "0.625 ml coke",
             "10 ml lemon juice",
             "10 ml orange juice",
             "10 ml sugar",
@@ -1299,9 +1301,9 @@
         "Name":"Manhattan",
         "AverageRating":4.6,
         "Ingredients":[
-            "2 fluid_ounce whiskey",
-            "0.5 fluid_ounce sweet vermouth",
-            "1 dash bitters ",
+            "60 ml whiskey",
+            "15 ml sweet vermouth",
+            "0.625 ml bitters ",
             "1 cup ice",
             "1 pc cocktail(maraschino) cherry"
         ],
@@ -1376,7 +1378,7 @@
         "Name":"Mimosa",
         "AverageRating":4.6,
         "Ingredients":[
-            "1 Spr orange liqueur",
+            "5 ml orange liqueur",
             "70 ml champagne",
             "70 ml orange juice",
             "0.25 pc orange"
@@ -1459,7 +1461,7 @@
             "30 ml gin",
             "30 ml sweet vermouth",
             "0.5 pc orange",
-            "1 dash soda water"
+            "0.625 ml soda water"
         ],
         "Directions":[
             "Shake the ingredients Gin, Campari, Vermouth Rosso and Soda Water well in a shaker.",
@@ -1477,11 +1479,11 @@
         "Name":"Old Fashioned",
         "AverageRating":4.6,
         "Ingredients":[
-            "2 teaspoon simple syrup",
-            "1 teaspoon water",
-            "2 dash bitters ",
+            "10 ml simple syrup",
+            "5 ml water",
+            "1.25 ml bitters ",
             "1 cup ice",
-            "1.5 fluid_ounce whiskey",
+            "45 ml whiskey",
             "1 pc orange",
             "1 pc cocktail(maraschino) cherry"
         ],
@@ -1501,9 +1503,9 @@
             "20 ml pineapple juice",
             "0.5 pc orange",
             "1 pc cocktail(maraschino) cherry",
-            "1 dash orange juice",
+            "0.625 ml orange juice",
             "1 pc pineapple",
-            "1 dash passion fruit syrup "
+            "0.625 ml passion fruit syrup "
         ],
         "Directions":[
             "Shake Pineapple Juice, Passion Fruit Syrup and Gin in a shaker with Ice and pour into a cocktail glass with ice cubes.",
@@ -1553,11 +1555,11 @@
         "Name":"Party Punch IV",
         "AverageRating":4.7,
         "Ingredients":[
-            "16 fluid_ounce pineapple juice",
-            "12 fluid_ounce orange juice",
-            "12 fluid_ounce vodka",
+            "480 ml pineapple juice",
+            "360 ml orange juice",
+            "360 ml vodka",
             "2 l lemon-lime flavored carbonated beverage",
-            "4 ounce cocktail(maraschino) cherry",
+            "120 g cocktail(maraschino) cherry",
             "4 pc orange",
             "2 pc ice"
         ],
@@ -1631,7 +1633,7 @@
             "20 ml orange juice",
             "10 ml orange liqueur",
             "20 ml brandy",
-            "1 dash champagne"
+            "0.625 ml champagne"
         ],
         "Directions":[
             "In a shaker, shake the ingredients Cognac, Cointreau and Orange Juice on Ice Cubes.",
@@ -1657,10 +1659,10 @@
             "1 pc orange",
             "1 pc lemon",
             "1 pc lime",
-            "0.5 cup rum",
+            "125 ml rum",
             "0.5 cup sugar",
             "750 ml red wine",
-            "1 cup orange juice"
+            "250 ml orange juice"
         ],
         "Directions":[
             "Have orange, lemon, lime, rum, wine, and orange juice well chilled.",
@@ -1983,7 +1985,7 @@
             "20 ml lemon juice",
             "10 ml sugar",
             "40 ml gin",
-            "1 dash soda water"
+            "0.625 ml soda water"
         ],
         "Directions":[
             "In a cocktail glass, add 3 to 4 Ice Cubes. Add the ingredients Lemon Juice, Sugar Syrup and Gin and stir with a bar spoon.",
@@ -2103,10 +2105,10 @@
         "AverageRating":4.5,
         "Ingredients":[
             "1 cup ice",
-            "4 fluid_ounce coke",
-            "1 fluid_ounce kahlua",
-            "1.5 fluid_ounce vodka",
-            "2 fluid_ounce milk",
+            "120 ml coke",
+            "30 ml kahlua",
+            "45 ml vodka",
+            "60 ml milk",
             "1 pc cocktail(maraschino) cherry"
         ],
         "Directions":[
@@ -2147,7 +2149,7 @@
         "Ingredients":[
             "20 ml raspberry liqueur",
             "20 ml blue curacao",
-            "1 dash champagne"
+            "0.625 ml champagne"
         ],
         "Directions":[
             "Pour Curacao Blue and Raspberry Spirit into a champagne goblet.",
