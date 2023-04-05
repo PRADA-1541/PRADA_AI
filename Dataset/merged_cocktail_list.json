@@ -76,6 +76,35 @@
     ]
   },
   {
+    "ID": 10815,
+    "Name": "Aperol Fizz",
+    "AverageRating": "4.4",
+    "Ingredients": [
+      "4 cl Aperol ",
+      "5 pc Ice Cube ",
+      "1 dash Soda Water, for topping up ",
+      "0.5 pc Lemon (Juice) ",
+      "1 teaspoon Sugar Syrup ",
+      "0.5 tablespoon Cherry Syrup "
+    ],
+    "Directions": [
+      "Shake Aperol, Lemon Juice and Sugar Syrup and Cherry Syrup well with Ice in a shaker, strain and pour onto Freshe Ice Cubes in a highball glass. Top with soda water.",
+      "Garnish with fine Orange Slices andor Lemon Slices in the glass as desired."
+    ],
+    "Description": "Aperol is a liqueur from Italy and is combined here with soda. The Aperol Fizz cocktail is the in drink of the summer!",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Liqueurs",
+      "Party Cocktails Recipes",
+      "Spritzy",
+      "Campari Cocktails",
+      "Normal",
+      "Lemon Juice",
+      "Cocktails with Lauter Sugar",
+      "Aperol"
+    ]
+  },
+  {
     "ID": 10583,
     "Name": "Aperol Lillet",
     "AverageRating": "3.7",
@@ -127,11 +156,7 @@
     "ID": 10090,
     "Name": "Apple Juice Soda Gin",
     "AverageRating": "4.4",
-    "Ingredients": [
-      "2 cl Gin ", 
-      "120 ml Soda ", 
-      "120 ml Apple Juice "
-    ],
+    "Ingredients": ["2 cl Gin ", "120 ml Soda ", "120 ml Apple Juice "],
     "Directions": [
       "In a tumbler glass, pour the gin.",
       "Infuse with soda and apple juice 1:1.",
@@ -307,6 +332,33 @@
       "Coffee Recipes",
       "Sweet",
       "Cocktails with Coffee Liqueur"
+    ]
+  },
+  {
+    "ID": 10336,
+    "Name": "Blackberry Mojito",
+    "AverageRating": "4.7",
+    "Ingredients": [
+      "4 pc Ice Cube ",
+      "1 cl Bacardi Rum ",
+      "0.5 pc Lime (Squeezed) ",
+      "3 pc Blackberry ",
+      "1 sheet Mint ",
+      "1 pc Lime Slice "
+    ],
+    "Directions": [
+      "In a suitable glass, put 3 blackberries and pour the squeezed Lime Juice over them. Mash everything with a pestle.",
+      "Add Ice Cubes to the glass. Pour the rum over the Ice Cubes. Top with water.",
+      "For decoration, add lime wedges, blackberries and mint to glass."
+    ],
+    "Description": "A Blackberry Mojito looks terrific and tastes great, a great drink for balmy evenings with friends.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Fresh",
+      "Fruity",
+      "Rum Cocktails",
+      "Normal"
     ]
   },
   {
@@ -556,6 +608,38 @@
       "Aperitif Recipes",
       "Exotic Cocktail Recipes",
       "Normal"
+    ]
+  },
+  {
+    "ID": 10537,
+    "Name": "Coco Loco",
+    "AverageRating": "4.5",
+    "Ingredients": [
+      "4 cl Rum, White ",
+      "3 cl Gin ",
+      "3 cl Tequila ",
+      "2 cl Batida de Coco ",
+      "5 cl Cream of Coconut ",
+      "2 cl Lemon Juice ",
+      "15 cl Pineapple Juice "
+    ],
+    "Directions": [
+      "Pour Pineapple Juice, Batida de Coco, Cream of Coconut, Gin, Tequila, Rum, White and Lemon Juice into the shaker with some Ice Cubes and shake vigorously",
+      "Strain the drink through the bar strainer into a balloon glass with crushed ice.",
+      "Serve with a Straw and a Pineapple or Strawberry decoration on the rim of the glass."
+    ],
+    "Description": "The Coco Loco cocktail is a perfect summer cocktail. Whether at the bar or right on the beach, this cocktail will lift your spirits.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Fresh",
+      "Fruity",
+      "Rum Cocktails",
+      "Very Strong",
+      "Cocktails with Bacardi Rum",
+      "Lemon Juice",
+      "Pineapple Juice",
+      "Batida Cocktails"
     ]
   },
   {
@@ -928,6 +1012,35 @@
     ],
     "Description": "This Grateful Dead drink is considered the sweeter cousin of the Long Island Iced Tea. Like that drink, this cocktail packs a considerable punch!",
     "Keywords": null
+  },
+  {
+    "ID": 10490,
+    "Name": "Headbanger",
+    "AverageRating": "4.5",
+    "Ingredients": [
+      "1 pc Asparagus, Green ",
+      "30 ml Tomato Juice ",
+      "3 sheet Mint ",
+      "100 g Celery ",
+      "100 g Artichokes ",
+      "100 g Celery "
+    ],
+    "Directions": [
+      "Peel, rinse and small chop celery, wash artichokes thoroughly. Juice vegetables and mint.",
+      "Do not add mint to juicer all at once, add together with other ingredients.",
+      "Put juice from juicer, Tomato Juice and Ice Cubes in a blender and blend, decorate with a stalk of asparagus."
+    ],
+    "Description": "A spicy and above all erFreshening cocktail is the Headbanger - it is a real thirst quencher.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Fresh",
+      "No Alcohol",
+      "Cocktails for a meeting",
+      "Cocktails with Fruit Juice",
+      "Fruity",
+      "Mixed Drinks",
+      "Mocktails"
+    ]
   },
   {
     "ID": 10788,
@@ -1538,6 +1651,33 @@
       "Cocktails with Orange Juice",
       "Pineapple Juice",
       "Lime Juice"
+    ]
+  },
+  {
+    "ID": 10811,
+    "Name": "Red Dog",
+    "AverageRating": "4.4",
+    "Ingredients": [
+      "3 cl Amaretto ",
+      "2 cl Peach Liqueur ",
+      "3 cl Campari ",
+      "1 dash Almdudler ",
+      "1 pc Orange Peel, for decoration "
+    ],
+    "Directions": [
+      "Add ice cubes to a cognac glass and fill halfway.",
+      "Then pour in all ingredients except the Almdudler and stir.",
+      "Add the Almdudler. Garnish the glass with a strip of rolled Orange Peel."
+    ],
+    "Description": "The Red Dog cocktail recipe is refreshing and aromatic.",
+    "Keywords": [
+      "Cocktails with Almdudler",
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Campari Cocktails",
+      "Aperitif Recipes",
+      "Normal",
+      "Sweet"
     ]
   },
   {

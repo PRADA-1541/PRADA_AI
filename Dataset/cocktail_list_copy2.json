@@ -1,0 +1,737 @@
+[
+    {
+        "Name":"Absinth Margarita",
+        "Alternative Name":"Absinthe Margarita",
+        "Invalid":0
+    },
+    {
+        "Name":"Absinth Sour",
+        "Alternative Name":"Absinthe Sour",
+        "Invalid":0
+    },
+    {
+        "Name":"Alexander",
+        "Alternative Name":"Alexander",
+        "Invalid":2
+    },
+    {
+        "Name":"Alexander De Cacao",
+        "Alternative Name":"Alexander",
+        "Invalid":2
+    },
+    {
+        "Name":"Amaretto Sour",
+        "Alternative Name":"Amaretto Sour",
+        "Invalid":0
+    },
+    {
+        "Name":"Americano",
+        "Alternative Name":"Americano",
+        "Invalid":0
+    },
+    {
+        "Name":"Angel Blue",
+        "Alternative Name":"Angel Blue",
+        "Invalid":0
+    },
+    {
+        "Name":"Aperol Fizz",
+        "Alternative Name":"Aperol Fizz",
+        "Invalid":0
+    },
+    {
+        "Name":"Aperol Sour",
+        "Alternative Name":"Aperol Sour",
+        "Invalid":0
+    },
+    {
+        "Name":"Aperol-Lillet",
+        "Alternative Name":"Aperol Lillet",
+        "Invalid":0
+    },
+    {
+        "Name":"Apfelsaft-Soda-Gin",
+        "Alternative Name":"Apple Juice Soda Gin",
+        "Invalid":0
+    },
+    {
+        "Name":"Apricot Sunset",
+        "Alternative Name":"Apricot Sunset",
+        "Invalid":0
+    },
+    {
+        "Name":"B-52 II",
+        "Alternative Name":"B-52",
+        "Invalid":0
+    },
+    {
+        "Name":"B52",
+        "Alternative Name":"B-52",
+        "Invalid":2
+    },
+    {
+        "Name":"Bacardi Cocktail",
+        "Alternative Name":"Bacardi",
+        "Invalid":0
+    },
+    {
+        "Name":"Bahama Mama",
+        "Alternative Name":"Bahama Mama",
+        "Invalid":0
+    },
+    {
+        "Name":"Bellini",
+        "Alternative Name":"Bellini",
+        "Invalid":0
+    },
+    {
+        "Name":"Best Strawberry Daiquiri",
+        "Alternative Name":"Strawberry Daiquiri",
+        "Invalid":2
+    },
+    {
+        "Name":"Between The Sheets",
+        "Alternative Name":"Between The Sheets",
+        "Invalid":0
+    },
+    {
+        "Name":"Black Russian",
+        "Alternative Name":"Black Russian",
+        "Invalid":0
+    },
+    {
+        "Name":"Blackberry Mojito",
+        "Alternative Name":"Blackberry Mojito",
+        "Invalid":0
+    },
+    {
+        "Name":"Blaue Lagune",
+        "Alternative Name":"Blue Lagoon",
+        "Invalid":2
+    },
+    {
+        "Name":"Bloody Mary",
+        "Alternative Name":"Bloody Mary",
+        "Invalid":0
+    },
+    {
+        "Name":"Blue Hawaiian",
+        "Alternative Name":"Blue Hawaiian",
+        "Invalid":0
+    },
+    {
+        "Name":"Blue Hawaiian Cocktail",
+        "Alternative Name":"Blue Hawaiian",
+        "Invalid":2
+    },
+    {
+        "Name":"Blue Lagoon",
+        "Alternative Name":"Blue Lagoon",
+        "Invalid":0
+    },
+    {
+        "Name":"Blue Motorcycle",
+        "Alternative Name":"Blue Motorcycle",
+        "Invalid":0
+    },
+    {
+        "Name":"Blueberry Tea Cocktail",
+        "Alternative Name":"Blueberry Tea Cocktail",
+        "Invalid":0
+    },
+    {
+        "Name":"Caipirinha",
+        "Alternative Name":"Caipirinha",
+        "Invalid":0
+    },
+    {
+        "Name":"Caipirinha Erdbeer",
+        "Alternative Name":"Caipirinha Strawberry",
+        "Invalid":0
+    },
+    {
+        "Name":"Campari Fizz",
+        "Alternative Name":"Campari Fizz",
+        "Invalid":0
+    },
+    {
+        "Name":"Campari Orange",
+        "Alternative Name":"Campari Orange",
+        "Invalid":0
+    },
+    {
+        "Name":"Campari-Wodka-Cocktail",
+        "Alternative Name":"Campari Vodka Cocktail",
+        "Invalid":0
+    },
+    {
+        "Name":"Cape Cod",
+        "Alternative Name":"Cape Cod",
+        "Invalid":0
+    },
+    {
+        "Name":"Cape Codder Cocktail",
+        "Alternative Name":"Cape Cod",
+        "Invalid":2
+    },
+    {
+        "Name":"Captain Cola",
+        "Alternative Name":"Captain Cola",
+        "Invalid":0
+    },
+    {
+        "Name":"Casanova",
+        "Alternative Name":"Casanova",
+        "Invalid":0
+    },
+    {
+        "Name":"Classic Bloody Mary",
+        "Alternative Name":"Bloody Mary",
+        "Invalid":2
+    },
+    {
+        "Name":"Classic Old Fashioned",
+        "Alternative Name":"Old Fashioned",
+        "Invalid":2
+    },
+    {
+        "Name":"Classic Spanish Sangria",
+        "Alternative Name":"Sangria",
+        "Invalid":2
+    },
+    {
+        "Name":"Coco Loco",
+        "Alternative Name":"Coco Loco",
+        "Invalid":0
+    },
+    {
+        "Name":"Cosmopolitan",
+        "Alternative Name":"Cosmopolitan",
+        "Invalid":0
+    },
+    {
+        "Name":"Cosmopolitan Cocktail",
+        "Alternative Name":"Cosmopolitan",
+        "Invalid":2
+    },
+    {
+        "Name":"Cuba Libre",
+        "Alternative Name":"Cuba Libre",
+        "Invalid":0
+    },
+    {
+        "Name":"Daiquiri",
+        "Alternative Name":"Daiquiri",
+        "Invalid":0
+    },
+    {
+        "Name":"Dark And Stormy",
+        "Alternative Name":"Dark 'N' Stormy",
+        "Invalid":0
+    },
+    {
+        "Name":"Dirty Martini",
+        "Alternative Name":"Dirty Martini",
+        "Invalid":0
+    },
+    {
+        "Name":"Electric Lemonade",
+        "Alternative Name":"Electric Lemonade",
+        "Invalid":0
+    },
+    {
+        "Name":"Espresso Martini",
+        "Alternative Name":"Espresso Martini",
+        "Invalid":0
+    },
+    {
+        "Name":"Espresso Martini Cocktail",
+        "Alternative Name":"Espresso Martini",
+        "Invalid":2
+    },
+    {
+        "Name":"Exotischer Karottensaft",
+        "Alternative Name":"Exotic Carrot Juice",
+        "Invalid":0
+    },
+    {
+        "Name":"Fireball",
+        "Alternative Name":"Fireball",
+        "Invalid":0
+    },
+    {
+        "Name":"Flamingo",
+        "Alternative Name":"Flamingo",
+        "Invalid":0
+    },
+    {
+        "Name":"French 75",
+        "Alternative Name":"French 75",
+        "Invalid":0
+    },
+    {
+        "Name":"Frozen Margarita",
+        "Alternative Name":"Frozen Margarita",
+        "Invalid":0
+    },
+    {
+        "Name":"Gin Fizz",
+        "Alternative Name":"Gin Fizz",
+        "Invalid":0
+    },
+    {
+        "Name":"Gin Sour",
+        "Alternative Name":"Gin Sour",
+        "Invalid":0
+    },
+    {
+        "Name":"Gin Tonic",
+        "Alternative Name":"Gin Tonic",
+        "Invalid":0
+    },
+    {
+        "Name":"Gluehwein",
+        "Alternative Name":"Gluehwein",
+        "Invalid":0
+    },
+    {
+        "Name":"Grashüpfer",
+        "Alternative Name":"Grasshopper",
+        "Invalid":2
+    },
+    {
+        "Name":"Grashüpfer (GrassHopper)",
+        "Alternative Name":"Grasshopper",
+        "Invalid":2
+    },
+    {
+        "Name":"Grateful Dead Cocktail",
+        "Alternative Name":"Grateful Dead Cocktail",
+        "Invalid":0
+    },
+    {
+        "Name":"Headbanger",
+        "Alternative Name":"Headbanger",
+        "Invalid":0
+    },
+    {
+        "Name":"Horses Neck",
+        "Alternative Name":"Horse'S Neck",
+        "Invalid":0
+    },
+    {
+        "Name":"Hot Buttered Rum Batter",
+        "Alternative Name":"Hot Buttered Rum Batter",
+        "Invalid":0
+    },
+    {
+        "Name":"Hot Toddy",
+        "Alternative Name":"Hot Toddy",
+        "Invalid":0
+    },
+    {
+        "Name":"Hugo",
+        "Alternative Name":"Hugo",
+        "Invalid":0
+    },
+    {
+        "Name":"Hurricane",
+        "Alternative Name":"Hurricane",
+        "Invalid":0
+    },
+    {
+        "Name":"Cold Irish Coffee",
+        "Alternative Name":"Irish Coffee",
+        "Invalid":0
+    },
+    {
+        "Name":"Karibik Cocktail",
+        "Alternative Name":"Caribbean Cocktail",
+        "Invalid":0
+    },
+    {
+        "Name":"Kir Royal",
+        "Alternative Name":"Kir Royal",
+        "Invalid":0
+    },
+    {
+        "Name":"Limetten-Daiquiri",
+        "Alternative Name":"Lime Daiquiri",
+        "Invalid":0
+    },
+    {
+        "Name":"London Fog",
+        "Alternative Name":"London Fog",
+        "Invalid":0
+    },
+    {
+        "Name":"London Mule",
+        "Alternative Name":"London Mule",
+        "Invalid":0
+    },
+    {
+        "Name":"Red Long Island Iced Tea",
+        "Alternative Name":"Long Island Iced Tea",
+        "Invalid":2
+    },
+    {
+        "Name":"Long Island Iced Tea Das Original",
+        "Alternative Name":"Long Island Iced Tea",
+        "Invalid":0
+    },
+    {
+        "Name":"Mai Tai",
+        "Alternative Name":"Mai Tai",
+        "Invalid":0
+    },
+    {
+        "Name":"Malibu Beach",
+        "Alternative Name":"Malibu Beach",
+        "Invalid":0
+    },
+    {
+        "Name":"Mango Daiquiri",
+        "Alternative Name":"Mango Daiquiri",
+        "Invalid":0
+    },
+    {
+        "Name":"Manhattan Cocktail",
+        "Alternative Name":"Manhattan",
+        "Invalid":2
+    },
+    {
+        "Name":"Margarita",
+        "Alternative Name":"Margarita",
+        "Invalid":0
+    },
+    {
+        "Name":"Margarita Cocktail",
+        "Alternative Name":"Margarita",
+        "Invalid":2
+    },
+    {
+        "Name":"Margaritas",
+        "Alternative Name":"Margarita",
+        "Invalid":2
+    },
+    {
+        "Name":"Mariandl",
+        "Alternative Name":"Mariandl",
+        "Invalid":0
+    },
+    {
+        "Name":"Martini Dry",
+        "Alternative Name":"Dry Martini",
+        "Invalid":2
+    },
+    {
+        "Name":"Mexican Sunset",
+        "Alternative Name":"Mexican Sunset",
+        "Invalid":0
+    },
+    {
+        "Name":"Mimosa",
+        "Alternative Name":"Mimosa",
+        "Invalid":0
+    },
+    {
+        "Name":"Mimosa Cocktail",
+        "Alternative Name":"Mimosa",
+        "Invalid":2
+    },
+    {
+        "Name":"Mojito",
+        "Alternative Name":"Mojito",
+        "Invalid":0
+    },
+    {
+        "Name":"Mojitos By The Pitcher",
+        "Alternative Name":"Mojito",
+        "Invalid":2
+    },
+    {
+        "Name":"Moscow Mule",
+        "Alternative Name":"Moscow Mule",
+        "Invalid":0
+    },
+    {
+        "Name":"Moscow Mule Cocktail",
+        "Alternative Name":"Moscow Mule",
+        "Invalid":2
+    },
+    {
+        "Name":"Negroni Cocktail",
+        "Alternative Name":"Negroni",
+        "Invalid":2
+    },
+    {
+        "Name":"Optimist",
+        "Alternative Name":"Optimist",
+        "Invalid":0
+    },
+    {
+        "Name":"Paradise",
+        "Alternative Name":"Paradise",
+        "Invalid":0
+    },
+    {
+        "Name":"Party Punch Iv",
+        "Alternative Name":"Party Punch Iv",
+        "Invalid":0
+    },
+    {
+        "Name":"Pina Colada",
+        "Alternative Name":"Pina Colada",
+        "Invalid":0
+    },
+    {
+        "Name":"Pineapple Margarita",
+        "Alternative Name":"Pineapple Margarita",
+        "Invalid":0
+    },
+    {
+        "Name":"Pink Elephant",
+        "Alternative Name":"Pink Elephant",
+        "Invalid":0
+    },
+    {
+        "Name":"Pink Margarita",
+        "Alternative Name":"Pink Margarita",
+        "Invalid":0
+    },
+    {
+        "Name":"Planters Punch",
+        "Alternative Name":"Planter's Punch",
+        "Invalid":2
+    },
+    {
+        "Name":"Razz",
+        "Alternative Name":"Razz",
+        "Invalid":0
+    },
+    {
+        "Name":"Red Dog",
+        "Alternative Name":"Red Dog",
+        "Invalid":0
+    },
+    {
+        "Name":"Ritz",
+        "Alternative Name":"Ritz",
+        "Invalid":0
+    },
+    {
+        "Name":"Rosaroter Panther",
+        "Alternative Name":"Pink Panther",
+        "Invalid":0
+    },
+    {
+        "Name":"Sangria! Sangria!",
+        "Alternative Name":"Sangria",
+        "Invalid":0
+    },
+    {
+        "Name":"Screw Driver",
+        "Alternative Name":"Screw Driver",
+        "Invalid":2
+    },
+    {
+        "Name":"Screwdriver",
+        "Alternative Name":"Screw Driver",
+        "Invalid":0
+    },
+    {
+        "Name":"Seabreeze",
+        "Alternative Name":"Sea Breeze",
+        "Invalid":0
+    },
+    {
+        "Name":"Sex On The Beach",
+        "Alternative Name":"Sex On The Beach",
+        "Invalid":0
+    },
+    {
+        "Name":"Sidecar",
+        "Alternative Name":"Sidecar",
+        "Invalid":0
+    },
+    {
+        "Name":"Singapore Sling",
+        "Alternative Name":"Singapore Sling",
+        "Invalid":0
+    },
+    {
+        "Name":"Sombrero",
+        "Alternative Name":"Sombrero",
+        "Invalid":0
+    },
+    {
+        "Name":"Sommerlicher Gin Fizz Mit Limette",
+        "Alternative Name":"Gin Fizz",
+        "Invalid":2
+    },
+    {
+        "Name":"Stehaufmännchen",
+        "Alternative Name":"Stinger",
+        "Invalid":2
+    },
+    {
+        "Name":"Strawbeery Margherita",
+        "Alternative Name":"Strawberry Margarita",
+        "Invalid":0
+    },
+    {
+        "Name":"Strawberry Daiquiri",
+        "Alternative Name":"Strawberry Daiquir",
+        "Invalid":0
+    },
+    {
+        "Name":"Strawberry Mojito",
+        "Alternative Name":"Strawberry Mojito",
+        "Invalid":0
+    },
+    {
+        "Name":"Sweet Memories",
+        "Alternative Name":"Sweet Memories",
+        "Invalid":0
+    },
+    {
+        "Name":"Swimming Pool",
+        "Alternative Name":"Swimming Pool",
+        "Invalid":0
+    },
+    {
+        "Name":"Tahiti",
+        "Alternative Name":"Tahiti",
+        "Invalid":0
+    },
+    {
+        "Name":"Tequila Sunrise",
+        "Alternative Name":"Tequila Sunrise",
+        "Invalid":0
+    },
+    {
+        "Name":"The Perfect Margarita",
+        "Alternative Name":"Margarita",
+        "Invalid":2
+    },
+    {
+        "Name":"The Real Long Island Iced Tea",
+        "Alternative Name":"Long Island Iced Tea",
+        "Invalid":0
+    },
+    {
+        "Name":"The Real Mojito",
+        "Alternative Name":"Mojito",
+        "Invalid":2
+    },
+    {
+        "Name":"Tom Collins",
+        "Alternative Name":"Tom Collins",
+        "Invalid":0
+    },
+    {
+        "Name":"Tom Collins Cocktail",
+        "Alternative Name":"Tom Collins",
+        "Invalid":2
+    },
+    {
+        "Name":"Ultimate Frozen Strawberry Margarita",
+        "Alternative Name":"Frozen Strawberry Margarita",
+        "Invalid":0
+    },
+    {
+        "Name":"The Vesper",
+        "Alternative Name":"Vesper",
+        "Invalid":0
+    },
+    {
+        "Name":"Lilette Vesper",
+        "Alternative Name":"Vesper",
+        "Invalid":2
+    },
+    {
+        "Name":"Vesper Martini",
+        "Alternative Name":"Vesper",
+        "Invalid":2
+    },
+    {
+        "Name":"Vodka Martini Cocktail",
+        "Alternative Name":"Vodka Martini",
+        "Invalid":0
+    },
+    {
+        "Name":"Vodka Paralyzer",
+        "Alternative Name":"Vodka Paralyzer",
+        "Invalid":0
+    },
+    {
+        "Name":"Vulcano",
+        "Alternative Name":"Volcano",
+        "Invalid":0
+    },
+    {
+        "Name":"Whiskey Sour",
+        "Alternative Name":"Whiskey Sour",
+        "Invalid":0
+    },
+    {
+        "Name":"Whisky Sour",
+        "Alternative Name":"Whiskey Sour",
+        "Invalid":0
+    },
+    {
+        "Name":"Whisky-Cola",
+        "Alternative Name":"Whiskey Cola",
+        "Invalid":0
+    },
+    {
+        "Name":"White Lady",
+        "Alternative Name":"White Lady",
+        "Invalid":0
+    },
+    {
+        "Name":"White Russian",
+        "Alternative Name":"White Russian",
+        "Invalid":0
+    },
+    {
+        "Name":"Wilde Hilde",
+        "Alternative Name":"Wilde Hilde",
+        "Invalid":0
+    },
+    {
+        "Name":"Winter-Russian Carinthia",
+        "Alternative Name":"White Russian",
+        "Invalid":2
+    },
+    {
+        "Name":"Winterfrische",
+        "Alternative Name":"Winter Freshness",
+        "Invalid":0
+    },
+    {
+        "Name":"Wodka Apple",
+        "Alternative Name":"Vodka Apple",
+        "Invalid":0
+    },
+    {
+        "Name":"Wodka Gimlet",
+        "Alternative Name":"Vodka Gimlet",
+        "Invalid":0
+    },
+    {
+        "Name":"Wodka Martini",
+        "Alternative Name":"Vodka Martini",
+        "Invalid":2
+    },
+    {
+        "Name":"Wodka Sour",
+        "Alternative Name":"Vodka Sour",
+        "Invalid":0
+    },
+    {
+        "Name":"Zombie",
+        "Alternative Name":"Zombie",
+        "Invalid":0
+    }
+]

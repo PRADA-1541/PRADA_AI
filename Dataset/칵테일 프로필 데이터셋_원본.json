@@ -1,0 +1,4260 @@
+[
+    {
+        "ID":10020,
+        "Name":"Absinthe Margarita",
+        "AverageRating":"4.3",
+        "Ingredients":[
+            "2 cl Zitronensaft ",
+            "2 cl Tequila ",
+            "2 cl Cointreau ",
+            "2 cl Absinth "
+        ],
+        "Directions":[
+            "Absinth, Tequila und Zitronensaft in einem Rührglas mit Eiswürfeln gut vermischen.",
+            "Danach in ein Glas seihen und mit Cointreau auffüllen."
+        ],
+        "Description":"Das Rezept für den Absinth Margarita ist eine gelungene Abwechslung zu herkömmlichen Margaritas.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Cointreau Cocktails",
+            "Würzig",
+            "sehr stark"
+        ]
+    },
+    {
+        "ID":10297,
+        "Name":"Absinthe Sour",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "4 cl Absinth ",
+            "4 cl Zitronensaft ",
+            "2 EL Zucker "
+        ],
+        "Directions":[
+            "Alle Zutaten mit Eis im Shaker gut schütteln.",
+            "Durch ein Barsieb in eine Cocktailschale abgießen."
+        ],
+        "Description":"Sauer und leicht süßlich, stark und trocken. So muss ein Absinth Sour Cocktail schmecken. Hier ist die optimale Mixtur.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Sauer",
+            "Toxic",
+            "Cocktails mit Absinth"
+        ]
+    },
+    {
+        "ID":10159,
+        "Name":"Alexander",
+        "AverageRating":"4.3",
+        "Ingredients":[
+            "4 cl Schlagobers ",
+            "3 cl Gin ",
+            "2 cl Creme de Cacao (weiss) ",
+            "1 Stk Ananasspalte ",
+            "1 Prise Muskatnuss, gemahlen "
+        ],
+        "Directions":[
+            "Im Shaker auf Eiswürfel die Zutaten kräftig schütteln.",
+            "In eine Cocktailschale abseihen, etwas Muskatnuss darüberreiben und mit einer Ananasspalte garnieren."
+        ],
+        "Description":"Der Alexander Cocktail wird mit Muskatnuss verfeinert. Das macht ihn unverwechselbar im Geschmack.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Cremig",
+            "Dinner Cocktails",
+            "Gin Cocktails",
+            "Normal",
+            "Ananassaft"
+        ]
+    },
+    {
+        "ID":10136,
+        "Name":"Alexander",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "3 cl Schlagobers ",
+            "2 cl Creme de Cacao ",
+            "2 cl Cognac oder Weinbrand "
+        ],
+        "Directions":[
+            "Alles in einem Cocktail-Shaker mit etwas Eis gut mixen, damit alles schön cremig wird.",
+            "In ein Cocktail-Glas füllen und servieren."
+        ],
+        "Description":"Bei diesem Cocktail Alexander Rezept wird es ganz schön cremig.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Cremig",
+            "Weinbrand & Cognac"
+        ]
+    },
+    {
+        "ID":10391,
+        "Name":"Alexander",
+        "AverageRating":"3.9",
+        "Ingredients":[
+            "125 ml Schlagobers ",
+            "75 ml Amaretto ",
+            "3 TL Kakaopulver ",
+            "2 Stk Eiswürfel "
+        ],
+        "Directions":[
+            "Schlagobers und Amaretto vermischen. Kakaopulver unterrühren.",
+            "Eiswürfel in ein Cocktailglas geben und Alexander einrühren."
+        ],
+        "Description":"Dieser Alexander Drink kommt immer gut an und schmeckt herrlich cremig. Das Rezept zum Genießen.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Liköre",
+            "Cocktails für Dates",
+            "Cremig"
+        ]
+    },
+    {
+        "ID":10657,
+        "Name":"Alexander",
+        "AverageRating":"4.3",
+        "Ingredients":[
+            "1 cl Armagnac ",
+            "2 cl Creme de Cacao (braun) ",
+            "2 cl Schlagobers ",
+            "4 Stk Eiswürfel "
+        ],
+        "Directions":[
+            "Einige Eiswürfel in den Shaker geben und die anderen Zutaten zugießen. Kräftig schütteln, dann in eine Cocktailschale abseihen."
+        ],
+        "Description":"Das Rezept für diesen süßen, cremigen Cocktail Alexander de Cacao kommt aus dem Land der guten französischen Weine.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Cremig",
+            "Weinbrand & Cognac",
+            "Dinner Cocktails",
+            "Aperitif Rezepte",
+            "Normal",
+            "Süß"
+        ]
+    },
+    {
+        "ID":10303,
+        "Name":"Amaretto Sour",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "5 cl Amaretto ",
+            "3 cl Orangensaft ",
+            "3 cl Zitronensaft "
+        ],
+        "Directions":[
+            "Alle Zutaten in einen Cocktailshaker geben, Eiswürfel hinzufügen und gut schütteln.",
+            "Ein Tumblerglas vorbereiten und den geshakten Drink auf einigen frischen Eiswürfeln durch ein Barsieb einfüllen.",
+            "Als Deko kommt eine Zitronenscheibe in das Glas."
+        ],
+        "Description":"Zur Abwechslung ist ein Amaretto Sour genau das Richtige. Das Rezept mit dem extra Kick!",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Light-Drink",
+            "Sauer",
+            "Cocktails mit Amaretto"
+        ]
+    },
+    {
+        "ID":10183,
+        "Name":"Americano",
+        "AverageRating":"4.3",
+        "Ingredients":[
+            "4 cl Vermouth Rosso ",
+            "3 cl Campari ",
+            "1 Schuss Sodawasser ",
+            "1 Schb Orange "
+        ],
+        "Directions":[
+            "Die Orangenscheibe mit ein paar Eiswürfeln in einen Tumbler geben.",
+            "Vermouth und Campari hineingießen und nur kurz verrühren. Nach Geschmack mit Sodawasser auffüllen."
+        ],
+        "Description":"Ein süßlicher Cocktail ist der Americano, den Sie mit diesem Rezept rasch und einfach zubereiten können.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Liköre",
+            "Bitter"
+        ]
+    },
+    {
+        "ID":10103,
+        "Name":"Angel Blue",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "3 cl Wodka ",
+            "3 cl Blue Curaçao ",
+            "10 cl Zitronenlimo ",
+            "1 Stk Zitronenscheibe "
+        ],
+        "Directions":[
+            "Sämtliche Zutaten im Shaker mit Eiswürfeln mixen und in ein Cocktailglas abseihen die Zitronenlimonade hinzufügen und zur Dekoration eine Zitronenscheibe ans Glas hängen."
+        ],
+        "Description":"Mit Curaçao und Wodka wird das Getränk schön blau. Der Angel Blue Cocktail ist ein süffiges Getränk - nicht nur für Engel.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Wodka Cocktails",
+            "Spritzig",
+            "sehr stark"
+        ]
+    },
+    {
+        "ID":10815,
+        "Name":"Aperol Fizz",
+        "AverageRating":"4.4",
+        "Ingredients":[
+            "4 cl Aperol ",
+            "5 Stk Eiswürfel ",
+            "1 Schuss Sodawasser zum Auffüllen ",
+            "0.5 Stk Zitrone (Saft) ",
+            "1 TL Zuckersirup ",
+            "0.5 EL Kirschsirup "
+        ],
+        "Directions":[
+            "Aperol, Zitronensaft und Zucker- und Kirschsirup mit Eis im Shaker gut schütteln, abseihen und auf frische Eiswürfel in ein Longdrinkglas abgiessen. Mit Sodawasser auffüllen.",
+            "Nach Lust und Laune mit feinen Orangenscheiben und\/oder Zitronenscheiben im Glas garnieren."
+        ],
+        "Description":"Aperol ist ein Likör aus Italien und wird hier mit Soda kombiniert. Der Aperol Fizz Cocktail ist das In-Getränk des Sommers!",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Liköre",
+            "Party Cocktails Rezepte",
+            "Spritzig",
+            "Campari Cocktails",
+            "Normal",
+            "Zitronensaft",
+            "Cocktails mit Läuterzucker",
+            "Aperol"
+        ]
+    },
+    {
+        "ID":10583,
+        "Name":"Aperol Lillet",
+        "AverageRating":"3.7",
+        "Ingredients":[
+            "5 Stk Eiswürfel ",
+            "1 cl Aperol ",
+            "5 cl Lillet ",
+            "100 ml Schweppes Russian Wild Berry ",
+            "2 Stk Orangenscheiben ",
+            "1 Zweig Rosmarin "
+        ],
+        "Directions":[
+            "Für den Aperol-Lillet zuerst die Eiswürfel ins Glas geben. Die Orangenscheiben hineingeben.",
+            "Den Aperol, Lillet und Schweppes Wild Berry drüber gießen.",
+            "Einen Rosmarinzweig ins Glas stecken und sofort servieren."
+        ],
+        "Description":"Der Aperol-Lillet besteht aus nur 3 Zutaten, doch aufpimpen kann man den Drink immer - hier das schnelle Rezept.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Fruchtig",
+            "Light-Drink"
+        ]
+    },
+    {
+        "ID":10756,
+        "Name":"Aperol Sour",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "5 cl Aperol ",
+            "3 cl Zitronensaft (frisch gepresst) ",
+            "2 cl Orangensaft (frisch gepresst) ",
+            "1 cl Zuckersirup "
+        ],
+        "Directions":[
+            "Die Zutaten in einem Shaker gut shaken.",
+            "Ein Tumbler-Glas vorbereiten und mit 2-3 Eiswürfel füllen. Danach den geshakten Drink über ein Barsieb vorsichtig ins Glas gießen.",
+            "Mit einer halben Orangenscheibe im Glas garnieren."
+        ],
+        "Description":"Ein tolles Sommergetränk ist der Aperol Sour. Das Cocktail Rezept wird mit Eiswürfel und einer Orangenscheibe im Glas serviert.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Fruchtig",
+            "Light-Drink",
+            "Sauer",
+            "Cocktails mit Läuterzucker",
+            "Sour Cocktails",
+            "Aperol"
+        ]
+    },
+    {
+        "ID":10090,
+        "Name":"Apple Juice Soda Gin",
+        "AverageRating":"4.4",
+        "Ingredients":[
+            "2 cl Gin ",
+            "120 ml Soda ",
+            "120 ml Apfelsaft "
+        ],
+        "Directions":[
+            "In ein Tumblerglas den Gin einfüllen.",
+            "Mit Soda und Apfelsaft 1:1 aufgießen.",
+            "An den Glasrand ein oder zwei Stück Apfelchips stecken und serviern."
+        ],
+        "Description":"Ein Apfelsaft-Soda-Gin schmeckt in gemütlicher Runde garantiert. Das Rezept mit Apfelchips servieren.",
+        "Keywords":[
+            "Gin Cocktails",
+            "Cocktail Rezepte",
+            "Cocktails für Dates",
+            "Fruchtig",
+            "Light-Drink",
+            "Cocktails mit Apfelsaft"
+        ]
+    },
+    {
+        "ID":10272,
+        "Name":"Apricot Sunset",
+        "AverageRating":"4.2",
+        "Ingredients":[
+            "2 cl Apricot Brandy ",
+            "3 cl Sekt ",
+            "3 cl Rum ",
+            "2 Stk Eiswürfel "
+        ],
+        "Directions":[
+            "Zutaten Apricot Brandy, Rum und Eiswürfel verrühren, in ein Sektglas abseihen und anschließend mit Sekt auffüllen.",
+            "Mit zwei dünne Aprikosenspalten im Glas garnieren."
+        ],
+        "Description":"Apricot Brandy und Sekt sind die Hauptzutaten zu diesem Cocktail, die beim Apricot Sunset die Sonne im Herzen aufgehen lassen.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Spritzig",
+            "Hochzeits Cocktails",
+            "Sekt & Champagner Cocktails",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10644,
+        "Name":"B-52",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "2 cl Kaffeelikör ",
+            "2 cl Baileys ",
+            "1 cl Rum "
+        ],
+        "Directions":[
+            "Die Zutaten vorsichtig über einen Löffelrücken in ein Aperitifglas gießen - zuerst den Kaffeelikör dann den Baileys und zum Schluss den Rum (hochprozentig).",
+            "Langsam einfüllen, damit sich die Zutaten nicht vermischen und somit drei verschiedene Schichten im Glas entstehen.",
+            "Den fertigen Drink mit einem Feuerzeug anzünden, sofort servieren, Strohalm nicht vergessen damit man sich nicht verbrennt (oder man bläst die Flamme vorher aus)."
+        ],
+        "Description":"Die 3 abgegrenzten Schichten sind das Markenzeichen dieses Cocktails. Beim Zubereiten des B52 braucht es Fingerspitzengefühl.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Cocktails für Dates",
+            "Cremig",
+            "Rum Cocktails",
+            "sehr stark",
+            "Süß",
+            "Cocktails mit Baileys",
+            "Cocktails mit Kaffeelikör"
+        ]
+    },
+    {
+        "ID":10393,
+        "Name":"B-52",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "1 cl Kahlúa ",
+            "1 cl Bailey’s Irish Cream ",
+            "1 cl Cointreau "
+        ],
+        "Directions":[
+            "Zuerst den Kahlua in ein Schnapsglas geben, dann mit einem Löffel den Bailey`s hinzugeben. Zum Schluss den Cointreau oben auffüllen (am besten über eine Löffelrücken laufen lassen), so dass drei Schichten entstehen.",
+            "Anzünden und mit kurzem Trinkhalm servieren."
+        ],
+        "Description":"Der brennende Shooter mit echtem Kahlúa Rum und Cointreau haut auch die stärksten Kerle um. B-52 II ist nichts für Anfänger!",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Rum Cocktails",
+            "sehr stark",
+            "Süß",
+            "Digestif Rezepte"
+        ]
+    },
+    {
+        "ID":10661,
+        "Name":"Bacardi",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "1 cl Zuckersirup ",
+            "2 cl Zitronensaft ",
+            "5 cl weißer Rum ",
+            "1 Spr Grenadine "
+        ],
+        "Directions":[
+            "Bacardi, Grenadine, Zitronensaft und Zuckersirup im Shaker auf viel Eis kräftig schütteln.",
+            "In eine gekühlte Cocktailschale gießen."
+        ],
+        "Description":"Ein herrliches Cocktail Rezept. Der Bacardi Cocktail sollte auf keiner Party fehlen.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Fruchtig",
+            "Light-Drink",
+            "Sauer",
+            "Rum Cocktails",
+            "Zitronensaft",
+            "Cocktails mit Läuterzucker"
+        ]
+    },
+    {
+        "ID":10552,
+        "Name":"Bahama Mama",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "4 cl Rum (weiß) ",
+            "2 cl Kokoslikör ",
+            "2 cl Rum (braun) ",
+            "4 cl Ananassaft ",
+            "1 cl Zitronensaft (frisch gepresst) ",
+            "4 cl Orangensaft ",
+            "1 Schuss Grenadinesirup "
+        ],
+        "Directions":[
+            "Ein Fancyglas oder Longdrink vorbereiten. Anschließend alle Zutaten mit Eis im Cocktailshaker gut shaken.",
+            "Nun den fertig gemixten Cocktail durch ein Barsieb, in das beliebige Glas seihen.",
+            "Für die Deko kommt eine Zitronenscheibe oder ein Stück der Schale, schön rund abgeschnitten an das Glas."
+        ],
+        "Description":"Ein Bahama Mama ist fruchtig und schmeckt. Summer feeling ist bei diesem Rezept Vorprogrammiert. Lassen sie sich verführen!",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Fruchtig",
+            "Rum Cocktails",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10025,
+        "Name":"Bahama Mama",
+        "AverageRating":"4.7",
+        "Ingredients":[
+            "1 crushed icecup ",
+            "1 orange juicefluid ounce ",
+            "1 pineapple juicefluid ounce ",
+            "½ rumfluid ounce ",
+            "½ coconut-flavored rumfluid ounce ",
+            "½ grenadine syrupfluid ounce "
+        ],
+        "Directions":[
+            "Combine crushed ice, orange juice, pineapple juice, regular rum, coconut-flavored rum, and grenadine in a blender. Blend until the drink's consistency is slushy."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10720,
+        "Name":"Bellini",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "0.5 Stk Pfirsich ",
+            "1 Schuss Prosecco ",
+            "1 Spr Pfirsichlikör "
+        ],
+        "Directions":[
+            "Das Pfirsichstück im Mixer pürieren und durch ein Barsieb in ein Rührglas streichen.",
+            "Das Fruchtpüree mit dem Likör und dem eiskalten Prosecco vorsichtig verrühren.",
+            "Als weitere Dekoration für einen perfekten Bellini kann auch ein Pfirsichstück ins Glas gegeben werden."
+        ],
+        "Description":"Das Herzstück des Bellini ist das pürierte Pfirsichstück. Ein klassischer Cocktail mit Prosecco, der an Dolce Vita erinnert.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Cocktails für Dates",
+            "Spritzig",
+            "Fruchtig",
+            "Aperitif Rezepte",
+            "Sekt & Champagner Cocktails",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10412,
+        "Name":"Between The Sheets",
+        "AverageRating":"4.2",
+        "Ingredients":[
+            "1 cl Zitronensaft ",
+            "2 cl Cointreau ",
+            "2 cl weißer Rum ",
+            "2 cl Brandy "
+        ],
+        "Directions":[
+            "Alle Zutaten Brandy, Cointreau, Rum und Zitronensaft mit einigen Eiswürfeln kräftig schütteln.",
+            "Anschließend auf etwas Eis in ein Cocktailglas abseihen. Mit einer Cocktailkirsche im Glas garnieren."
+        ],
+        "Description":"Beim Between the Sheets wird an Alkohol nicht gespart. Aber die Mischung macht einen guten Cocktail aus. Bei diesem Rezept kann nichts schiefgehen.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Weinbrand & Cognac",
+            "Cointreau Cocktails",
+            "Toxic",
+            "Cocktails mit Bacardi Rum",
+            "Zitronensaft"
+        ]
+    },
+    {
+        "ID":10822,
+        "Name":"Black Russian",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "4 cl Wodka ",
+            "2 cl Kaffeelikör "
+        ],
+        "Directions":[
+            "In ein Tumbler Glas 2 Eiswürfel geben, die Zutaten Wodka und Kaffeelikör hineingießen, nur noch verrühren und servieren."
+        ],
+        "Description":"Ein Cocktail, der nur aus 2 Zutaten besteht und vielleicht gerade deshalb so gut schmeckt ist der Black Russian.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Wodka Cocktails",
+            "sehr stark",
+            "Kaffee Rezepte",
+            "Süß",
+            "Cocktails mit Kaffeelikör"
+        ]
+    },
+    {
+        "ID":10336,
+        "Name":"Blackberry Mojito",
+        "AverageRating":"4.7",
+        "Ingredients":[
+            "4 Stk Eiswürfel ",
+            "1 cl Bacardi Rum ",
+            "0.5 Stk Limette (ausgepresst) ",
+            "3 Stk Brombeere ",
+            "1 Bl Minze ",
+            "1 Stk Limettenscheibe ",
+            "3 Stk Brombeere "
+        ],
+        "Directions":[
+            "In ein passendes Glas 3 Brombeeren hineingeben und mit dem ausgepressten Limettensaft übergießen. Alles mit einem Stößel zerdrücken.",
+            "Eiswürfel ins Glas geben. Den Rum über die Eiswürfel gießen. Mit Wasser auffüllen.",
+            "Für die Deko Limettenspalten, Brombeeren und Minze ins Glas geben."
+        ],
+        "Description":"Ein Blackberry Mojito sieht grandios aus und schmeckt hervorragend, ein toller Drink für laue Abende mit Freunden.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Fruchtig",
+            "Rum Cocktails",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10031,
+        "Name":"Bloody Mary",
+        "AverageRating":"4.4",
+        "Ingredients":[
+            "1 sea salt, or as neededteaspoon ",
+            " ice cubes, as needed ",
+            "¾ spicy tomato-vegetable juice cocktail (such as V8®)cup ",
+            "1 vodka(1.5 fluid ounce) jigger ",
+            "2 Worcestershire saucedashes ",
+            "1 hot pepper sauce (such as Tabasco®)dash ",
+            " salt and ground black pepper to taste ",
+            "1 celerystalk ",
+            "2 garlic-stuffed green olives, threaded onto a toothpick "
+        ],
+        "Directions":[
+            "Pour salt onto a small plate. Moisten the rim of a glass and press into the salt. Fill the glass with ice cubes.",
+            "Fill a cocktail shaker with ice cubes; add vegetable juice cocktail, vodka, Worcestershire sauce, hot pepper sauce, salt, and pepper. Cover and shake until the outside of shaker has frosted, about 20 seconds.",
+            "Strain Bloody Mary into the prepared glass and garnish with celery stalk and olives."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10286,
+        "Name":"Bloody Mary",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "2 cl Wodka ",
+            "6 cl Tomatensaft ",
+            "2 cl Zitronensaft ",
+            "1 Dash Tabasco ",
+            "1 Dash Worcestersauce ",
+            "1 Prise Pfeffer ",
+            "1 Prise Salz "
+        ],
+        "Directions":[
+            "Alle Zutaten wie Wodka, Tomatensaft, Zitronensaft, Tabasco, Worcestersauce, Salz und Pfeffer in ein Rührglas geben und gut vermischen danach in ein Old-Fashioned-Glas gießen.",
+            "Mit einer Zitronen- oder Limettenscheibe garnieren."
+        ],
+        "Description":"Der amerikanische Klassiker aus Wodka und Tomatensaft ist nach wie vor einer der bekanntesten Cocktails überhaupt. Bloody Mary forever.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Wodka Cocktails",
+            "Würzig",
+            "Normal",
+            "Zitronensaft"
+        ]
+    },
+    {
+        "ID":10044,
+        "Name":"Blue Hawaiian",
+        "AverageRating":"4.7",
+        "Ingredients":[
+            "1 crushed icecup ",
+            "2 pineapple juicefluid ounces ",
+            "1 light rumfluid ounce ",
+            "1 blue Curacao liqueurfluid ounce ",
+            "1 cream of coconutfluid ounce ",
+            "1 pineapple slice ",
+            "1 maraschino cherry "
+        ],
+        "Directions":[
+            "Combine crushed ice, pineapple juice, rum, blue Curacao, and cream of coconut in a blender.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Blend on high speed until smooth.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Pour into a chilled highball glass. Garnish with a slice of pineapple and a maraschino cherry."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10498,
+        "Name":"Blue Hawaiian",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "4 cl Rum (weiß) ",
+            "2 cl Blue Curacao ",
+            "4 cl Cream of Coconut ",
+            "9 cl Ananassaft "
+        ],
+        "Directions":[
+            "In einem Shaker alle Zutaten mit Crushed Ice mixen.",
+            "In einem Fancyglas einige frische Eiswürfel einfüllen und den Drink in das Glas abseihen. (Durch das Shaken entsteht etwas Schaum.)",
+            "Als Deko ein Stück Ananas an den Glasrand geben."
+        ],
+        "Description":"Dieser Cocktail ist eine Mischung aus Pina Colada und Swimming Pool. Ein tolles Rezept ohne Obers.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Light-Drink",
+            "Rum Cocktails"
+        ]
+    },
+    {
+        "ID":10726,
+        "Name":"Blue Lagoon",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "3 cl Wodka ",
+            "3 cl Blue Curacao ",
+            "0.5 Stk Zitrone (ausgepresster Saft) ",
+            "8 Stk Eiswürfel ",
+            "1 Schuss Wasser zum Auffüllen ",
+            "1 Stk Zitronenspalte für die Deko "
+        ],
+        "Directions":[
+            "In einen Shaker den Wodka, Blue Curacao und den Zitronensaft einfüllen, kurz mixen. Dann die Eiswürfel zugeben, kräftig mixen.",
+            "Alles in ein gekühltes Ballonglas füllen und mit Wasser auffüllen. Mit einer Zitronenspalte am Glasrand dekorieren und servieren."
+        ],
+        "Description":"Das Cocktail Rezept Blaue Lagune wird mit Wodka und Blue Curacao zubereitet, ein beliebter Drink wegen seiner himmlisch blauen Farbe.",
+        "Keywords":[
+            "Wodka Cocktails",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch"
+        ]
+    },
+    {
+        "ID":10372,
+        "Name":"Blue Lagoon",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "8 cl Ananassaft ",
+            "4 cl Rum, weiß ",
+            "3 cl Blue Curacao ",
+            "1 Stk Ananas "
+        ],
+        "Directions":[
+            "2-3 Eiswürfel in ein Longdrinkglas geben. Den Ananassaft und den Rum dazugießen mit einem Barlöffel umrühren und den Blue Curacao vorsichtig zum Drink gießen und nicht mehr umrühren.",
+            "Eine spiralenförmige Zitronenschale an den Glasrand stecken als Deko."
+        ],
+        "Description":"Der Cocktail mit Rum erinnert an Karibik und Sonne. Wie man den Blue Lagoon perfekt mixt steht hier.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Rum Cocktails",
+            "Exotische Cocktailrezepte",
+            "Normal",
+            "Cocktails mit Curacao",
+            "Cocktails mit Bacardi Rum",
+            "Ananassaft"
+        ]
+    },
+    {
+        "ID":10021,
+        "Name":"Blue Motorcycle",
+        "AverageRating":"4.2",
+        "Ingredients":[
+            "2 ice cubescups ",
+            "¾ vodkafluid ounce ",
+            "¾ tequilafluid ounce ",
+            "¾ rumfluid ounce ",
+            "¾ ginfluid ounce ",
+            "¾ Blue Curacaofluid ounce ",
+            "1 sour mixdash ",
+            "2 lemon-lime flavored carbonated beveragefluid ounces ",
+            "1 fresh lemonslice "
+        ],
+        "Directions":[
+            "Fill a cocktail shaker with ice. Combine vodka, tequila, rum, gin, Blue Curacao, sour mix, and lemon-lime soda in the cocktail shaker. Shake vigorously to get a frothy head on the drink.",
+            "Pour the contents of the shaker, including ice, into a tall bar glass and garnish with slice of lemon."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10057,
+        "Name":"Blueberry Tea Cocktail",
+        "AverageRating":"5.0",
+        "Ingredients":[
+            "1 amaretto liqueurfluid ounce ",
+            "1 orange liqueur (such as Grand Marnier®)fluid ounce ",
+            "4 orange pekoe tea, or more to tastefluid ounces "
+        ],
+        "Directions":[
+            "Combine amaretto and orange liqueurs in a brandy snifter or glass. Pour in hot tea."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10562,
+        "Name":"Caipirinha",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "6 cl Cachaca (Pitù) ",
+            "1 Stk Limette ",
+            "2 EL Rohrzucker (braun) ",
+            "5 EL Crushed Ice "
+        ],
+        "Directions":[
+            "Die beiden Limettenenden der unbehandelten Limetten abschneiden, die Frucht achteln und in ein Tumbler-Glas geben.",
+            "Danach den braunen Zucker drüber verteilen und die Limettenstücke mit einem Stößel leicht ausdrücken.",
+            "Zum Schluss Cachaca dazugeben und das Glas mit Crushed Ice auffüllen - alles gut durchrühren.",
+            "Eventuell noch einen Schuss Soadwasser hinzufügen und den Cocktail mit einem Trinkhalm servieren."
+        ],
+        "Description":"Der Caipirinha ist ein brasilianisches Kultgetränk mit Cachaça & Limettensaft. Ein erfrischendes Getränk, das bei keiner Party fehlen darf.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Sauer",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10696,
+        "Name":"Caipirinha Strawberry",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "2 EL weißer Rohrzucker ",
+            "6 cl Cachaça ",
+            "0.5 gl Crushed Ice ",
+            "4 Stk Erdbeeren ",
+            "0.5 Stk Limette "
+        ],
+        "Directions":[
+            "Für den Caipirinha Erdbeer Cocktail zuerst die Erdbeeren in kleine Stücke schneiden. Die halbe Limette nochmals halbieren.",
+            "Die Limettenstücke in ein Caipirinha-Glas geben, Rohrzucker drauf und mit einem Holzstößel zerdrücken.",
+            "Etwas Crushed Ice, Cachaca und Erdbeerstücke darauf geben und alles vermengen.",
+            "Das Glas mit Crushed Ice bis zum Glasrand auffüllen. Nach Wunsch eine Erdbeere an den Glasrand stecken und servieren."
+        ],
+        "Description":"Das Caipirinha Erdbeer Rezept schmeckt herrlich fruchtig und ist im Sommer ein absolut toller Cocktail für eine gemütliche Runde.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Fruchtig",
+            "Light-Drink"
+        ]
+    },
+    {
+        "ID":10252,
+        "Name":"Campari Fizz",
+        "AverageRating":"4.1",
+        "Ingredients":[
+            "120 ml Sekt ",
+            "30 ml Campari ",
+            "1 Stk Orangenspalte "
+        ],
+        "Directions":[
+            "Die Orangenspalte in ein Sektglas geben. Campari eingießen und mit Sekt auffüllen."
+        ],
+        "Description":"Dieser Campari Fizz schmeckt super spritzig und ist für viele ein tolles Rezept. Der Drink sieht mit einer Orangenspalte wahnsinnig gut aus.",
+        "Keywords":[
+            "Campari Cocktails",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Spritzig"
+        ]
+    },
+    {
+        "ID":10274,
+        "Name":"Campari Orange",
+        "AverageRating":"4.4",
+        "Ingredients":[
+            "12 cl Orangensaft ",
+            "4 cl Campari ",
+            "5 Stk Eiswürfel ",
+            "1 Schb Orange "
+        ],
+        "Directions":[
+            "In einem Longdrinkglas Eiswürfel bis zur Hälfte des Glases einfüllen.",
+            "Campari in das Glas eingießen, mit Orangensaft auffüllen und mit einem Barlöffel umrühren.",
+            "Mit einer Orangenscheibe und schwarzem Trinkhalm garnieren und servieren."
+        ],
+        "Description":"Der Campari Orange ist ein erfrischender Cocktail, der sich für jede Sommerparty ideal als Aperitif eignet.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Cocktails für Dates",
+            "Campari Cocktails",
+            "Aperitif Rezepte",
+            "Normal",
+            "Süß",
+            "Cocktails mit Orangensaft"
+        ]
+    },
+    {
+        "ID":10645,
+        "Name":"Campari Vodka Cocktail",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "3 cl Campari ",
+            "2 cl Wodka ",
+            "1 Stk Orangenschale ",
+            "1 Spr Angostura "
+        ],
+        "Directions":[
+            "Den Shaker mit 5 Eiswürfeln füllen. Angostura, Campari und Wodka dazugeben und alles für ca. 15 Sekunden kräftig schütteln.",
+            "Den Drink durch ein Barsieb in eine Cocktailschale gießen und mit einer Orangenschale garnieren."
+        ],
+        "Description":"Ein rasch zubereiteter und schmackhafter, etwas kräftigerer Cocktail ist der Campari-Wodka-Cocktail.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Wodka Cocktails",
+            "Cocktails für Dates",
+            "Campari Cocktails",
+            "Fruchtig",
+            "sehr stark",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10013,
+        "Name":"Cape Cod",
+        "AverageRating":"4.7",
+        "Ingredients":[
+            " ice cubes ",
+            "1 ½ vodkafluid ounces ",
+            "⅓ cranberry juicecup ",
+            "1 limewedge "
+        ],
+        "Directions":[
+            "Place ice in a short tumbler or old fashioned glass; pour in vodka and cranberry juice. Squeeze lime wedge into drink, then add it to the glass. Serve."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10043,
+        "Name":"Cape Cod",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "1 ½ vodkafluid ounces ",
+            "5 cranberry juicefluid ounces ",
+            "1 ice cubescup ",
+            "1 lime wedge for garnish "
+        ],
+        "Directions":[
+            "Pour vodka and cranberry juice into a highball glass filled with ice; stir well.",
+            "Garnish with a lime wedge."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10405,
+        "Name":"Captain Cola",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "4 cl Captain Morgan Original Spiced ",
+            "14 cl Coca Cola ",
+            "2 Stk Eiswürfel "
+        ],
+        "Directions":[
+            "Captain Morgan und Cola in ein Glas füllen, Eiswürfel hinzugeben und mit einer Zitrone als Glasdekoration servieren."
+        ],
+        "Description":"Ein wunderbarer Captain Cola schmeckt immer und passt zu jedem Anlaß. Nebenbei ist er schnell in der Zubereitung.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Rum Cocktails"
+        ]
+    },
+    {
+        "ID":10551,
+        "Name":"Caribbean Cocktail",
+        "AverageRating":"4.4",
+        "Ingredients":[
+            "3 cl dunkler Rum ",
+            "3 cl Kaffeelikör ",
+            "2 cl Kokosnuss Sirup ",
+            "3 cl Ananassaft ",
+            "1 cl Zitronensaft "
+        ],
+        "Directions":[
+            "Ananas- und Zitronensaft, dunkler Rum, Kaffeelikör und Kokosnusssirup werden im Shaker mit viel zerstossenem Eis kräftig geschüttelt.",
+            "Die Flüssigkeit in halbe leere Kokosnuss Schalen füllen und mit einem Ananasstück und Strohhalm servieren."
+        ],
+        "Description":"Dieser Cocktail schmeckt süß und fruchtig. Der Karibik Cocktail wird Sie zum Träumen bringen.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Fruchtig",
+            "Rum Cocktails",
+            "Exotische Cocktailrezepte",
+            "Normal",
+            "Süß",
+            "Cocktails mit Kaffeelikör",
+            "Zitronensaft",
+            "Ananassaft"
+        ]
+    },
+    {
+        "ID":10247,
+        "Name":"Casanova",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "7 cl Cinzano Extra Dry ",
+            "100 g Erdbeeren ",
+            "1 Stk Limette (ausgepresster Saft) ",
+            "2 TL Streuzucker ",
+            "1 Stk Erdbeeren in Scheiben "
+        ],
+        "Directions":[
+            "Die Erdbeeren waschen vom Grün befreien und pürieren. Limette auspressen und zum Erdbeerpüree zufügen, umrühren. Den Zucker einrieseln lassen, nochmals umrühren.",
+            "Alles in ein hohes Tumblerglas füllen, das Glas mit frischen Erdbeerstücken füllen. Zum Schluss den Cinzano Extra Dry einfüllen."
+        ],
+        "Description":"Das Cocktailrezept Casanova verbreitet Summerfeeling. Ein tolles Rezept eisgekühlt.",
+        "Keywords":[
+            "Cocktails mit Cinzano",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Fruchtig",
+            "Aperitif Rezepte",
+            "Exotische Cocktailrezepte",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10537,
+        "Name":"Coco Loco",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "4 cl weißer Rum ",
+            "3 cl Gin ",
+            "3 cl Tequila ",
+            "2 cl Batida de Coco ",
+            "5 cl Cream of Coconut ",
+            "2 cl Zitronensaft ",
+            "15 cl Ananassaft "
+        ],
+        "Directions":[
+            "Ananassaft, Batida de Coco, Cream of Coconut, Gin, Tequila, weißer Rum und Zitronensaft mit einigen Eiswürfel in den Shaker füllen und kräftig schütteln.",
+            "Den Drink durch das Barsieb in ein Ballonglas mit Crushed Ice abseihen.",
+            "Mit einem Trinkhalm servieren und einer Ananas oder Erdbeere am Glasrand dekorieren."
+        ],
+        "Description":"Der Coco Loco Cocktail ist ein perfekter Sommercocktail. Ob an der Bar oder direkt am Strand, dieser Cocktail hebt die Stimmung.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Fruchtig",
+            "Rum Cocktails",
+            "sehr stark",
+            "Cocktails mit Bacardi Rum",
+            "Zitronensaft",
+            "Ananassaft",
+            "Batida Cocktails"
+        ]
+    },
+    {
+        "ID":10245,
+        "Name":"Coco Loco",
+        "AverageRating":"4.3",
+        "Ingredients":[
+            "1 cl Pfefferminzsirup ",
+            "3 cl Kokossirup ",
+            "3 cl Cachaca ",
+            "4 cl Ananassaft "
+        ],
+        "Directions":[
+            "Den Ananassaft gemeinsam mit dem Cachaca, dem Kokos- und Pfefferminzsirup in einen Shaker füllen und Eiswürfel dazu geben.",
+            "Gut schütteln und in ein Longdrinkglas auf crushed Ice abseihen."
+        ],
+        "Description":"Das Rezept für den Coco loco lässt auch zuhause Strandbarfeeling aufkommen.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Exotische Cocktailrezepte",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10006,
+        "Name":"Cosmopolitan",
+        "AverageRating":"4.7",
+        "Ingredients":[
+            "1 ½ vodkafluid ounces ",
+            "¼ lime juicefluid ounce ",
+            "¼ triple secfluid ounce ",
+            "¼ cranberry juicefluid ounce ",
+            "1 icecup ",
+            "1 lime wedge for garnish "
+        ],
+        "Directions":[
+            "Combine vodka, lime juice, triple sec, and cranberry juice in a cocktail shaker. Add ice, cover and shake until chilled. Strain into a chilled cocktail glass.",
+            "Garnish with a lime wedge."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10040,
+        "Name":"Cosmopolitan",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "2 cl Cranberrysaft ",
+            "3 cl Wodka ",
+            "1 cl Cointreau ",
+            "1 cl Limettensaft ",
+            "4 Stk Eiswürfel "
+        ],
+        "Directions":[
+            "Den Wodka, Cointreau, Limettensaft und Cranberrysaft im Shaker zusammen mit etwa 4 Eiswürfeln kräftig schütteln.",
+            "Das Martiniglas in der Kühltruhe kurz anfrosten lassen. Den Rand des Martiniglases mit Limettenschale abreiben.",
+            "Den Cosmopolitan abseihen, ins Martiniglas füllen und mit einer Cocktailkirsche oder mit einer Limettenspalte garnieren."
+        ],
+        "Description":"Ein moderner Cocktail der sich auch herrlich als Aperitif anbietet ist der Cosmopolitan.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Wodka Cocktails",
+            "Fruchtig",
+            "Aperitif Rezepte",
+            "Normal",
+            "Limettensaft"
+        ]
+    },
+    {
+        "ID":10535,
+        "Name":"Cuba Libre",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "4 cl Rum ",
+            "2 cl Zitronen- oder Limettensaft ",
+            "15 cl Cola ",
+            "3 Stk Eiswürfel ",
+            "1 Schb Zitrone oder Limette "
+        ],
+        "Directions":[
+            "Ein Longdrinkglas mit Eiswürfeln anfüllen.",
+            "Den Rum und den Zitronen- oder Limettensaft in das Glas gießen und mit Cola auffüllen. Alles gut umrühren.",
+            "Limetten oder Zitronen in Spalten schneiden und ins Glas geben, mit Trinkhhalm servieren."
+        ],
+        "Description":"Der Cuba Libre ist ein Klassiker unter den Cocktails. Durch den Rum bekommt er einen exotischen Geschmack.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Rum Cocktails",
+            "Exotische Cocktailrezepte",
+            "Normal",
+            "Süß",
+            "Cocktails mit Coca-Cola",
+            "Zitronensaft"
+        ]
+    },
+    {
+        "ID":10515,
+        "Name":"Daiquiri",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "5 cl weißer Rum ",
+            "3 cl Zitronensaft ",
+            "2 cl Zuckersirup ",
+            "5 EL Crushed Ice "
+        ],
+        "Directions":[
+            "Den weißen Rum, Zitronensaft und Zuckersirup in den Shaker geben und kräftig schütteln.",
+            "Den Drink durch das Barsieb in eine vorgekühlte Cocktailschale abseihen, „straight up“, also ohne Eis im Glas und einer Zitronenscheibe am Glasrand servieren."
+        ],
+        "Description":"Der Daiquiri ist ein tropischer Rum-Cocktail aus dem sonnigen Kuba und schmeckt herrlich süß.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Rum Cocktails",
+            "Exotische Cocktailrezepte",
+            "Normal",
+            "Süß",
+            "Zitronensaft",
+            "Cocktails mit Läuterzucker"
+        ]
+    },
+    {
+        "ID":10816,
+        "Name":"Dark 'N' Stormy",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "20 ml Braunen Rum, z.B. Captain Morgan oder Bacardi Gold ",
+            "20 ml Limettensaft ",
+            "200 ml Ginger Ale ",
+            "2 Stk Zitronenscheibe ",
+            "2 Stg Eiswürfel "
+        ],
+        "Directions":[
+            "Eiswürfel und Zitronenscheiben ins Glas geben.",
+            "Limette auspressen und Limettensaft über die Eiswürfel gießen.",
+            "Mit Rum und Ginger Ale aufgießen."
+        ],
+        "Description":"Dieser Dark and Stormy Cocktail mit viel Limette, Rum und Ginger Ale, kann ja nur schmecken - hier das Rezept zum Nachshaken.",
+        "Keywords":[
+            "Rum Cocktails",
+            "Cocktail Rezepte",
+            "Frisch"
+        ]
+    },
+    {
+        "ID":10022,
+        "Name":"Dirty Martini",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "6 vodkafluid ounces ",
+            "1 dry vermouthdash ",
+            "1 brine from olive jarfluid ounce ",
+            "4 stuffed green olives "
+        ],
+        "Directions":[
+            "Gather all ingredients.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Stir together vodka, dry vermouth, brine, and olives in a mixing glass. Pour into a glass or shaker with ice.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Serve on the rocks, or strain into chilled cocktail glasses.",
+            "DOTDASH MEREDITH FOOD STUDIOS"
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10480,
+        "Name":"Dry Martini",
+        "AverageRating":"4.3",
+        "Ingredients":[
+            "2 cl Vermouth Dry ",
+            "4 cl Gin ",
+            "1 Stk grüne Olive ",
+            "3 Stk Eiswürfel "
+        ],
+        "Directions":[
+            "Vermouth Dry und den Gin mit Eiswürfeln im Shaker oder in einem Rührglas mischen und anschließend die Eiswürfel abseihen.",
+            "Die Olive wird zur Garnitur mit ins Glas gegeben."
+        ],
+        "Description":"Ein klassischer Cocktail ist der Martini Dry. Der Cocktail verleiht Ihnen das \"James Bond\"-Feeling.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Dinner Cocktails",
+            "Gin Cocktails",
+            "Hochzeits Cocktails",
+            "Aperitif Rezepte",
+            "Normal",
+            "Cocktails mit Wermut"
+        ]
+    },
+    {
+        "ID":10009,
+        "Name":"Electric Lemonade",
+        "AverageRating":"4.9",
+        "Ingredients":[
+            " ice cubes ",
+            "2 sour mixfluid ounces ",
+            "1 citron vodka(1.5 fluid ounce) jigger ",
+            "½ Blue Curacaofluid ounce ",
+            "1 lemon-lime flavored carbonated beverage(12 fluid ounce) can or bottle ",
+            "1 lemon - cut into wedges, for garnish "
+        ],
+        "Directions":[
+            "Fill a Collins glass with ice. Pour sour mix, vodka, and blue curacao over ice.",
+            "Fill to the top with lemon-lime soda. Garnish with lemon wedge; serve with a straw."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10170,
+        "Name":"Espresso Martini",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "50 ml Wodka ",
+            "25 ml Kaffelikör ",
+            "25 ml Espresso ",
+            "3 Stk Kaffebohnen für die Deko ",
+            "5 Stk Eiswürfel für den Shaker "
+        ],
+        "Directions":[
+            "Für den Espresso Martini in einen Shaker mit Eiswürfel den Wodka, Kaffeelikör und Espresso hineingeben. Sehr kräftig shaken.",
+            "Den Drink in ein Martiniglas füllen, mit Kaffebohnen dekorieren und servieren."
+        ],
+        "Description":"Ein Espresso Martini ist ein Cocktailklassiker mit Wodka, Kaffelikör und natürlich Espresso. Ein tolles Rezept!",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Wodka Cocktails",
+            "Cocktails für Dates",
+            "Cremig"
+        ]
+    },
+    {
+        "ID":10042,
+        "Name":"Espresso Martini",
+        "AverageRating":"5.0",
+        "Ingredients":[
+            "1 ½ vodkafluid ounces ",
+            "1 ½ coffee-flavored liqueur (such as Kahlua®)fluid ounces ",
+            "1 white creme de cacaofluid ounce ",
+            "1 brewed espressofluid ounce ",
+            "1 icecup "
+        ],
+        "Directions":[
+            "Pour vodka, coffee liqueur, crème de cacao, and espresso into a cocktail shaker; add ice, cover and shake until chilled.",
+            "Strain into a chilled martini glass."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10007,
+        "Name":"Exotic Carrot Juice",
+        "AverageRating":"3.8",
+        "Ingredients":[
+            "1 kg Karotte ",
+            "0,25 Stk Wassermelone ",
+            "1 Stk Mango "
+        ],
+        "Directions":[
+            "Für den Saft als erstes die Karotten mit einer Gemüsebürste putzen und die Enden entfernen. Die Karotten in kleinere Stücke schneiden und in den Entsafter geben.",
+            "Nun die Melone und die Mango schälen und den Kern der Mango entfernen. Das Obst in grobe Stücke schneiden und in einen Mixbehälter geben. Den Karottensaft hinzufügen und alles pürieren.",
+            "Den Saft gekühlt servieren."
+        ],
+        "Description":"Mit diesem Rezept für exotischen Karottensaft kommt nicht nur eine Extraportion Vitamine auf den Tisch sondern es schmeckt auch noch wunderbar.",
+        "Keywords":[
+            "Exotische Cocktailrezepte",
+            "Cocktail Rezepte",
+            "kein Alkohol"
+        ]
+    },
+    {
+        "ID":10307,
+        "Name":"Fireball",
+        "AverageRating":"4.3",
+        "Ingredients":[
+            "2 cl weißer Rum ",
+            "10 cl Orangensaft ",
+            "2 cl Cointreau ",
+            "4 cl Grenadine-Sirup "
+        ],
+        "Directions":[
+            "Cointreau, Grenadinesirup, Orangensaft und weißen Rum mit 2 Eiswürfeln in einen Shaker füllen.",
+            "Alle Zutaten gut schütteln. Den Drink in einem Longdrinkglas servieren."
+        ],
+        "Description":"Fireball ist ein exotischer Cocktail der gekühlt hervorragend schmeckt. Hier ein Rezept, das Sie probieren sollten.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Fruchtig",
+            "Cointreau Cocktails",
+            "Rum Cocktails",
+            "Normal",
+            "Cocktails mit Orangensaft",
+            "Cocktails mit Bacardi Rum"
+        ]
+    },
+    {
+        "ID":10215,
+        "Name":"Fireball",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "3 cl Orangenlikör ",
+            "2 cl Gin ",
+            "5 cl Tonic Water ",
+            "1 Stk Orangenschale "
+        ],
+        "Directions":[
+            "Den Orangenlikör mit dem Gin und einigen Eiswürfeln im Shaker mixen und anschließend in ein Longdrinkglas abseien.",
+            "Das Glas jetzt mit Tonic Water auffüllen, mit der Orangenschale und einer Cocktailkirsche garnieren."
+        ],
+        "Description":"Ein etwas bitter schmeckender Cocktail ist der Fireball. Dennoch ist er ein guter Drink für jede Party.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Bitter",
+            "Gin Cocktails",
+            "Aperitif Rezepte",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10041,
+        "Name":"Flamingo",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "6 cl Orangensaft ",
+            "1 cl Maracujasirup ",
+            "1 cl Zitronensaft ",
+            "1 cl Mandelsirup ",
+            "1 cl Grapefruitsaft ",
+            "3 Stk Eiswürfel ",
+            "1 Dash Grenadine "
+        ],
+        "Directions":[
+            "Den Orangensaft, Maracujasirup, Grenadine, Zitronensaft, Mandelsirup und Grapefruitsaft im Shaker kräftig schütteln.",
+            "Den Drink abseihen und in ein Longdrinkglas auf frische Eiswürfel gießen und mit einer Zitronenscheibe garnieren."
+        ],
+        "Description":"Der Flamingo ist ein exotischer, alkoholfreier Frucht-Cocktail, der sich auch als Aperitif bei Gartenparties eignet.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "kein Alkohol",
+            "Cocktails für ein Meeting",
+            "Cocktails mit Fruchtsaft",
+            "Fruchtig",
+            "Mix-Getränke",
+            "Süß",
+            "Cocktails mit Orangensaft",
+            "Zitronensaft"
+        ]
+    },
+    {
+        "ID":10789,
+        "Name":"French 75",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "4 cl Gin ",
+            "2 cl Zitronensaft ",
+            "1 cl Zuckersirup ",
+            "1 Schuss Prosecco "
+        ],
+        "Directions":[
+            "Den Bombay Sapphire Gin mit Zitronensaft und Zuckersirup vermischen, in einem Shaker mit Eiswürfeln gut schütteln und anschließend in ein Cocktailglas abgießen. Zum Schluss mit Prosecco auffüllen."
+        ],
+        "Description":"Ein French 75 wird mit Gin, Zitronensaft und Zuckersirup zubereitet. Schmeckt grandios!",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Gin Cocktails",
+            "Silvester Cocktail Rezepte",
+            "Würzig",
+            "sehr stark",
+            "Normal",
+            "Cocktails mit Läuterzucker"
+        ]
+    },
+    {
+        "ID":10141,
+        "Name":"French 75",
+        "AverageRating":"4.3",
+        "Ingredients":[
+            "2 cl Zitronensaft ",
+            "2 cl Gin ",
+            "2 cl Curacao White ",
+            "1 Schuss Sekt zum Auffüllen "
+        ],
+        "Directions":[
+            "In einen Shaker mit 2 Eiswürfeln Curacao white, Gin und Zitronensaft geben und alle Zutaten gut schütteln.",
+            "Den Drink in ein Sektglas abseihen und mit Sekt auffüllen."
+        ],
+        "Description":"Der French 75 ist ein prickelnder, erfrischender Cocktail, der mit Hilfe dieses Rezeptes einfach und rasch zubereitet wird.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Spritzig",
+            "Gin Cocktails",
+            "Sekt & Champagner Cocktails",
+            "Normal",
+            "Zitronensaft"
+        ]
+    },
+    {
+        "ID":10361,
+        "Name":"French 75",
+        "AverageRating":"4.2",
+        "Ingredients":[
+            "3 cl Gin ",
+            "1 cl Zitronensaft ",
+            "1 Schuss Champagner\/Sekt ",
+            "1 TL Zuckersirup "
+        ],
+        "Directions":[
+            "Sekt, Gin, Zitronensaft und Zuckersirup im Shaker mit Eiswürfeln gut mixen und in ein Cocktailglas abseihen.",
+            "Die Zitronenlimonade hinzufügen und zur Dekoration eine Ananasscheibe mit Kirsche verwenden."
+        ],
+        "Description":"Ein prickelnder, spritziger Cocktail ist der French 75. Eine Freude für Ihren Gaumen ist garantiert.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Spritzig",
+            "Gin Cocktails",
+            "Sekt & Champagner Cocktails",
+            "Normal",
+            "Süß",
+            "Zitronensaft",
+            "Ananassaft",
+            "Cocktails mit Läuterzucker"
+        ]
+    },
+    {
+        "ID":10015,
+        "Name":"Frozen Margarita",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "3 cl Limettensaft ",
+            "2 cl Orangenlikör ",
+            "4 cl Tequila ",
+            "1 Prise Salz "
+        ],
+        "Directions":[
+            "Limettensaft, Orangenlikör, Salz und Tequila mit Crushed Ice im Mixer 3 Minuten durchmixen.",
+            "Danach in ein Cocktailglas füllen und mit einer Limette garnieren."
+        ],
+        "Description":"Der Frozen Margarita ist ein schmackhafter, etwas stärkerer Cocktail, der alle Tequila-Fans begeistern wird.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Tequila Cocktails",
+            "Sauer",
+            "Exotische Cocktailrezepte",
+            "Normal",
+            "Limettensaft"
+        ]
+    },
+    {
+        "ID":10059,
+        "Name":"Frozen Strawberry Margarita",
+        "AverageRating":"4.8",
+        "Ingredients":[
+            "2 ice cubes, or as neededcups ",
+            "6 tequilafluid ounces ",
+            "2 triple secfluid ounces ",
+            "8 frozen sliced strawberries in syrupounces ",
+            "4 frozen limeade concentratefluid ounces "
+        ],
+        "Directions":[
+            "Gather ingredients and fill a blender with ice cubes. Pulse until ice is crushed.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Pour in tequila and triple sec, then add strawberries and limeade concentrate.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Blend until smooth, about 30 seconds. Pour into four margarita glasses and serve immediately.",
+            "DOTDASH MEREDITH FOOD STUDIOS"
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10662,
+        "Name":"Gin Fizz",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "20 ml Gin ",
+            "1 Stk Limette ",
+            "3 Stk Eiswürfel ",
+            "1 Schuss Limettensirup ",
+            "200 ml Sodawasser "
+        ],
+        "Directions":[
+            "Eiswürfel in ein Highball-Glas geben, mit dem Gin und dem Limettensirup übergießen.",
+            "Mit Sodawasser aufgießen und mit einer Limettenscheibe garniert servieren."
+        ],
+        "Description":"Sommerlicher Gin Fizz mit Limette in einem Highball Glas serviert, sieht grandios aus und schmeckt.",
+        "Keywords":[
+            "Gin Cocktails",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch"
+        ]
+    },
+    {
+        "ID":10218,
+        "Name":"Gin Fizz",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "3 cl Gin ",
+            "2 cl Cherrybrandy ",
+            "10 cl Sekt ",
+            "1 Stk Cocktailkirsche "
+        ],
+        "Directions":[
+            "Gin sowie Cherrybrandy in eine Sektflöte geben, danach mit Sekt aufgießen und mit der Cocktailkirsche garniert servieren."
+        ],
+        "Description":"Ein Gin Fizz sieht in einer Sektflöte einfach genial aus. Das Rezept prickelt herrlich und schmeckt - eine Variante mit Cherrybrandy!",
+        "Keywords":[
+            "Sekt & Champagner Cocktails",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Cocktails für Dates",
+            "Spritzig",
+            "Light-Drink"
+        ]
+    },
+    {
+        "ID":10011,
+        "Name":"Gin Fizz",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "5 cl Gin ",
+            "3 cl Zitrone (Saft ausgepresst) ",
+            "2 cl Zuckersirup ",
+            "6 Stk Eiswürfel für das Glas ",
+            "150 ml Sodawasser zum Auffüllen ",
+            "2 Schb Zitrone für die Deko "
+        ],
+        "Directions":[
+            "Für den Gin Fizz zuerst die Zitrone auspressen. Dann in einem Cocktailshaker Gin, Eiswürfel, Zitronensaft und Zuckersirup kräftig und bis zu 1 Minute schütteln.",
+            "Nun kommen in ein vorbereitetes Longdrinkglas oder Ballonglas frische Eiswürfeln hinein. Der kräftig durchgeschüttelte Drink kommt nun abgeseiht in das Glas. Zum Schluß mit Sodawasser aufgefüllt.",
+            "Kurz verrühren und mit den Zitronenscheiben im Glas und Rosmarinzweig servieren."
+        ],
+        "Description":"Ein Gin Fizz bedeutet Party pur. Ob als genialer Hot Spot auf Geburtstagspartys oder glamourösen Abend zu zweit. Dieses Rezept passt zu vielen Anlässen.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Gin Cocktails",
+            "Light-Drink"
+        ]
+    },
+    {
+        "ID":10643,
+        "Name":"Gin Fizz",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "4 cl Gin ",
+            "0.5 EL Staubzucker ",
+            "1 Schuss Zitronensaft ",
+            "3 Stk Eiswürfel ",
+            "100 ml Sodawasser zum Auffüllen "
+        ],
+        "Directions":[
+            "Gin, Staubzucker und Zitronensaft im Shaker vermischen.",
+            "Eiswürfel ins Glas geben und Gin Fizz einfüllen."
+        ],
+        "Description":"Ein Gin Fizz ist immer ein Genuss. Das Rezept wird mit Gin, Staubzucker und Zitronensaft zubereitet.",
+        "Keywords":[
+            "Gin Cocktails",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Cocktails für Dates",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10344,
+        "Name":"Gin Sour",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "4 cl Gin ",
+            "2 cl Zuckersirup ",
+            "3 cl Zitronensaft ",
+            "1 Schuss Mineralwasser zum Auffüllen ",
+            "3 EL Crushed Ice "
+        ],
+        "Directions":[
+            "In einem Shaker die Zutaten Gin, Zitronensaft und Zuckersirup mit Eiswürfel gut shaken.",
+            "In ein Becher- oder Tumlerglas das Crushed Ice geben, Zitronenscheiben ins Glas geben und den Drink über ein Barsieb einfüllen.",
+            "Zum Schluss mit kaltem Mineralwasser auffüllen."
+        ],
+        "Description":"Ein herrlich erfrischender Gin Sour schmeckt an heißen Sommertagen perfekt. Das Cocktailrezept wird mit Wasser aufgefüllt.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Gin Cocktails",
+            "Light-Drink",
+            "Exotische Cocktailrezepte",
+            "Zitronensaft",
+            "Mineralwasser",
+            "Cocktails mit Läuterzucker",
+            "Sour Cocktails"
+        ]
+    },
+    {
+        "ID":10216,
+        "Name":"Gin Tonic",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "2 Sp Limette (oder Zitrone) ",
+            "5 Stk Eiswürfel ",
+            "4 cl Gin ",
+            "200 ml Tonic Water "
+        ],
+        "Directions":[
+            "Für den Gin Tonic zuerst die Limette oder Zitrone mit heißem Wasser gut waschen, abtrocknen und in Spalten schneiden – pro Portion benötigt man 2 Stück.",
+            "Danach die Eiswürfeln in ein Glas (z.B. Longdrinkglas oder Old-Fashioned-Glas) geben und den Gin hinzufügen.",
+            "Zum Schluss mit Tonic Water auffüllen und mit den Fruchtstücken garnieren."
+        ],
+        "Description":"Ein wahrer Klassiker unter den Cocktails ist der Gin Tonic, der mit viel Eis am Besten schmeckt.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Bitter",
+            "Gin Cocktails"
+        ]
+    },
+    {
+        "ID":10464,
+        "Name":"Gin Tonic",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "4 cl Gin ",
+            "1 Schuss Tonic Water ",
+            "2 TL Zitronensaft "
+        ],
+        "Directions":[
+            "In ein mit 2 Eiswürfel gefülltes Tumblerglas den Gin geben.",
+            "Den Tonic über die Eiswürfel und den Gin gießen. Einen Schuss Zitronensaft dazugeben. Den Drink kühl servieren."
+        ],
+        "Description":"Gin tonic eignet sich toll als Aperitif bei Ihren Festen. Dieses Rezept ist rasch zubereitet.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Gin Cocktails",
+            "Light-Drink"
+        ]
+    },
+    {
+        "ID":10427,
+        "Name":"Gin Tonic",
+        "AverageRating":"4.2",
+        "Ingredients":[
+            "4 cl Hendricks Gin ",
+            "1 FL Fever Tree Tonic ",
+            "3 Stk Eiswürfel ",
+            "3 Schb Gurken ",
+            "1 Stk Limettenscheibe oder -spalte für die Deko "
+        ],
+        "Directions":[
+            "Alle Zutaten Tonic, Gurkenscheiben, Gin und Eiswürfel in ein hohes Tumblerglas geben und mit einem langen Löffel verrühren und servieren."
+        ],
+        "Description":"Dieser Gin Tonic schmeckt immer und ist ein super leichter Drink. Das Rezept für Geniesser.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Gin Cocktails"
+        ]
+    },
+    {
+        "ID":10058,
+        "Name":"Gluehwein",
+        "AverageRating":"4.8",
+        "Ingredients":[
+            "¾ watercup ",
+            "¾ white sugarcup ",
+            "1 cinnamon stick(3 inch) ",
+            "2 oranges, dividedmedium ",
+            "10 whole cloves ",
+            "1 red wine(750 milliliter) bottle "
+        ],
+        "Directions":[
+            "Gather all ingredients.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Combine water, sugar, and cinnamon stick in a saucepan; bring to a boil. Reduce heat to low.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Cut one orange in half; squeeze orange halves over the sugar mixture to release their juice. Push 5 cloves into the outside of each orange peel; place peels into the simmering mixture. Continue to simmer over the lowest heat until thick and syrupy, 20 to 30 minutes.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "While the mixture is simmering, slice remaining orange and set aside for serving.",
+            "When the mixture is finished simmering, stir in wine and heat until steaming but not simmering, 3 to 5 minutes. Discard orange peels and cinnamon stick.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Ladle into mugs and garnish with orange slices.",
+            "DOTDASH MEREDITH FOOD STUDIOS"
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10137,
+        "Name":"Grasshopper",
+        "AverageRating":"4.7",
+        "Ingredients":[
+            "2 cl Creme de Menthe grün ",
+            "2 cl Creme de Cacao "
+        ],
+        "Directions":[
+            "In ein Longdrinkglas zuerst den weißen Creme de Cacao füllen.",
+            "Dann vorsichtig über einen Löffel am Glasrand den grünen Creme de Menthe rinnen lassen.",
+            "Er kann sofort ohne rühren serviert werden. Oder man rührt ihn um und hat einen herrlich hellgrünen Grashüpfer Cocktail."
+        ],
+        "Description":"Der Grashüpfer schmeckt nicht nur super, sonder macht auch optisch was her. Dieses Rezept sollten Sie probieren.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Liköre",
+            "kein Alkohol"
+        ]
+    },
+    {
+        "ID":10324,
+        "Name":"Grasshopper",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "2 cl Kakaolikör ",
+            "2 cl Pfefferminzlikör ",
+            "100 ml Schlagobers ",
+            "2 Bl Minze zum Garnieren "
+        ],
+        "Directions":[
+            "Den Shaker mit 3-5 Eiswürfel auffüllen, Sahne und Liköre dazu, alles ca. 15 Sek. kräftig schütteln.",
+            "Durch ein Barsieb in ein Whiskyglas füllen und mit Minze garnieren."
+        ],
+        "Description":"Der Grashüpfer ist ein süßlicher Cocktail, der durch verschiedene Liköre einen besonderen Geschmack bekommt.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Liköre",
+            "Cocktails für Dates",
+            "Cremig",
+            "Würzig",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10020,
+        "Name":"Grateful Dead Cocktail",
+        "AverageRating":"3.5",
+        "Ingredients":[
+            "1 tequilafluid ounce ",
+            "1 vodkafluid ounce ",
+            "1 light rumfluid ounce ",
+            "1 ginfluid ounce ",
+            "1 raspberry-flavored liqueur (such as Chambord®)fluid ounce ",
+            "1 icecup ",
+            "1 sour mixtablespoon "
+        ],
+        "Directions":[
+            "Combine tequila, vodka, rum, gin, and raspberry liqueur in a highball glass. Fill with ice and top with sour mix."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10490,
+        "Name":"Headbanger",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "1 Stk Spargel, grün ",
+            "30 ml Tomatensaft ",
+            "3 Bl Minze ",
+            "100 g Knollensellerie ",
+            "100 g Artischocken ",
+            "100 g Stangensellerie "
+        ],
+        "Directions":[
+            "Sellerie schälen, abspülen und klein hacken, Artischocken gründlich waschen. Gemüse und Minze entsaften.",
+            "Minze nicht auf einmal in den Entsafter geben, sondern zusammen mit den anderen Zutaten.",
+            "Saft aus dem Entsafter, Tomatensaft und Eiswürfel in einen Mixer geben und vermengen, mit einer Stange Spargel dekorieren."
+        ],
+        "Description":"Ein würziger und vor allem erfrischender Cocktail ist der Headbanger - er ist ein wahrer Durstlöscher.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "kein Alkohol",
+            "Cocktails für ein Meeting",
+            "Cocktails mit Fruchtsaft",
+            "Fruchtig",
+            "Mix-Getränke",
+            "Mocktails"
+        ]
+    },
+    {
+        "ID":10788,
+        "Name":"Horse'S Neck",
+        "AverageRating":"4.3",
+        "Ingredients":[
+            "5 cl Bourbon ",
+            "200 ml Ginger Ale ",
+            "2 Dash Angostura "
+        ],
+        "Directions":[
+            "Bourbon in Longdrinkglas auf Eiswürfel gießen und Angostura dazugeben.",
+            "Das Ganze mit Ginger Ale auffüllen und eine Zitronenspirale an den Glasrand geben."
+        ],
+        "Description":"Horses Neck war ein Getränk der britischen Marine. Der Cocktail hat einen leicht bitteren, aber köstlichen Geschmack.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Whiskey Cocktails",
+            "Bitter",
+            "Dinner Cocktails"
+        ]
+    },
+    {
+        "ID":10024,
+        "Name":"Hot Buttered Rum Batter",
+        "AverageRating":"4.8",
+        "Ingredients":[
+            "1 unsalted butterpound ",
+            "1 brown sugarpound ",
+            "1 confectioners' sugarpound ",
+            "1 vanilla ice cream, softenedquart ",
+            "1 ground cinnamontablespoon ",
+            "1 ground nutmegteaspoon "
+        ],
+        "Directions":[
+            "Melt butter in a large pot over medium heat. Blend in brown sugar and confectioners' sugar until smooth.",
+            "Remove from the heat. Add ice cream, cinnamon, and nutmeg and whisk until incorporated. Pour mixture into a plastic container, cover, and store in the freezer."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10055,
+        "Name":"Hot Toddy",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "2 boiling waterfluid ounces ",
+            "1 ½ whiskeyfluid ounces ",
+            "1 honeyteaspoon ",
+            "3 whole cloves ",
+            "1 cinnamon stick ",
+            "1 lemonslice ",
+            "1 ground nutmegpinch "
+        ],
+        "Directions":[
+            "Pour boiling water, whiskey, and honey into a mug. Add cloves, cinnamon, and lemon slice. Let mixture stand for 5 minutes so flavors can mingle, then sprinkle with a pinch of nutmeg before serving."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10167,
+        "Name":"Hugo",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "1 Stk Limette ",
+            "2 cl Holunderblütensirup ",
+            "2 Bl Minze (frisch) ",
+            "4 Stk Eiswürfel ",
+            "160 ml Prosecco ",
+            "1 Schuss Soda zum Auffüllen "
+        ],
+        "Directions":[
+            "Ein Hugo wird meist in einem Sekt- oder Rotweinglas serviert. Dazu die Limette halbieren eine Hälfte in Scheiben schneiden. Die andere Hälfte auspressen.",
+            "Dann vom ausgepressten Limettensaft einen Schuß ins Glas geben. Danach 2-3 Scheiben Limette ins Glas geben.",
+            "Nun den Holunderblütensirup, Minzblätter und die Eiswürfel zufügen. Mit Prosecco und Sodawasser auffüllen.",
+            "Mit Trinkhalm servieren."
+        ],
+        "Description":"Ein Hugo Cocktail ist im Sommer nicht mehr wegzudenken. Erfrischend und bekömmlich ist er eine tolle Alternative zum Aperol Spritz.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Spritzig",
+            "Light-Drink",
+            "Cocktails mit Wein",
+            "Sekt & Champagner Cocktails"
+        ]
+    },
+    {
+        "ID":10550,
+        "Name":"Hugo",
+        "AverageRating":"4.3",
+        "Ingredients":[
+            "2 cl Limettensaft ",
+            "150 ml Mineralwasser ",
+            "50 ml Prosecco ",
+            "6 Bl Minze "
+        ],
+        "Directions":[
+            "Für diesen Hugo die Limettenblätter im Mörser zerreiben.",
+            "Glas mit Limettensaft, Mineralwasser und Prosecco füllen.",
+            "Dann noch zerriebene Minzblätter dazu und servieren.",
+            "Dieser Hugo kann in ein beliebiges Glas gefüllt werden."
+        ],
+        "Description":"Ein Hugo ist immer willkommen. Ob an lauen Sommerabenden oder unter Freunden. Das Rezept wird etwas abgewandelt und mit Limettensaft zubereitet.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Cocktails für Dates",
+            "Spritzig",
+            "Light-Drink",
+            "Cocktails mit Wein",
+            "Limettensaft",
+            "Mineralwasser"
+        ]
+    },
+    {
+        "ID":10073,
+        "Name":"Hurricane",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "3 cl Rum, weiss ",
+            "1 cl Rum, dunkel ",
+            "5 cl Orangensaft ",
+            "1 cl Maracujasirup ",
+            "5 cl Ananassaft ",
+            "2 cl Lime Juice ",
+            "4 Stk Eiswürfel "
+        ],
+        "Directions":[
+            "Beide Rum Sorten, Orangensaft, Maracujasirup, Ananassaft, Lime Juice und Eiswürfel im Shaker gut schütteln.",
+            "Den geschüttelten Drink abseihen und in ein Longdrinkglas auf frische Eiswürfel abgießen. Mit einer Mango am Glas und Minze im Glas servieren."
+        ],
+        "Description":"Der Hurricane ist ein exotischer Rum- Cocktail, der auch als Aperitif ein Erfolg bei jeder Party ist.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Fruchtig",
+            "Aperitif Rezepte",
+            "Rum Cocktails",
+            "Exotische Cocktailrezepte",
+            "Normal",
+            "Cocktails mit Orangensaft",
+            "Ananassaft",
+            "Lime Juice"
+        ]
+    },
+    {
+        "ID":10793,
+        "Name":"Irish Coffee",
+        "AverageRating":"4.7",
+        "Ingredients":[
+            "7 Stk Eiswürfel ",
+            "200 ml Kaffee (frisch abgebrüht) ",
+            "50 ml Schlagobers ",
+            "1 Kugel Walnusseis (oder Vanilleeis) ",
+            "20 ml Whiskey "
+        ],
+        "Directions":[
+            "Die Eiswürfel in ein hitzebeständiges Glas füllen. Den Whiskey hinzufügen. Mit Kaffee aufgießen.",
+            "Den Obers in flüssiger Form darüber gießen, am besten über die Unterseite eines Esslöffels. Walnusseis oder Vanilleeis hinzufügen und servieren."
+        ],
+        "Description":"Ein erfrischendes Dessert - Rezept für heiße Sommertage ist dieser Cold Irish Coffee.",
+        "Keywords":[
+            "Whiskey Cocktails",
+            "Cocktail Rezepte",
+            "Cocktails für Dates",
+            "Cremig"
+        ]
+    },
+    {
+        "ID":10109,
+        "Name":"Kir Royal",
+        "AverageRating":"4.3",
+        "Ingredients":[
+            "1 Schuss Champagner ",
+            "2 TL Johannisbeerlikör "
+        ],
+        "Directions":[
+            "Den Likör in ein Sektglas geben und mit Champagner aufgießen.",
+            "Vorsichtig mit einem Barlöffel umrühren und mit Eiswürfel und einer Cocktailkirsche sofort servieren."
+        ],
+        "Description":"Der Kir Royal ist ein prickelnder, spritziger Cocktail, der sich bei besonderern Anlässen ausgezeichnet als Aperitif eignet.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Liköre",
+            "Cocktails für Dates",
+            "Spritzig",
+            "Fruchtig",
+            "Hochzeits Cocktails",
+            "Aperitif Rezepte",
+            "Sekt & Champagner Cocktails",
+            "Normal"
+        ]
+    },
+    {
+        "ID":20003,
+        "Name":"Kir Royal",
+        "AverageRating":"3.4",
+        "Ingredients":[
+            "1 FL Champagner ",
+            "5 cl Johannisbeerlikör "
+        ],
+        "Directions":[
+            "Den Champagner auf fünf Sektgläser aufteilen.",
+            "Jeweils 1 - 2 cl Johannisbeerlikör ganz vorsichtig in die Gläser leeren, damit der Likör schön nach unten fließt."
+        ],
+        "Description":"Ein Kir Royal ist immer ein toller und gern gesehener Drink. Bei diesem Rezept wird ein Johannisbeerlikör verwendet.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Liköre",
+            "Fruchtig"
+        ]
+    },
+    {
+        "ID":10196,
+        "Name":"Lime Daiquiri",
+        "AverageRating":"4.2",
+        "Ingredients":[
+            "1 cl Limettensaft ",
+            "5 cl Rum ",
+            "1 TL Zuckersirup ",
+            "1 Schb Limette "
+        ],
+        "Directions":[
+            "Im Tiefkühlfach eine Cocktailschale vorkühlen, 6 Eiswürfel in einen Shaker geben.",
+            "Limettensaft, Rum und Zuckersirup dazu geben und ca. 15 Sek. kräftig schütteln.",
+            "Den geschüttelten Drink durch ein Barsieb in die gekühlte Cocktailschale füllen und eine Limettenscheibe an den Glasrand stecken."
+        ],
+        "Description":"Ein exotischer, säuerlicher Cocktail ist der Limetten Daiquiri, der einfach köstlich schmeckt und Sie begeistern wird.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Sauer",
+            "Rum Cocktails",
+            "Exotische Cocktailrezepte",
+            "Normal",
+            "Limettensaft",
+            "Cocktails mit Läuterzucker"
+        ]
+    },
+    {
+        "ID":10357,
+        "Name":"London Fog",
+        "AverageRating":"4.4",
+        "Ingredients":[
+            "6 cl Gin ",
+            "2 cl Absinth ",
+            "5 Stk Eiswürfel ",
+            "1 Schb Limette "
+        ],
+        "Directions":[
+            "Gin, Absinth und Eiswürfel in ein Rührglas geben und mit einem Barlöffel vermengen, das Ganze in eine gekühlte Cocktailschale abseihen.",
+            "Wer möchte kann das ganze mit einem Zuckerrand und einer Limettenscheibe perfektionieren."
+        ],
+        "Description":"Die grüne Perfektion für jede Party Nacht ist der London Fog - ein herrlicher Cocktail.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Dinner Cocktails",
+            "Gin Cocktails",
+            "Toxic",
+            "Aperitif Rezepte",
+            "Cocktails mit Absinth"
+        ]
+    },
+    {
+        "ID":10701,
+        "Name":"London Mule",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "0.5 Stk Limette (Saft) ",
+            "6 cl London Dry Gin ",
+            "9 cl Ginger Beer ",
+            "1 Schb Limette (Deko) "
+        ],
+        "Directions":[
+            "Halbe Limette pressen und den Saft zusammen mit Eiswürfel in ein Highball\/Longdrink Glas füllen.",
+            "Gin darüber giessen, verrühren und mit Ginger Beer auffüllen.",
+            "Eine Limettenscheibe als Dekoration auf den Rand des Glases geben."
+        ],
+        "Description":"Ein London Mule mit Gin und Limette sowie Ginger Beer ist für einen sonnigen Nachmittag genau richtig. Das Rezept in gemütlicher Runde geniessen.",
+        "Keywords":[
+            "Gin Cocktails",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte"
+        ]
+    },
+    {
+        "ID":10052,
+        "Name":"Long Island Iced Tea",
+        "AverageRating":"4.7",
+        "Ingredients":[
+            "½ vodkafluid ounce ",
+            "½ rumfluid ounce ",
+            "½ ginfluid ounce ",
+            "½ tequilafluid ounce ",
+            "½ triple sec (orange-flavored liqueur)fluid ounce ",
+            "1 sweet and sour mixfluid ounce ",
+            "1 cola, or to tastefluid ounce ",
+            "1 lemon slice "
+        ],
+        "Directions":[
+            "Gather all ingredients.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Fill a cocktail shaker with ice. Pour vodka, rum, gin, tequila, triple sec, and sour mix over ice; cover and shake.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Pour cocktail into a Collins or hurricane glass; top with splash of cola for color. Garnish with a lemon slice.",
+            "DOTDASH MEREDITH FOOD STUDIOS"
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10488,
+        "Name":"Long Island Iced Tea",
+        "AverageRating":"4.8",
+        "Ingredients":[
+            "12 Stk Eiswürfel ",
+            "2 cl Rum (weiß) ",
+            "2 cl Triple Sec (Orangenlikör, weiß) ",
+            "2 cl Wodka ",
+            "2 cl Gin ",
+            "1 Schuss Cola zum Auffüllen ",
+            "1 cl Zitronensaft ",
+            "1 cl Orangensaft ",
+            "1 cl Zuckersirup ",
+            "1 Stk Zitronenscheibe ",
+            "1 Stk Trinkhalm (schwarz) "
+        ],
+        "Directions":[
+            "Für einen Long Island Iced Tea Original zuerst ein Long Drink Glas vorbereiten.",
+            "In einen Shaker 4-5 Eiswürfel einfüllen, dann Gin, Wodka, Rum, Tequila, Triple Sec drauf gießen. Den Zitronen- und Orangensaft zufügen. Zum Schluß noch den Zuckersirup hinzugeben. Gut und kräftig schütteln.",
+            "In das vorbereitete Glas frische 6-7 Eiswürfel geben und den Drink über ein Barsieb ins Glas gießen. Alles mit Cola auffüllen.",
+            "Eine Zitronenscheibe an den Glasrand stecken und mit einem schwarzen Trinkhalm servieren."
+        ],
+        "Description":"Long Island Iced Tea das Original passt für eine mega Party. Das Rezept sorgt für Stimmung und ist total einfach in der Zubereitung.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Wodka Cocktails",
+            "Gin Cocktails",
+            "Rum Cocktails",
+            "sehr stark"
+        ]
+    },
+    {
+        "ID":10413,
+        "Name":"Long Island Iced Tea",
+        "AverageRating":"4.8",
+        "Ingredients":[
+            "2 cl Gin ",
+            "2 cl Wodka ",
+            "2 cl Tequilla ",
+            "2 cl Cointreau ",
+            "1 Schuss Kirschsaft zum Auffüllen ",
+            "1 cl Zitronensaft ",
+            "1 cl Zuckersirup ",
+            "2 cl Rum (weiß) "
+        ],
+        "Directions":[
+            "Für einen Red Long Island Iced Tea zuerst die Eiswürfel in den Shaker geben. Die Spirituosen nacheinander einfüllen.",
+            "Zitronensaft und Zuckersirup draufgießen und anschließend kräftig schütteln.",
+            "In ein Longdrink Glas frische Eiswürfel geben, den Drink über ein Barsieb einfüllen. Zum Schluß mit Kirschsaft auffüllen.",
+            "Mit einer Zitronenscheibe am Glasrand garnieren und mit Trinkhalm servieren."
+        ],
+        "Description":"Ein Red Long Island Iced Tea sieht richtig verführerisch aus. Das Rezept ist nichts für schwache Gemüter, hier der Drink zum Nachshaken.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Wodka Cocktails",
+            "Gin Cocktails",
+            "sehr stark"
+        ]
+    },
+    {
+        "ID":10027,
+        "Name":"Mai Tai",
+        "AverageRating":"4.8",
+        "Ingredients":[
+            "1 ice cubescup ",
+            "3 pineapple juicefluid ounces ",
+            "2 orange juicefluid ounces ",
+            "1 spiced rum(1.5 fluid ounce) jigger ",
+            "½ coconut-flavored rum(1.5 fluid ounce) jigger ",
+            "1 grenadine syrupteaspoon "
+        ],
+        "Directions":[
+            "Fill a cocktail shaker with ice cubes.",
+            "Add pineapple juice, orange juice, spiced rum, coconut rum, and grenadine. Shake vigorously and strain into a glass full of ice."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10514,
+        "Name":"Mai Tai",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "0.5 Stk Limette (ausgepresst) ",
+            "10 Stk Eiswürfel ",
+            "6 cl brauner Rum ",
+            "1 cl Mandelsirup ",
+            "1 cl Zuckersirup ",
+            "5 cl Ananassaft ",
+            "2 cl Orangenlikör ",
+            "2 Stk Cocktailkirschen ",
+            "1 Schb Orange "
+        ],
+        "Directions":[
+            "Die Limette auspressen und den Saft mit 5 Eiswürfeln in einen Shaker geben.",
+            "Braunen Rum, Mandel- und Zuckersirup, Ananassaft und Orangenlikör dazugeben und gut schütteln.",
+            "Den Drink in ein Longdrinkglas auf frischen Eiswürfeln gießen und mit Trinkhalm servieren.",
+            "Als Deko dient eine Orangenscheibe und Cocktailkirschen."
+        ],
+        "Description":"Der klassische Rum-Cocktail aus dem sonnigen Kalifornien ist der Mai Tai - ein Rezept für alle die braunen Rum lieben.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Rum Cocktails",
+            "Exotische Cocktailrezepte",
+            "Normal",
+            "Cocktails mit Läuterzucker"
+        ]
+    },
+    {
+        "ID":10485,
+        "Name":"Malibu Beach",
+        "AverageRating":"4.7",
+        "Ingredients":[
+            "5 cl Orangensaft ",
+            "4 cl Maracujanektar ",
+            "2 cl Mandelsirup ",
+            "4 cl Malibu ",
+            "2 cl Grenadine ",
+            "3 cl Ananassaft ",
+            "2 cl Zitronensaft "
+        ],
+        "Directions":[
+            "Den Ananassaft, Maracujanektar, Zitronensaft und Orangensaft gut im Shaker vermischen.",
+            "Danach den Mandelsirup und die Grenadine sowie ein paar Eiswürfeln hinzufügen und wieder shaken und ins Cocktailglas geben.",
+            "Und zum Schluss über den Cocktail den Malibu gießen."
+        ],
+        "Description":"Malibu Beach ist ein Cocktail, der Sie allein durch seinen Namen schon in Urlaubsstimmung bringt - einfach lecker.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Cocktails mit Fruchtsaft",
+            "Light-Drink",
+            "Rum Cocktails",
+            "Süß",
+            "Cocktails mit Orangensaft",
+            "Cocktails mit Malibu",
+            "Zitronensaft",
+            "Ananassaft"
+        ]
+    },
+    {
+        "ID":10237,
+        "Name":"Mango Daiquiri",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "6 cl Rum, weiss ",
+            "2 cl Lime Juice ",
+            "12 cl Mangopulpe "
+        ],
+        "Directions":[
+            "Rum, Lime Juice, Mangopulpe mit Crushed Ice im Mixer pürieren, bis die Masse schön sämig ist.",
+            "Den Drink in eine Cocktailschale füllen und mit Mangostückchen garnieren."
+        ],
+        "Description":"Ein exotischer Cocktail ist der Mango Daiquiri. Ein süßer Drink mit tollem, fruchtigem Geschmack.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Fruchtig",
+            "Rum Cocktails",
+            "Exotische Cocktailrezepte",
+            "Normal",
+            "Süß",
+            "Cocktails mit Bacardi Rum",
+            "Lime Juice"
+        ]
+    },
+    {
+        "ID":10041,
+        "Name":"Manhattan",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "2 rye whiskeyfluid ounces ",
+            "½ sweet vermouthfluid ounce ",
+            "1 Angostura bittersdash ",
+            "1 ice cubescup ",
+            "1 maraschino cherry "
+        ],
+        "Directions":[
+            "Gather all ingredients.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Combine whiskey, vermouth, and bitters in a cocktail mixing glass. Add ice and stir until chilled.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Strain into a chilled cocktail glass and garnish with a maraschino cherry.",
+            "DOTDASH MEREDITH FOOD STUDIOS"
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10023,
+        "Name":"Margarita",
+        "AverageRating":"4.8",
+        "Ingredients":[
+            "1 kosher salttablespoon ",
+            "1 ½ tequilafluid ounces ",
+            "1 orange flavored liqueur (such as Cointreau®)fluid ounce ",
+            "½ lime juicefluid ounce ",
+            "1 icecup ",
+            "1 lime wheel "
+        ],
+        "Directions":[
+            "Sprinkle salt on a small plate. Lightly wet the rim of a cocktail glass or margarita glass with a damp paper towel. Dip the moistened rim in salt to coat. Set aside.",
+            "Combine tequila, orange-flavored brandy, and lime juice in a cocktail shaker. Add ice and shake until chilled. Strain into a salt-rimmed cocktail glass or a salt-rimmed, ice-filled margarita glass. Garnish with a lime wheel."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10018,
+        "Name":"Margarita",
+        "AverageRating":"4.7",
+        "Ingredients":[
+            "1 limewedge ",
+            "1 coarse sea salt, or as neededteaspoon ",
+            "1 large ice cube ",
+            "1 ice cubes, or as neededcup ",
+            "2 white tequilafluid ounces ",
+            "1 ½ triple secfluid ounces ",
+            "1 freshly squeezed lime juicefluid ounce ",
+            "1 limeslice "
+        ],
+        "Directions":[
+            "Moisten the rim of a glass with a lime wedge. Sprinkle salt onto a plate. Lightly dip the moistened rim into the salt. Place a large ice cube in the glass and freeze the prepared glass until ready to serve.",
+            "Fill a cocktail shaker with fresh ice. Add tequila, triple sec, and lime juice. Cover and shake vigorously until the outside of the shaker has frosted.",
+            "Strain margarita into the chilled glass and garnish with a slice of lime."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10003,
+        "Name":"Margarita",
+        "AverageRating":"4.8",
+        "Ingredients":[
+            "4 crushed ice, or as neededcups ",
+            "1 frozen limeade concentrate(6 ounce) can ",
+            "6 tequilafluid ounces ",
+            "2 triple secfluid ounces "
+        ],
+        "Directions":[
+            "Fill blender with crushed ice. Pour in limeade concentrate, tequila, and triple sec. Blend until smooth. Pour into glasses and serve."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10754,
+        "Name":"Margarita",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "0.5 Stk Limette ",
+            "1 Prise Salz ",
+            "1 Schb Limette ",
+            "2 cl Limettensaft ",
+            "1 cl Orangenlikör (Tripl sec.) ",
+            "5 cl Tequila ",
+            "4 Stk Eiswürfel "
+        ],
+        "Directions":[
+            "Die vorgekühlte Cocktailschale mit Limettensaft und Salz am Glasrand garnieren. Dazu den Glasrand mit einer halben Limette einreiben, das Salz auf eine Untertasse füllen und den Glasrand darin drehen.",
+            "Den Cocktailshaker mit Eiswürfel füllen. Die Limette auspressen und den Saft über das Crushed Ice füllen. Orangenlikör und Tequila dazugeben und den Shaker kräfig schütteln.",
+            "Den Drink über ein Barsieb in die vorbereitete Cocktailschale gießen und mit einer Limettenscheibe am Glasrand dekorieren, danach sofort servieren."
+        ],
+        "Description":"Der Margarita ist ein Klassiker unter den Cocktails. Ein schmackhafter Drink der toll aussieht.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Tequila Cocktails",
+            "Dinner Cocktails",
+            "Sauer",
+            "Normal",
+            "Limettensaft"
+        ]
+    },
+    {
+        "ID":10122,
+        "Name":"Mariandl",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "1 l Almdudler ",
+            "11 cl Marillenlikör ",
+            "1 Schuss Zitronensaft ",
+            "1 Stk Zitrone - ausgepresster Saft ",
+            "60 g Kristallzucker "
+        ],
+        "Directions":[
+            "Den Almdudler in einen Topf geben und leicht erhitzen, damit die Kohlensäure entweicht.",
+            "Für den Zuckerrand am Glas: einen flachen Teller mit Kristallzucker und einen Teller mit etwas Zitronensaft vorbereiten. Zuerst den Glasrand in den Zitronensaft tauchen, anschließend im Zucker drehen.",
+            "Nun den Marillenlikör zum Almdudler zufügen, sowie einen Schuss Zitronensaft hinzugeben. Nicht aufkochen!",
+            "Vorsichtig in das vorbereitete Cocktailglas gießen und servieren."
+        ],
+        "Description":"Das Cocktailrezept Mariandl schmeckt toll an kalten Wintertagen. Aus Almdudler und Marillenlikör ein toller Drink.",
+        "Keywords":[
+            "Cocktails mit Almdudler",
+            "Liköre",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Light-Drink",
+            "Cocktails und Punsch Rezepte für Weihnachten",
+            "Süß"
+        ]
+    },
+    {
+        "ID":10275,
+        "Name":"Mexican Sunset",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "2 cl Tequila ",
+            "2 cl Cointreau ",
+            "1 cl Mandelsirup ",
+            "1 cl Zitronensaft ",
+            "3 cl Orangensaft ",
+            "1 Schb Orange "
+        ],
+        "Directions":[
+            "Tequila, Cointreau, Mandelsirup, Zitronensaft, Orangensaft und Eis im Shaker gut schütteln und in ein Tumblerglas abgießen.",
+            "Mit einer Zitronenscheibe garnieren."
+        ],
+        "Description":"Mexican Sunset ist ein Cocktail, der einen säuerlichen, aber köstlichen Geschmack hat und toll aussieht.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Tequila Cocktails",
+            "Cointreau Cocktails",
+            "Sauer",
+            "Exotische Cocktailrezepte",
+            "sehr stark",
+            "Cocktails mit Orangensaft",
+            "Zitronensaft"
+        ]
+    },
+    {
+        "ID":10619,
+        "Name":"Mimosa",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "1 Spr Triple Sec Likör ",
+            "7 cl Champagner (Sorte nach Wahl) ",
+            "7 cl Orangensaft ",
+            "0.25 Stk Orangenscheibe für die Deko "
+        ],
+        "Directions":[
+            "In ein kühles Sektglas den Champagner und Orangensaft eingießen.",
+            "Mit einem Spritzer Triple Sec Likör das Getränk abrunden.",
+            "Eine Orangenscheibe vierteln und ein Stück als Deko an den Glasrand stecken."
+        ],
+        "Description":"Dieser herzhafte Mimosa Cocktail ist ein tolles Getränk. Das Rezept ist einfach in der Zubereitung und passt zum Anstossen immer.",
+        "Keywords":[
+            "Sekt & Champagner Cocktails",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Cocktails für Dates",
+            "Spritzig",
+            "Light-Drink"
+        ]
+    },
+    {
+        "ID":10048,
+        "Name":"Mimosa",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "¼ orange juicecup ",
+            "¾ champagne, chilledcup "
+        ],
+        "Directions":[
+            "Divide orange juice evenly into two flute glasses; top with chilled Champagne and serve."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10501,
+        "Name":"Mojito",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "5 cl Rum (weiß, z.b. Bacardi od. Havana Club) ",
+            "6 cl Soda zum Auffüllen ",
+            "1 Stk Limette ",
+            "4 EL Crushed Ice ",
+            "2 TL brauner Zucker (Rohrzucker) ",
+            "8 Bl Minze (frisch) "
+        ],
+        "Directions":[
+            "Die unbehandelten Limetten waschen und die Limettenenden abschneiden. Nun die Limetten achteln und zusammen mit dem braunen Zucker und der Minze in ein Longdrinkglas geben.",
+            "Die Limettenstücke und auch die Minzblätter mit einem Stößel oder Pistill etwas zerdrücken - aber nicht zu viel also nicht komplett zerquetschen.",
+            "Zum Schluss das Glas mit den Crushed Ice füllen, den weißen Rum dazu und das Glas mit dem Soda auffüllen.",
+            "Der Mojito kann beliebig mit ein paar Limettenscheiben und Minzblätter garniert werden."
+        ],
+        "Description":"Der Mojito ist ein klassischer Cocktail und ein erfrischender Drink der immer passt.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Rum Cocktails",
+            "Exotische Cocktailrezepte",
+            "Normal",
+            "Cocktails mit Bacardi Rum"
+        ]
+    },
+    {
+        "ID":10029,
+        "Name":"Mojito",
+        "AverageRating":"4.9",
+        "Ingredients":[
+            "½ white sugarcup ",
+            "36 fresh mint, or to tasteleaves ",
+            "3 limes, quarteredmedium ",
+            "1 rum (such as Bacardi®)cup ",
+            "1 club sodaliter "
+        ],
+        "Directions":[
+            "Muddle sugar and mint leaves together in a pitcher until leaves are well broken down. Add limes and muddle until limes are juiced. Pour rum into sugar mixture; add club soda and stir until sugar is dissolved."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10040,
+        "Name":"Mojito",
+        "AverageRating":"4.8",
+        "Ingredients":[
+            "10 fresh mint leaves ",
+            "½ lime, cut into 3 wedges, dividedmedium ",
+            "2 white sugar, or to tastetablespoons ",
+            "1 ice cubes, or as neededcup ",
+            "1 ½ white rumfluid ounces ",
+            "½ club soda, or as neededcup "
+        ],
+        "Directions":[
+            "Place mint leaves and 1 lime wedge into a sturdy glass. Use a muddler and crush to release mint oils and lime juice.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Add remaining lime wedges and 2 tablespoons sugar, and muddle again to release the lime juice. Do not strain the mixture.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Fill the glass almost to the top with ice. Pour in rum and fill the glass with club soda.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Stir, taste, and add more sugar if desired."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10471,
+        "Name":"Mojito",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "1 Stk Limette (unbehandelt) ",
+            "1 TL Kristallzucker ",
+            "6 Stk Minzeblätter ",
+            "60 ml Bacardi (weißer Rum) ",
+            "3 Stk Eiswürfel (zerkleinert) ",
+            "1 Schuss Mineralwasser ",
+            "5 Bl Minze ",
+            "1 Stk Limette "
+        ],
+        "Directions":[
+            "Die Limette waschen, der Länge nach vierteln und Spalten in kleine Stücke schneiden.",
+            "Anschließend den Zucker beifügen und die Limettenstücke in einem Mörser mit einem Stößel zerdrücken. Die Minzblätter kleinschneiden, zufügen und mit den Limettenstücken weiter zerdrücken.",
+            "Als nächstes den Bacardi dazugießen und verrühren.",
+            "Zum Schluß die Limettenstücke ins Glas geben, Flüssigkeit durch ein Sieb darüber seihen. Die Eiswürfel zufügen, mit einem Schuss Mineralwasser aufgießen mit Minzblättern und einem Limettenstück garnieren."
+        ],
+        "Description":"Das Mojito Rezept ist bereits ein Kultgetränk und wird immer gerne serviert. Dabei darf natürlich die Limette nicht fehlen.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Rum Cocktails",
+            "Normal",
+            "Cocktails mit Bacardi Rum"
+        ]
+    },
+    {
+        "ID":10038,
+        "Name":"Moscow Mule",
+        "AverageRating":"4.7",
+        "Ingredients":[
+            "1 ½ vodkafluid ounces ",
+            "½ lime juicefluid ounce ",
+            " ice cubes ",
+            "½ ginger beercup ",
+            "1 lime wedge for garnish "
+        ],
+        "Directions":[
+            "Pour vodka and lime juice into a mug; add ice cubes and ginger beer. Stir to combine.",
+            "Drop a lime wedge into the mug for garnish."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10017,
+        "Name":"Moscow Mule",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "0.5 Stk Limette (ausgepresst) ",
+            "5 cl Wodka ",
+            "10 Stk Eiswürfel ",
+            "320 ml Ginger Beer zum Auffüllen ",
+            "3 Sp Limette ",
+            "1 Stk Minzezweig (klein und frisch) "
+        ],
+        "Directions":[
+            "Für den Moscow Mule zuerst die Limette auspressen.",
+            "In den Kupferbecher den Wodka einfüllen, dann sofort mit Eiswürfel füllen. Jetzt den Limettensaft über das Eis gießen.",
+            "Mit Ginger Beer auffüllen, vorsichtig mit einem Barlöffel umrühren.",
+            "Limettenspalten und Minzblätter zum Garnieren verwenden."
+        ],
+        "Description":"Dieser köstliche Moscow Mule mit Wodka, Limettensaft und Ginger Beer, ist der neue Trend unter den Cocktails und wird gern im Kupferbecher serviert.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Cocktails für Dates",
+            "Bitter"
+        ]
+    },
+    {
+        "ID":10513,
+        "Name":"Negroni",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "3 cl London Dry Gin ",
+            "3 cl Vermouth Sweet ",
+            "3 cl Campari "
+        ],
+        "Directions":[
+            "Ein Tumbler Glas mit Eiswürfel füllen.",
+            "Anschließend kommt zuerst der Gin ins Glas, danach den Campari und den Wermut einfüllen. Nochmals umrühren.",
+            "Jetzt kann das Glas mit viel Crushe Ice gefüllt werden, damit es schön voll ist.",
+            "Zum Schluss eine geringelte Orangenschle auf die Eiswürfel legen und servieren."
+        ],
+        "Description":"Ein Negroni Cocktail wird mit Gin, Campari und Wermut zubereitet. Das Rezept sorgt bestimmt für Stimmung.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Gin Cocktails",
+            "Fruchtig"
+        ]
+    },
+    {
+        "ID":10524,
+        "Name":"Negroni",
+        "AverageRating":"4.3",
+        "Ingredients":[
+            "3 cl Campari ",
+            "3 cl Gin ",
+            "3 cl Vermouth Rosso ",
+            "0.5 Stk Orangenscheibe ",
+            "1 Dash Sodawasser (nach Wunsch) "
+        ],
+        "Directions":[
+            "Die Zutaten Gin, Campari, Vermouth Rosso und Sodawasser in einem Shaker gut shaken.",
+            "Ein Old-Fashion-Glas vorbereiten und mit Eiswürfel füllen, den Drink in das Glas gießen und mit einem Stierer verrühren.",
+            "Mit einer halben Orangenscheibe am Glasrand garnieren."
+        ],
+        "Description":"Der bekannte Negroni Cocktail wird aus Campari, Gin und Vermouth Rosso zubereitet. Dieses Cocktail Rezept schmeckt vorzüglich.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Bitter"
+        ]
+    },
+    {
+        "ID":10012,
+        "Name":"Old Fashioned",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "2 simple syrupteaspoons ",
+            "1 waterteaspoon ",
+            "2 bittersdashes ",
+            "1 ice cubescup ",
+            "1 bourbon whiskey(1.5 fluid ounce) jigger ",
+            "1 orangeslice ",
+            "1 maraschino cherry "
+        ],
+        "Directions":[
+            "Pour simple syrup, water, and bitters into a whiskey glass; stir to combine. Add ice cubes and pour in bourbon. Garnish with orange slice and maraschino cherry."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10584,
+        "Name":"Optimist",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "3 cl Gin ",
+            "2 cl Creme de Cassis ",
+            "2 cl Ananassaft ",
+            "0.5 Stk Orangenscheibe ",
+            "1 Stk Cocktailkirsche ",
+            "1 Schuss Orangensaft ",
+            "1 Schb Ananas ",
+            "1 Dash Maracujasirup "
+        ],
+        "Directions":[
+            "Ananassaft, Maracujasirup und Gin im Shaker mit Eis schütteln und in ein Cocktailglas mit Eiswürfeln geben.",
+            "Mit dem Orangensaft auffüllen und Creme de Cassis einlaufen lassen. Eine Kirsche oder Orange an den Glasrand stecken."
+        ],
+        "Description":"Der Optimist ist ein köstlich fruchtiger Cocktail, der durch den Likör einen tollen Geschmack bekommt.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Gin Cocktails",
+            "Fruchtig",
+            "Normal",
+            "Süß",
+            "Cocktails mit Orangensaft",
+            "Ananassaft"
+        ]
+    },
+    {
+        "ID":10108,
+        "Name":"Paradise",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "2 cl Apricot Brandy ",
+            "4 cl Gin ",
+            "4 cl Orangensaft ",
+            "1 Stk Cocktailkirsche, dekoration "
+        ],
+        "Directions":[
+            "Apricot Brandy, Gin, Orangensaft mit Eis im Shaker kräftig schütteln.",
+            "Den Drink abgießen und in eine Cocktailschale füllen. Mit einer Cocktailkirsche garnieren und servieren."
+        ],
+        "Description":"Ein schmackhafter Cocktail gelingt mit diesem Rezept. Der Paradise sieht nicht nur toll aus, sondern schmeckt auch so.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Dinner Cocktails",
+            "Gin Cocktails",
+            "Fruchtig",
+            "Light-Drink",
+            "Aperitif Rezepte",
+            "Süß",
+            "Cocktails mit Orangensaft"
+        ]
+    },
+    {
+        "ID":10002,
+        "Name":"Party Punch Iv",
+        "AverageRating":"4.7",
+        "Ingredients":[
+            "1 frozen pineapple juice concentrate(16 ounce) can ",
+            "1 frozen orange juice concentrate(12 fluid ounce) can ",
+            "12 vodkafluid ounces ",
+            "2 lemon-lime flavored carbonated beverage, chilled(2 liter) bottles ",
+            "1 maraschino cherries(4 ounce) jar ",
+            "4 oranges, sliced into rounds ",
+            "2 ice cubestrays "
+        ],
+        "Directions":[
+            "In a punch bowl, combine pineapple juice concentrate, orange juice concentrate and vodka. Pour in lemon-lime soda. Float cherries and orange slices on top. Add ice before serving."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10240,
+        "Name":"Pina Colada",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "2 Tr Zitronensaft ",
+            "4 cl Cream of Coconut (od. Kokossirup) ",
+            "2 cl Schlagobers ",
+            "6 cl Rum ",
+            "8 cl Ananassaft ",
+            "1 Schb Ananasscheibe "
+        ],
+        "Directions":[
+            "Für einen Pina Colada zuerst die Ananasscheibe in Würfel schneiden und in den Mixer geben.",
+            "Ananassaft, Cream of Coconut (oder Kokossirup), Rum, Obers Zitronentropfen zufügen und alles in den Mixer geben und das Ganze ca. 25 Sekunden gut mixen.",
+            "Den fertigen Pina Colada in ein Ballonglas (Fancyglas) gießen, mit gestoßenem Eis auffüllen und mit einer frischen Ananasscheibe und einer Cocktailkirsche garnieren."
+        ],
+        "Description":"Einer der beliebtesten tropischen Cocktails aus der Karibik ist der Pina Colada, einfach herrlich.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Cremig",
+            "Mix-Getränke",
+            "Rum Cocktails",
+            "Exotische Cocktailrezepte",
+            "Normal",
+            "Zitronensaft",
+            "Ananassaft"
+        ]
+    },
+    {
+        "ID":10496,
+        "Name":"Pina Colada",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "4 cl Rum (weiß) ",
+            "6 cl Ananassaft ",
+            "2 cl Cream of Coconut ",
+            "2 cl Schlagobers ",
+            "1 Stk Ananasscheibe (frisch, in Stücke) "
+        ],
+        "Directions":[
+            "Die Ananasstücke im Mixer fein zerkleinern (kann auch ein Pürierstab sein, dann wird es noch feiner).",
+            "Die restlichen Zutaten werden im Shaker gut durch shaken.",
+            "Nun ein beliebiges Glas mit gestoßenem Eis, bis zur Hälfte auffüllen. Das Ananaspüree ins Glas geben und den geshakten Drink einfüllen.",
+            "Ein Ananasstück und Cocktailkirsche an den Glasrand stecken."
+        ],
+        "Description":"Mit Ananasstücken wird diese Pina Colada zum Hochgenuss. Ein Rezept Traum für Colada Fans.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Cremig",
+            "Light-Drink",
+            "Rum Cocktails"
+        ]
+    },
+    {
+        "ID":10026,
+        "Name":"Pineapple Margarita",
+        "AverageRating":"4.7",
+        "Ingredients":[
+            "2 ice, or as neededcups ",
+            "3 pineapple juicefluid ounces ",
+            "2 silver tequilafluid ounces ",
+            "¾ triple secfluid ounce ",
+            "¾ freshly squeezed lime juicefluid ounce ",
+            "1 coarse salt, or as neededtablespoon ",
+            " 2 lime wedges ",
+            " pineapple wedge for garnish (optional) "
+        ],
+        "Directions":[
+            "Fill a cocktail shaker half-full with ice. Add pineapple juice, tequila, triple sec, and lime juice to the shaker. Seal and shake vigorously until outside is frosted, 10 to 15 seconds.",
+            "Sprinkle salt onto a plate. Moisten the rim of a glass with a lime wedge. Press the moistened rim into the salt. Fill glass with ice.",
+            "Strain margarita into the glass and garnish with pineapple and lime wedge, if desired."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10095,
+        "Name":"Pink Elephant",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "1 cl Grenadine ",
+            "2 cl Bananensirup ",
+            "1 cl Zitronensaft ",
+            "6 cl Grapefruitsaft ",
+            "3 cl Maracujasaft ",
+            "3 cl Orangensaft ",
+            "4 cl brauner Rum ",
+            "3 Stk Minzblätter (frisch, klein) ",
+            "1 TL Zitronenzesten (bio) "
+        ],
+        "Directions":[
+            "Den Shaker mit 5 Eiswürfeln füllen, dann den Orangen-, Zitronen-, Maracuja- und Grapefruitsaft, Grenadine, sowie braunen Rum und Bananensirup dazugeben und kräftig ca. 15 Sek. lang schütteln.",
+            "Den Drink in ein vorbereitetes und beliebiges Glas, mit einer Füllmenge von 200 ml, über ein Barsieb gießen.",
+            "Fein abgeriebene Zitronen- oder Orangenzesten ins Glas geben, noch frische kleine Minzblätter hinzu und servieren."
+        ],
+        "Description":"Pink Elephant sieht nicht nur toll aus, sondern schmeckt auch grandios. Ein traumhafter Cocktail den man probieren sollte.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Fruchtig",
+            "Light-Drink",
+            "Mix-Getränke",
+            "Rum Cocktails",
+            "Exotische Cocktailrezepte",
+            "Cocktails mit Orangensaft"
+        ]
+    },
+    {
+        "ID":10580,
+        "Name":"Pink Margarita",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "6 cl Tequila ",
+            "2 cl Blue Curacao ",
+            "1 cl Limettensaft ",
+            "1 cl Grenadine ",
+            "4 Stk Erdbeeren ",
+            "1 Stk Limettenscheibe zum Garnieren "
+        ],
+        "Directions":[
+            "Die gewaschenen, zerkleinerten Erdbeeren in den Mixer geben.",
+            "Blue Curacao, Limettensaft, Grenadine und Tequila dazugeben etwa 20 Sek. pürieren.",
+            "Den Drink mit Crushed Ice in ein Tumbler Glas gießen, mit einem Barlöffel verrühren.",
+            "Für die Deko Erdbeeren einschneiden und an den Glasrand stecken."
+        ],
+        "Description":"Ein saurer Cocktail ist der Pink Margarita. Einfach zubereitet und dennoch ein Schmankerl - ein Hit für jedes Fest.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Tequila Cocktails",
+            "Sauer",
+            "Mix-Getränke",
+            "Exotische Cocktailrezepte",
+            "Normal",
+            "Cocktails mit Curacao",
+            "Limettensaft"
+        ]
+    },
+    {
+        "ID":10257,
+        "Name":"Pink Panther",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "9 cl Orangensaft ",
+            "1 cl Kokossirup ",
+            "1 cl Grenadine ",
+            "0.5 cl Zitronensaft (frisch gepresst) ",
+            "1 Schuss Bitter Lemon (eiskalt) "
+        ],
+        "Directions":[
+            "In einem Shaker mit Eiswürfel alle Zutaten außer Bitter Lemon gut shaken.",
+            "In ein Longdrinkglas Eiswürfel geben und den geschüttelten Drink über ein Barsieb abseihen. Zum Schluss mit Bitter Lemon auffüllen."
+        ],
+        "Description":"Nicht nur die Farbe sieht gut aus, dieser Rosaroter Panther Cocktail schmeckt auch herrlich und verführt.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "kein Alkohol"
+        ]
+    },
+    {
+        "ID":10747,
+        "Name":"Planter'S Punch",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "2 cl Limettensaft ",
+            "8 cl Orangensaft ",
+            "5 cl Rum, braun ",
+            "1 cl Grenadine "
+        ],
+        "Directions":[
+            "Den Cocktailshaker mit 5 Eiswürfeln füllen. Grenadine, Limettensaft, Orangensaft und den Rum in den Shaker gießen und alles etwa 15 Sek. kräftig schütteln.",
+            "Frische Eiswürfel in ein Longdrinkglas geben und das geshakte durch ein Barsieb dazugießen.",
+            "Mit einem Ananasstück, Zitronenscheibe, Cocktailkirsche, Strohhalm und Schirmchen garnieren."
+        ],
+        "Description":"Planters Punch ist ein fruchtiger Cocktail aus den USA. Er sieht toll aus und schmeckt grandios.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Cocktails mit Fruchtsaft",
+            "Fruchtig",
+            "Light-Drink",
+            "Mix-Getränke",
+            "Rum Cocktails",
+            "Exotische Cocktailrezepte",
+            "Süß",
+            "Cocktails mit Orangensaft",
+            "Ananassaft",
+            "Limettensaft"
+        ]
+    },
+    {
+        "ID":10024,
+        "Name":"Razz",
+        "AverageRating":"4.7",
+        "Ingredients":[
+            "7 cl Bacardi (Razz) ",
+            "7 cl Himbeersirup ",
+            "5 Stk Himbeere ",
+            "8 cl Sprite "
+        ],
+        "Directions":[
+            "Ein Longdrinkglas bis zur Hälfte mit Eis füllen.",
+            "Rum, Sirup und Himbeeren dazugebn und mit Sprite auffüllen."
+        ],
+        "Description":"Das Cocktailrezept Razz ist erfrischend und passend für Sommerabende. Mit Freunden genießen.",
+        "Keywords":[
+            "Cocktails mit Bacardi Rum",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch"
+        ]
+    },
+    {
+        "ID":10811,
+        "Name":"Red Dog",
+        "AverageRating":"4.4",
+        "Ingredients":[
+            "3 cl Amaretto ",
+            "2 cl Pfirsichlikör ",
+            "3 cl Campari ",
+            "1 Schuss Almdudler ",
+            "1 Stk Orangenschale (Streifen für die Deko) "
+        ],
+        "Directions":[
+            "Eiswürfeln in ein Cognacglas geben und bis zur Hälfte anfüllen.",
+            "Anschließend alle Zutaten bis auf den Almdudler hineingeben und umrühren.",
+            "Almdudler dazugeben. Das Glas mit einem Streifen eingerollter Orangenschale garnieren."
+        ],
+        "Description":"Das Cocktailrezept Red Dog ist erfrischend und aromatisch.",
+        "Keywords":[
+            "Cocktails mit Almdudler",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Campari Cocktails",
+            "Aperitif Rezepte",
+            "Normal",
+            "Süß"
+        ]
+    },
+    {
+        "ID":10323,
+        "Name":"Ritz",
+        "AverageRating":"4.4",
+        "Ingredients":[
+            "2 cl Orangensaft ",
+            "2 cl Cointreau ",
+            "2 cl Cognac ",
+            "1 Schuss Champagner "
+        ],
+        "Directions":[
+            "Den Cognac mit Cointreau und Orangensaft und mit Eis in einem Shaker schütteln.",
+            "Anschließend in eine Cocktailschale geben und mit Champagner auffüllen.",
+            "Den Cocktail kühl und mit einem Trinkhalm servieren."
+        ],
+        "Description":"Ritz ist ein prickelnder Cocktail. Dieses einfache Rezept bietet Ihnen einen tollen Aperitif für Ihre Partys.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Spritzig",
+            "Cointreau Cocktails",
+            "Sekt & Champagner Cocktails"
+        ]
+    },
+    {
+        "ID":10246,
+        "Name":"Ritz",
+        "AverageRating":"4.2",
+        "Ingredients":[
+            "2 cl Orangensaft ",
+            "1 cl Cointreau ",
+            "2 cl Cognac ",
+            "1 Schuss Champagner zum Auffüllen "
+        ],
+        "Directions":[
+            "Im Shaker die Zutaten Cognac, Cointreau und Orangensaft auf Eiswürfel schütteln.",
+            "Den Drink in einen Champagnerkelch oder Sektglas abseihen und vorsichtig mit Champagner auffüllen."
+        ],
+        "Description":"Ein spritziger Cocktail der sich zugleich als Aperitif eignet ist der Ritz - schmeckt köstlich prickelnd.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Cocktails für Dates",
+            "Spritzig",
+            "Aperitif Rezepte",
+            "Sekt & Champagner Cocktails",
+            "sehr stark",
+            "Cocktails mit Orangensaft"
+        ]
+    },
+    {
+        "ID":10011,
+        "Name":"Sangria",
+        "AverageRating":"4.8",
+        "Ingredients":[
+            "1 dry red wine(750 milliliter) bottle ",
+            "½ brandycup ",
+            "½ triple seccup ",
+            "⅓ frozen lemonade concentratecup ",
+            "⅓ orange juicecup ",
+            "¼ lemon juicecup ",
+            "¼ white sugar (Optional)cup ",
+            "1 orange, sliced into roundsmedium ",
+            "1 lemon, sliced into roundsmedium ",
+            "1 lime, sliced into roundsmedium ",
+            "8 maraschino cherries ",
+            "2 carbonated water (Optional)cups "
+        ],
+        "Directions":[
+            "Mix together red wine, brandy, triple sec, lemonade concentrate, orange juice, lemon juice, and sugar in a bowl. Add orange, lemon, and lime slices and maraschino cherries.",
+            "Serve immediately over ice, or refrigerate 8 hours to overnight for best flavor.",
+            "For a fizzy sangria, add club soda just before serving."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10028,
+        "Name":"Sangria",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "1 orange ",
+            "1 lemon ",
+            "1 lime ",
+            "1 ½ rumcups ",
+            "½ white sugar, or to tastecup ",
+            "1 dry red wine(750 milliliter) bottle ",
+            "1 orange juicecup "
+        ],
+        "Directions":[
+            "Have orange, lemon, lime, rum, wine, and orange juice well chilled.",
+            "Slice orange, lemon, and lime into thin rounds; place in a large glass pitcher. Pour in rum and 1\/2 cup sugar. Chill in the refrigerator until flavors blend, about 2 hours.",
+            "Crush fruit lightly with a wooden spoon; stir in wine and orange juice. Adjust sweetness as desired."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10356,
+        "Name":"Screw Driver",
+        "AverageRating":"4.4",
+        "Ingredients":[
+            "4 cl Wodka ",
+            "10 cl Orangensaft ",
+            "4 Stk Eiswürfel "
+        ],
+        "Directions":[
+            "Eiswürfel, Wodka und Orangensaft auf Eis im Glas verrühren.",
+            "Mit einer Kirsche und einer Orangenscheibe garnieren."
+        ],
+        "Description":"Der Screw Driver ist ein klassischer Cocktail der rasch zubereitet ist und einfach köstlich schmeckt.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Wodka Cocktails",
+            "Cocktails mit Fruchtsaft",
+            "Fruchtig",
+            "Hochzeits Cocktails",
+            "Aperitif Rezepte",
+            "Normal",
+            "Süß",
+            "Cocktails mit Orangensaft"
+        ]
+    },
+    {
+        "ID":10625,
+        "Name":"Screw Driver",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "6 cl Wodka ",
+            "12 cl Orangensaft ",
+            "6 Wf Eis "
+        ],
+        "Directions":[
+            "Für den Screwdriver Wodka, Orangensaft und Eis in ein Highballglas füllen.",
+            "Gut umrühren, Trinkhalm ins Glas geben und genießen."
+        ],
+        "Description":"Ein toller Screwdriver bringt Schwung und schmeckt. Den Cocktail mit Freunden genießen. Hier das Rezept.",
+        "Keywords":[
+            "Wodka Cocktails",
+            "Cocktail Rezepte",
+            "Fruchtig"
+        ]
+    },
+    {
+        "ID":10411,
+        "Name":"Sea Breeze",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "5 cl Wodka ",
+            "10 cl Cranberrysaft ",
+            "5 cl Grapefruitsaft "
+        ],
+        "Directions":[
+            "Den Shaker mit 5 Eiswürfeln füllen, Wodka, Cranberry- und Grapefruitsaft dazugeben und etwa 5 Minuten schüttlen.",
+            "In ein Longdrinkglas weitere Eiswürfel geben und das geshakte Getränk durch ein Barsieb dazugießen.",
+            "Den Drink mit Orangenscheiben garnieren."
+        ],
+        "Description":"Seabreeze ist ein super aussehnder und wahnsinnig toll schmeckender Cocktail, den Sie ausprobieren sollten.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Wodka Cocktails",
+            "Cocktails mit Fruchtsaft",
+            "Fruchtig",
+            "Sauer",
+            "Mix-Getränke",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10053,
+        "Name":"Sex On The Beach",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "6 Stk Eiswürfel (für Shaker) ",
+            "4 cl Wodka ",
+            "2 cl Pfirsichlikör ",
+            "4 cl Cranberry Direktsaft ",
+            "1 cl Zitronensaft ",
+            "5 Stk Eiswürfel für das Glas ",
+            "25 cl Orangensaft (zum Auffüllen) ",
+            "1 Stk Ananasscheibe ",
+            "1 Stk Cocktailkirsche "
+        ],
+        "Directions":[
+            "Den Shaker mit 4-6 Eiswürfeln füllen und die übrigen Zutaten Wodka, Pfirsichlikör, Cranberry-Direktsaft, Zitronensaft dazugeben, kräftig durchschütteln.",
+            "In ein Hurricane Glas ca. 4-5 frische Eiswürfel geben und den Cocktail über ein Barsieb ins Glas gießen.",
+            "Zum Schluß mit dem Orangensaft auffüllen.",
+            "Mit Trinkhalm und einer Ananasscheibe sowie Cocktailkirsche garnieren und servieren."
+        ],
+        "Description":"Der Cocktail Sex on the Beach ist einer der bekanntesten und beliebtesten Drinks überhaupt. Herrlich frisch und fruchtig.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Wodka Cocktails",
+            "Fruchtig",
+            "Mix-Getränke",
+            "Normal",
+            "Cocktails mit Orangensaft"
+        ]
+    },
+    {
+        "ID":10010,
+        "Name":"Sidecar",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "3 cl Brandy ",
+            "3 cl Cointreau ",
+            "3 cl Zitronensaft ",
+            "6 Stk Eiswürfel ",
+            "3 Stk Cocktailkirschen "
+        ],
+        "Directions":[
+            "Brandy, Cointreau, Zitronensaft und Eiswürfel in einen Cocktailshaker geben und gut schütteln.",
+            "Dann in ein Glas abseihen und mit den Kirschen garnieren."
+        ],
+        "Description":"Dieser Sidecar wird mit Brandy zubereitet. Weiters mit Cointreau und Zitronensaft verfeinert. Hier das Rezept.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Weinbrand & Cognac",
+            "Cointreau Cocktails",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10380,
+        "Name":"Singapore Sling",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "2 cl Gin ",
+            "2 cl Cherry Brandy \/ Kirschlikör ",
+            "2 cl Zitronensaft ",
+            "0.5 TL Zucker "
+        ],
+        "Directions":[
+            "Im Shaker auf aufgehackten Eiswürfel Kirschlikör, Gin, Zitronensaft und Zucker schütteln, ohne abseihen in ein Cocktailglas geben.",
+            "Dekorieren kann man das Ganze mit fein geschnittenen Zitronenschalen-Streifen."
+        ],
+        "Description":"Der Singapore Sling ist ein fruchtiger Cocktail, der leicht zuzubereiten ist und einfach köstlich schmeckt.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Gin Cocktails",
+            "Fruchtig",
+            "Mix-Getränke",
+            "sehr stark",
+            "Süß",
+            "Zitronensaft"
+        ]
+    },
+    {
+        "ID":10089,
+        "Name":"Sombrero",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "4 cl Rum, weiss ",
+            "6 cl Grapefruitsaft ",
+            "5 cl Ananassaft ",
+            "5 cl Schlagobers ",
+            "3 Stk Eiswürfel ",
+            "1 Stk Cocktailkirsche, zum garnieren "
+        ],
+        "Directions":[
+            "Ananassaft, Grapefruitsaft, Sahne und Rum mit 2 Eiswürfeln im Shaker kurz schütteln, in ein Longdrinkglas 2-3 Eiswürfel geben und die geshakte Menge abgeseiht darauf füllen.",
+            "Mit Cocktailkirsche und Schirmchen garnieren."
+        ],
+        "Description":"Der Sombrero ist ein exotischer, fruchtiger Cocktail. Ein tolles Rezept für jede Gartenparty.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Mix-Getränke",
+            "Rum Cocktails",
+            "Exotische Cocktailrezepte",
+            "Normal",
+            "Cocktails mit Bacardi Rum",
+            "Ananassaft"
+        ]
+    },
+    {
+        "ID":10173,
+        "Name":"Stinger",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "1 Stk säuerlicher Apfel ",
+            "1 Stk frischer Ingwer ",
+            "200 ml Orangensaft (frisch gepresst) ",
+            "200 g Karotten "
+        ],
+        "Directions":[
+            "Karotten abschrubben, Apfel waschen. Karotten, Apfel und Ingwer in gleich große Stücke schneiden und entsaften.",
+            "Saft in ein Glas gießen und einige Eiswürfel dazu geben. Mit Orangensaft aufgießen."
+        ],
+        "Description":"Das Stehaufmännchen ist ein frischer, furchtiger Cocktail der garantiert jeden Kater verteibt und Sie schnell auf die Beine bringt.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "kein Alkohol",
+            "Cocktails für Dates",
+            "Cocktails mit Fruchtsaft",
+            "Fruchtig",
+            "Mix-Getränke",
+            "Würzig",
+            "Mocktails"
+        ]
+    },
+    {
+        "ID":10409,
+        "Name":"Strawberry Daiquir",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "4 cl Rum ",
+            "2 cl Limettensaft (frisch gepresst) ",
+            "2 cl Strawberry Liqueur ",
+            "8 Stk Erdbeeren (klein) ",
+            "3 EL Crushed Ice "
+        ],
+        "Directions":[
+            "In einen Mixer etwas Crushed Ice mit den Erdbeeren fein zerkleinern. Anschließend die restlichen Zutaten zufügen und gut shaken.",
+            "Den Drink in ein Cocktailglas gießen und mit einem schwarzen Trinkhalm servieren.",
+            "Eventuell mit Erdbeerstücken und einem Minzblatt am Glasrand garnieren."
+        ],
+        "Description":"Frisch und fruchtig schmeckt ein Strawberry Daiquiri, ideal für den Sommer und natürlich Poolpartys.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Liköre",
+            "Fruchtig",
+            "Rum Cocktails",
+            "Normal",
+            "Schnaps & Likör Rezepte"
+        ]
+    },
+    {
+        "ID":10032,
+        "Name":"Strawberry Daiquiri",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "4 frozen strawberriesounces ",
+            "½ white sugarcup ",
+            "½ lemon juicecup ",
+            "⅛ lime juicecup ",
+            "¾ rumcup ",
+            "¼ lemon-lime flavored carbonated beveragecup ",
+            "6 ice, or as neededcups "
+        ],
+        "Directions":[
+            "Place frozen strawberries in a blender; add sugar, lemon juice, and lime juice. Pour in rum and lemon-lime beverage, then add ice. Blend until smooth."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10189,
+        "Name":"Strawberry Margarita",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "2 cl frischen Zitronensaft ",
+            "5 cl Erdbeeren ",
+            "2 cl Cointreau ",
+            "4 cl Tequila ",
+            "1 Prise Kristallzucker "
+        ],
+        "Directions":[
+            "Cointreau, Zitronensaft, Zuckersirup und Tequila gemeinsam mit den Erdbeeren in den Mixer geben und gut durchmixen.",
+            "Danach gibt man den Inhalt in den Cocktailshaker, dazu 2-3 Eiswürfel, gut schütteln und anschließend in eine Cocktailschale abseihen.",
+            "Der Rand der Cocktailschale wird vorher mit einer eingeschnittenen Zitronenscheibe befeuchtet und anschließend in feinem Kristallzucker gedreht. Die Schale danach leicht abklopfen, damit lose Zuckerkörner abfallen können und zusätzlich mit einer Zitronenscheibe garnieren."
+        ],
+        "Description":"Der Strawbeery Margherita ist ein klassischer Cocktail der süß schmeckt und toll aussieht.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Tequila Cocktails",
+            "Fruchtig",
+            "Mix-Getränke",
+            "Normal",
+            "Süß",
+            "Zitronensaft"
+        ]
+    },
+    {
+        "ID":10036,
+        "Name":"Strawberry Mojito",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            " white sugar, for rimming ",
+            "2 limes, quarteredlarge ",
+            "½ mint leavesbunch ",
+            "7 strawberries, quartered ",
+            "1 white sugarcup ",
+            "2 club sodacups ",
+            "1 white rumcup ",
+            "8 ice cubescups "
+        ],
+        "Directions":[
+            "Pour about 1\/2 inch of sugar onto a small, shallow plate. Run a lime wedge around the rims of 8 cocktail glasses, then dip the rims into sugar to coat; set aside.",
+            "Squeeze all of the lime wedges into a sturdy glass pitcher. Toss juiced limes into the pitcher along with mint, strawberries, and 1 cup sugar. Crush with a muddler to release strawberry juice and mint oil. Stir in club soda and rum until sugar has dissolved.",
+            "Pour into the prepared glasses over ice cubes to serve."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10221,
+        "Name":"Sweet Memories",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "2 cl weißer Rum ",
+            "2 cl Curacao orange ",
+            "2 cl Vermouth dry ",
+            "3 Stk Eiswürfel "
+        ],
+        "Directions":[
+            "Die Zutaten Curacao orange, Vermouth dry, weißer Rum zusammen im Shaker mit einigen Eiswürfeln schütteln und durch ein Barsieb in eine große Cocktailschale seihen.",
+            "Mit einer Limettenschale dekorieren und sofort genießen."
+        ],
+        "Description":"Sweet Memories - ein sündhaft guter Cocktail der Ihnen garantiert süße Momente bescheren wird.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Aperitif Rezepte",
+            "Rum Cocktails",
+            "Exotische Cocktailrezepte",
+            "Normal",
+            "Süß",
+            "Cocktails mit Curacao",
+            "Cocktails mit Bacardi Rum",
+            "Cocktails mit Wermut"
+        ]
+    },
+    {
+        "ID":10091,
+        "Name":"Swimming Pool",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "12 cl Ananassaft ",
+            "4 cl Wodka ",
+            "2 cl Schlagobers ",
+            "2 cl Cream of Coconut ",
+            "3 EL Crushed Ide ",
+            "2 cl Blue Curacao ",
+            "1 Stk Cocktailkirsche, zum Dekorieren "
+        ],
+        "Directions":[
+            "Ananassaft, Wodka, Obers, Cream of Coconut in einen Standmixer geben und gut durchmixen.",
+            "Ein Fancyglas zur Hälfte mit Crushed Ice auffüllen und die gemixten Zutaten hineinleeren.",
+            "Danach den Blue Curacao in das Glas einfließen lassen.",
+            "Mit einer Cocktailkirsche und Trinkhalm garnieren und servieren."
+        ],
+        "Description":"Der Swimming Pool sieht nicht nur grandios aus, sondern schmeckt auch toll. Ein herrlicher, sommerlicher Cocktail.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Wodka Cocktails",
+            "Cremig",
+            "Milch",
+            "Aperitif Rezepte",
+            "Normal",
+            "Süß",
+            "Cocktails mit Curacao",
+            "Ananassaft"
+        ]
+    },
+    {
+        "ID":10107,
+        "Name":"Tahiti",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "2 cl Rum, dunkel ",
+            "3 cl Malibu Kokoslikör ",
+            "2 cl Zitronensaft ",
+            "8 cl Orangensaft ",
+            "2 cl Mangolikör ",
+            "1 Stk Mango zum Garnieren "
+        ],
+        "Directions":[
+            "Rum, Malibu, Mangolikör, Zitronensaft, Orangensaft und Eis im Shaker kräftig schütteln, abgießen und in ein Longdrinkglas auf frische Eiswürfel füllen.",
+            "Mit Mangostückchen im Glas und exotischer Blume servieren."
+        ],
+        "Description":"Ein grandioser Cocktail der Sie in Urlaubsstimmung versetzen wird ist der Tahiti - unbedingt ausprobieren.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Fruchtig",
+            "Rum Cocktails",
+            "Exotische Cocktailrezepte",
+            "Normal",
+            "Süß",
+            "Cocktails mit Orangensaft",
+            "Cocktails mit Malibu",
+            "Zitronensaft"
+        ]
+    },
+    {
+        "ID":10695,
+        "Name":"Tequila Sunrise",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "20 ml Tequila ",
+            "20 ml Grenadine ",
+            "1 Spr Zitronensaft ",
+            "10 ml Orangensaft ",
+            "6 Stk Eiswürfel oder Crash-Eis ",
+            "1 Stk Orangenspalte "
+        ],
+        "Directions":[
+            "In ein halbvoll mit Eiswürfeln oder Crash-Eis gefülltes Longdrinkglas Tequila, Grenadine und Zitronenspritzer geben.",
+            "Langsam mit Orangensaft auffüllen und mit einer Orangenspalte garnieren."
+        ],
+        "Description":"Ein Tequila Sunrise wird in einem Longdrinkglas serviert. Mit Grenadine wird das Rezept zu einem außergewöhnlichen Drink.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Tequila Cocktails",
+            "Fruchtig",
+            "Light-Drink",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10798,
+        "Name":"Tequila Sunrise",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "5 Stk Eiswürfel ",
+            "4 cl Tequila ",
+            "1 cl Zitronensaft ",
+            "11 cl Orangensaft ",
+            "1 cl Grenadinesirup ",
+            "1 Stk Zitronenspalte "
+        ],
+        "Directions":[
+            "Den Shaker mit 5 Eiswürfeln füllen, dann Tequila, Zitronensaft und den Orangensaft hinzufügen und ca. 15 Sek. kräftig schütteln.",
+            "In ein Longdrinkglas etwas Crushed Ice geben und den Drink über ein Barsieb abgießen.",
+            "Nun den Grenadinesirup vorsichtig über einen Löffelrücken in das Glas gießen.",
+            "Nicht umrühren, warten bis der Sirup auf dem Glasboden ist und anschließend mit Trinkhalm und einer Orangenscheibe sowie Cocktailkirsche servieren."
+        ],
+        "Description":"Ein klassischer Cocktail ist der Tequila Sunrise. Er lässt die Geschmacksknospen explodieren.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Tequila Cocktails",
+            "Fruchtig",
+            "Exotische Cocktailrezepte",
+            "sehr stark",
+            "Cocktails mit Orangensaft"
+        ]
+    },
+    {
+        "ID":10703,
+        "Name":"Tom Collins",
+        "AverageRating":"3.9",
+        "Ingredients":[
+            "40 ml Gin ",
+            "1 Spr Zitronensaft ",
+            "1 Stk Zitronenscheibe ",
+            "1 Stk Basilikumblatt ",
+            "1 Spr Zuckersirup ",
+            "150 ml Sodawasser "
+        ],
+        "Directions":[
+            "Gin, Zuckersirup und Zitronenspritzer in ein Glas geben und verrühren.",
+            "Mit Sodawasser aufgießen und mit Zitrone und Basilikum servieren."
+        ],
+        "Description":"Ein Tom Collins mit Gin und Sodawasser zum Aufgießen ist für eine Party ein grandioses Rezept.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Gin Cocktails",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10359,
+        "Name":"Tom Collins",
+        "AverageRating":"4.4",
+        "Ingredients":[
+            "2 cl Zitronensaft ",
+            "1 cl Zuckersirup ",
+            "4 cl Gin ",
+            "1 Schuss Sodawasser "
+        ],
+        "Directions":[
+            "In ein Cocktailglas 3 bis 4 Eiswürfel geben. Die Zutaten Zitronensaft, Zuckersirup und Gin dazu geben und mit einem Barlöffel umrühren.",
+            "Mit Sodawasser auffüllen und mit einer Zitronenscheibe, einer Cocktailkirsche und einem Strohhalm garnieren."
+        ],
+        "Description":"Der Tom Collins ist ein schmackhafter Cocktail, für den eigens das Collinsglas, ein langes Longdrinkglas, erfunden wurde.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Spritzig",
+            "Gin Cocktails",
+            "Normal",
+            "Zitronensaft",
+            "Cocktails mit Läuterzucker"
+        ]
+    },
+    {
+        "ID":10015,
+        "Name":"Tom Collins",
+        "AverageRating":"4.9",
+        "Ingredients":[
+            "2 ½ ice, dividedcups ",
+            "2 ginfluid ounces ",
+            "¾ lemon juicefluid ounce ",
+            "½ simple syrupfluid ounce ",
+            "2 club sodafluid ounces ",
+            "1 lemon wedge "
+        ],
+        "Directions":[
+            "Fill a Collins glass with 1 1\/2 cups ice; set aside in the freezer.",
+            "Combine gin, lemon juice, and simple syrup in a cocktail shaker. Add 1 cup ice, cover, and shake until chilled.",
+            "Strain into the chilled Collins glass. Top with club soda and garnish with lemon wedge."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10298,
+        "Name":"Tom Collins",
+        "AverageRating":"5.0",
+        "Ingredients":[
+            "6 Stk Eiswürfel ",
+            "3 cl Gin ",
+            "2 cl Limettensaft ",
+            "2 TL Zuckersirup ",
+            "8 cl Sodawasser "
+        ],
+        "Directions":[
+            "Vier Eiswürfel in einen Shaker geben.",
+            "Dann Gin, Limettensaft und Zuckersirup hineingeben und kräftig schütteln.",
+            "In ein Glas mit den restlichen Eiswürfeln geben und mit Sodawasser aufgießen."
+        ],
+        "Description":"Tom Collins, ein erfrischender klassischer Longdrink, der hier in diesem Rezept mit Limettensaft zubereitet wird.",
+        "Keywords":[
+            "Gin Cocktails",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Sauer",
+            "Normal",
+            "Limettensaft",
+            "Sour Cocktails"
+        ]
+    },
+    {
+        "ID":10435,
+        "Name":"Vesper",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "1 cl Lillet Blanc ",
+            "6 cl Beefeater London Dry Gin ",
+            "2 cl Absolut Wodka ",
+            "5 Stk Eiswürfel ",
+            "2 Stk Zitronenzesten (Schale einer Bio Zitrone) "
+        ],
+        "Directions":[
+            "In einen Shaker den Lillet Blanc, Gin und Wodka geben, Eiswürfel hinzugeben und gut shaken.",
+            "Ein Martiniglas vorbereiten und den Drink über ein Barsieb ins Glas füllen.",
+            "Von einer Zitrone dünne Streifen der äußersten Schale vorsichtig abschneiden und ins Glas geben."
+        ],
+        "Description":"Lilette Vesper ist auch bekannt unter Vesper Martini und ein Drink von 007 James Bond. Jetzt das Rezept für zuhause zum einfachen Nachmixen.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Liköre",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Wodka Cocktails",
+            "Gin Cocktails",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10599,
+        "Name":"Vesper",
+        "AverageRating":"4.4",
+        "Ingredients":[
+            "1 cl Lillet Blanc ",
+            "6 cl Gin ",
+            "2 cl Wodka ",
+            "1 Stk Zitronenspirale (als Deko) "
+        ],
+        "Directions":[
+            "Alle Zutaten mit viel Eis im Shaker kurz und kräftig schütteln.",
+            "Danach den Drink mit Hilfe eines Strainers in ein Martiniglas abseihen.",
+            "Für die Deko eine Zitronenspirale ins Glas geben."
+        ],
+        "Description":"Der Drink Vesper Martini ist bekannt aus dem James Bond Film und schmeckt grandios. Hier das Rezept zum Shaken.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Wodka Cocktails",
+            "Light-Drink"
+        ]
+    },
+    {
+        "ID":10408,
+        "Name":"Vesper",
+        "AverageRating":"5.0",
+        "Ingredients":[
+            "5 cl Gin Citadelle ",
+            "3 cl Wodka Absolute Black ",
+            "2 cl Wermut Rose ",
+            "5 Stk Eiswürfel ",
+            "1 Stk Zitronenschale "
+        ],
+        "Directions":[
+            "Den Gin, Wodka, Wermut und die Eiswürfel in einen Shaker geben und kräftig schütteln.",
+            "Dann in ein Cocktailglas abgießen und mit einem Stück Zitronenschale servieren."
+        ],
+        "Description":"The Vesper, ein Cocktail-Rezept mit Gin, überzeut durch leicht bitteren Geschmack.",
+        "Keywords":[
+            "Gin Cocktails",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Bitter"
+        ]
+    },
+    {
+        "ID":10465,
+        "Name":"Vodka Apple",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "50 ml Wodka ",
+            "5 Stk Eiswürfel ",
+            "180 ml Apfelsaft ",
+            "1 Stk Apfelspalte "
+        ],
+        "Directions":[
+            "Eiswürfel in ein Longdrink Glas geben. Wodka mit Apfelsaft verrühren und ins Glas gießen. Mit der Apfelspalte und einer Stange Zimt dekoriert servieren."
+        ],
+        "Description":"Dieser Wodka Apple ist mit Apfelsaft und einer Apfelspalte genau das Richtige für Partyfans, denn das Rezept bringt Bombenstimmung.",
+        "Keywords":[
+            "Wodka Cocktails",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Fruchtig",
+            "Normal",
+            "Cocktails mit Apfelsaft"
+        ]
+    },
+    {
+        "ID":10731,
+        "Name":"Vodka Gimlet",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "4 cl Wodka ",
+            "2 cl Lime Juice ",
+            "3 Stk Eiswürfel "
+        ],
+        "Directions":[
+            "Wodka, Lime Juice und Eiswürfel shaken und abgeseiht auf frischen Eiswüfeln in eine vorgekühlte Cocktailschale eingießen.",
+            "Mit einer Limettenscheibe garnieren und sofort servieren."
+        ],
+        "Description":"Ein saurer, schmackhafter Cocktail gelingt mit diesem Rezept - der Wodka Gimlet schmeckt einfach toll.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Wodka Cocktails",
+            "Sauer",
+            "Aperitif Rezepte",
+            "sehr stark",
+            "Lime Juice"
+        ]
+    },
+    {
+        "ID":10694,
+        "Name":"Vodka Martini",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "1 Stk Olive ",
+            "6 cl Wodka ",
+            "2 cl Martini dry ",
+            "4 Stk Eiswürfel "
+        ],
+        "Directions":[
+            "Ein Martiniglas im Gefrierfach vorkühlen.",
+            "Eiswürfel in ein Rührglas geben, Wodka und Martini dazu geben und gut verrühren.",
+            "Den Cocktail ohne die Eiswürfel in das vorgekühlte Martiniglas geben und mit der Olive dekorieren."
+        ],
+        "Description":"Ein Wodka Martini ist immer willkommen schmeckt grandios. Das Rezept sorgt für super tolle Geschmacksmomente und erinnert an James.",
+        "Keywords":[
+            "Wodka Cocktails",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Frisch",
+            "Cocktails für Dates",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10054,
+        "Name":"Vodka Martini",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "3 vodkafluid ounces ",
+            "1 dry vermouthfluid ounce ",
+            "1 ice cubescup ",
+            "3 olivessmall "
+        ],
+        "Directions":[
+            "Combine vodka and dry vermouth in a cocktail mixing glass. Fill with ice and stir until chilled. Strain into a chilled martini glass.",
+            "Garnish with three olives on a toothpick."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10725,
+        "Name":"Vodka Martini",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "5 cl Wodka ",
+            "1 cl Vermouth Dry ",
+            "1 Stk grüne Olive, zur Dekoration "
+        ],
+        "Directions":[
+            "In einem Rührglas Eiswürfel, Wodka und Wermut einfüllen und mit dem Stirrer verrühren. (nicht Schütteln!)",
+            "Eine Cocktailschale im Kühlfach vorkühlen eine grüne Olive ins Glas geben und die abgerührte Menge abgeseiht ins Cocktailglas füllen und servieren."
+        ],
+        "Description":"Geschüttelt, nicht gerührt - der Lieblingscocktail von James Bond ist ein wahrer Klassiker. Der Wodka Martin schmeckt lecker.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Wodka Cocktails",
+            "Dinner Cocktails",
+            "Toxic",
+            "Aperitif Rezepte",
+            "Cocktails mit Wermut"
+        ]
+    },
+    {
+        "ID":10050,
+        "Name":"Vodka Paralyzer",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "1 ice cubescup ",
+            "4 colafluid ounces ",
+            "1 coffee flavored liqueurfluid ounce ",
+            "1 vodka(1.5 fluid ounce) jigger ",
+            "2 milkfluid ounces ",
+            "1 maraschino cherry "
+        ],
+        "Directions":[
+            "Fill a highball glass with ice.",
+            "In the order listed, pour in cola, coffee liqueur, vodka, then milk. Stir briefly and top with a maraschino cherry."
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10433,
+        "Name":"Vodka Sour",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "5 cl Wodka ",
+            "2 cl Zuckersirup ",
+            "3 cl Zitronensaft ",
+            "3 Stk Zitronenspalten für die Deko "
+        ],
+        "Directions":[
+            "Alle Zutaten im Shaker mit Eiswürfeln shaken. Anschließend in ein Tumblerglas gießen.",
+            "Mit Zitronenspalten im Glas garnieren."
+        ],
+        "Description":"Der Cocktail Vodka Sour ist ein muss auf jeder Party. Mit Eis mixen und in ein Tumblerglas füllen - fertig.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Wodka Cocktails",
+            "Sauer",
+            "Normal",
+            "Cocktails mit Läuterzucker",
+            "Sour Cocktails"
+        ]
+    },
+    {
+        "ID":10620,
+        "Name":"Volcano",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "2 cl Himbeergeist ",
+            "2 cl Curacao blue ",
+            "1 Schuss Champagner "
+        ],
+        "Directions":[
+            "Curacao Blue und Himbeergeist in einen Champagnerkelch gießen.",
+            "Den Drink mit eiskaltem Champagner auffüllen und mit Orangenschale abspritzen."
+        ],
+        "Description":"Vulcano ist ein schmackhafter, spritziger Cocktail der Ihnen garantiert schmeckt.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Spritzig",
+            "Fruchtig",
+            "Aperitif Rezepte",
+            "Sekt & Champagner Cocktails",
+            "Normal",
+            "Cocktails mit Curacao"
+        ]
+    },
+    {
+        "ID":10056,
+        "Name":"Volcano",
+        "AverageRating":"4.4",
+        "Ingredients":[
+            "3 cl Himbeergeist ",
+            "2 cl Curacao Blue ",
+            "1 Stk Cocktailkirsche ",
+            "1 Stk Orangenschale ",
+            "1 Schuss Sekt "
+        ],
+        "Directions":[
+            "Himbeergeist und Blue Curacao in eine Schale geben und unter leichtem Rühren anzünden.",
+            "Einen Schuss Sekt dazu.",
+            "Nach dem Erlöschen, mit der Cocktailkirsche garnieren."
+        ],
+        "Description":"Vulcano bringt eine wahre Geschmacksexplosion in Ihren Mund - ein toller Cocktail den Sie probieren sollten.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "Spritzig",
+            "Fruchtig",
+            "Sekt & Champagner Cocktails",
+            "Silvester Cocktail Rezepte",
+            "Mix-Getränke",
+            "Normal",
+            "Süß",
+            "Cocktails mit Curacao"
+        ]
+    },
+    {
+        "ID":10319,
+        "Name":"Whiskey Cola",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "250 g Cola ",
+            "4 cl Whisky "
+        ],
+        "Directions":[
+            "Zuerst den Whisky in ein Glas geben und dann mit dem Cola auffüllen. Am besten mit Eiswürfeln servieren."
+        ],
+        "Description":"Ein Whisky-Cola ist ein Rezept für Whisky Fans, mit Cola aufgefüllt ein toller Drink. Das Rezept in später Stunde genießen.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Whiskey Cocktails",
+            "Party Cocktails Rezepte",
+            "Spritzig",
+            "Silvester Cocktail Rezepte",
+            "Cocktails und Punsch Rezepte für Weihnachten",
+            "sehr stark",
+            "Cocktails mit Coca-Cola"
+        ]
+    },
+    {
+        "ID":10087,
+        "Name":"Whiskey Sour",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "5 cl Whisky ",
+            "3 cl Zitronensaft ",
+            "2 cl Zuckersirup ",
+            "1 Stk Cocktailkirsche (Deko) "
+        ],
+        "Directions":[
+            "In einem Shaker den Whiskey, Zitronensaft, Zuckersirup und Eiswürfel gut schütteln.",
+            "In ein Whiskeyglas mit einigen Eiswürfeln abseihen und mit einer Cocktailkirsche dekorieren."
+        ],
+        "Description":"Herrlich erfrischend und beliebt ist ein wundervoller Whiskey Sour. Das Rezept mit Geschmack.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Whiskey Cocktails",
+            "Sauer",
+            "Normal",
+            "Zitronensaft",
+            "Cocktails mit Läuterzucker",
+            "Sour Cocktails"
+        ]
+    },
+    {
+        "ID":10669,
+        "Name":"Whiskey Sour",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "3 cl Zitronensaft ",
+            "5 cl Scotch Whisky ",
+            "2 cl Zuckersirup "
+        ],
+        "Directions":[
+            "Den Whisky mit Zitronensaft und Zuckersirup mit einigen Eiswürfeln im Shaker gut schütteln.",
+            "In ein Glas mit einigen Eiswürfeln abseihen und mit Zitronenspalte dekorieren."
+        ],
+        "Description":"Der Whisky Sour ist ein Klassiker unter den Cocktails und kann auch als Aperitif in einem kleinen Glas serviert werden.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Whiskey Cocktails",
+            "Party Cocktails Rezepte",
+            "Mix-Getränke",
+            "Würzig",
+            "Normal",
+            "Zitronensaft",
+            "Cocktails mit Läuterzucker",
+            "Sour Cocktails"
+        ]
+    },
+    {
+        "ID":10070,
+        "Name":"White Lady",
+        "AverageRating":"4.4",
+        "Ingredients":[
+            "2 cl Zitronensaft ",
+            "2 cl Cointreau ",
+            "4 cl Gin "
+        ],
+        "Directions":[
+            "Cointreau mit Gin und Zitronensaft im Shaker mit Eiswürfeln gut schütteln.",
+            "Den Drink in eine Cocktailschale abseihen und mit einem Trinkhalm servieren."
+        ],
+        "Description":"Hier ein Rezept für einen schmackhaften Cocktail. White Lady schmeckt erfrischend und eignet sich für Ihre Partys.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Gin Cocktails",
+            "Cointreau Cocktails",
+            "Light-Drink",
+            "Sauer",
+            "Zitronensaft"
+        ]
+    },
+    {
+        "ID":10033,
+        "Name":"White Russian",
+        "AverageRating":"4.3",
+        "Ingredients":[
+            "½ cream or milkcup ",
+            "1 coffee flavored liqueurfluid ounce ",
+            "1 vodkafluid ounce ",
+            "1 icecup "
+        ],
+        "Directions":[
+            "Gather all ingredients.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Combine cream, coffee-flavored liqueur, and vodka in a glass.",
+            "DOTDASH MEREDITH FOOD STUDIOS",
+            "Pour over ice in a highball glass.",
+            "DOTDASH MEREDITH FOOD STUDIOS"
+        ],
+        "Description":null,
+        "Keywords":null
+    },
+    {
+        "ID":10051,
+        "Name":"White Russian",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "3 cl Schlagobers ",
+            "3 cl Wodka ",
+            "3 cl Kaffeelikör "
+        ],
+        "Directions":[
+            "Sahne schaumig schlagen, in ein Rührglas 5 Eiswürfel geben, Wodka und Kaffeelikör dazugeben und gut verrühren.",
+            "Das ganze durch ein Barsieb in ein Glas gießen und die geschlagene Sahne als Deko drauf geben."
+        ],
+        "Description":"Der berühmte Russe aus Wodka, Kahlúa & Sahne ist der White Russian. Ein herrlich cremiger Cocktail.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Wodka Cocktails",
+            "Cocktails für Dates",
+            "Cremig",
+            "Aperitif Rezepte",
+            "Kaffee Rezepte",
+            "Normal",
+            "Süß",
+            "Cocktails mit Kaffeelikör"
+        ]
+    },
+    {
+        "ID":10054,
+        "Name":"White Russian",
+        "AverageRating":"4.4",
+        "Ingredients":[
+            "5 cl Lillet Blanc ",
+            "12 cl Schweppes Russian Wild Berry ",
+            "4 Stk Himbeeren ",
+            "3 Stk Heidelbeeren ",
+            "2 Stk Pfefferkörner ",
+            "2 Stg Zimtstange ",
+            "4 Bl Minze "
+        ],
+        "Directions":[
+            "Für den Winter-Russian \"Carinthia\" das Obst und die Pefferkörner mit der Zimtstange in ein Weinglas geben, mit Lillet Blanc und Schweppes auffüllen.",
+            "Minzblätter reingeben. Mit einer Zimtstange und einer Himbeere am Glasrand dekorieren."
+        ],
+        "Description":"Ein Winter-Russian \"Carinthia\" schmeckt vielversprechend gut. Mit Pfefferkörner, Zimt und Lillet Blanc ein Genuß.",
+        "Keywords":[
+
+        ]
+    },
+    {
+        "ID":10430,
+        "Name":"White Russian",
+        "AverageRating":"4.5",
+        "Ingredients":[
+            "3 cl Schoko-Chili-Likör nach Grundrezept ",
+            "3 cl Wodka ",
+            "5 cl leicht geschlagenes Schlagobers ",
+            "4 Stk Eiswürfel "
+        ],
+        "Directions":[
+            "Eiswürfel in ein Kühlschrank kaltes Glas geben, Schoko-Chili-Likör und Wodka drüber gießen, das leicht angeschlagene Obers vorsichtig auf die Alkoholmischung geben."
+        ],
+        "Description":"Ein White Russian zu später Stund ist immer willkommen. Bei diesem Rezept kommt Kaffee-Chili Likör zum Einsatz.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Liköre",
+            "Party Cocktails Rezepte",
+            "Wodka Cocktails",
+            "Cremig",
+            "Silvester Cocktail Rezepte",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10225,
+        "Name":"White Russian",
+        "AverageRating":"4.3",
+        "Ingredients":[
+            "5 cl Wodka ",
+            "2 cl Kahlua ",
+            "3 cl Milch ",
+            "6 Wf Eis "
+        ],
+        "Directions":[
+            "Für einen White Russian Eis, Milch, Kahlua und Wodka in einen Cocktailshaker füllen und gut schütteln.",
+            "Anschließend in ein Glas füllen und servieren."
+        ],
+        "Description":"Dieser White Russian ist mit Milch genau das Richtige für einen tollen Abend. Das Rezept mit dem Creme-Effekt.",
+        "Keywords":[
+            "Wodka Cocktails",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Cremig"
+        ]
+    },
+    {
+        "ID":10668,
+        "Name":"Wilde Hilde",
+        "AverageRating":"4.4",
+        "Ingredients":[
+            "10 ml Campari ",
+            "40 ml Eierlikör ",
+            "20 ml Mineralwasser ",
+            "100 ml Schlagobers ",
+            "100 g Erdbeeren ",
+            "30 g Zucker "
+        ],
+        "Directions":[
+            "Erdbeeren, Campari und Mineralwasser pürieren. Die Sahne mit dem Zucker steif schlagen, dabei den Eierlikör in einem dünnen Strahl einlaufen lassen.",
+            "Die Eierlikör-Sahne auf den Flip aufsetzen. Mit einem Strohhalm und einem Pfefferminzblättchen servieren."
+        ],
+        "Description":"Probiert den Cocktail Wilde Hilde, mit Erdbeeren, Campari und Obers ein toller Geschmack. Das Rezept für Genießer!",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Liköre",
+            "Cremig",
+            "Light-Drink"
+        ]
+    },
+    {
+        "ID":10787,
+        "Name":"Winter Freshness",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "1 cl Grenadine ",
+            "2 cl Orgeat (Mandelsirup) ",
+            "7 cl Orangensaft ",
+            "4 cl Ananassaft ",
+            "2 cl Lime Juice "
+        ],
+        "Directions":[
+            "Ananas- und Orangensaft, Grenadine, Lime Juice und Orgeat mit einigen Eiswürfeln in einem Longdrinkglas verrühren.",
+            "Den Drink mit einem Trinkhalm und einer Orangenscheibe servieren."
+        ],
+        "Description":"Ein süßer, erfrischender Cocktail ist mit diesem Rezept garaniert. Den Winterfrische Drink im Winter genießen.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Frisch",
+            "kein Alkohol",
+            "Cocktails mit Fruchtsaft",
+            "Fruchtig",
+            "Mix-Getränke",
+            "Exotische Cocktailrezepte",
+            "Cocktails und Punsch Rezepte für Weihnachten",
+            "Cocktails mit Orangensaft",
+            "Ananassaft",
+            "Lime Juice",
+            "Mocktails"
+        ]
+    },
+    {
+        "ID":10187,
+        "Name":"Zombie",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "2 cl Cointreau ",
+            "0.2 l Crushed Ice ",
+            "6 cl Ananassaft ",
+            "2 cl Zitronensaft ",
+            "4 cl Orangensaft ",
+            "2 cl Maracujasirup ",
+            "2 cl Grenadine ",
+            "2 cl Rum (hochprozentig \/ Overproof Rum) ",
+            "4 cl Rum (braun) ",
+            "4 cl Rum (weiss) ",
+            "1 Schb Orange, zum Dekorieren "
+        ],
+        "Directions":[
+            "Die Zutaten Cointreau, alle Rum Sorten, Grenadine, Maracujasirup, Orangensaft, Zitronensaft, Ananassaft, mit Crushed Ice im Shaker kräftig schütteln und in ein Longdrinkglas abseihen.",
+            "Mit Kirschen und einer Orangenscheibe garnieren."
+        ],
+        "Description":"Der Zombie ist ein etwas stärkerer, sehr schmackhafter Cocktail. Für Partys ist er perfekt.",
+        "Keywords":[
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Toxic",
+            "Rum Cocktails",
+            "Süß",
+            "Cocktails mit Orangensaft",
+            "Cocktails mit Bacardi Rum",
+            "Zitronensaft",
+            "Ananassaft"
+        ]
+    },
+    {
+        "ID":10823,
+        "Name":"Zombie",
+        "AverageRating":"4.6",
+        "Ingredients":[
+            "4 cl Rum (dunkelbraun) ",
+            "2 cl Weißer Rum (Bacardi) ",
+            "2 cl Contreau ",
+            "3 cl Ananassaft ",
+            "2 cl Zitronensaft ",
+            "3 cl Bananensaft ",
+            "7 Stk Eiswürfel oder Crushed Ice "
+        ],
+        "Directions":[
+            "Eiswürfel in ein Rührgefäß geben. Den Rum langsam darüber gießen.",
+            "Nacheinander kommen die Säfte, bis auf den Bananensaft, dazu.",
+            "Zum Abschmecken wird der Bananensaft verwendet.",
+            "Zum Schluss den Cocktail in ein Longdrinkglas geben und Crushed-ice oder Eiswürfel dazugeben."
+        ],
+        "Description":"Das Cocktailrezept Zombie ist wegen seinem hohen Anteil an Rum sehr stark. Für Partys ein genialer Drink!",
+        "Keywords":[
+            "Cocktails mit Bacardi Rum",
+            "Cocktail Rezepte",
+            "Party Cocktails Rezepte",
+            "Cocktails mit Fruchtsaft",
+            "Aperitif Rezepte",
+            "Silvester Cocktail Rezepte",
+            "Mix-Getränke",
+            "Rum Cocktails",
+            "Exotische Cocktailrezepte",
+            "sehr stark",
+            "Süß"
+        ]
+    }
+]

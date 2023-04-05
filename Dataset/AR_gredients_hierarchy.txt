@@ -1,0 +1,229 @@
+Spirits
+    Rum
+        High-Proof Rum
+        Dark Rum (heavy rum)
+        Gold Rum (medium rum)
+        White Rum (light rum)
+        Spiced Rum
+    Vodka
+    Tequila
+        Anejo
+        Reposado
+        Blanco
+    Gin
+    Whiskey
+    Wine
+        Red wine
+        White wine
+    Brandy
+    Champagne
+    Beer
+
+Liquer
+    Triple Sec(Cointreau)
+    Blue Curacao
+
+    Vermouth
+        Dry Vermouth
+        Sweet Vermouth
+
+    coconut rum(Malibu)
+    coffee liqueur(Kahlua)
+    irish cream liqueur(Baileys)
+    amaretto(Disaronno)
+
+    etc liequeur
+        pumpkin flavored liqueur
+        blackberry liqueur
+        banana liqueur
+        raspberry-flavored liqueur
+        white creme de cacao
+
+    //여기는 어떻게 해야할 지 모르겠음.. 삼부카 카시스 리몬첼로 압셍트 ~~~
+
+Drinks
+    pineapple juice
+    orange juice
+    lime juice
+    lemon juice
+    cranberry juice
+
+    lemon-lime flavored carbonated beverage (7up)
+        lemon-lime soda (Stray)
+    coke(cola)
+    cider(sprite)
+
+    sweet and sour
+
+    ginger beer
+    tonic water
+    water
+    milk
+
+Garnish
+    orange
+    lime
+    lemon
+    pineapple
+    maraschino cherries
+    mint
+    olive
+
+    etc
+        olive brine
+        strawberries
+        ...
+
+Syrup
+    grenadine syrup
+    simple syrup
+
+ETC
+    bitters
+        Angostura bitters
+        cinnamon stick
+        nutmeg
+        cloves
+        unsalted butter
+        vanilla ice cream
+        Worcestershire sauce
+        hot pepper sauce (tabasco)
+        celery
+        espresso
+
+Ingreidents
+    ice
+        crushed
+        cube
+        ball
+        rock
+    salt
+        coarse sea salt
+        kosher salt
+        celery salt
+    sugar
+        white sugar
+        brown sugar
+        confectioners sugar
+    pepper
+    honey
+
+=>level 1 (55)
+
+High-Proof Rum
+Dark Rum (heavy rum)
+Gold Rum (medium rum)
+White Rum (light rum)
+Spiced Rum
+Vodka
+Tequila (silver)
+Tequila (gold)
+Gin
+Whiskey
+Red wine
+White wine
+Brandy
+Champagne
+Beer
+Liquer(default)
+Triple Sec(Cointreau)
+Blue Curacao
+Vermouth
+coconut rum(Malibu)
+coffee liqueur(Kahlua)
+irish cream liqueur(Baileys)
+amaretto(Disaronno)
+Juice(Default)
+pineapple juice
+orange juice
+lime juice
+lemon juice
+cranberry juice
+lemon-lime flavored carbonated beverage (7up)
+coke(cola)
+cider(sprite)
+sweet and sour
+ginger beer
+tonic water
+water
+milk
+cream
+garnish(default)
+orange
+lime
+lemon
+pineapple
+maraschino cherries
+mint
+olive
+grenadine syrup
+simple syrup
+bitters
+crushed ice
+cube ice
+ball ice
+rock ice
+salt
+sugar
+
+=> level 2 (37)
+
+Dark Rum (heavy rum)
+Gold Rum (medium rum)
+White Rum (light rum)
+Vodka
+Tequila 
+Tequila
+Gin
+Whiskey
+Red wine
+White wine
+Brandy
+Beer
+Liquer(default)
+Triple Sec(Cointreau)
+Blue Curacao
+Vermouth
+coconut rum(Malibu)
+coffee liqueur(Kahlua)
+irish cream liqueur(Baileys)
+amaretto(Disaronno)
+fruite juice
+coke(cola)
+cider(sprite)
+sweet and sour
+ginger beer
+tonic water
+water
+milk
+lime
+lemon
+maraschino cherries
+mint
+olive
+syrup
+syrup
+bitters
+ice
+salt or sugar
+
+=> level 3 (17)
+
+Rum
+Vodka
+Tequila 
+Tequila
+Gin
+Whiskey
+Wine
+Beer
+Liquer(default)
+fruite juice
+ginger beer
+tonic water
+water
+milk
+Garnish(default) <- fruite
+Syrup
+Bitters
+Ice

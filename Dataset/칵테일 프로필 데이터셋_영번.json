@@ -717,9 +717,9 @@
         "Name":"Blueberry Tea Cocktail",
         "AverageRating":"5.0",
         "Ingredients":[
-            "1 fluid_ounce  amaretto liqueur",
-            "1 fluid_ounce  orange liqueur (such as Grand Marnier®)",
-            "4 fluid_ounce  orange pekoe tea, or more to taste"
+            "1 fluid_ounce amaretto liqueur",
+            "1 fluid_ounce orange liqueur (such as Grand Marnier®)",
+            "4 fluid_ounce orange pekoe tea, or more to taste"
         ],
         "Directions":[
             "Combine amaretto and orange liqueurs in a brandy snifter or glass. Pour in hot tea."
@@ -1064,7 +1064,7 @@
             "2 cl Lemon or Lime Juice ",
             "15 cl Cola ",
             "3 pc Ice Cube ",
-            "1 pc Lemon slice or Lime slice "
+            "1 pc Lime slice "
         ],
         "Directions":[
             "Fill a highball glass with ice cubes.",
@@ -3247,7 +3247,7 @@
     },
     {
         "ID":10173,
-        "Name":"Stinger",
+        "Name":"Roly Poly",
         "AverageRating":"4.6",
         "Ingredients":[
             "1 pc Tart Apple ",
