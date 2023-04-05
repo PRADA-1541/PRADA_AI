@@ -1,0 +1,1920 @@
+[
+  {
+    "ID": 0,
+    "Name": "Alexander",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "30 ml whipped cream",
+      "30 ml creme de cacao",
+      "30 ml brandy"
+    ],
+    "Description": "This cocktail alexander recipe makes it all nice and creamy.",
+    "Keywords": ["Cocktail Recipes", "Creamy", "Brandy & Cognac"],
+    "Volume": 70,
+    "ABV": 11.428571428571429
+  },
+  {
+    "ID": 1,
+    "Name": "Amaretto Sour",
+    "AverageRating": 4.5,
+    "Ingredients": ["50 ml amaretto", "90 ml sweat and sour"],
+    "Description": "For a change of pace, an Amaretto Sour is just the thing. The recipe with the extra kick!",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Light Drink",
+      "Sour",
+      "Cocktails with Amaretto"
+    ],
+    "Volume": 110,
+    "ABV": 11.363636363636363
+  },
+  {
+    "ID": 2,
+    "Name": "Americano",
+    "AverageRating": 4.3,
+    "Ingredients": [
+      "30 ml sweet vermouth",
+      "30 ml campari",
+      "30 ml soda water"
+    ],
+    "Description": "A sweet cocktail is the Americano, which you can prepare quickly and easily with this recipe.",
+    "Keywords": ["Cocktail Recipes", "Liqueurs", "Bitter", "Light Drink"],
+    "Volume": 70,
+    "ABV": 20.42857142857143
+  },
+  {
+    "ID": 3,
+    "Name": "Angel Blue-d",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "30 ml vodka",
+      "30 ml blue curacao",
+      "100 ml lemon juice",
+      "1 pc lemon"
+    ],
+    "Description": "With cura\u00e7ao and vodka, the drink turns beautifully blue. The Angel Blue cocktail is a quaffable drink - not just for angels.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Vodka Cocktails",
+      "Spritzy",
+      "Very Strong"
+    ],
+    "Volume": 160,
+    "ABV": 12.1875
+  },
+  {
+    "ID": 4,
+    "Name": "Aperol Lillet-d",
+    "AverageRating": 3.7,
+    "Ingredients": [
+      "5 pc ice",
+      "10 ml aperol ",
+      "50 ml lillet",
+      "100 ml cider",
+      "2 pc orange",
+      "1 Sprig rosemary "
+    ],
+    "Description": "The Aperol Lillet has only 3 ingredients, but you can always pimp the drink - here is the quick recipe.",
+    "Keywords": ["Cocktail Recipes", "Fresh", "Fruity", "Light Drink"],
+    "Volume": 160,
+    "ABV": 0.0
+  },
+  {
+    "ID": 5,
+    "Name": "Aperol Sour-d",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "50 ml aperol ",
+      "30 ml lemon juice",
+      "20 ml orange juice",
+      "10 ml sugar"
+    ],
+    "Description": "A great summer drink is the Aperol Sour. This cocktail recipe is served with Ice Cubes and an Orange Slice in the glass.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Fresh",
+      "Fruity",
+      "Light Drink",
+      "Sour",
+      "Cocktails with Lauter Sugar",
+      "Sour Cocktails",
+      "Aperol"
+    ],
+    "Volume": 110,
+    "ABV": 0.0
+  },
+  {
+    "ID": 6,
+    "Name": "Apple Juice Soda Gin-d",
+    "AverageRating": 4.4,
+    "Ingredients": ["20 ml gin", "120 ml soda water", "120 ml apple juice"],
+    "Description": "An apple juice soda gin is guaranteed to taste good in a cozy gathering. Serve the recipe with apple chips.",
+    "Keywords": [
+      "Gin Cocktails",
+      "Cocktail Recipes",
+      "Cocktails for Dates",
+      "Fruity",
+      "Light Drink",
+      "Cocktails with Apple Juice."
+    ],
+    "Volume": 260,
+    "ABV": 3.076923076923077
+  },
+  {
+    "ID": 7,
+    "Name": "Apricot Sunset-d",
+    "AverageRating": 4.2,
+    "Ingredients": [
+      "20 ml apricot brandy",
+      "30 ml champagne",
+      "30 ml rum",
+      "2 pc ice"
+    ],
+    "Description": "Apricot Brandy and Sparkling Wine are the main ingredients to this cocktail that will make the sun rise in your heart with the Apricot Sunset.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Spritzy",
+      "Wedding Cocktails",
+      "Sparkling & Champagne Cocktails",
+      "Normal"
+    ],
+    "Volume": 80,
+    "ABV": 34.62500000000001
+  },
+  {
+    "ID": 8,
+    "Name": "B-52",
+    "AverageRating": 4.5,
+    "Ingredients": ["20 ml kahlua", "20 ml baileys", "20 ml orange liqueur"],
+    "Description": "The burning shooter with real Kahlua rum and Cointreau knocks out even the strongest guys. B-52 II is not for beginners!",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Rum Cocktails",
+      "Very Strong",
+      "Sweet",
+      "Digestif Recipes"
+    ],
+    "Volume": 30,
+    "ABV": 12.333333333333334
+  },
+  {
+    "ID": 9,
+    "Name": "Bacardi",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "20 ml lemon juice",
+      "50 ml white rum (light rum)",
+      "10 ml grenadine syrup"
+    ],
+    "Description": "A delightful cocktail recipe. The Bacardi cocktail should not be missing from any party.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Fruity",
+      "Light Drink",
+      "Sour",
+      "Rum Cocktails",
+      "Lemon Juice",
+      "Cocktails with Lauter Sugar"
+    ],
+    "Volume": 85,
+    "ABV": 47.05882352941176
+  },
+  {
+    "ID": 10,
+    "Name": "Bahama Mama",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "15 ml gold rum (medium rum)",
+      "15 ml malibu",
+      "60 ml pineapple juice",
+      "15 ml lemon juice",
+      "5 ml grenadine syrup",
+      "1 pc orange"
+    ],
+    "Description": "A Bahama Mama is Fruity and tasty. Summer feeling is pre-programmed with this recipe. Let them seduce you!",
+    "Keywords": ["Cocktail Recipes", "Fruity", "Rum Cocktails", "Normal"],
+    "Volume": 170,
+    "ABV": 30.705882352941178
+  },
+  {
+    "ID": 11,
+    "Name": "Bellini",
+    "AverageRating": 4.5,
+    "Ingredients": ["100 ml champagne", "50 ml peach liqueur"],
+    "Description": "The centerpiece of the Bellini is the pureed peach piece. A classic cocktail with prosecco, reminiscent of dolce vita.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Cocktails for Dates",
+      "Spritzy",
+      "Fruity",
+      "Aperitif Recipes",
+      "Sparkling & Champagne Cocktails",
+      "Normal"
+    ],
+    "Volume": 45,
+    "ABV": 15.444444444444445
+  },
+  {
+    "ID": 12,
+    "Name": "Between The Sheets",
+    "AverageRating": 4.2,
+    "Ingredients": [
+      "30 ml white rum (light rum)",
+      "30 ml brandy",
+      "30 ml orange liqueur",
+      "20 ml lemon juice"
+    ],
+    "Description": "Between the Sheets doesn't skimp on alcohol. But it's the mix that makes a good cocktail. You can't go wrong with this recipe.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Fresh",
+      "Brandy & Cognac",
+      "Cointreau Cocktails",
+      "Toxic",
+      "Cocktails with Bacardi Rum",
+      "Lemon Juice"
+    ],
+    "Volume": 70,
+    "ABV": 40.0
+  },
+  {
+    "ID": 13,
+    "Name": "Black Russian",
+    "AverageRating": 4.5,
+    "Ingredients": ["50 ml vodka", "20 ml kahlua"],
+    "Description": "A cocktail that consists of only 2 ingredients and perhaps that's why it tastes so good is the Black Russian.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Vodka Cocktails",
+      "Very Strong",
+      "Coffee Recipes",
+      "Sweet",
+      "Cocktails with Coffee Liqueur"
+    ],
+    "Volume": 60,
+    "ABV": 26.666666666666668
+  },
+  {
+    "ID": 14,
+    "Name": "Bloody Mary",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "45 ml vodka",
+      "90 ml tomato juice ",
+      "15 ml lemon juice",
+      "1.25 ml worcestershire sauce",
+      "1.25 ml tabasco",
+      "1 pinch pepper",
+      "1 pinch salt"
+    ],
+    "Description": "The American classic made with vodka and tomato juice remains one of the most famous cocktails around. Bloody Mary forever.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Vodka Cocktails",
+      "Spicy",
+      "Normal",
+      "Lemon Juice"
+    ],
+    "Volume": 100,
+    "ABV": 8.0
+  },
+  {
+    "ID": 15,
+    "Name": "Blue Hawaiian",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "20 ml white rum (light rum)",
+      "15 ml blue curacao",
+      "20 ml vodka",
+      "30 ml sweet and sour",
+      "90 ml pineapple juice"
+    ],
+    "Description": "This cocktail is a mix of Pina Colada and Swimming Pool. A great recipe without the cream.",
+    "Keywords": ["Cocktail Recipes", "Fresh", "Light Drink", "Rum Cocktails"],
+    "Volume": 190,
+    "ABV": 19.473684210526315
+  },
+  {
+    "ID": 16,
+    "Name": "Blue Lagoon",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "50 ml vodka",
+      "20 ml blue curacao",
+      "100 ml lemon juice",
+      "1 pc orange",
+      "8 pc ice"
+    ],
+    "Description": "The Blue Lagoon cocktail recipe is made with vodka and Blue Curacao, a popular drink because of its heavenly blue color.",
+    "Keywords": [
+      "Vodka Cocktails",
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Fresh"
+    ],
+    "Volume": 60,
+    "ABV": 32.5
+  },
+  {
+    "ID": 17,
+    "Name": "Blue Motorcycle",
+    "AverageRating": 4.2,
+    "Ingredients": [
+      "2 cup ice",
+      "25 ml vodka",
+      "25 ml tequila",
+      "25 ml rum",
+      "25 ml gin",
+      "25 ml blue curacao",
+      "0.625 ml sweet and sour",
+      "60 ml lemon-lime flavored carbonated beverage",
+      "1 pc lemon"
+    ],
+    "Description": "If you've never had a blue motorcycle drink, it's kind of like a Long Island iced tea, but with a colorful twist!",
+    "Keywords": null,
+    "Volume": 185,
+    "ABV": 25.0
+  },
+  {
+    "ID": 18,
+    "Name": "Blueberry Tea Cocktail",
+    "AverageRating": 5.0,
+    "Ingredients": [
+      "30 ml amaretto",
+      "30 ml orange liqueur",
+      "120 ml orange juice"
+    ],
+    "Description": "The blueberry tea combines amaretto, orange liqueur, and hot orange pekoe tea, making this warm drink taste reminiscent of blueberries.",
+    "Keywords": null,
+    "Volume": 180,
+    "ABV": 7.5
+  },
+  {
+    "ID": 19,
+    "Name": "Caipirinha",
+    "AverageRating": 4.6,
+    "Ingredients": ["60 ml cachaca", "1 pc lime", "20 ml sugar"],
+    "Description": "The Caipirinha is a cult Brazilian drink made with Cachaca & Lime Juice. A refreshing drink that no party should be without.",
+    "Keywords": ["Cocktail Recipes", "Fresh", "Sour", "Normal"],
+    "Volume": 60,
+    "ABV": 40.0
+  },
+  {
+    "ID": 20,
+    "Name": "Caipirinha Strawberry-d",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "2 tablespoon sugar",
+      "60 ml cachaca ",
+      "0.5 cup ice",
+      "4 pc strawberry",
+      "0.5 pc lime"
+    ],
+    "Description": "The Caipirinha Strawberry recipe tastes deliciously Fruity and is an absolutely great cocktail for a casual gathering in the summer.",
+    "Keywords": ["Cocktail Recipes", "Fresh", "Fruity", "Light Drink"],
+    "Volume": 60,
+    "ABV": 40.0
+  },
+  {
+    "ID": 21,
+    "Name": "Campari Fizz",
+    "AverageRating": 4.1,
+    "Ingredients": [
+      "30 ml campari",
+      "30 ml lemon juice",
+      "15 ml simple syrup",
+      "60 ml soda water",
+      "1 pc orange"
+    ],
+    "Description": "This Campari Fizz tastes super Spritzy and is a great recipe for many. The drink looks insanely good with an orange wedge.",
+    "Keywords": [
+      "Campari Cocktails",
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Spritzy"
+    ],
+    "Volume": 150,
+    "ABV": 15.4
+  },
+  {
+    "ID": 22,
+    "Name": "Campari Orange",
+    "AverageRating": 4.4,
+    "Ingredients": ["90 ml orange juice", "30 ml campari"],
+    "Description": "The Campari Orange is an erFreshing cocktail that is ideal as an aperitif for any summer party.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Fresh",
+      "Cocktails for Dates",
+      "Campari Cocktails",
+      "Aperitif Recipes",
+      "Normal",
+      "Sweet",
+      "Cocktails with Orange Juice"
+    ],
+    "Volume": 160,
+    "ABV": 6.25
+  },
+  {
+    "ID": 23,
+    "Name": "Cape Cod",
+    "AverageRating": 4.7,
+    "Ingredients": ["45 ml vodka", "80 ml cranberry juice", "1 pc lime"],
+    "Description": "The Cape Codder (or Cape Cod) is another name for the popular Vodka Cranberry, and it gets its name from the East Coast town in Massachusetts, which is known for growing cranberries. A simple mix of vodka and cranberry juice, poured tall in a glass and garnished with a lime wedge, it\u2019s one of the easier-to-make cocktails you\u2019ll come across. You don\u2019t even have to shake it, strain it or employ any bar tools to make the Cape Codder.",
+    "Keywords": null,
+    "Volume": 140,
+    "ABV": 4.285714285714286
+  },
+  {
+    "ID": 24,
+    "Name": "Captain Cola-d",
+    "AverageRating": 4.5,
+    "Ingredients": ["40 ml spiced rum", "140 ml coke", "2 pc ice"],
+    "Description": "A wonderful Captain Cola always tastes good and goes well with any occasion. Besides, it is quick in preparation.",
+    "Keywords": ["Cocktail Recipes", "Fresh", "Rum Cocktails"],
+    "Volume": 180,
+    "ABV": 17.77777777777778
+  },
+  {
+    "ID": 25,
+    "Name": "Casanova",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "45 ml bourbon whiskey",
+      "22.5 ml red wine",
+      "22.5 ml kahlua",
+      "22.5 ml milk",
+      "22.5 ml whipped cream",
+      "5 ml sugar syrup"
+    ],
+    "Description": "Casanova cocktail recipe spreads summer feeling. A great recipe iced.",
+    "Keywords": [
+      "Cocktails with Cinzano",
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Fruity",
+      "Aperitif Recipes",
+      "Exotic Cocktail Recipes",
+      "Normal"
+    ],
+    "Volume": 70,
+    "ABV": 17.0
+  },
+  {
+    "ID": 26,
+    "Name": "Cosmopolitan",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "40 ml vodka",
+      "15 ml orange liqueur",
+      "15 ml lime juice",
+      "30 ml cranberry juice"
+    ],
+    "Description": "A morn cocktail that also makes a wonderful aperitif is the Cosmopolitan.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Fresh",
+      "Vodka Cocktails",
+      "Fruity",
+      "Aperitif Recipes",
+      "Normal",
+      "Lime Juice"
+    ],
+    "Volume": 70,
+    "ABV": 20.0
+  },
+  {
+    "ID": 27,
+    "Name": "Cuba Libre",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "50 ml white rum (light rum)",
+      "10 ml lime juice",
+      "120 ml coke"
+    ],
+    "Description": "The Cuba Libre is a classic among cocktails. The rum gives it an exotic flavor.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Rum Cocktails",
+      "Exotic Cocktail Recipes",
+      "Normal",
+      "Sweet",
+      "Cocktails with Coca-Cola",
+      "Lemon Juice"
+    ],
+    "Volume": 210,
+    "ABV": 7.6190476190476195
+  },
+  {
+    "ID": 28,
+    "Name": "Daiquiri",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "60 ml white rum (light rum)",
+      "20 ml lime juice",
+      "10 ml sugar"
+    ],
+    "Description": "The Daiquiri is a tropical rum cocktail from sunny Cuba and tastes deliciously Sweet.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Rum Cocktails",
+      "Exotic Cocktail Recipes",
+      "Normal",
+      "Sweet",
+      "Lemon Juice",
+      "Cocktails with Lauter Sugar"
+    ],
+    "Volume": 100,
+    "ABV": 40.0
+  },
+  {
+    "ID": 29,
+    "Name": "Dark 'N' Stormy",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "60 ml dark rum (heavy rum)",
+      "100 ml ginger beer",
+      "1 pc lime"
+    ],
+    "Description": "This Dark and Stormy cocktail with lots of lime, rum and ginger ale, can only taste good - here is the recipe to follow.",
+    "Keywords": ["Rum Cocktails", "Cocktail Recipes", "Fresh"],
+    "Volume": 240,
+    "ABV": 40.0
+  },
+  {
+    "ID": 30,
+    "Name": "Dry Martini",
+    "AverageRating": 4.3,
+    "Ingredients": [
+      "10 ml dry vermouth",
+      "60 ml gin",
+      "1 pc olive",
+      "3 pc ice"
+    ],
+    "Description": "A classic cocktail is the Martini Dry. The cocktail will give you that \"James Bond\" feeling.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Fresh",
+      "Dinner Cocktails",
+      "Gin Cocktails",
+      "Wedding Cocktails",
+      "Aperitif Recipes",
+      "Normal",
+      "Cocktails with Vermouth"
+    ],
+    "Volume": 60,
+    "ABV": 32.33333333333333
+  },
+  {
+    "ID": 31,
+    "Name": "Electric Lemonade-d",
+    "AverageRating": 4.9,
+    "Ingredients": [
+      "0 pc ice",
+      "60 ml sweet and sour",
+      "45 ml vodka",
+      "15 ml blue curacao",
+      "360 ml lemon-lime flavored carbonated beverage",
+      "1 pc lemon"
+    ],
+    "Description": "Electric lemonade just in time for summer... A sweet and tangy vodka drink perfect for outdoor gatherings.",
+    "Keywords": null,
+    "Volume": 480,
+    "ABV": 4.53125
+  },
+  {
+    "ID": 32,
+    "Name": "Espresso Martini",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "50 ml vodka",
+      "30 ml kahlua",
+      "20 ml espresso",
+      "10 ml sugar syrup",
+      "3 pc coffee beans (decoration) ",
+      "5 pc ice"
+    ],
+    "Description": "An Espresso Martini is a classic cocktail with vodka, coffee liqueur and of course espresso. A great recipe!",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Vodka Cocktails",
+      "Cocktails for Dates",
+      "Creamy"
+    ],
+    "Volume": 100,
+    "ABV": 20.0
+  },
+  {
+    "ID": 33,
+    "Name": "Flamingo-d",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "60 ml orange juice",
+      "10 ml passion fruit syrup ",
+      "10 ml lemon juice",
+      "10 ml almond syrup ",
+      "10 ml grapefruit juice",
+      "3 pc ice",
+      "0.625 ml grenadine syrup"
+    ],
+    "Description": "The Flamingo is an exotic, non-alcoholic fruit cocktail that is also suitable as an aperitif at garden parties.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "No Alcohol",
+      "Cocktails for a meeting",
+      "Cocktails with Fruit Juice",
+      "Fruity",
+      "Mixed Drinks",
+      "Sweet",
+      "Cocktails with Orange Juice",
+      "Lemon Juice"
+    ],
+    "Volume": 100,
+    "ABV": 0.0
+  },
+  {
+    "ID": 34,
+    "Name": "French 75",
+    "AverageRating": 4.2,
+    "Ingredients": [
+      "30 ml gin",
+      "15 ml lemon juice",
+      "60 ml champagne",
+      "5 ml sugar syrup"
+    ],
+    "Description": "A sparkling, spritzy cocktail is the French 75. A delight for your palate is guaranteed.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Spritzy",
+      "Gin Cocktails",
+      "Sparkling & Champagne Cocktails",
+      "Normal",
+      "Sweet",
+      "Lemon Juice",
+      "Pineapple Juice",
+      "Cocktails with Lauter Sugar"
+    ],
+    "Volume": 40,
+    "ABV": 30.0
+  },
+  {
+    "ID": 35,
+    "Name": "Frozen Margarita",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "30 ml lime juice",
+      "20 ml orange liqueur",
+      "60 ml tequila",
+      "1 pinch salt",
+      "1 pc lime wheel"
+    ],
+    "Description": "The Frozen Margarita is a tasty, slightly stronger cocktail that will delight all tequila fans.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Tequila Cocktails",
+      "Sour",
+      "Exotic Cocktail Recipes",
+      "Normal",
+      "Lime Juice"
+    ],
+    "Volume": 90,
+    "ABV": 22.22222222222222
+  },
+  {
+    "ID": 36,
+    "Name": "Frozen Strawberry Margarita-d",
+    "AverageRating": 4.8,
+    "Ingredients": [
+      "2 cup ice",
+      "180 ml tequila",
+      "60 ml orange liqueur",
+      "240 g strawberry",
+      "120 ml lime juice"
+    ],
+    "Description": "A strawberry margarita is the perfect summer cocktail! Made with frozen strawberry and limeade concentrate, this five-ingredient margarita is ready to refresh you in just minutes. For an extra-sweet presentation, dip the rims of your margarita glasses in powdered sugar.",
+    "Keywords": null,
+    "Volume": 360,
+    "ABV": 23.333333333333332
+  },
+  {
+    "ID": 37,
+    "Name": "Gin Fizz",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "45 ml gin",
+      "30 ml lemon",
+      "10 ml sugar syrup",
+      "6 pc ice",
+      "120 ml soda water",
+      "2 pc lemon"
+    ],
+    "Description": "A gin fizz means pure party. Whether as a brilliant hot spot at birthday parties or glamorous evening for two. This recipe suits many occasions.",
+    "Keywords": ["Cocktail Recipes", "Fresh", "Gin Cocktails", "Light Drink"],
+    "Volume": 250,
+    "ABV": 8.0
+  },
+  {
+    "ID": 38,
+    "Name": "Gin Tonic",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "4 pc ice",
+      "60 ml gin",
+      "120 ml tonic water",
+      "10 ml lemon juice",
+      "1 pc lime"
+    ],
+    "Description": "Gin tonic is great as an aperitif at your parties. This recipe is quick to prepare.",
+    "Keywords": ["Cocktail Recipes", "Fresh", "Gin Cocktails", "Light Drink"],
+    "Volume": 195,
+    "ABV": 12.307692307692308
+  },
+  {
+    "ID": 39,
+    "Name": "Gluehwein",
+    "AverageRating": 4.8,
+    "Ingredients": [
+      "180 ml water",
+      "90 ml sugar syrup",
+      "1 pc cinnamon stick",
+      "2 pc orange",
+      "1 pc apple",
+      "10 pc cloves",
+      "750 ml red wine"
+    ],
+    "Description": "Gluehwein (also spelled Gl\u00fchwein) is a hot spiced 'glow wine' that's found in many winter markets in Germany and Austria. Many tourists know it as an after-ski drink. After you come in from being out in the cold and snow, this warm, spicy mulled drink is supposed to make you 'glow' with warmth again. Watch out \u2014 the alcohol in this warm beverage can quickly go to your head, so you might want to plan on staying in afterwards! This is the recipe my father would make for New Year's Eve.",
+    "Keywords": null,
+    "Volume": 930,
+    "ABV": 9.67741935483871
+  },
+  {
+    "ID": 40,
+    "Name": "Grasshopper",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "20 ml creme de mint",
+      "20 ml whipped cream",
+      "20 ml creme de cacao"
+    ],
+    "Description": "The Grasshopper is a sweet cocktail that gets a special flavor from different liqueurs.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Liqueurs",
+      "Cocktails for Dates",
+      "Creamy",
+      "Spicy",
+      "Normal"
+    ],
+    "Volume": 140,
+    "ABV": 0.0
+  },
+  {
+    "ID": 41,
+    "Name": "Grateful Dead Cocktail-d",
+    "AverageRating": 3.5,
+    "Ingredients": [
+      "30 ml tequila",
+      "30 ml vodka",
+      "30 ml white rum (light rum)",
+      "30 ml gin",
+      "30 ml raspberry liqueur",
+      "1 cup ice",
+      "15 ml sweet and sour"
+    ],
+    "Description": "This Grateful Dead drink is considered the sweeter cousin of the Long Island Iced Tea. Like that drink, this cocktail packs a considerable punch!",
+    "Keywords": null,
+    "Volume": 165,
+    "ABV": 39.45454545454545
+  },
+  {
+    "ID": 42,
+    "Name": "Horse'S Neck",
+    "AverageRating": 4.3,
+    "Ingredients": ["60 ml whiskey", "200 ml ginger ale", "1 pc lemon"],
+    "Description": "Horses Neck was a drink used by the British Navy. The cocktail has a slightly bitter but delicious taste.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Whiskey Cocktails",
+      "Bitter",
+      "Dinner Cocktails"
+    ],
+    "Volume": 251,
+    "ABV": 39.8406374501992
+  },
+  {
+    "ID": 43,
+    "Name": "Hot Toddy",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "60 ml water",
+      "45 ml whiskey",
+      "5 ml honey",
+      "3 pc cloves",
+      "1 pc cinnamon stick",
+      "1 pc lemon",
+      "1 pinch nutmeg"
+    ],
+    "Description": "This hot toddy is a great evening relaxer when you need something to help relieve that irritating cold.",
+    "Keywords": null,
+    "Volume": 80,
+    "ABV": 7.5
+  },
+  {
+    "ID": 44,
+    "Name": "Hugo",
+    "AverageRating": 4.3,
+    "Ingredients": [
+      "20 ml lime juice",
+      "150 ml soda water",
+      "50 ml champagne",
+      "6 sheet mint"
+    ],
+    "Description": "A Hugo is always welcome. Whether on balmy summer evenings or among friends. The recipe is slightly modified and prepared with Lime Juice.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Cocktails for Dates",
+      "Spritzy",
+      "Light Drink",
+      "Cocktails with Wine",
+      "Lime Juice",
+      "Mineral Water"
+    ],
+    "Volume": 220,
+    "ABV": 2.9545454545454546
+  },
+  {
+    "ID": 45,
+    "Name": "Hurricane",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "60 ml white rum (light rum)",
+      "30 ml high-proof rum",
+      "60 ml dark rum (heavy rum)",
+      "30 ml orange juice",
+      "60 ml passion fruit juice",
+      "15 ml sugar syrup",
+      "1 pc lime",
+      "1 pc orange",
+      "1 pc cocktail(maraschino) cherry",
+      "15 ml grenadine syrup",
+      "4 pc ice"
+    ],
+    "Description": "The Hurricane is an exotic rum cocktail that is also a hit at any party as an aperitif.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Fruity",
+      "Aperitif Recipes",
+      "Rum Cocktails",
+      "Exotic Cocktail Recipes",
+      "Normal",
+      "Cocktails with Orange Juice",
+      "Pineapple Juice",
+      "Lime Juice"
+    ],
+    "Volume": 170,
+    "ABV": 18.823529411764707
+  },
+  {
+    "ID": 46,
+    "Name": "Irish Coffee",
+    "AverageRating": 4.7,
+    "Ingredients": [
+      "7 pc ice",
+      "120 ml espresso",
+      "50 ml whipped cream",
+      "50 ml Irish whiskey"
+    ],
+    "Description": "An erFresh dessert - recipe for hot summer days is this Cold Irish Coffee.",
+    "Keywords": [
+      "Whiskey Cocktails",
+      "Cocktail Recipes",
+      "Cocktails for Dates",
+      "Creamy"
+    ],
+    "Volume": 270,
+    "ABV": 2.9629629629629632
+  },
+  {
+    "ID": 47,
+    "Name": "Kir Royal",
+    "AverageRating": 3.4,
+    "Ingredients": ["90 ml champagne", "10 ml currant liqueur"],
+    "Description": "A Kir Royal is always a great and welcome drink. This recipe uses a red currant liqueur.",
+    "Keywords": ["Cocktail Recipes", "Liqueurs", "Fruity"],
+    "Volume": 50,
+    "ABV": 10.4
+  },
+  {
+    "ID": 48,
+    "Name": "Lime Daiquiri",
+    "AverageRating": 4.2,
+    "Ingredients": [
+      "22.5 ml lime juice",
+      "52.5 ml light rum",
+      "1 teaspoon sugar",
+      "1 pc lime"
+    ],
+    "Description": "An exotic, tart cocktail is the Lime Daiquiri, which tastes simply delicious and will delight you.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Sour",
+      "Rum Cocktails",
+      "Exotic Cocktail Recipes",
+      "Normal",
+      "Lime Juice",
+      "Cocktails with Lauter Sugar"
+    ],
+    "Volume": 60,
+    "ABV": 33.33333333333333
+  },
+  {
+    "ID": 49,
+    "Name": "London Fog-b",
+    "AverageRating": 4.4,
+    "Ingredients": ["60 ml gin", "20 ml absinthe", "5 pc ice", "1 pc lime"],
+    "Description": "The green perfection for any party night is the London Fog - a delightful cocktail.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Fresh",
+      "Dinner Cocktails",
+      "Gin Cocktails",
+      "Toxic",
+      "Aperitif Recipes",
+      "Cocktails with Absinthe"
+    ],
+    "Volume": 80,
+    "ABV": 42.5
+  },
+  {
+    "ID": 50,
+    "Name": "London Mule",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "15 ml lime juice",
+      "60 ml gin",
+      "90 ml ginger beer",
+      "1 pc lime"
+    ],
+    "Description": "A London Mule with gin and lime and ginger beer is just right for a sunny afternoon. Enjoy the recipe in a cozy gathering.",
+    "Keywords": [
+      "Gin Cocktails",
+      "Cocktail Recipes",
+      "Party Cocktails Recipes"
+    ],
+    "Volume": 150,
+    "ABV": 40.0
+  },
+  {
+    "ID": 51,
+    "Name": "Long Island Iced Tea",
+    "AverageRating": 4.8,
+    "Ingredients": [
+      "12 pc ice",
+      "15 ml white rum (light rum)",
+      "15 ml tequila",
+      "15 ml orange liqueur",
+      "15 ml vodka",
+      "15 ml gin",
+      "30 ml coke",
+      "20 ml simple syrup",
+      "1 pc lemon"
+    ],
+    "Description": "Long Island Iced Tea the original fits for a mega party. The recipe sets the mood and is totally easy to prepare.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Fresh",
+      "Vodka Cocktails",
+      "Gin Cocktails",
+      "Rum Cocktails",
+      "Very Strong"
+    ],
+    "Volume": 110,
+    "ABV": 32.72727272727273
+  },
+  {
+    "ID": 52,
+    "Name": "Mai Tai",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "10 pc ice",
+      "37.5 ml white rum (light rum)",
+      "30 ml orange juice",
+      "30 ml lime juice",
+      "7.5 ml grenadine syrup",
+      "30 ml pineapple juice",
+      "22.5 ml orange liqueur",
+      "2 pc cocktail(maraschino) cherry",
+      "1 pc orange"
+    ],
+    "Description": "The classic rum cocktail from sunny California is the Mai Tai - a recipe for everyone who loves brown rum.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Rum Cocktails",
+      "Exotic Cocktail Recipes",
+      "Normal",
+      "Cocktails with Lauter Sugar"
+    ],
+    "Volume": 150,
+    "ABV": 34.66666666666667
+  },
+  {
+    "ID": 53,
+    "Name": "Malibu Sea Breeze",
+    "AverageRating": 4.7,
+    "Ingredients": [
+      "60 ml cranberry juice",
+      "45 ml malibu",
+      "60 ml pineapple juice"
+    ],
+    "Description": "Malibu Beach is a cocktail that will put you in a vacation mood just by its name - simply delicious.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Fresh",
+      "Cocktails with Fruit Juice",
+      "Light Drink",
+      "Rum Cocktails",
+      "Sweet",
+      "Cocktails with Orange Juice",
+      "Cocktails with Malibu",
+      "Lemon Juice",
+      "Pineapple Juice"
+    ],
+    "Volume": 220,
+    "ABV": 3.8181818181818183
+  },
+  {
+    "ID": 54,
+    "Name": "Manhattan",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "50 ml rye whiskey",
+      "20 ml sweet vermouth",
+      "5 ml bitters",
+      "1 cup ice",
+      "1 pc cocktail(maraschino) cherry"
+    ],
+    "Description": "An easy recipe for a Manhattan \u2014 a classic cocktail that is believed to date back to the late 1800s. It's made with a bracing mixture of bourbon or rye whiskey mixed with sweet vermouth and a dash of aromatic bitters.",
+    "Keywords": null,
+    "Volume": 75,
+    "ABV": 35.400000000000006
+  },
+  {
+    "ID": 55,
+    "Name": "Margarita",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "1 pinch salt",
+      "15 ml lime juice",
+      "20 ml orange liqueur",
+      "50 ml tequila",
+      "4 pc ice"
+    ],
+    "Description": "The Margarita is a classic cocktail. A tasty drink that looks great.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Fresh",
+      "Tequila Cocktails",
+      "Dinner Cocktails",
+      "Sour",
+      "Normal",
+      "Lime Juice"
+    ],
+    "Volume": 80,
+    "ABV": 27.500000000000004
+  },
+  {
+    "ID": 56,
+    "Name": "Mexican Sunset-b",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "20 ml tequila",
+      "15 ml sugar syrup",
+      "15 ml grenadine syrup",
+      "60 ml lemon juice",
+      "30 ml orange juice",
+      "1 pc orange"
+    ],
+    "Description": "Mexican Sunset is a cocktail that has a tart but delicious taste and looks great.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Tequila Cocktails",
+      "Cointreau Cocktails",
+      "Sour",
+      "Exotic Cocktail Recipes",
+      "Very Strong",
+      "Cocktails with Orange Juice",
+      "Lemon Juice"
+    ],
+    "Volume": 90,
+    "ABV": 13.333333333333334
+  },
+  {
+    "ID": 57,
+    "Name": "Mimosa",
+    "AverageRating": 4.6,
+    "Ingredients": ["90 ml champagne", "45 ml orange juice"],
+    "Description": "This hearty mimosa cocktail is a great drink. The recipe is easy to prepare and always goes well for a toast.",
+    "Keywords": [
+      "Sparkling & Champagne Cocktails",
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Cocktails for Dates",
+      "Spritzy",
+      "Light Drink"
+    ],
+    "Volume": 145,
+    "ABV": 6.96551724137931
+  },
+  {
+    "ID": 58,
+    "Name": "Mojito",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "45 ml white rum (light rum)",
+      "60 ml soda water",
+      "20 ml lime juice",
+      "1 pc lime",
+      "2 teaspoon sugar",
+      "6 sheet mint"
+    ],
+    "Description": "The Mojito is a classic cocktail and a refreshing drink that always fits.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Fresh",
+      "Rum Cocktails",
+      "Exotic Cocktail Recipes",
+      "Normal",
+      "Cocktails with Bacardi Rum"
+    ],
+    "Volume": 110,
+    "ABV": 36.36363636363637
+  },
+  {
+    "ID": 59,
+    "Name": "Moscow Mule",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "10 ml lime juice",
+      "45 ml vodka",
+      "10 pc ice",
+      "120 ml ginger beer",
+      "3 pc lime"
+    ],
+    "Description": "This delicious Moscow Mule with vodka, lime juice and ginger beer, is the new trend among cocktails and is popularly served in a copper mug.",
+    "Keywords": ["Cocktail Recipes", "Fresh", "Cocktails for Dates", "Bitter"],
+    "Volume": 370,
+    "ABV": 40.0
+  },
+  {
+    "ID": 60,
+    "Name": "Negroni",
+    "AverageRating": 4.3,
+    "Ingredients": [
+      "30 ml campari",
+      "30 ml gin",
+      "30 ml sweet vermouth",
+      "1 pc orange"
+    ],
+    "Description": "The famous Negroni cocktail is made with Campari, gin and Vermouth Rosso. This cocktail recipe tastes excellent.",
+    "Keywords": ["Cocktail Recipes", "Bitter"],
+    "Volume": 90,
+    "ABV": 27.333333333333336
+  },
+  {
+    "ID": 61,
+    "Name": "Old Fashioned",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "22.5 ml soda water",
+      "5 ml bitters ",
+      "1 cup ice",
+      "1 pc cube sugar",
+      "52.5 ml rye whiskey",
+      "1 pc orange",
+      "1 pc cocktail(maraschino) cherry"
+    ],
+    "Description": "The old fashioned is a classic cocktail that was invented in Louisville, KY. You can make it with bourbon, rye, or a blended whiskey. You can also substitute one sugar cube for the simple syrup.",
+    "Keywords": null,
+    "Volume": 61,
+    "ABV": 29.508196721311474
+  },
+  {
+    "ID": 62,
+    "Name": "Optimist-d",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "30 ml gin",
+      "20 ml currant liqueur",
+      "20 ml pineapple juice",
+      "0.5 pc orange",
+      "1 pc cocktail(maraschino) cherry",
+      "0.625 ml orange juice",
+      "1 pc pineapple",
+      "0.625 ml passion fruit syrup "
+    ],
+    "Description": "The Optimist is a delicious fruity cocktail that gets a great flavor from the liqueur.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Fresh",
+      "Gin Cocktails",
+      "Fruity",
+      "Normal",
+      "Sweet",
+      "Cocktails with Orange Juice",
+      "Pineapple Juice"
+    ],
+    "Volume": 70,
+    "ABV": 17.142857142857142
+  },
+  {
+    "ID": 63,
+    "Name": "Paradise",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "22.5 ml apricot brandy",
+      "30 ml gin",
+      "15 ml orange juice"
+    ],
+    "Description": "A tasty cocktail succeeds with this recipe. The Paradise not only looks great, it tastes great.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Dinner Cocktails",
+      "Gin Cocktails",
+      "Fruity",
+      "Light Drink",
+      "Aperitif Recipes",
+      "Sweet",
+      "Cocktails with Orange Juice"
+    ],
+    "Volume": 100,
+    "ABV": 27.800000000000004
+  },
+  {
+    "ID": 64,
+    "Name": "Party Punch IV",
+    "AverageRating": 4.7,
+    "Ingredients": [
+      "360 ml pineapple juice",
+      "360 ml orange juice",
+      "360 ml vodka",
+      "4 pc orange",
+      "4 pc apple",
+      "4 pc lemon",
+      "2 pc ice"
+    ],
+    "Description": "See how easy it is to make a delicious party punch with this 3-ingredient recipe. It's so simple, even a child can make it. We love this punch for family gatherings \u2014 my sisters, brother, and I even had it served at our weddings! Add sliced fruit if desired.",
+    "Keywords": null,
+    "Volume": 1200,
+    "ABV": 12.0
+  },
+  {
+    "ID": 65,
+    "Name": "Pina Colada",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "37.5 ml white rum (light rum)",
+      "50 ml pineapple juice",
+      "30 ml coconut cream",
+      "1 pc pineapple",
+      "1 pc cocktail(maraschino) cherry"
+    ],
+    "Description": "Pineapple chunks make this pina colada a delight. A recipe dream for colada fans.",
+    "Keywords": ["Cocktail Recipes", "Creamy", "Light Drink", "Rum Cocktails"],
+    "Volume": 140,
+    "ABV": 22.857142857142858
+  },
+  {
+    "ID": 66,
+    "Name": "Planter'S Punch",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "15 ml lime juice",
+      "30 ml sweet and sour",
+      "45 ml dark rum (heavy rum)"
+    ],
+    "Description": "Planters Punch is a fruity cocktail from the USA. It looks great and tastes terrific.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Cocktails with Fruit Juice",
+      "Fruity",
+      "Light Drink",
+      "Mixed Drinks",
+      "Rum Cocktails",
+      "Exotic Cocktail Recipes",
+      "Sweet",
+      "Cocktails with Orange Juice",
+      "Pineapple Juice",
+      "Lime Juice"
+    ],
+    "Volume": 160,
+    "ABV": 25.0
+  },
+  {
+    "ID": 67,
+    "Name": "Ritz-d",
+    "AverageRating": 4.2,
+    "Ingredients": [
+      "20 ml orange juice",
+      "10 ml orange liqueur",
+      "20 ml brandy",
+      "0.625 ml champagne"
+    ],
+    "Description": "A Spritzyer cocktail that doubles as an aperitif is the Ritz - tastes deliciously bubbly.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Fresh",
+      "Cocktails for Dates",
+      "Spritzy",
+      "Aperitif Recipes",
+      "Sparkling & Champagne Cocktails",
+      "Very Strong",
+      "Cocktails with Orange Juice"
+    ],
+    "Volume": 50,
+    "ABV": 20.0
+  },
+  {
+    "ID": 68,
+    "Name": "Sangria-d",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "1 pc orange",
+      "1 pc lemon",
+      "1 pc lime",
+      "125 ml rum",
+      "0.5 cup sugar",
+      "750 ml red wine",
+      "250 ml orange juice"
+    ],
+    "Description": "This authentic sangria recipe is a terrific version of the popular wine drink. You can add any fruit that you want, but I find that apples and pears absorb all the rum. This one is not diluted with carbonated beverages. I have had much success with red Burgundy wine and white rum, though spiced rum is nice too.",
+    "Keywords": null,
+    "Volume": 1125,
+    "ABV": 12.444444444444445
+  },
+  {
+    "ID": 69,
+    "Name": "Screw Driver",
+    "AverageRating": 4.6,
+    "Ingredients": ["30 ml vodka", "60 ml orange juice", "6 pc ice"],
+    "Description": "A great Screwdriver adds zest and taste. Enjoy the cocktail with friends. Here's the recipe.",
+    "Keywords": ["Vodka Cocktails", "Cocktail Recipes", "Fruity"],
+    "Volume": 180,
+    "ABV": 13.333333333333334
+  },
+  {
+    "ID": 70,
+    "Name": "Sea Breeze",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "40 ml vodka",
+      "120 ml cranberry juice",
+      "30 ml grapefruit juice"
+    ],
+    "Description": "Seabreeze is a super looking and insanely great tasting cocktail you should try.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Vodka Cocktails",
+      "Cocktails with Fruit Juice",
+      "Fruity",
+      "Sour",
+      "Mixed Drinks",
+      "Normal"
+    ],
+    "Volume": 200,
+    "ABV": 10.0
+  },
+  {
+    "ID": 71,
+    "Name": "Sex On The Beach",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "6 pc ice",
+      "40 ml vodka",
+      "20 ml peach liqueur ",
+      "40 ml cranberry juice",
+      "40 ml orange juice",
+      "1 pc pineapple",
+      "1 pc cocktail(maraschino) cherry"
+    ],
+    "Description": "The Sex on the Beach cocktail is one of the most famous and popular drinks ever. Delightfully Fresh and Fruity.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Fresh",
+      "Vodka Cocktails",
+      "Fruity",
+      "Mixed Drinks",
+      "Normal",
+      "Cocktails with Orange Juice"
+    ],
+    "Volume": 360,
+    "ABV": 5.777777777777779
+  },
+  {
+    "ID": 72,
+    "Name": "Sidecar",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "50 ml brandy",
+      "20 ml orange liqueur",
+      "20 ml lemon juice",
+      "6 pc ice"
+    ],
+    "Description": "This sidecar is prepared with brandy. Further enhanced with Cointreau and lemon juice. Here is the recipe.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Fresh",
+      "Brandy & Cognac",
+      "Cointreau Cocktails",
+      "Normal"
+    ],
+    "Volume": 90,
+    "ABV": 20.0
+  },
+  {
+    "ID": 73,
+    "Name": "Singapore Sling",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "45 ml gin",
+      "15 ml cherry brandy",
+      "15 ml lemon juice",
+      "60 ml soda water",
+      "0.5 teaspoon sugar"
+    ],
+    "Description": "The Singapore Sling is a Fruityer cocktail that is easy to prepare and tastes simply delicious.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Gin Cocktails",
+      "Fruity",
+      "Mixed Drinks",
+      "Very Strong",
+      "Sweet",
+      "Lemon Juice"
+    ],
+    "Volume": 60,
+    "ABV": 34.66666666666667
+  },
+  {
+    "ID": 74,
+    "Name": "Strawberry Daiquir-d",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "40 ml rum",
+      "20 ml lime juice",
+      "20 ml strawberry liqueur ",
+      "8 pc strawberry",
+      "3 tablespoon ice"
+    ],
+    "Description": "Fresh and Fruity tastes a Strawberry Daiquiri, ideal for summer and of course pool parties.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Liqueurs",
+      "Fruity",
+      "Rum Cocktails",
+      "Normal",
+      "Liquor & Liqueur Recipes"
+    ],
+    "Volume": 80,
+    "ABV": 25.5
+  },
+  {
+    "ID": 75,
+    "Name": "Strawberry Margarita",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "20 ml lime juice",
+      "30 ml strawberry",
+      "25 ml orange liqueur",
+      "45 ml tequila",
+      "1 pinch sugar"
+    ],
+    "Description": "The Strawbeery Margherita is a classic cocktail that tastes Sweet and looks great.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Tequila Cocktails",
+      "Fruity",
+      "Mixed Drinks",
+      "Normal",
+      "Sweet",
+      "Lemon Juice"
+    ],
+    "Volume": 130,
+    "ABV": 15.384615384615385
+  },
+  {
+    "ID": 76,
+    "Name": "Sweet Memories-d",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "20 ml white rum (light rum)",
+      "20 ml orange liqueur",
+      "20 ml dry vermouth",
+      "3 pc ice"
+    ],
+    "Description": "Sweet Memories - a sinfully good cocktail guaranteed to give you Sweete moments.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Aperitif Recipes",
+      "Rum Cocktails",
+      "Exotic Cocktail Recipes",
+      "Normal",
+      "Sweet",
+      "Cocktails with Curacao",
+      "Cocktails with Bacardi Rum",
+      "Cocktails with Vermouth"
+    ],
+    "Volume": 60,
+    "ABV": 38.99999999999999
+  },
+  {
+    "ID": 77,
+    "Name": "Swimming Pool-d",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "120 ml pineapple juice",
+      "40 ml vodka",
+      "20 ml whipped cream",
+      "20 ml coconut cream",
+      "3 tablespoon ice",
+      "20 ml blue curacao",
+      "1 pc cocktail(maraschino) cherry"
+    ],
+    "Description": "The Swimming Pool not only looks terrific, it tastes great too. A delightful, summer cocktail.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Vodka Cocktails",
+      "Creamy",
+      "Milk",
+      "Aperitif Recipes",
+      "Normal",
+      "Sweet",
+      "Cocktails with Curacao",
+      "Pineapple Juice"
+    ],
+    "Volume": 220,
+    "ABV": 9.545454545454547
+  },
+  {
+    "ID": 78,
+    "Name": "Tahiti-d",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "20 ml dark rum (heavy rum)",
+      "30 ml malibu",
+      "20 ml lemon juice",
+      "80 ml orange juice",
+      "20 ml mango liqueur ",
+      "1 pc mango"
+    ],
+    "Description": "A terrific cocktail that will put you in the vacation mood is the Tahiti - be sure to try it.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Fruity",
+      "Rum Cocktails",
+      "Exotic Cocktail Recipes",
+      "Normal",
+      "Sweet",
+      "Cocktails with Orange Juice",
+      "Cocktails with Malibu",
+      "Lemon Juice"
+    ],
+    "Volume": 170,
+    "ABV": 14.882352941176471
+  },
+  {
+    "ID": 79,
+    "Name": "Tequila Sunrise",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "5 pc ice",
+      "45 ml tequila",
+      "90 ml orange juice",
+      "15 ml grenadine syrup",
+      "1 pc orange",
+      "1 pc cocktail(maraschino) cherry"
+    ],
+    "Description": "A classic cocktail is the Tequila Sunrise. It makes the taste buds explode.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Fresh",
+      "Tequila Cocktails",
+      "Fruity",
+      "Exotic Cocktail Recipes",
+      "Very Strong",
+      "Cocktails with Orange Juice"
+    ],
+    "Volume": 170,
+    "ABV": 9.411764705882353
+  },
+  {
+    "ID": 80,
+    "Name": "Tom Collins",
+    "AverageRating": 4.4,
+    "Ingredients": [
+      "60 ml gin",
+      "22.5 ml lemon juice",
+      "10 ml sugar",
+      "60 ml soda water",
+      "1 pc lemon",
+      "1 pc cocktail(maraschino) cherry"
+    ],
+    "Description": "The Tom Collins is a tasty cocktail for which the Collins glass, a long long drink glass, was specially invented.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Fresh",
+      "Spritzy",
+      "Gin Cocktails",
+      "Normal",
+      "Lemon Juice",
+      "Cocktails with Lauter Sugar"
+    ],
+    "Volume": 70,
+    "ABV": 22.857142857142858
+  },
+  {
+    "ID": 81,
+    "Name": "Vesper",
+    "AverageRating": 4.4,
+    "Ingredients": [
+      "7.5 ml lillet blanc",
+      "45 ml gin",
+      "15 ml vodka",
+      "1 pc lemon"
+    ],
+    "Description": "The drink Vesper Martini is known from the James Bond movie and tastes terrific. Here is the recipe to shake it.",
+    "Keywords": ["Cocktail Recipes", "Fresh", "Vodka Cocktails", "Light Drink"],
+    "Volume": 90,
+    "ABV": 35.55555555555556
+  },
+  {
+    "ID": 82,
+    "Name": "Vodka Apple",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "30 ml vodka",
+      "30 ml apple liquer",
+      "15 ml lime juice",
+      "5 pc ice",
+      "1 pc apple"
+    ],
+    "Description": "This Vodka Apple is just the thing for party fans with Apple Juice and an apple wedge, as the recipe brings bomb cheer.",
+    "Keywords": [
+      "Vodka Cocktails",
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Fruity",
+      "Normal",
+      "Cocktails with Apple Juice."
+    ],
+    "Volume": 230,
+    "ABV": 8.695652173913043
+  },
+  {
+    "ID": 83,
+    "Name": "Gimlet",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "45 ml gin",
+      "25 ml lime juice",
+      "1 pinch sugar",
+      "3 pc ice"
+    ],
+    "Description": "A sour, tasty cocktail succeeds with this recipe - the Vodka Gimlet tastes just great.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Fresh",
+      "Vodka Cocktails",
+      "Sour",
+      "Aperitif Recipes",
+      "Very Strong",
+      "Lime Juice"
+    ],
+    "Volume": 60,
+    "ABV": 26.666666666666668
+  },
+  {
+    "ID": 84,
+    "Name": "Vodka Martini",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "1 pc lemon",
+      "45 ml vodka",
+      "15 ml dry vermouth",
+      "4 pc ice"
+    ],
+    "Description": "A Vodka Martini is always welcome tastes terrific. The recipe makes for super great tasting moments and is reminiscent of James.",
+    "Keywords": [
+      "Vodka Cocktails",
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Fresh",
+      "Cocktails for Dates",
+      "Normal"
+    ],
+    "Volume": 80,
+    "ABV": 34.25
+  },
+  {
+    "ID": 85,
+    "Name": "Vodka Paralyzer-d",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "1 cup ice",
+      "120 ml coke",
+      "30 ml kahlua",
+      "45 ml vodka",
+      "60 ml milk",
+      "1 pc cocktail(maraschino) cherry"
+    ],
+    "Description": "Paralyzer cocktail made with cola, coffee, vodka, and milk. I have been told that my vodka paralyzers are the best. These are especially yummy topped with a cocktail cherrrry, but that is by no means necessary. Make sure you add the ingredients in the order listed, or else the milk may curdle.",
+    "Keywords": null,
+    "Volume": 255,
+    "ABV": 7.0588235294117645
+  },
+  {
+    "ID": 86,
+    "Name": "Vodka Sour",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "45 ml vodka",
+      "15 ml lemon juice",
+      "10 ml sugar",
+      "30 ml soda water",
+      "3 pc lemon"
+    ],
+    "Description": "The Vodka Sour cocktail is a must at any party. Mix with Ice and pour into a tumbler glass - ready.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Vodka Cocktails",
+      "Sour",
+      "Normal",
+      "Cocktails with Lauter Sugar",
+      "Sour Cocktails"
+    ],
+    "Volume": 100,
+    "ABV": 20.0
+  },
+  {
+    "ID": 87,
+    "Name": "Volcano-d",
+    "AverageRating": 4.5,
+    "Ingredients": [
+      "20 ml raspberry liqueur",
+      "20 ml blue curacao",
+      "0.625 ml champagne"
+    ],
+    "Description": "Vulcano is a tasty, spritzy cocktail that you are guaranteed to enjoy.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Spritzy",
+      "Fruity",
+      "Aperitif Recipes",
+      "Sparkling & Champagne Cocktails",
+      "Normal",
+      "Cocktails with Curacao"
+    ],
+    "Volume": 40,
+    "ABV": 21.000000000000004
+  },
+  {
+    "ID": 88,
+    "Name": "Whiskey Cola",
+    "AverageRating": 4.5,
+    "Ingredients": ["150 ml coke", "45 ml whiskey"],
+    "Description": "A whiskey cola is a recipe for whiskey fans, topped up with cola a great drink. Enjoy the recipe in late hour.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Whiskey Cocktails",
+      "Party Cocktails Recipes",
+      "Spritzy",
+      "New Year's Eve Cocktail Recipes",
+      "Cocktails and Punch Recipes for Christmas",
+      "Very Strong",
+      "Cocktails with Coca-Cola"
+    ],
+    "Volume": 40,
+    "ABV": 40.0
+  },
+  {
+    "ID": 89,
+    "Name": "Whiskey Sour",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "45 ml whiskey",
+      "15 ml lemon juice",
+      "10 ml sugar",
+      "30 ml soda water",
+      "3 pc lemon"
+    ],
+    "Description": "The Whiskey Sour is a classic cocktail and can also be served as an aperitif in a smart glass.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Whiskey Cocktails",
+      "Party Cocktails Recipes",
+      "Mixed Drinks",
+      "Spicy",
+      "Normal",
+      "Lemon Juice",
+      "Cocktails with Lauter Sugar",
+      "Sour Cocktails"
+    ],
+    "Volume": 100,
+    "ABV": 20.0
+  },
+  {
+    "ID": 90,
+    "Name": "White Lady",
+    "AverageRating": 4.4,
+    "Ingredients": ["15 ml lemon juice", "15 ml orange liqueur", "30 ml gin"],
+    "Description": "Here's a recipe for a tasty cocktail. White Lady tastes erFreshend and is suitable for your parties.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Gin Cocktails",
+      "Cointreau Cocktails",
+      "Light Drink",
+      "Sour",
+      "Lemon Juice"
+    ],
+    "Volume": 80,
+    "ABV": 25.0
+  },
+  {
+    "ID": 91,
+    "Name": "White Russian",
+    "AverageRating": 4.6,
+    "Ingredients": ["30 ml whipped cream", "50 ml vodka", "20 ml kahlua"],
+    "Description": "The famous Russian made with vodka, Kahlua & cream is the White Russian. A wonderfully creamy cocktail.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Vodka Cocktails",
+      "Cocktails for Dates",
+      "Creamy",
+      "Aperitif Recipes",
+      "Coffee Recipes",
+      "Normal",
+      "Sweet",
+      "Cocktails with Coffee Liqueur"
+    ],
+    "Volume": 90,
+    "ABV": 13.333333333333334
+  },
+  {
+    "ID": 92,
+    "Name": "Zombie",
+    "AverageRating": 4.6,
+    "Ingredients": [
+      "20 ml orange liqueur",
+      "0.2 l ice",
+      "60 ml pineapple juice",
+      "20 ml lemon juice",
+      "40 ml orange juice",
+      "20 ml passion fruit syrup ",
+      "20 ml grenadine syrup",
+      "20 ml high-proof rum",
+      "40 ml gold rum (medium rum)",
+      "40 ml white rum (light rum)",
+      "1 pc orange"
+    ],
+    "Description": "The Zombie is a slightly stronger, very tasty cocktail. It is perfect for parties.",
+    "Keywords": [
+      "Cocktail Recipes",
+      "Party Cocktails Recipes",
+      "Toxic",
+      "Rum Cocktails",
+      "Sweet",
+      "Cocktails with Orange Juice",
+      "Cocktails with Bacardi Rum",
+      "Lemon Juice",
+      "Pineapple Juice"
+    ],
+    "Volume": 280,
+    "ABV": 27.142857142857142
+  }
+]

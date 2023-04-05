@@ -1,0 +1,244 @@
+{
+  "Rum": ["rum ", "rum"],
+  "High-Proof Rum": ["Rum (Overproof Rum) "],
+  "Dark Rum (heavy rum)": ["Rum, Dark "],
+  "Gold Rum (medium rum)": [
+    "Rum, Brown ",
+    "Braunen Rum, e.g. Captain Morgan or Bacardi Gold ",
+    "Brown Rum "
+  ],
+  "White Rum (light rum)": [
+    "Rum (White, e.g. Bacardi or Havana Club) ",
+    "light rum ",
+    "Rum, White ",
+    "Bacardi Rum "
+  ],
+  "Spiced Rum": ["Captain Morgan Original Spiced "],
+  "Cachaca ": ["Cachaca ", "Cachaca (Pitù) "],
+  "Vodka": ["vodka ", "Vodka ", "citron vodka "],
+  "Tequila": ["Tequila ", "tequila", "tequila "],
+  "Anejo": [],
+  "Reposado": [],
+  "Blanco": [],
+  "Gin": ["London Dry Gin ", "Gin ", "gin", "gin "],
+  "Whiskey": [
+    "bourbon whiskey ",
+    "Bourbon ",
+    "whiskey ",
+    "Whiskey ",
+    "Scotch Whiskey ",
+    "rye whiskey "
+  ],
+  "Apricot Brandy": ["Apricot Brandy "],
+  "Cherry Brandy": ["Cherry Brandy or Kirschlikör "],
+  "Red wine": ["dry red wine ", "red wine "],
+  "Lillet Blanc": ["Lillet Blanc "],
+  "White wine": [],
+  "Brandy": ["Cognac or Brandy ", "Brandy ", "Cognac "],
+  "Champagne": [
+    "Champagne (variety of your choice) ",
+    "Champagne or Sparkling Wine",
+    "Champagne ",
+    "Champagne for topping up ",
+    "Sparkling Wine ",
+    "Prosecco "
+  ],
+  "Aperol ": ["Aperol "],
+  "Beer": [],
+  "Absinthe": ["Absinthe", "Absinthe "],
+  "Campari": ["Campari "],
+  "Blue Curacao": ["Blue Curacao", "Blue Curacao ", "Curacao blue "],
+  "Dry Vermouth": ["Vermouth dry ", "Cinzano Extra Dry ", "Martini dry"],
+  "Sweet Vermouth": ["sweet vermouth ", "Vermouth Rosso "],
+  "Malibu": ["Malibu ", "Malibu Coconut Liqueur ", "Coconut Liqueur "],
+  "Kahlua": ["Kahlua ", "Coffee Liqueur ", "coffee flavored liqueur "],
+  "Lillet": ["Lillet "],
+  "Baileys": ["Bailey’s Irish Cream "],
+  "Amaretto": [" amaretto liqueur", "Amaretto "],
+  "blackberry liqueur": [],
+  "Currant Liqueur": ["Currant Liqueur", "Creme de Cassis "],
+  "banana liqueur": [],
+  "raspberry liqueur": [
+    "raspberry-flavored liqueur (such as Chambord®) ",
+    "Raspberry Spirit "
+  ],
+  "creme de cacao": ["Creme de Cacao ", "Cocoa Liqueur "],
+  "pineapple": [
+    "Pineapple Slice (Fresh, in pieces) ",
+    "Pineapple Slice ",
+    "Pineapple slice "
+  ],
+  "pineapple juice": [
+    "frozen pineapple juice concentrate ",
+    "Pineapple Juice "
+  ],
+  "orange": [
+    "Orange Slices ",
+    "Orange Slice, for decoration",
+    "Orange Slice ",
+    "Orange slice ",
+    "medium oranges, divided ",
+    "orange ",
+    "Orange Peel, for decoration ",
+    "Orange Wedge ",
+    "orange slice ",
+    "Orange slice (Decoration)"
+  ],
+  "orange juice": [
+    "frozen orange juice concentrate ",
+    "orange juice ",
+    "Orange Juice (for topping up) ",
+    "Orange Juice ",
+    "Orange Juice (fresh pressed) ",
+    " orange pekoe tea, or more to taste"
+  ],
+  "orange Liqueur": [
+    "Cointreau ",
+    "Orange Liqueur (Tripl sec.) ",
+    " orange liqueur (such as Grand Marnier®)",
+    "Orange Liqueur ",
+    "Triple Sec Liqueur ",
+    "Triple Sec (Orange Liqueur, White) ",
+    "triple sec ",
+    "Curacao orange "
+  ],
+  "lime": [
+    "Lime (squeezed juice) ",
+    "Lime Slice ",
+    "Lemon slice or Lime slice ",
+    "lime wedge ",
+    "Lime (Squeezed) ",
+    "Lime (Juice) ",
+    "Lime slice ",
+    "Lime slice (Decoration) ",
+    "Lime ",
+    "lime "
+  ],
+  "lime juice": [
+    "Lime Juice (fresh pressed) ",
+    "Lime Juice ",
+    "frozen limeade concentrate "
+  ],
+  "lemon": [
+    "lemon slice ",
+    "Lemon Slice ",
+    "Lemon (Juice) ",
+    "Lemon (squeezed juice) ",
+    "lemon wedge, for garnish ",
+    "Lemon Spiral (Decoration) ",
+    "Lemon Wedge ",
+    "Lemon wedge, for decoration ",
+    "lemon ",
+    "Lemon (juice squeezed) ",
+    "Lemon Wedge, for decoration",
+    "Lemon slice, for the decoration "
+  ],
+  "lemon juice": [
+    "Lemon Juice ",
+    "Lemon Juice (fresh pressed) ",
+    "Lemon or Lime Juice ",
+    "Lemonade "
+  ],
+  "lemon-lime flavored carbonated beverage": [
+    "lemon-lime flavored carbonated beverage, chilled ",
+    "lemon-lime flavored carbonated beverage ",
+    " lemon-lime flavored carbonated beverage"
+  ],
+  "grapefruit Juice": ["Grapefruit Juice "],
+  "passion fuite juice": ["Maracuja Nectar "],
+  "cranberry juice": [
+    "cranberry juice ",
+    "Cranberry Juice ",
+    "Cranberry Direct Juice "
+  ],
+  "peach ": ["Peach "],
+  "peach liqueur ": ["Peach Liqueur "],
+  "coke": ["Cola ", "Cola for topping up ", "Coca Cola "],
+  "cider": [
+    "Schweppes Russian Wild Berry "
+  ],
+  "sweet and sour": ["sour mix "],
+  "ginger beer": ["Ginger Beer ", "Ginger Beer, to fill up "],
+  "ginger ale": ["Ginger Ale "],
+  "tonic water": ["Tonic Water "],
+  "soda water": [
+    "Soda Water (as desired) ",
+    "Soda Water, for topping up ",
+    "Soda Water ",
+    "Mineral Water ",
+    "soda water, for topping up ",
+    "Soda for topping up ",
+    "soda water, for topping up ",
+    "Soda "
+  ],
+  "water": ["Water, for topping up ", "water ", "boiling water "],
+  "milk": ["milk "],
+  "whipped cream": ["Whipped Cream "],
+  "cocktail(Maraschino) cherry": [
+    "Cocktail Cherry (Decoration) ",
+    "cherry ",
+    "Cocktail Cherry ",
+    "Cocktail Cherry (Decoration)"
+  ],
+  "mint": [
+    "Mint (Fresh) ",
+    "Mint ",
+    "Mint Sprig (small and fresh) ",
+    "Peppermint Liqueur ",
+    "Mint (Decoration) "
+  ],
+  "olive": ["Olive ", "Green Olive "],
+  "strawberry Liqueur ": ["Strawberry Liqueur "],
+  "strawberry": [
+    "Strawberry, in slices",
+    "Strawberry ",
+    "Strawberry (small) ",
+    "frozen sliced strawberry in syrup "
+  ],
+  "grenadine syrup": ["Grenadine Syrup ", "Grenadine Syrup"],
+  "simple syrup": ["simple syrup "],
+  "passion Fruit Syrup ": ["Passion Fruit Syrup "],
+  "almond Syrup ": ["Almond Syrup "],
+  "bitters ": ["bitters ", "Angostura bitters ", "Angostura "],
+  "cinnamon stick": ["cinnamon stick ", "cinnamon stick (3 inch) "],
+  "nutmeg": ["ground nutmeg "],
+  "cloves": ["whole cloves "],
+  "unsalted butter": [],
+  "vanilla ice cream": ["Walnut Icecream (or Vanilla Icecream) "],
+  "worcestershire sauce": ["Worcestershire Sauce "],
+  "tabasco": ["Tabasco "],
+  "celery": ["Celery "],
+  "espresso": ["Espresso ", "Coffee (Fresh Brewed) "],
+  "apple": ["Apple Slice "],
+  "apple Juice": ["Apple Juice "],
+  "tomato Juice ": ["Tomato Juice "],
+  "ice": [
+    "Crushed Ice ",
+    "ice cube ",
+    "Ice Cubes (for shaker) ",
+    "Ice Cube ",
+    "Ice Cubes (for the shaker) ",
+    "ice cubes, or as needed ",
+    "Ice Cube, for the glass "
+  ],
+  "salt": ["Salt "],
+  "sugar": [
+    "Sugar ",
+    "Brown Sugar (Cane Sugar) ",
+    "Granulated Sugar ",
+    "white sugar, or to taste ",
+    "Caster Sugar ",
+    "Sugar Syrup ",
+    "Whiteer CaneSugar ",
+    "white sugar ",
+    "CaneSugar (Brown) "
+  ],
+  "pepper": ["Pepper "],
+  "honey": ["honey "],
+  "mango": ["Mango (Decoration)"],
+  "mango Liqueur ": ["Mango Liqueur "],
+  "coconut cream": ["Cream of Coconut "],
+  "coffee Beans (Decoration) ": ["Coffee Beans (Decoration) "],
+  "asparagus, Green ": ["Asparagus, Green "],
+  "rosemary ": ["Rosemary "]
+}

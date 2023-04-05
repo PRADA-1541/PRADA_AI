@@ -1,0 +1,2302 @@
+[
+    {
+        "ID":10136,
+        "Name":"Alexander",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "30 ml whipped cream",
+            "20 ml creme de cacao",
+            "20 ml brandy"
+        ],
+        "Directions":[
+            "Mix everything well in a cocktail shaker with some ice to make everything nice and creamy.",
+            "Pour into a cocktail glass and serve."
+        ],
+        "Description":"This cocktail alexander recipe makes it all nice and creamy.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Creamy",
+            "Brandy & Cognac"
+        ]
+    },
+    {
+        "ID":10303,
+        "Name":"Amaretto Sour",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "50 ml amaretto",
+            "30 ml orange juice",
+            "30 ml lemon juice"
+        ],
+        "Directions":[
+            "Put all ingredients in a cocktail shaker, add Ice Cubes and shake well.",
+            "Prepare a tumbler glass and pour the shaken drink on some Fresh Ice Cubes through a bar strainer.",
+            "For decoration, add a Lemon Slice to the glass."
+        ],
+        "Description":"For a change of pace, an Amaretto Sour is just the thing. The recipe with the extra kick!",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Light Drink",
+            "Sour",
+            "Cocktails with Amaretto"
+        ]
+    },
+    {
+        "ID":10183,
+        "Name":"Americano",
+        "AverageRating":4.3,
+        "Ingredients":[
+            "40 ml sweet vermouth",
+            "30 ml campari",
+            "0.625 ml soda water",
+            "1 pc orange"
+        ],
+        "Directions":[
+            "Put the orange slice in a tumbler with a few ice cubes.",
+            "Pour in vermouth and Campari and stir just briefly. Top with soda water to taste."
+        ],
+        "Description":"A sweet cocktail is the Americano, which you can prepare quickly and easily with this recipe.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Liqueurs",
+            "Bitter",
+            "Light Drink"
+        ]
+    },
+    {
+        "ID":10103,
+        "Name":"Angel Blue",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "30 ml vodka",
+            "30 ml blue curacao",
+            "100 ml lemon juice",
+            "1 pc lemon"
+        ],
+        "Directions":[
+            "Mix all ingredients in a shaker with ice cubes and strain into a cocktail glass add the lemonade and hang a lemon slice on the glass for decoration ration."
+        ],
+        "Description":"With curaçao and vodka, the drink turns beautifully blue. The Angel Blue cocktail is a quaffable drink - not just for angels.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Vodka Cocktails",
+            "Spritzy",
+            "Very Strong"
+        ]
+    },
+    {
+        "ID":10583,
+        "Name":"Aperol Lillet",
+        "AverageRating":3.7,
+        "Ingredients":[
+            "5 pc ice",
+            "10 ml aperol ",
+            "50 ml lillet",
+            "100 ml cider",
+            "2 pc orange",
+            "1 Sprig rosemary "
+        ],
+        "Directions":[
+            "For the Aperol Lillet, first add the Ice Cubes to the glass. Add in the orange slices.",
+            "Pour the Aperol, Lillet and Schweppes Wild Berry over the top.",
+            "Put a sprig of rosemary in the glass and serve immediately."
+        ],
+        "Description":"The Aperol Lillet has only 3 ingredients, but you can always pimp the drink - here is the quick recipe.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Fruity",
+            "Light Drink"
+        ]
+    },
+    {
+        "ID":10756,
+        "Name":"Aperol Sour",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "50 ml aperol ",
+            "30 ml lemon juice",
+            "20 ml orange juice",
+            "10 ml sugar"
+        ],
+        "Directions":[
+            "Shake the ingredients well in a shaker.",
+            "Prepare a tumbler glass and fill it with 2-3 Ice Cubes. Then carefully pour the shaken drink into the glass through a bar strainer.",
+            "Garnish with half an Orange Slice in the glass."
+        ],
+        "Description":"A great summer drink is the Aperol Sour. This cocktail recipe is served with Ice Cubes and an Orange Slice in the glass.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Fresh",
+            "Fruity",
+            "Light Drink",
+            "Sour",
+            "Cocktails with Lauter Sugar",
+            "Sour Cocktails",
+            "Aperol"
+        ]
+    },
+    {
+        "ID":10090,
+        "Name":"Apple Juice Soda Gin",
+        "AverageRating":4.4,
+        "Ingredients":[
+            "20 ml gin",
+            "120 ml soda water",
+            "120 ml apple juice"
+        ],
+        "Directions":[
+            "In a tumbler glass, pour the gin.",
+            "Infuse with soda and apple juice 1:1.",
+            "Tuck a piece or two of apple chips to the rim of the glass and serve."
+        ],
+        "Description":"An apple juice soda gin is guaranteed to taste good in a cozy gathering. Serve the recipe with apple chips.",
+        "Keywords":[
+            "Gin Cocktails",
+            "Cocktail Recipes",
+            "Cocktails for Dates",
+            "Fruity",
+            "Light Drink",
+            "Cocktails with Apple Juice."
+        ]
+    },
+    {
+        "ID":10272,
+        "Name":"Apricot Sunset",
+        "AverageRating":4.2,
+        "Ingredients":[
+            "20 ml apricot brandy",
+            "30 ml champagne",
+            "30 ml rum",
+            "2 pc ice"
+        ],
+        "Directions":[
+            "Mix ingredients Apricot Brandy, Rum and Ice Cubes, strain into a champagne glass and then top with Sparkling Wine.",
+            "Garnish with two thin apricot wedges in the glass."
+        ],
+        "Description":"Apricot Brandy and Sparkling Wine are the main ingredients to this cocktail that will make the sun rise in your heart with the Apricot Sunset.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Spritzy",
+            "Wedding Cocktails",
+            "Sparkling & Champagne Cocktails",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10393,
+        "Name":"B-52",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "10 ml kahlua",
+            "10 ml baileys",
+            "10 ml orange liqueur"
+        ],
+        "Directions":[
+            "First pour the Kahlua into a shot glass, then add the Bailey`s with a spoon. Finally, top with the Cointreau (preferably run over the back of a spoon), creating three layers.",
+            "Light and serve with a short straw."
+        ],
+        "Description":"The burning shooter with real Kahlua rum and Cointreau knocks out even the strongest guys. B-52 II is not for beginners!",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Rum Cocktails",
+            "Very Strong",
+            "Sweet",
+            "Digestif Recipes"
+        ]
+    },
+    {
+        "ID":10661,
+        "Name":"Bacardi",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "10 ml sugar",
+            "20 ml lemon juice",
+            "50 ml white rum (light rum)",
+            "5 ml grenadine syrup"
+        ],
+        "Directions":[
+            "Shake Bacardi, Grenadine, Lemon Juice and Sugar Syrup vigorously in a shaker over lots of ice.",
+            "Pour into chilled cocktail bowl."
+        ],
+        "Description":"A delightful cocktail recipe. The Bacardi cocktail should not be missing from any party.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fruity",
+            "Light Drink",
+            "Sour",
+            "Rum Cocktails",
+            "Lemon Juice",
+            "Cocktails with Lauter Sugar"
+        ]
+    },
+    {
+        "ID":10552,
+        "Name":"Bahama Mama",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "40 ml white rum (light rum)",
+            "20 ml malibu",
+            "20 ml gold rum (medium rum)",
+            "40 ml pineapple juice",
+            "10 ml lemon juice",
+            "40 ml orange juice",
+            "0.625 ml grenadine syrup"
+        ],
+        "Directions":[
+            "Prepare a fancy glass or long drink. Then shake all ingredients well with Ice in a cocktail shaker.",
+            "Now strain the ready mixed cocktail through a bar strainer, into the glass of your choice.",
+            "For decoration, a lemon slice or a piece of the peel, cut off nice and round, is added to the glass."
+        ],
+        "Description":"A Bahama Mama is Fruity and tasty. Summer feeling is pre-programmed with this recipe. Let them seduce you!",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fruity",
+            "Rum Cocktails",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10720,
+        "Name":"Bellini",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "0.5 pc peach ",
+            "35 ml champagne",
+            "10 ml peach liqueur "
+        ],
+        "Directions":[
+            "Puree the peach in a blender and strain through a bar strainer into a mixing glass.",
+            "Gently muddle the fruit puree with the liqueur and ice colden prosecco.",
+            "A piece of peach can also be added to the glass as further decoration for a perfect Bellini."
+        ],
+        "Description":"The centerpiece of the Bellini is the pureed peach piece. A classic cocktail with prosecco, reminiscent of dolce vita.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Cocktails for Dates",
+            "Spritzy",
+            "Fruity",
+            "Aperitif Recipes",
+            "Sparkling & Champagne Cocktails",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10412,
+        "Name":"Between The Sheets",
+        "AverageRating":4.2,
+        "Ingredients":[
+            "10 ml lemon juice",
+            "20 ml orange liqueur",
+            "20 ml white rum (light rum)",
+            "20 ml brandy"
+        ],
+        "Directions":[
+            "Shake all ingredients Brandy, Cointreau, Rum and Lemon Juice vigorously with a few ice cubes.",
+            "Then strain over some ice into a cocktail glass. Garnish with a Cocktail Cherry in the glass."
+        ],
+        "Description":"Between the Sheets doesn't skimp on alcohol. But it's the mix that makes a good cocktail. You can't go wrong with this recipe.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Brandy & Cognac",
+            "Cointreau Cocktails",
+            "Toxic",
+            "Cocktails with Bacardi Rum",
+            "Lemon Juice"
+        ]
+    },
+    {
+        "ID":10822,
+        "Name":"Black Russian",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "40 ml vodka",
+            "20 ml kahlua"
+        ],
+        "Directions":[
+            "In a tumbler glass, put 2 Ice Cubes, pour in the ingredients Vodka and Coffee Liqueur, just stir and serve."
+        ],
+        "Description":"A cocktail that consists of only 2 ingredients and perhaps that's why it tastes so good is the Black Russian.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Vodka Cocktails",
+            "Very Strong",
+            "Coffee Recipes",
+            "Sweet",
+            "Cocktails with Coffee Liqueur"
+        ]
+    },
+    {
+        "ID":10286,
+        "Name":"Bloody Mary",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "20 ml vodka",
+            "60 ml tomato juice ",
+            "20 ml lemon juice",
+            "0.625 ml tabasco",
+            "0.625 ml worcestershire sauce",
+            "1 pinch pepper",
+            "1 pinch salt"
+        ],
+        "Directions":[
+            "Add all ingredients such as Vodka, Tomato Juice, Lemon Juice, Tabasco, Worcestershire Sauce, Salt and Pepper to a mixing glass and mix well then pour into an Old Fashioned glass.",
+            "Garnish with a slice of lemon or lime."
+        ],
+        "Description":"The American classic made with vodka and tomato juice remains one of the most famous cocktails around. Bloody Mary forever.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Vodka Cocktails",
+            "Spicy",
+            "Normal",
+            "Lemon Juice"
+        ]
+    },
+    {
+        "ID":10498,
+        "Name":"Blue Hawaiian",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "40 ml white rum (light rum)",
+            "20 ml blue curacao",
+            "40 ml coconut cream",
+            "90 ml pineapple juice"
+        ],
+        "Directions":[
+            "In a shaker, mix all ingredients with crushed ice.",
+            "In a fancy glass, pour in some Freshe Ice Cubes and strain the drink into the glass. (Shaking will create some foam.)",
+            "Add a piece of Pineapple to the rim of the glass as decoration."
+        ],
+        "Description":"This cocktail is a mix of Pina Colada and Swimming Pool. A great recipe without the cream.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Light Drink",
+            "Rum Cocktails"
+        ]
+    },
+    {
+        "ID":10726,
+        "Name":"Blue Lagoon",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "30 ml vodka",
+            "30 ml blue curacao",
+            "0.5 pc lemon",
+            "8 pc ice",
+            "0.625 ml water",
+            "1 pc lemon"
+        ],
+        "Directions":[
+            "In a shaker, pour the vodka, Blue Curacao and Lemon Juice, mix briefly. Then add the Ice Cubes, mix vigorously.",
+            "Pour everything into a chilled balloon glass and fill with water. Decorate with a lemon wedge on the rim of the glass and serve."
+        ],
+        "Description":"The Blue Lagoon cocktail recipe is made with vodka and Blue Curacao, a popular drink because of its heavenly blue color.",
+        "Keywords":[
+            "Vodka Cocktails",
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Fresh"
+        ]
+    },
+    {
+        "ID":21,
+        "Name":"Blue Motorcycle",
+        "AverageRating":4.2,
+        "Ingredients":[
+            "2 cup ice",
+            "25 ml vodka",
+            "25 ml tequila",
+            "25 ml rum",
+            "25 ml gin",
+            "25 ml blue curacao",
+            "0.625 ml sweet and sour",
+            "60 ml lemon-lime flavored carbonated beverage",
+            "1 pc lemon"
+        ],
+        "Directions":[
+            "Fill a cocktail shaker with ice. Combine vodka, tequila, rum, gin, Blue Curacao, sour mix, and lemon-lime soda in the cocktail shaker. Shake vigorously to get a frothy head on the drink.",
+            "Pour the contents of the shaker, including ice, into a tall bar glass and garnish with slice of lemon."
+        ],
+        "Description":"If you've never had a blue motorcycle drink, it's kind of like a Long Island iced tea, but with a colorful twist!",
+        "Keywords":null
+    },
+    {
+        "ID":57,
+        "Name":"Blueberry Tea Cocktail",
+        "AverageRating":5.0,
+        "Ingredients":[
+            "30 ml amaretto",
+            "30 ml orange liqueur",
+            "120 ml orange juice"
+        ],
+        "Directions":[
+            "Combine amaretto and orange liqueurs in a brandy snifter or glass. Pour in hot tea."
+        ],
+        "Description":"The blueberry tea combines amaretto, orange liqueur, and hot orange pekoe tea, making this warm drink taste reminiscent of blueberries.",
+        "Keywords":null
+    },
+    {
+        "ID":10562,
+        "Name":"Caipirinha",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "60 ml cachaca ",
+            "1 pc lime",
+            "2 tablespoon sugar",
+            "5 tablespoon ice"
+        ],
+        "Directions":[
+            "Cut off the two lime ends of the untreated limes, cut the fruit into eighths and place in a tumbler glass.",
+            "Then pour the brown sugar over the top and lightly squeeze the lime wedges with a pestle.",
+            "Finally, add Cachaca and top the glass with crushed ice - stir everything well.",
+            "Add a dash of soad water if desired and serve the cocktail with a straw."
+        ],
+        "Description":"The Caipirinha is a cult Brazilian drink made with Cachaca & Lime Juice. A refreshing drink that no party should be without.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Sour",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10696,
+        "Name":"Caipirinha Strawberry",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "2 tablespoon sugar",
+            "60 ml cachaca ",
+            "0.5 cup ice",
+            "4 pc strawberry",
+            "0.5 pc lime"
+        ],
+        "Directions":[
+            "For the Caipirinha Strawberry Cocktail, first cut the Strawberry into smalle pieces. Cut the half lime in half again.",
+            "Put the lime pieces in a Caipirinha glass, CaneSugar on top and crush with a wooden pestle.",
+            "Add some crushed ice, Cachaca and Strawberry Pieces on top and muddle everything.",
+            "Fill the glass with crushed ice to the rim. as desired, pin a strawberry to the rim of the glass and serve."
+        ],
+        "Description":"The Caipirinha Strawberry recipe tastes deliciously Fruity and is an absolutely great cocktail for a casual gathering in the summer.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Fruity",
+            "Light Drink"
+        ]
+    },
+    {
+        "ID":10252,
+        "Name":"Campari Fizz",
+        "AverageRating":4.1,
+        "Ingredients":[
+            "120 ml champagne",
+            "30 ml campari",
+            "1 pc orange"
+        ],
+        "Directions":[
+            "Place the orange wedge in a champagne glass. Pour Campari and top with Sparkling Wine."
+        ],
+        "Description":"This Campari Fizz tastes super Spritzy and is a great recipe for many. The drink looks insanely good with an orange wedge.",
+        "Keywords":[
+            "Campari Cocktails",
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Spritzy"
+        ]
+    },
+    {
+        "ID":10274,
+        "Name":"Campari Orange",
+        "AverageRating":4.4,
+        "Ingredients":[
+            "120 ml orange juice",
+            "40 ml campari",
+            "5 pc ice",
+            "1 pc orange"
+        ],
+        "Directions":[
+            "In a long drink glass, fill Ice Cubes up to half of the glass.",
+            "Pour Campari into the glass, top with Orange Juice and stir with a bar spoon.",
+            "Garnish with an orange slice and black straw and serve."
+        ],
+        "Description":"The Campari Orange is an erFreshing cocktail that is ideal as an aperitif for any summer party.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Cocktails for Dates",
+            "Campari Cocktails",
+            "Aperitif Recipes",
+            "Normal",
+            "Sweet",
+            "Cocktails with Orange Juice"
+        ]
+    },
+    {
+        "ID":13,
+        "Name":"Cape Cod",
+        "AverageRating":4.7,
+        "Ingredients":[
+            "0 pc ice",
+            "15 ml vodka",
+            "125 ml cranberry juice",
+            "1 pc lime"
+        ],
+        "Directions":[
+            "Place ice in a short tumbler or old fashioned glass; pour in vodka and cranberry juice. Squeeze lime wedge into drink, then add it to the glass. Serve."
+        ],
+        "Description":"The Cape Codder (or Cape Cod) is another name for the popular Vodka Cranberry, and it gets its name from the East Coast town in Massachusetts, which is known for growing cranberries. A simple mix of vodka and cranberry juice, poured tall in a glass and garnished with a lime wedge, it’s one of the easier-to-make cocktails you’ll come across. You don’t even have to shake it, strain it or employ any bar tools to make the Cape Codder.",
+        "Keywords":null
+    },
+    {
+        "ID":10405,
+        "Name":"Captain Cola",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "40 ml spiced rum",
+            "140 ml coke",
+            "2 pc ice"
+        ],
+        "Directions":[
+            "Pour Captain Morgan and Coke into a glass, add Ice Cubes and serve with a Lemon as glass decoration."
+        ],
+        "Description":"A wonderful Captain Cola always tastes good and goes well with any occasion. Besides, it is quick in preparation.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Rum Cocktails"
+        ]
+    },
+    {
+        "ID":10247,
+        "Name":"Casanova",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "70 ml dry vermouth",
+            "100 g strawberry",
+            "1 pc lime",
+            "2 teaspoon sugar",
+            "1 pc strawberry"
+        ],
+        "Directions":[
+            "Wash the Strawberry, remove the green and mash them. Squeeze the lime and add to the strawberry puree, stir. Sift in the sugar, stir again.",
+            "Pour everything into a tall tumbler glass, fill the glass with Fresh Strawberry Chunks. Finally, pour in the Cinzano Extra Dry."
+        ],
+        "Description":"Casanova cocktail recipe spreads summer feeling. A great recipe iced.",
+        "Keywords":[
+            "Cocktails with Cinzano",
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Fruity",
+            "Aperitif Recipes",
+            "Exotic Cocktail Recipes",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10040,
+        "Name":"Cosmopolitan",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "20 ml cranberry juice",
+            "30 ml vodka",
+            "10 ml orange liqueur",
+            "10 ml lime juice",
+            "4 pc ice"
+        ],
+        "Directions":[
+            "Shake the vodka, Cointreau, Lime Juice and cranberry juice vigorously in a shaker along with about 4 ice cubes.",
+            "Allow the martini glass to freeze briefly in the freezer. Rub the rim of the martini glass with lime zest.",
+            "Strain the Cosmopolitan, pour into the martini glass, and garnish with a cocktail cherry or lime wedge."
+        ],
+        "Description":"A morn cocktail that also makes a wonderful aperitif is the Cosmopolitan.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Fresh",
+            "Vodka Cocktails",
+            "Fruity",
+            "Aperitif Recipes",
+            "Normal",
+            "Lime Juice"
+        ]
+    },
+    {
+        "ID":10535,
+        "Name":"Cuba Libre",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "40 ml rum",
+            "20 ml lemon juice",
+            "150 ml coke",
+            "3 pc ice",
+            "1 pc lime"
+        ],
+        "Directions":[
+            "Fill a highball glass with ice cubes.",
+            "Pour the rum and Lemon or Lime Juice into the glass and top with cola. Stir everything well.",
+            "Cut the Lime or Lemonn into wedges and add to the glass, serve with a straw."
+        ],
+        "Description":"The Cuba Libre is a classic among cocktails. The rum gives it an exotic flavor.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Rum Cocktails",
+            "Exotic Cocktail Recipes",
+            "Normal",
+            "Sweet",
+            "Cocktails with Coca-Cola",
+            "Lemon Juice"
+        ]
+    },
+    {
+        "ID":10515,
+        "Name":"Daiquiri",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "50 ml white rum (light rum)",
+            "30 ml lemon juice",
+            "20 ml sugar",
+            "5 tablespoon ice"
+        ],
+        "Directions":[
+            "Add the White Rum, Lemon Juice and Sugar Syrup to the shaker and shake vigorously.",
+            "Strain the drink through the bar strainer into a pre-chilled cocktail glass, serve 'straight up', i.e. without Ice in the glass and a Lemon Slice on the rim of the glass."
+        ],
+        "Description":"The Daiquiri is a tropical rum cocktail from sunny Cuba and tastes deliciously Sweet.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Rum Cocktails",
+            "Exotic Cocktail Recipes",
+            "Normal",
+            "Sweet",
+            "Lemon Juice",
+            "Cocktails with Lauter Sugar"
+        ]
+    },
+    {
+        "ID":10816,
+        "Name":"Dark 'N' Stormy",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "20 ml gold rum (medium rum)",
+            "20 ml lime juice",
+            "200 ml ginger ale",
+            "2 pc lemon",
+            "2 pc ice"
+        ],
+        "Directions":[
+            "Add Ice Cubes and lemon slices to glass.",
+            "Squeeze Lime and pour Lime Juice over Ice Cubes.",
+            "Top with rum and ginger ale."
+        ],
+        "Description":"This Dark and Stormy cocktail with lots of lime, rum and ginger ale, can only taste good - here is the recipe to follow.",
+        "Keywords":[
+            "Rum Cocktails",
+            "Cocktail Recipes",
+            "Fresh"
+        ]
+    },
+    {
+        "ID":10480,
+        "Name":"Dry Martini",
+        "AverageRating":4.3,
+        "Ingredients":[
+            "20 ml dry vermouth",
+            "40 ml gin",
+            "1 pc olive",
+            "3 pc ice"
+        ],
+        "Directions":[
+            "Mix Vermouth Dry and the Gin with ice cubes in a shaker or mixing glass, then strain the Ice Cubes.",
+            "Add the olive to the glass for garnish."
+        ],
+        "Description":"A classic cocktail is the Martini Dry. The cocktail will give you that \"James Bond\" feeling.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Dinner Cocktails",
+            "Gin Cocktails",
+            "Wedding Cocktails",
+            "Aperitif Recipes",
+            "Normal",
+            "Cocktails with Vermouth"
+        ]
+    },
+    {
+        "ID":9,
+        "Name":"Electric Lemonade",
+        "AverageRating":4.9,
+        "Ingredients":[
+            "0 pc ice",
+            "60 ml sweet and sour",
+            "45 ml vodka",
+            "15 ml blue curacao",
+            "360 ml lemon-lime flavored carbonated beverage",
+            "1 pc lemon"
+        ],
+        "Directions":[
+            "Fill a Collins glass with ice. Pour sour mix, vodka, and blue curacao over ice.",
+            "Fill to the top with lemon-lime soda. Garnish with lemon wedge; serve with a straw."
+        ],
+        "Description":"Electric lemonade just in time for summer... A sweet and tangy vodka drink perfect for outdoor gatherings.",
+        "Keywords":null
+    },
+    {
+        "ID":10170,
+        "Name":"Espresso Martini",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "50 ml vodka",
+            "25 ml kahlua",
+            "25 ml espresso",
+            "3 pc coffee beans (decoration) ",
+            "5 pc ice"
+        ],
+        "Directions":[
+            "For the Espresso Martini, in a shaker with Ice Cubes, add the vodka, Coffee Liqueur and espresso. Shake very vigorously.",
+            "Pour the drink into a martini glass, decorate with coffee beans and serve."
+        ],
+        "Description":"An Espresso Martini is a classic cocktail with vodka, coffee liqueur and of course espresso. A great recipe!",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Vodka Cocktails",
+            "Cocktails for Dates",
+            "Creamy"
+        ]
+    },
+    {
+        "ID":10041,
+        "Name":"Flamingo",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "60 ml orange juice",
+            "10 ml passion fruit syrup ",
+            "10 ml lemon juice",
+            "10 ml almond syrup ",
+            "10 ml grapefruit juice",
+            "3 pc ice",
+            "0.625 ml grenadine syrup"
+        ],
+        "Directions":[
+            "Shake the orange juice, passion fruit syrup, grenadine, lemon juice, almond syrup and grapefruit juice vigorously in a shaker.",
+            "Strain the drink and pour into a highball glass over Freshe Ice Cubes and garnish with a slice of lemon."
+        ],
+        "Description":"The Flamingo is an exotic, non-alcoholic fruit cocktail that is also suitable as an aperitif at garden parties.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "No Alcohol",
+            "Cocktails for a meeting",
+            "Cocktails with Fruit Juice",
+            "Fruity",
+            "Mixed Drinks",
+            "Sweet",
+            "Cocktails with Orange Juice",
+            "Lemon Juice"
+        ]
+    },
+    {
+        "ID":10361,
+        "Name":"French 75",
+        "AverageRating":4.2,
+        "Ingredients":[
+            "30 ml gin",
+            "10 ml lemon juice",
+            "0.625 ml champagne",
+            "1 teaspoon sugar"
+        ],
+        "Directions":[
+            "Mix the sparkling wine, gin, Lemon Juice and Sugar Syrup well in a shaker with ice cubes and strain into a cocktail glass.",
+            "Add the Lemonade and use a Pineapple Slice with Cherry for decoration."
+        ],
+        "Description":"A sparkling, spritzy cocktail is the French 75. A delight for your palate is guaranteed.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Spritzy",
+            "Gin Cocktails",
+            "Sparkling & Champagne Cocktails",
+            "Normal",
+            "Sweet",
+            "Lemon Juice",
+            "Pineapple Juice",
+            "Cocktails with Lauter Sugar"
+        ]
+    },
+    {
+        "ID":10015,
+        "Name":"Frozen Margarita",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "30 ml lime juice",
+            "20 ml orange liqueur",
+            "40 ml tequila",
+            "1 pinch salt"
+        ],
+        "Directions":[
+            "Mix lime juice, orange liqueur, salt and tequila with crushed ice in a blender for 3 minutes.",
+            "Then pour into a cocktail glass and garnish with a lime."
+        ],
+        "Description":"The Frozen Margarita is a tasty, slightly stronger cocktail that will delight all tequila fans.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Tequila Cocktails",
+            "Sour",
+            "Exotic Cocktail Recipes",
+            "Normal",
+            "Lime Juice"
+        ]
+    },
+    {
+        "ID":59,
+        "Name":"Frozen Strawberry Margarita",
+        "AverageRating":4.8,
+        "Ingredients":[
+            "2 cup ice",
+            "180 ml tequila",
+            "60 ml orange liqueur",
+            "240 g strawberry",
+            "120 ml lime juice"
+        ],
+        "Directions":[
+            "Gather ingredients and fill a blender with ice cubes. Pulse until ice is crushed.",
+            "Pour in tequila and triple sec, then add strawberry and limeade concentrate.",
+            "Blend until smooth, about 30 seconds. Pour into four margarita glasses and serve immediately."
+        ],
+        "Description":"A strawberry margarita is the perfect summer cocktail! Made with frozen strawberry and limeade concentrate, this five-ingredient margarita is ready to refresh you in just minutes. For an extra-sweet presentation, dip the rims of your margarita glasses in powdered sugar.",
+        "Keywords":null
+    },
+    {
+        "ID":10011,
+        "Name":"Gin Fizz",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "50 ml gin",
+            "30 ml lemon",
+            "20 ml sugar",
+            "6 pc ice",
+            "150 ml soda water",
+            "2 pc lemon"
+        ],
+        "Directions":[
+            "For the Gin Fizz, first squeeze the lemon. Then in a cocktail shaker, shake gin, ice cubes, lemon juice and sugar syrup vigorously and up to 1 minute.",
+            "Now add fresh ice cubes to a prepared long drink glass or balloon glass. The vigorously shaken drink now comes strained into the glass. Finally, top up with soda water.",
+            "Stir briefly and serve with the lemon slices in the glass and rosemary sprig."
+        ],
+        "Description":"A gin fizz means pure party. Whether as a brilliant hot spot at birthday parties or glamorous evening for two. This recipe suits many occasions.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Gin Cocktails",
+            "Light Drink"
+        ]
+    },
+    {
+        "ID":10464,
+        "Name":"Gin Tonic",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "4 pc ice",
+            "60 ml gin",
+            "120 ml tonic water",
+            "15 ml lemon juice",
+            "1 pc lime"
+        ],
+        "Directions":[
+            "In a tumbler glass filled with 2 Ice Cubes, pour the gin.",
+            "Pour the tonic over the Ice Cubes and the gin. Add a dash of Lemon Juice. Serve the drink chilled."
+        ],
+        "Description":"Gin tonic is great as an aperitif at your parties. This recipe is quick to prepare.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Gin Cocktails",
+            "Light Drink"
+        ]
+    },
+    {
+        "ID":58,
+        "Name":"Gluehwein",
+        "AverageRating":4.8,
+        "Ingredients":[
+            "180 ml water",
+            "0.75 cup sugar",
+            "1 pc cinnamon stick",
+            "2 pc orange",
+            "10 pc cloves",
+            "750 ml red wine"
+        ],
+        "Directions":[
+            "Gather all ingredients.",
+            "Combine water, sugar, and cinnamon stick in a saucepan; bring to a boil. Reduce heat to low.",
+            "Cut one orange in half; squeeze orange halves over the sugar mixture to release their juice. Push 5 cloves into the outside of each orange peel; place peels into the simmering mixture. Continue to simmer over the lowest heat until thick and syrupy, 20 to 30 minutes.",
+            "While the mixture is simmering, slice remaining orange and set aside for serving.",
+            "When the mixture is finished simmering, stir in wine and heat until steaming but not simmering, 3 to 5 minutes. Discard orange peels and cinnamon stick.",
+            "Ladle into mugs and garnish with orange slices."
+        ],
+        "Description":"Gluehwein (also spelled Glühwein) is a hot spiced 'glow wine' that's found in many winter markets in Germany and Austria. Many tourists know it as an after-ski drink. After you come in from being out in the cold and snow, this warm, spicy mulled drink is supposed to make you 'glow' with warmth again. Watch out — the alcohol in this warm beverage can quickly go to your head, so you might want to plan on staying in afterwards! This is the recipe my father would make for New Year's Eve.",
+        "Keywords":null
+    },
+    {
+        "ID":10324,
+        "Name":"Grasshopper",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "20 ml creme de cacao",
+            "20 ml mint",
+            "100 ml whipped cream",
+            "2 sheet mint"
+        ],
+        "Directions":[
+            "Fill the shaker with 3-5 Ice Cubes, add cream and liqueurs, shake everything vigorously for about 15 sec.",
+            "Pour through a bar strainer into a whiskey glass and garnish with mint."
+        ],
+        "Description":"The Grasshopper is a sweet cocktail that gets a special flavor from different liqueurs.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Liqueurs",
+            "Cocktails for Dates",
+            "Creamy",
+            "Spicy",
+            "Normal"
+        ]
+    },
+    {
+        "ID":20,
+        "Name":"Grateful Dead Cocktail",
+        "AverageRating":3.5,
+        "Ingredients":[
+            "30 ml tequila",
+            "30 ml vodka",
+            "30 ml white rum (light rum)",
+            "30 ml gin",
+            "30 ml raspberry liqueur",
+            "1 cup ice",
+            "15 ml sweet and sour"
+        ],
+        "Directions":[
+            "Combine tequila, vodka, rum, gin, and raspberry liqueur in a highball glass. Fill with ice and top with sour mix."
+        ],
+        "Description":"This Grateful Dead drink is considered the sweeter cousin of the Long Island Iced Tea. Like that drink, this cocktail packs a considerable punch!",
+        "Keywords":null
+    },
+    {
+        "ID":10788,
+        "Name":"Horse'S Neck",
+        "AverageRating":4.3,
+        "Ingredients":[
+            "50 ml whiskey",
+            "200 ml ginger ale",
+            "1.25 ml bitters "
+        ],
+        "Directions":[
+            "Pour bourbon into highball glass over Ice Cubes and add Angostura.",
+            "Top the whole thing off with Ginger Ale and add a Lemon Spiral to the rim of the glass."
+        ],
+        "Description":"Horses Neck was a drink used by the British Navy. The cocktail has a slightly bitter but delicious taste.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Whiskey Cocktails",
+            "Bitter",
+            "Dinner Cocktails"
+        ]
+    },
+    {
+        "ID":55,
+        "Name":"Hot Toddy",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "60 ml water",
+            "15 ml whiskey",
+            "5 ml honey",
+            "3 pc cloves",
+            "1 pc cinnamon stick",
+            "1 pc lemon",
+            "1 pinch nutmeg"
+        ],
+        "Directions":[
+            "Pour boiling water, whiskey, and honey into a mug. Add cloves, cinnamon, and lemon slice. Let mixture stand for 5 minutes so flavors can mingle, then sprinkle with a pinch of nutmeg before serving."
+        ],
+        "Description":"This hot toddy is a great evening relaxer when you need something to help relieve that irritating cold.",
+        "Keywords":null
+    },
+    {
+        "ID":10550,
+        "Name":"Hugo",
+        "AverageRating":4.3,
+        "Ingredients":[
+            "20 ml lime juice",
+            "150 ml soda water",
+            "50 ml champagne",
+            "6 sheet mint"
+        ],
+        "Directions":[
+            "For this Hugo, grind the lime leaves in a mortar.",
+            "Fill glass with Lime Juice, Mineral Water and Prosecco.",
+            "Then add crushed Mint Leaves and serve.",
+            "This Hugo can be poured into any glass."
+        ],
+        "Description":"A Hugo is always welcome. Whether on balmy summer evenings or among friends. The recipe is slightly modified and prepared with Lime Juice.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Cocktails for Dates",
+            "Spritzy",
+            "Light Drink",
+            "Cocktails with Wine",
+            "Lime Juice",
+            "Mineral Water"
+        ]
+    },
+    {
+        "ID":10073,
+        "Name":"Hurricane",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "30 ml white rum (light rum)",
+            "10 ml dark rum (heavy rum)",
+            "50 ml orange juice",
+            "10 ml passion fruit syrup ",
+            "50 ml pineapple juice",
+            "20 ml lime juice",
+            "4 pc ice"
+        ],
+        "Directions":[
+            "Shake both rums, orange juice, passion fruit syrup, pineapple juice, Lime Juice and Ice Cubes well in a shaker.",
+            "Strain the shaken drink and pour into a highball glass on Freshe Ice Cubes. Serve with a mango by the glass and mint in the glass."
+        ],
+        "Description":"The Hurricane is an exotic rum cocktail that is also a hit at any party as an aperitif.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Fruity",
+            "Aperitif Recipes",
+            "Rum Cocktails",
+            "Exotic Cocktail Recipes",
+            "Normal",
+            "Cocktails with Orange Juice",
+            "Pineapple Juice",
+            "Lime Juice"
+        ]
+    },
+    {
+        "ID":10793,
+        "Name":"Irish Coffee",
+        "AverageRating":4.7,
+        "Ingredients":[
+            "7 pc ice",
+            "200 ml espresso",
+            "50 ml whipped cream",
+            "1 Scoop vanilla ice cream",
+            "20 ml whiskey"
+        ],
+        "Directions":[
+            "Pour the Ice Cubes into a heatproof glass. Add the whiskey. Top with coffee.",
+            "Pour the cream over the top in liquid form, preferably over the bottom of a tablespoon. Add walnut ice or vanilla ice and serve."
+        ],
+        "Description":"An erFresh dessert - recipe for hot summer days is this Cold Irish Coffee.",
+        "Keywords":[
+            "Whiskey Cocktails",
+            "Cocktail Recipes",
+            "Cocktails for Dates",
+            "Creamy"
+        ]
+    },
+    {
+        "ID":10003,
+        "Name":"Kir Royal",
+        "AverageRating":3.4,
+        "Ingredients":[
+            "40 ml champagne",
+            "10 ml currant liqueur"
+        ],
+        "Directions":[
+            "Divide the champagne among five champagne glasses.",
+            "Very carefully empty 1 - 20 ml of currant liqueur into each glass so that the liqueur flows down nicely."
+        ],
+        "Description":"A Kir Royal is always a great and welcome drink. This recipe uses a red currant liqueur.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Liqueurs",
+            "Fruity"
+        ]
+    },
+    {
+        "ID":10196,
+        "Name":"Lime Daiquiri",
+        "AverageRating":4.2,
+        "Ingredients":[
+            "10 ml lime juice",
+            "50 ml rum",
+            "1 teaspoon sugar",
+            "1 pc lime"
+        ],
+        "Directions":[
+            "Pre-chill a cocktail bowl in the freezer, add 6 Ice Cubes to a shaker.",
+            "Add Lime Juice, Rum and Sugar Syrup and shake vigorously for about 15 sec.",
+            "Pour the shaken drink through a bar strainer into the chilled cocktail bowl and pin a slice of lime to the rim of the glass."
+        ],
+        "Description":"An exotic, tart cocktail is the Lime Daiquiri, which tastes simply delicious and will delight you.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Sour",
+            "Rum Cocktails",
+            "Exotic Cocktail Recipes",
+            "Normal",
+            "Lime Juice",
+            "Cocktails with Lauter Sugar"
+        ]
+    },
+    {
+        "ID":10357,
+        "Name":"London Fog",
+        "AverageRating":4.4,
+        "Ingredients":[
+            "60 ml gin",
+            "20 ml absinthe",
+            "5 pc ice",
+            "1 pc lime"
+        ],
+        "Directions":[
+            "Pour the Gin, Absinthe and Ice Cubes into a mixing glass and muddle with a bar spoon, strain the whole thing into a chilled cocktail bowl.",
+            "If you like, you can perfect the whole thing with a sugar rim and a slice of lime."
+        ],
+        "Description":"The green perfection for any party night is the London Fog - a delightful cocktail.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Dinner Cocktails",
+            "Gin Cocktails",
+            "Toxic",
+            "Aperitif Recipes",
+            "Cocktails with Absinthe"
+        ]
+    },
+    {
+        "ID":10701,
+        "Name":"London Mule",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "0.5 pc lime",
+            "60 ml gin",
+            "90 ml ginger beer",
+            "1 pc lime"
+        ],
+        "Directions":[
+            "Squeeze half lime and pour juice into a HighballorLongdrink glass along with Ice Cubes.",
+            "Pour gin over the top, muddle and top with Ginger Beer.",
+            "Add a Lime Slice Decoration to the rim of the glass."
+        ],
+        "Description":"A London Mule with gin and lime and ginger beer is just right for a sunny afternoon. Enjoy the recipe in a cozy gathering.",
+        "Keywords":[
+            "Gin Cocktails",
+            "Cocktail Recipes",
+            "Party Cocktails Recipes"
+        ]
+    },
+    {
+        "ID":10488,
+        "Name":"Long Island Iced Tea",
+        "AverageRating":4.8,
+        "Ingredients":[
+            "12 pc ice",
+            "20 ml white rum (light rum)",
+            "20 ml orange liqueur",
+            "20 ml vodka",
+            "20 ml gin",
+            "0.625 ml coke",
+            "10 ml lemon juice",
+            "10 ml orange juice",
+            "10 ml sugar",
+            "1 pc lemon"
+        ],
+        "Directions":[
+            "For a Long Island Iced Tea Original, first prepare a long drink glass.",
+            "In a shaker, pour 4-5 Ice Cubes, then pour gin, vodka, rum, tequila, triple sec on top. Add the Lemon and Orange Juice. Finally, add the Sugar Syrup. Shake well and vigorously.",
+            "Add 6-7 Ice Cubes to the prepared glass of Freshe and pour the drink into the glass through a bar strainer. Top it all off with Coke.",
+            "Pin a Lemon Slice to the rim of the glass and serve with a black straw."
+        ],
+        "Description":"Long Island Iced Tea the original fits for a mega party. The recipe sets the mood and is totally easy to prepare.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Vodka Cocktails",
+            "Gin Cocktails",
+            "Rum Cocktails",
+            "Very Strong"
+        ]
+    },
+    {
+        "ID":10514,
+        "Name":"Mai Tai",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "0.5 pc lime",
+            "10 pc ice",
+            "60 ml gold rum (medium rum)",
+            "10 ml almond syrup ",
+            "10 ml sugar",
+            "50 ml pineapple juice",
+            "20 ml orange liqueur",
+            "2 pc cocktail(maraschino) cherry",
+            "1 pc orange"
+        ],
+        "Directions":[
+            "Squeeze the lime and pour the juice into a shaker with 5 ice cubes.",
+            "Add brown rum, almond syrup, sugar syrup, Pineapple Juice and Orange Liqueur and shake well.",
+            "Pour the drink into a highball glass over fresh ice cubes and serve with Straw.",
+            "Decoration is a slice of orange and Cocktail Cherryn."
+        ],
+        "Description":"The classic rum cocktail from sunny California is the Mai Tai - a recipe for everyone who loves brown rum.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Rum Cocktails",
+            "Exotic Cocktail Recipes",
+            "Normal",
+            "Cocktails with Lauter Sugar"
+        ]
+    },
+    {
+        "ID":10485,
+        "Name":"Malibu Beach",
+        "AverageRating":4.7,
+        "Ingredients":[
+            "50 ml orange juice",
+            "40 ml passion fuite juice",
+            "20 ml almond syrup ",
+            "40 ml malibu",
+            "20 ml grenadine syrup",
+            "30 ml pineapple juice",
+            "20 ml lemon juice"
+        ],
+        "Directions":[
+            "Mix the Pineapple Juice, passion fruit nectar, Lemon Juice and Orange Juice well in a shaker.",
+            "Then add the Almond Syrup and Grenadine and a few ice cubes and shake again and pour into the cocktail glass.",
+            "And finally, pour the Malibu over the cocktail."
+        ],
+        "Description":"Malibu Beach is a cocktail that will put you in a vacation mood just by its name - simply delicious.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Cocktails with Fruit Juice",
+            "Light Drink",
+            "Rum Cocktails",
+            "Sweet",
+            "Cocktails with Orange Juice",
+            "Cocktails with Malibu",
+            "Lemon Juice",
+            "Pineapple Juice"
+        ]
+    },
+    {
+        "ID":41,
+        "Name":"Manhattan",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "60 ml whiskey",
+            "15 ml sweet vermouth",
+            "0.625 ml bitters ",
+            "1 cup ice",
+            "1 pc cocktail(maraschino) cherry"
+        ],
+        "Directions":[
+            "Gather all ingredients.",
+            "Combine whiskey, vermouth, and bitters in a cocktail mixing glass. Add ice and stir until chilled.",
+            "Strain into a chilled cocktail glass and garnish with a cocktail cherrrry."
+        ],
+        "Description":"An easy recipe for a Manhattan — a classic cocktail that is believed to date back to the late 1800s. It's made with a bracing mixture of bourbon or rye whiskey mixed with sweet vermouth and a dash of aromatic bitters.",
+        "Keywords":null
+    },
+    {
+        "ID":10754,
+        "Name":"Margarita",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "0.5 pc lime",
+            "1 pinch salt",
+            "1 pc lime",
+            "20 ml lime juice",
+            "10 ml orange liqueur",
+            "50 ml tequila",
+            "4 pc ice"
+        ],
+        "Directions":[
+            "Garnish the pre-chilled cocktail bowl with Lime Juice and salt on the rim of the glass. To do this, rub the rim of the glass with half a lime, pour the salt onto a saucer and twist the rim of the glass in it.",
+            "Fill the cocktail shaker with Ice Cubes. Squeeze the lime and pour the juice over the crushed ice. Add Orange Liqueur and Tequila and shake the shaker vigorously.",
+            "Pour the drink through a bar strainer into the prepared cocktail bowl and decorate with a Lime Slice on the rim of the glass, then serve immediately."
+        ],
+        "Description":"The Margarita is a classic cocktail. A tasty drink that looks great.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Tequila Cocktails",
+            "Dinner Cocktails",
+            "Sour",
+            "Normal",
+            "Lime Juice"
+        ]
+    },
+    {
+        "ID":10275,
+        "Name":"Mexican Sunset",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "20 ml tequila",
+            "20 ml orange liqueur",
+            "10 ml almond syrup ",
+            "10 ml lemon juice",
+            "30 ml orange juice",
+            "1 pc orange"
+        ],
+        "Directions":[
+            "Shake Tequila, Cointreau, Almond Syrup, Lemon Juice, Orange Juice and Ice well in a shaker and pour into a tumbler glass.",
+            "Garnish with a Lemon Slice."
+        ],
+        "Description":"Mexican Sunset is a cocktail that has a tart but delicious taste and looks great.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Tequila Cocktails",
+            "Cointreau Cocktails",
+            "Sour",
+            "Exotic Cocktail Recipes",
+            "Very Strong",
+            "Cocktails with Orange Juice",
+            "Lemon Juice"
+        ]
+    },
+    {
+        "ID":10619,
+        "Name":"Mimosa",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "5 ml orange liqueur",
+            "70 ml champagne",
+            "70 ml orange juice",
+            "0.25 pc orange"
+        ],
+        "Directions":[
+            "In a chilled champagne glass, pour the Champagne and Orange Juice.",
+            "Top off the drink with a splash of Triple Sec Liqueur.",
+            "Quarter an Orange Slice and pin a piece to the rim of the glass as decoration."
+        ],
+        "Description":"This hearty mimosa cocktail is a great drink. The recipe is easy to prepare and always goes well for a toast.",
+        "Keywords":[
+            "Sparkling & Champagne Cocktails",
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Cocktails for Dates",
+            "Spritzy",
+            "Light Drink"
+        ]
+    },
+    {
+        "ID":10501,
+        "Name":"Mojito",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "50 ml white rum (light rum)",
+            "60 ml soda water",
+            "1 pc lime",
+            "4 tablespoon ice",
+            "2 teaspoon sugar",
+            "8 sheet mint"
+        ],
+        "Directions":[
+            "Wash the untreated limes and cut off the lime ends. Now cut the limes into eighths and add them to a highball glass along with the brown sugar and mint.",
+            "Muddle the lime pieces and also the Mint Leaves a bit with a pestle or pestle - but not too much so don't muddle them completely.",
+            "Finally, fill the glass with the crushed ice, add the White Rum and top the glass with the soda.",
+            "The mojito can be garnished as desired with a few lime slices and Mint Leaves."
+        ],
+        "Description":"The Mojito is a classic cocktail and a refreshing drink that always fits.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Rum Cocktails",
+            "Exotic Cocktail Recipes",
+            "Normal",
+            "Cocktails with Bacardi Rum"
+        ]
+    },
+    {
+        "ID":10017,
+        "Name":"Moscow Mule",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "0.5 pc lime",
+            "50 ml vodka",
+            "10 pc ice",
+            "320 ml ginger beer",
+            "3 pc lime",
+            "1 pc mint"
+        ],
+        "Directions":[
+            "For the Moscow Mule, squeeze the lime first.",
+            "In the copper mug, pour the vodka, then immediately fill with Ice Cubes. Now pour the Lime Juice over the ice.",
+            "Top with Ginger Beer, stir gently with a bar spoon.",
+            "Use lime wedges and mint leaves for garnish."
+        ],
+        "Description":"This delicious Moscow Mule with vodka, lime juice and ginger beer, is the new trend among cocktails and is popularly served in a copper mug.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Cocktails for Dates",
+            "Bitter"
+        ]
+    },
+    {
+        "ID":10524,
+        "Name":"Negroni",
+        "AverageRating":4.3,
+        "Ingredients":[
+            "30 ml campari",
+            "30 ml gin",
+            "30 ml sweet vermouth",
+            "0.5 pc orange",
+            "0.625 ml soda water"
+        ],
+        "Directions":[
+            "Shake the ingredients Gin, Campari, Vermouth Rosso and Soda Water well in a shaker.",
+            "Prepare an old fashion glass and fill it with Ice Cubes, pour the drink into the glass and stir with a Stierer.",
+            "Garnish with half an orange slice on the rim of the glass."
+        ],
+        "Description":"The famous Negroni cocktail is made with Campari, gin and Vermouth Rosso. This cocktail recipe tastes excellent.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Bitter"
+        ]
+    },
+    {
+        "ID":12,
+        "Name":"Old Fashioned",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "10 ml simple syrup",
+            "5 ml water",
+            "1.25 ml bitters ",
+            "1 cup ice",
+            "45 ml whiskey",
+            "1 pc orange",
+            "1 pc cocktail(maraschino) cherry"
+        ],
+        "Directions":[
+            "Pour simple syrup, water, and bitters into a whiskey glass; stir to combine. Add ice cubes and pour in bourbon. Garnish with orange slice and cocktail cherry."
+        ],
+        "Description":"The old fashioned is a classic cocktail that was invented in Louisville, KY. You can make it with bourbon, rye, or a blended whiskey. You can also substitute one sugar cube for the simple syrup.",
+        "Keywords":null
+    },
+    {
+        "ID":10584,
+        "Name":"Optimist",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "30 ml gin",
+            "20 ml currant liqueur",
+            "20 ml pineapple juice",
+            "0.5 pc orange",
+            "1 pc cocktail(maraschino) cherry",
+            "0.625 ml orange juice",
+            "1 pc pineapple",
+            "0.625 ml passion fruit syrup "
+        ],
+        "Directions":[
+            "Shake Pineapple Juice, Passion Fruit Syrup and Gin in a shaker with Ice and pour into a cocktail glass with ice cubes.",
+            "Top with the Orange Juice and pour in Creme de Cassis. Stick a cherry or orange on the rim of the glass."
+        ],
+        "Description":"The Optimist is a delicious fruity cocktail that gets a great flavor from the liqueur.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Fresh",
+            "Gin Cocktails",
+            "Fruity",
+            "Normal",
+            "Sweet",
+            "Cocktails with Orange Juice",
+            "Pineapple Juice"
+        ]
+    },
+    {
+        "ID":10108,
+        "Name":"Paradise",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "20 ml apricot brandy",
+            "40 ml gin",
+            "40 ml orange juice",
+            "1 pc cocktail(maraschino) cherry"
+        ],
+        "Directions":[
+            "Shake apricot brandy, gin, orange juice vigorously with ice in a shaker.",
+            "Pour off the drink and pour into a cocktail bowl. Garnish with a Cocktail Cherry and serve."
+        ],
+        "Description":"A tasty cocktail succeeds with this recipe. The Paradise not only looks great, it tastes great.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Dinner Cocktails",
+            "Gin Cocktails",
+            "Fruity",
+            "Light Drink",
+            "Aperitif Recipes",
+            "Sweet",
+            "Cocktails with Orange Juice"
+        ]
+    },
+    {
+        "ID":2,
+        "Name":"Party Punch IV",
+        "AverageRating":4.7,
+        "Ingredients":[
+            "480 ml pineapple juice",
+            "360 ml orange juice",
+            "360 ml vodka",
+            "2 l lemon-lime flavored carbonated beverage",
+            "120 g cocktail(maraschino) cherry",
+            "4 pc orange",
+            "2 pc ice"
+        ],
+        "Directions":[
+            "In a punch bowl, combine pineapple juice concentrate, orange juice concentrate and vodka. Pour in lemon-lime soda. Float cherries and orange slices on top. Add ice before serving."
+        ],
+        "Description":"See how easy it is to make a delicious party punch with this 3-ingredient recipe. It's so simple, even a child can make it. We love this punch for family gatherings — my sisters, brother, and I even had it served at our weddings! Add sliced fruit if desired.",
+        "Keywords":null
+    },
+    {
+        "ID":10496,
+        "Name":"Pina Colada",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "40 ml white rum (light rum)",
+            "60 ml pineapple juice",
+            "20 ml coconut cream",
+            "20 ml whipped cream",
+            "1 pc pineapple"
+        ],
+        "Directions":[
+            "Finely mash the pineapple chunks in a blender (can also be a blender, then it will be even finer).",
+            "Shake the remaining ingredients well in a shaker.",
+            "Now fill any glass with crushed ice, up to half. Add the pineapple puree to the glass, and pour in the shaken drink.",
+            "Add a pineapple chunk and Cocktail Cherry to the rim of the glass."
+        ],
+        "Description":"Pineapple chunks make this pina colada a delight. A recipe dream for colada fans.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Creamy",
+            "Light Drink",
+            "Rum Cocktails"
+        ]
+    },
+    {
+        "ID":10747,
+        "Name":"Planter'S Punch",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "20 ml lime juice",
+            "80 ml orange juice",
+            "50 ml gold rum (medium rum)",
+            "10 ml grenadine syrup"
+        ],
+        "Directions":[
+            "Fill the cocktail shaker with 5 ice cubes. Pour Grenadine, Lime Juice, Orange Juice and the rum into the shaker and shake everything vigorously for about 15 secs.",
+            "Pour Fresh Ice Cubes into a highball glass and add the shaken through a bar strainer.",
+            "Garnish with a pineapple chunk, lemon slice, Cocktail Cherry, straw and umbrella."
+        ],
+        "Description":"Planters Punch is a fruity cocktail from the USA. It looks great and tastes terrific.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Cocktails with Fruit Juice",
+            "Fruity",
+            "Light Drink",
+            "Mixed Drinks",
+            "Rum Cocktails",
+            "Exotic Cocktail Recipes",
+            "Sweet",
+            "Cocktails with Orange Juice",
+            "Pineapple Juice",
+            "Lime Juice"
+        ]
+    },
+    {
+        "ID":10246,
+        "Name":"Ritz",
+        "AverageRating":4.2,
+        "Ingredients":[
+            "20 ml orange juice",
+            "10 ml orange liqueur",
+            "20 ml brandy",
+            "0.625 ml champagne"
+        ],
+        "Directions":[
+            "In a shaker, shake the ingredients Cognac, Cointreau and Orange Juice on Ice Cubes.",
+            "Strain the drink into a Champagne goblet or champagne glass and carefully top up with Champagne."
+        ],
+        "Description":"A Spritzyer cocktail that doubles as an aperitif is the Ritz - tastes deliciously bubbly.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Cocktails for Dates",
+            "Spritzy",
+            "Aperitif Recipes",
+            "Sparkling & Champagne Cocktails",
+            "Very Strong",
+            "Cocktails with Orange Juice"
+        ]
+    },
+    {
+        "ID":28,
+        "Name":"Sangria",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "1 pc orange",
+            "1 pc lemon",
+            "1 pc lime",
+            "125 ml rum",
+            "0.5 cup sugar",
+            "750 ml red wine",
+            "250 ml orange juice"
+        ],
+        "Directions":[
+            "Have orange, lemon, lime, rum, wine, and orange juice well chilled.",
+            "Slice orange, lemon, and lime into thin rounds; place in a large glass pitcher. Pour in rum and 1or2 cup sugar. Chill in the refrigerator until flavors blend, about 2 hours.",
+            "Crush fruit lightly with a wooden spoon; stir in wine and orange juice. Adjust sweetness as desired."
+        ],
+        "Description":"This authentic sangria recipe is a terrific version of the popular wine drink. You can add any fruit that you want, but I find that apples and pears absorb all the rum. This one is not diluted with carbonated beverages. I have had much success with red Burgundy wine and white rum, though spiced rum is nice too.",
+        "Keywords":null
+    },
+    {
+        "ID":10625,
+        "Name":"Screw Driver",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "60 ml vodka",
+            "120 ml orange juice",
+            "6 pc ice"
+        ],
+        "Directions":[
+            "For the Screwdriver, pour Vodka, Orange Juice and Ice into a highball glass.",
+            "Stir well, pour Straw into glass and enjoy."
+        ],
+        "Description":"A great Screwdriver adds zest and taste. Enjoy the cocktail with friends. Here's the recipe.",
+        "Keywords":[
+            "Vodka Cocktails",
+            "Cocktail Recipes",
+            "Fruity"
+        ]
+    },
+    {
+        "ID":10411,
+        "Name":"Sea Breeze",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "50 ml vodka",
+            "100 ml cranberry juice",
+            "50 ml grapefruit juice"
+        ],
+        "Directions":[
+            "Fill the shaker with 5 ice cubes, add vodka, Cranberry Juice and Grapefruit Juice and shake for about 5 minutes.",
+            "Add more Ice Cubes to a highball glass and pour the shaken drink through a bar strainer.",
+            "Garnish the drink with orange slices."
+        ],
+        "Description":"Seabreeze is a super looking and insanely great tasting cocktail you should try.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Vodka Cocktails",
+            "Cocktails with Fruit Juice",
+            "Fruity",
+            "Sour",
+            "Mixed Drinks",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10053,
+        "Name":"Sex On The Beach",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "6 pc ice",
+            "40 ml vodka",
+            "20 ml peach liqueur ",
+            "40 ml cranberry juice",
+            "10 ml lemon juice",
+            "5 pc ice",
+            "250 ml orange juice",
+            "1 pc pineapple",
+            "1 pc cocktail(maraschino) cherry"
+        ],
+        "Directions":[
+            "Fill the shaker with 4-6 ice cubes and add the remaining ingredients Vodka, Peach Liqueur, Cranberry Direct Juice, Lemon Juice, shake vigorously.",
+            "In a Hurricane glass, add about 4-5 Freshe Ice Cubes and pour the cocktail into the glass through a bar strainer.",
+            "Finally, top with the Orange Juice.",
+            "Garnish with a straw and a pineapple slice and cocktail cherry and serve."
+        ],
+        "Description":"The Sex on the Beach cocktail is one of the most famous and popular drinks ever. Delightfully Fresh and Fruity.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Fresh",
+            "Vodka Cocktails",
+            "Fruity",
+            "Mixed Drinks",
+            "Normal",
+            "Cocktails with Orange Juice"
+        ]
+    },
+    {
+        "ID":10010,
+        "Name":"Sidecar",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "30 ml brandy",
+            "30 ml orange liqueur",
+            "30 ml lemon juice",
+            "6 pc ice",
+            "3 pc cocktail(maraschino) cherry"
+        ],
+        "Directions":[
+            "Add brandy, Cointreau, lemon juice and ice cubes to a cocktail shaker and shake well.",
+            "Then strain into a glass and garnish with the cherries."
+        ],
+        "Description":"This sidecar is prepared with brandy. Further enhanced with Cointreau and lemon juice. Here is the recipe.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Fresh",
+            "Brandy & Cognac",
+            "Cointreau Cocktails",
+            "Normal"
+        ]
+    },
+    {
+        "ID":10380,
+        "Name":"Singapore Sling",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "20 ml gin",
+            "20 ml cherry brandy",
+            "20 ml lemon juice",
+            "0.5 teaspoon sugar"
+        ],
+        "Directions":[
+            "Shake in a shaker on chopped Ice Cubes Cherry Brandy, Gin, Lemon Juice and Sugar, pour into a cocktail glass without straining.",
+            "Decoration can be made with finely sliced strips of lemon peel."
+        ],
+        "Description":"The Singapore Sling is a Fruityer cocktail that is easy to prepare and tastes simply delicious.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Gin Cocktails",
+            "Fruity",
+            "Mixed Drinks",
+            "Very Strong",
+            "Sweet",
+            "Lemon Juice"
+        ]
+    },
+    {
+        "ID":10409,
+        "Name":"Strawberry Daiquir",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "40 ml rum",
+            "20 ml lime juice",
+            "20 ml strawberry liqueur ",
+            "8 pc strawberry",
+            "3 tablespoon ice"
+        ],
+        "Directions":[
+            "In a blender, finely crush some crushed ice with the Strawberry. Then add the remaining ingredients and shake well.",
+            "Pour the drink into a cocktail glass and serve with a black straw.",
+            "Garnish with strawberry pieces and a mint leaf on the rim of the glass, if desired."
+        ],
+        "Description":"Fresh and Fruity tastes a Strawberry Daiquiri, ideal for summer and of course pool parties.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Liqueurs",
+            "Fruity",
+            "Rum Cocktails",
+            "Normal",
+            "Liquor & Liqueur Recipes"
+        ]
+    },
+    {
+        "ID":10189,
+        "Name":"Strawberry Margarita",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "20 ml lemon juice",
+            "50 ml strawberry",
+            "20 ml orange liqueur",
+            "40 ml tequila",
+            "1 pinch sugar"
+        ],
+        "Directions":[
+            "Put Cointreau, Lemon Juice, Sugar Syrup and Tequila together with the strawberry in the blender and mix well.",
+            "Then add the contents to the cocktail shaker, along with 2-3 ice cubes, shake well, and then strain into a cocktail bowl.",
+            "The rim of the cocktail bowl is moistened beforehand with an incised Lemon Slice, then twisted in fine Granulated Sugar. Tap the bowl lightly afterward to allow loose grains of sugar to fall away and garnish additionally with a Lemon Slice."
+        ],
+        "Description":"The Strawbeery Margherita is a classic cocktail that tastes Sweet and looks great.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Tequila Cocktails",
+            "Fruity",
+            "Mixed Drinks",
+            "Normal",
+            "Sweet",
+            "Lemon Juice"
+        ]
+    },
+    {
+        "ID":10221,
+        "Name":"Sweet Memories",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "20 ml white rum (light rum)",
+            "20 ml orange liqueur",
+            "20 ml dry vermouth",
+            "3 pc ice"
+        ],
+        "Directions":[
+            "Shake the ingredients Curacao orange, Vermouth dry, white rum together in a shaker with a few ice cubes and strain through a bar strainer into a large cocktail bowl.",
+            "Decorate with a lime zest and enjoy immediately."
+        ],
+        "Description":"Sweet Memories - a sinfully good cocktail guaranteed to give you Sweete moments.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Aperitif Recipes",
+            "Rum Cocktails",
+            "Exotic Cocktail Recipes",
+            "Normal",
+            "Sweet",
+            "Cocktails with Curacao",
+            "Cocktails with Bacardi Rum",
+            "Cocktails with Vermouth"
+        ]
+    },
+    {
+        "ID":10091,
+        "Name":"Swimming Pool",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "120 ml pineapple juice",
+            "40 ml vodka",
+            "20 ml whipped cream",
+            "20 ml coconut cream",
+            "3 tablespoon ice",
+            "20 ml blue curacao",
+            "1 pc cocktail(maraschino) cherry"
+        ],
+        "Directions":[
+            "Place Pineapple Juice, Vodka, Obers, Cream of Coconut in a stand mixer and mix well.",
+            "Half fill a fancy glass with crushed ice and pour in the blended ingredients.",
+            "Then pour the Blue Curacao into the glass.",
+            "Garnish with a Cocktail Cherry and straw and serve."
+        ],
+        "Description":"The Swimming Pool not only looks terrific, it tastes great too. A delightful, summer cocktail.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Vodka Cocktails",
+            "Creamy",
+            "Milk",
+            "Aperitif Recipes",
+            "Normal",
+            "Sweet",
+            "Cocktails with Curacao",
+            "Pineapple Juice"
+        ]
+    },
+    {
+        "ID":10107,
+        "Name":"Tahiti",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "20 ml dark rum (heavy rum)",
+            "30 ml malibu",
+            "20 ml lemon juice",
+            "80 ml orange juice",
+            "20 ml mango liqueur ",
+            "1 pc mango"
+        ],
+        "Directions":[
+            "Shake rum, Malibu, Mango Liqueur, Lemon Juice, Orange Juice and ice vigorously in a shaker, strain and pour into a highball glass on Freshe Ice Cubes.",
+            "Serve with mango chunks in the glass and exotic bubbles."
+        ],
+        "Description":"A terrific cocktail that will put you in the vacation mood is the Tahiti - be sure to try it.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Fruity",
+            "Rum Cocktails",
+            "Exotic Cocktail Recipes",
+            "Normal",
+            "Sweet",
+            "Cocktails with Orange Juice",
+            "Cocktails with Malibu",
+            "Lemon Juice"
+        ]
+    },
+    {
+        "ID":10798,
+        "Name":"Tequila Sunrise",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "5 pc ice",
+            "40 ml tequila",
+            "10 ml lemon juice",
+            "110 ml orange juice",
+            "10 ml grenadine syrup",
+            "1 pc lemon"
+        ],
+        "Directions":[
+            "Fill the shaker with 5 ice cubes, then add Tequila, Lemon Juice and the Orange Juice and shake vigorously for about 15 sec.",
+            "Add some crushed ice to a highball glass and pour the drink over a bar strainer.",
+            "Now carefully pour the Grenadine Syrup into the glass over the back of a spoon.",
+            "Do not stir, wait until the syrup is on the bottom of the glass and then serve with Straw and an Orange Slice and Cocktail Cherry."
+        ],
+        "Description":"A classic cocktail is the Tequila Sunrise. It makes the taste buds explode.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Fresh",
+            "Tequila Cocktails",
+            "Fruity",
+            "Exotic Cocktail Recipes",
+            "Very Strong",
+            "Cocktails with Orange Juice"
+        ]
+    },
+    {
+        "ID":10359,
+        "Name":"Tom Collins",
+        "AverageRating":4.4,
+        "Ingredients":[
+            "20 ml lemon juice",
+            "10 ml sugar",
+            "40 ml gin",
+            "0.625 ml soda water"
+        ],
+        "Directions":[
+            "In a cocktail glass, add 3 to 4 Ice Cubes. Add the ingredients Lemon Juice, Sugar Syrup and Gin and stir with a bar spoon.",
+            "Top with Soda Water and garnish with a slice of lemon, a Cocktail Cherry and a straw."
+        ],
+        "Description":"The Tom Collins is a tasty cocktail for which the Collins glass, a long long drink glass, was specially invented.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Fresh",
+            "Spritzy",
+            "Gin Cocktails",
+            "Normal",
+            "Lemon Juice",
+            "Cocktails with Lauter Sugar"
+        ]
+    },
+    {
+        "ID":10599,
+        "Name":"Vesper",
+        "AverageRating":4.4,
+        "Ingredients":[
+            "10 ml lillet blanc",
+            "60 ml gin",
+            "20 ml vodka",
+            "1 pc lemon"
+        ],
+        "Directions":[
+            "Shake all ingredients briefly and vigorously in a shaker with plenty of ice.",
+            "Then strain the drink into a martini glass using a strainer.",
+            "For decoration, add a lemon spiral to the glass."
+        ],
+        "Description":"The drink Vesper Martini is known from the James Bond movie and tastes terrific. Here is the recipe to shake it.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Fresh",
+            "Vodka Cocktails",
+            "Light Drink"
+        ]
+    },
+    {
+        "ID":10465,
+        "Name":"Vodka Apple",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "50 ml vodka",
+            "5 pc ice",
+            "180 ml apple juice",
+            "1 pc apple"
+        ],
+        "Directions":[
+            "Put Ice Cubes into a long drink glass. Mix Vodka with Apple Juice and pour into the glass. Serve decorated with the apple wedge and a stick of cinnamon."
+        ],
+        "Description":"This Vodka Apple is just the thing for party fans with Apple Juice and an apple wedge, as the recipe brings bomb cheer.",
+        "Keywords":[
+            "Vodka Cocktails",
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Fruity",
+            "Normal",
+            "Cocktails with Apple Juice."
+        ]
+    },
+    {
+        "ID":10731,
+        "Name":"Vodka Gimlet",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "40 ml vodka",
+            "20 ml lime juice",
+            "3 pc ice"
+        ],
+        "Directions":[
+            "Shake Vodka, Lime Juice and Ice Cubes and pour strained on Fresh Ice Cubes into a pre-chilled cocktail bowl.",
+            "Garnish with a Lime Slice and serve immediately."
+        ],
+        "Description":"A sour, tasty cocktail succeeds with this recipe - the Vodka Gimlet tastes just great.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Fresh",
+            "Vodka Cocktails",
+            "Sour",
+            "Aperitif Recipes",
+            "Very Strong",
+            "Lime Juice"
+        ]
+    },
+    {
+        "ID":10694,
+        "Name":"Vodka Martini",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "1 pc olive",
+            "60 ml vodka",
+            "20 ml dry vermouth",
+            "4 pc ice"
+        ],
+        "Directions":[
+            "Pre-chill a martini glass in the freezer.",
+            "Place Ice Cubes in a mixing glass, add Vodka and Martini and stir well.",
+            "Pour the cocktail without the Ice Cubes into the pre-chilled martini glass and decorate with the olive."
+        ],
+        "Description":"A Vodka Martini is always welcome tastes terrific. The recipe makes for super great tasting moments and is reminiscent of James.",
+        "Keywords":[
+            "Vodka Cocktails",
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Fresh",
+            "Cocktails for Dates",
+            "Normal"
+        ]
+    },
+    {
+        "ID":50,
+        "Name":"Vodka Paralyzer",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "1 cup ice",
+            "120 ml coke",
+            "30 ml kahlua",
+            "45 ml vodka",
+            "60 ml milk",
+            "1 pc cocktail(maraschino) cherry"
+        ],
+        "Directions":[
+            "Fill a highball glass with ice.",
+            "In the order listed, pour in cola, coffee liqueur, vodka, then milk. Stir briefly and top with a cocktail cherrrry."
+        ],
+        "Description":"Paralyzer cocktail made with cola, coffee, vodka, and milk. I have been told that my vodka paralyzers are the best. These are especially yummy topped with a cocktail cherrrry, but that is by no means necessary. Make sure you add the ingredients in the order listed, or else the milk may curdle.",
+        "Keywords":null
+    },
+    {
+        "ID":10433,
+        "Name":"Vodka Sour",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "50 ml vodka",
+            "20 ml sugar",
+            "30 ml lemon juice",
+            "3 pc lemon"
+        ],
+        "Directions":[
+            "Shake all ingredients in a shaker with ice cubes. Then pour into a tumbler glass.",
+            "Garnish with lemon wedges in glass."
+        ],
+        "Description":"The Vodka Sour cocktail is a must at any party. Mix with Ice and pour into a tumbler glass - ready.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Vodka Cocktails",
+            "Sour",
+            "Normal",
+            "Cocktails with Lauter Sugar",
+            "Sour Cocktails"
+        ]
+    },
+    {
+        "ID":10620,
+        "Name":"Volcano",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "20 ml raspberry liqueur",
+            "20 ml blue curacao",
+            "0.625 ml champagne"
+        ],
+        "Directions":[
+            "Pour Curacao Blue and Raspberry Spirit into a champagne goblet.",
+            "Top the drink with ice cold Champagne and spray with Orange Peel."
+        ],
+        "Description":"Vulcano is a tasty, spritzy cocktail that you are guaranteed to enjoy.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Spritzy",
+            "Fruity",
+            "Aperitif Recipes",
+            "Sparkling & Champagne Cocktails",
+            "Normal",
+            "Cocktails with Curacao"
+        ]
+    },
+    {
+        "ID":10319,
+        "Name":"Whiskey Cola",
+        "AverageRating":4.5,
+        "Ingredients":[
+            "250 g coke",
+            "40 ml whiskey"
+        ],
+        "Directions":[
+            "First pour the whiskey into a glass and then top up with the cola. Best served with ice cubes."
+        ],
+        "Description":"A whiskey cola is a recipe for whiskey fans, topped up with cola a great drink. Enjoy the recipe in late hour.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Whiskey Cocktails",
+            "Party Cocktails Recipes",
+            "Spritzy",
+            "New Year's Eve Cocktail Recipes",
+            "Cocktails and Punch Recipes for Christmas",
+            "Very Strong",
+            "Cocktails with Coca-Cola"
+        ]
+    },
+    {
+        "ID":10669,
+        "Name":"Whiskey Sour",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "30 ml lemon juice",
+            "50 ml whiskey",
+            "20 ml sugar"
+        ],
+        "Directions":[
+            "Shake the whiskey with Lemon Juice and Sugar Syrup well in a shaker with a few ice cubes.",
+            "Strain into a glass with a few ice cubes and decorate with lemon wedge."
+        ],
+        "Description":"The Whiskey Sour is a classic cocktail and can also be served as an aperitif in a smart glass.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Whiskey Cocktails",
+            "Party Cocktails Recipes",
+            "Mixed Drinks",
+            "Spicy",
+            "Normal",
+            "Lemon Juice",
+            "Cocktails with Lauter Sugar",
+            "Sour Cocktails"
+        ]
+    },
+    {
+        "ID":10070,
+        "Name":"White Lady",
+        "AverageRating":4.4,
+        "Ingredients":[
+            "20 ml lemon juice",
+            "20 ml orange liqueur",
+            "40 ml gin"
+        ],
+        "Directions":[
+            "Shake Cointreau with Gin and Lemon Juice well in a shaker with ice cubes.",
+            "Strain the drink into a cocktail bowl and serve with a straw."
+        ],
+        "Description":"Here's a recipe for a tasty cocktail. White Lady tastes erFreshend and is suitable for your parties.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Gin Cocktails",
+            "Cointreau Cocktails",
+            "Light Drink",
+            "Sour",
+            "Lemon Juice"
+        ]
+    },
+    {
+        "ID":10051,
+        "Name":"White Russian",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "30 ml whipped cream",
+            "30 ml vodka",
+            "30 ml kahlua"
+        ],
+        "Directions":[
+            "Whip cream until frothy, pour 5 Ice Cubes in a mixing glass, add vodka and coffee liqueur and mix well.",
+            "Pour the whole thing through a bar strainer into a glass and add the whipped cream on top as a decoration."
+        ],
+        "Description":"The famous Russian made with vodka, Kahlua & cream is the White Russian. A wonderfully creamy cocktail.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Vodka Cocktails",
+            "Cocktails for Dates",
+            "Creamy",
+            "Aperitif Recipes",
+            "Coffee Recipes",
+            "Normal",
+            "Sweet",
+            "Cocktails with Coffee Liqueur"
+        ]
+    },
+    {
+        "ID":10187,
+        "Name":"Zombie",
+        "AverageRating":4.6,
+        "Ingredients":[
+            "20 ml orange liqueur",
+            "0.2 l ice",
+            "60 ml pineapple juice",
+            "20 ml lemon juice",
+            "40 ml orange juice",
+            "20 ml passion fruit syrup ",
+            "20 ml grenadine syrup",
+            "20 ml high-proof rum",
+            "40 ml gold rum (medium rum)",
+            "40 ml white rum (light rum)",
+            "1 pc orange"
+        ],
+        "Directions":[
+            "The ingredients Cointreau, all rum varieties, grenadine, passion fruit syrup, orange juice, Lemon Juice, Pineapple Juice, shake vigorously with crushed ice in a shaker and strain into a highball glass.",
+            "Garnish with cherries and a slice of orange."
+        ],
+        "Description":"The Zombie is a slightly stronger, very tasty cocktail. It is perfect for parties.",
+        "Keywords":[
+            "Cocktail Recipes",
+            "Party Cocktails Recipes",
+            "Toxic",
+            "Rum Cocktails",
+            "Sweet",
+            "Cocktails with Orange Juice",
+            "Cocktails with Bacardi Rum",
+            "Lemon Juice",
+            "Pineapple Juice"
+        ]
+    }
+]
