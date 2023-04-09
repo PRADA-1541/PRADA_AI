@@ -80,6 +80,24 @@ def getCocktailRatio(dataframe, colName):
     dataframe = dataframe[['ID', 'Name']+columns]
     return dataframe
 
+def findByName(dataframe, name):
+    """
+    dataframe: cocktail list dataframe
+    name: cocktail의 이름
+
+    name에 해당하는 cocktail의 ID를 반환
+    """
+    return dataframe[dataframe['Name'] == name]
+
+def findById(dataframe, ID):
+    """
+    dataframe: cocktail list dataframe
+    ID: cocktail의 ID
+
+    ID에 해당하는 cocktail의 Name을 반환
+    """
+    return dataframe[dataframe['ID'] == ID]
+
 def getSimilarity(dataframe, cocktail1, cocktail2, byName=False, method='cosine'):
     """
     dataframe: cocktail list dataframe
@@ -90,12 +108,12 @@ def getSimilarity(dataframe, cocktail1, cocktail2, byName=False, method='cosine'
     """
 
     if byName:
-        cocktail1 = dataframe[dataframe['Name'] == cocktail1]
-        cocktail2 = dataframe[dataframe['Name'] == cocktail2]
+        cocktail1 = findByName(dataframe, cocktail1)
+        cocktail2 = findByName(dataframe, cocktail2)
         
     else:
-        cocktail1 = dataframe[dataframe['ID'] == cocktail1]
-        cocktail2 = dataframe[dataframe['ID'] == cocktail2]
+        cocktail1 = findById(dataframe, cocktail1)
+        cocktail2 = findById(dataframe, cocktail2)
 
     cocktail1 = cocktail1.drop(['ID', 'Name'], axis=1).to_numpy()[0]
     cocktail2 = cocktail2.drop(['ID', 'Name'], axis=1).to_numpy()[0]
@@ -111,6 +129,57 @@ def getSimilarity(dataframe, cocktail1, cocktail2, byName=False, method='cosine'
 
 
     return similarity
+
+def getSimilarities(dataframe, history, target, byName=False, method='cosine', topk=5):
+    """
+    dataframe: cocktail list dataframe
+    history: 사용자의 history  / [1, 3, 4, 5]
+    target: 추천된 cocktail의 ID 또는 Name  / 1
+    topk: similarity가 높은 topk개의 cocktail을 반환
+
+    history의 칵테일들과 cocktail의 유사도를 계산
+    """
+    if type(history) != list:
+        raise Exception('history는 list 또는 tuple이어야 합니다.')
+
+    # 사용자 history가 topk보다 작을 경우 topk를 history의 길이로 설정
+    if len(history) < topk:
+        topk = len(history)
+
+    if method == 'cosine':
+        sim = cosim
+    elif method == 'pearson':
+        sim = pearson
+    elif method == 'jaccard':
+        sim = jacsim
+    else:
+        raise Exception('다음 Method만 지원: cosine, pearson, jaccard')
+    
+
+    # history cocktail의 ID를 추출]
+    if byName:
+        history = [findByName(dataframe, int(cocktail)) for cocktail in history]
+        target = findByName(dataframe, target)
+    else:
+        history = [findById(dataframe, int(cocktail)) for cocktail in history]
+        target = findById(dataframe, target)
+
+    target = target.drop(['ID', 'Name'], axis=1).to_numpy()[0]
+
+    
+    # history cocktail의 유사도를 계산
+    sim_dict = {}
+
+    for cocktail in history:
+        c = cocktail.drop(['ID', 'Name'], axis=1).to_numpy()[0]
+        similarity = sim(c, target)
+        sim_dict[cocktail['ID'].values[0]] = similarity
+
+    # 유사도가 높은 topk개의 cocktail을 반환
+    sim_dict = sorted(sim_dict.items(), key=lambda x: x[1], reverse=True)
+    sim_dict = sim_dict[:topk]
+
+    return sim_dict
 
 if __name__ == '__main__':
     # fname 정의
@@ -148,5 +217,21 @@ if __name__ == '__main__':
           {cocktail_content_profile[cocktail_content_profile['ID'] == cocktail2]['Name'].to_list()[0]}")
     
     print(f"Similarity = {sim}")
+    print("=====================================")
+
+    # history와 target을 입력받아 유사도가 높은 topk개의 cocktail을 반환
+    history = [0, 87, 85, 82, 3]
+    target = 91
+
+    similarities = getSimilarities(cocktail_content_profile, history, target, method='cosine', topk=4)
+    print(f"{cocktail_content_profile[cocktail_content_profile['ID'] == target]['Name'].to_list()[0]} Coctail이 추천된 이유 \n")
+
+    for cocktail, similarity in similarities:
+        print(f"ID: {cocktail}, \
+              Name: {cocktail_content_profile[cocktail_content_profile['ID'] == cocktail]['Name'].to_list()[0]}, \
+              Similarity: {similarity}")
+
+
+    
 
 
