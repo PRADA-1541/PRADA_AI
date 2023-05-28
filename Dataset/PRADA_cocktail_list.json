@@ -322,7 +322,7 @@
   },
   {
     "ID": 17,
-    "Name": "Blue Motorcycle",
+    "Name": "A.M.F",
     "AverageRating": 4.2,
     "Ingredients": [
       "2 cup ice",
@@ -550,7 +550,7 @@
   },
   {
     "ID": 30,
-    "Name": "Dry Martini",
+    "Name": "Martini",
     "AverageRating": 4.3,
     "Ingredients": [
       "10 ml dry vermouth",
@@ -796,7 +796,7 @@
   },
   {
     "ID": 42,
-    "Name": "Horse'S Neck",
+    "Name": "Whiskey Highball",
     "AverageRating": 4.3,
     "Ingredients": ["60 ml whiskey", "200 ml ginger ale", "1 pc lemon"],
     "Description": "Horses Neck was a drink used by the British Navy. The cocktail has a slightly bitter but delicious taste.",
@@ -1265,7 +1265,7 @@
   },
   {
     "ID": 64,
-    "Name": "Party Punch IV",
+    "Name": "Punch",
     "AverageRating": 4.7,
     "Ingredients": [
       "360 ml pineapple juice",

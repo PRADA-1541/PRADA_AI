@@ -1,0 +1,813 @@
+[
+  {
+    "name": "Alexander",
+    "korName": " 알렉산더",
+    "korIngredients": [
+      "크림 30 ml",
+      "카카오 리큐르 (크렘 드 카카오) 30 ml",
+      "브랜디 30 ml"
+    ],
+    "volume": 70,
+    "ABV": 11.4
+  },
+  {
+    "name": "Amaretto Sour",
+    "korName": " 아마레또 사워",
+    "korIngredients": ["아마레또 50 ml", "스윗 앤 사워 90 ml"],
+    "volume": 110,
+    "ABV": 11.4
+  },
+  {
+    "name": "Americano",
+    "korName": " 아메리카노",
+    "korIngredients": ["스윗 베르무트 30 ml", "캄파리 30 ml", "탄산수 30 ml"],
+    "volume": 70,
+    "ABV": 20.4
+  },
+  {
+    "name": "B-52",
+    "korName": "52 ",
+    "korIngredients": [
+      "깔루아 20 ml",
+      "베일리스 20 ml",
+      "오렌지 리큐르 (코앵트로, 트리플섹) 20 ml"
+    ],
+    "volume": 30,
+    "ABV": 12.3
+  },
+  {
+    "name": "Bacardi",
+    "korName": " 바카디",
+    "korIngredients": [
+      "레몬 주스 20 ml",
+      "화이트 럼 (라이트 럼) 50 ml",
+      "그레나딘 시럽 10 ml"
+    ],
+    "volume": 85,
+    "ABV": 47.1
+  },
+  {
+    "name": "Bahama Mama",
+    "korName": " 바하마 마마",
+    "korIngredients": [
+      "골드 럼 (미디움 럼) 15 ml",
+      "말리부 15 ml",
+      "파인애플 주스 60 ml",
+      "레몬 주스 15 ml",
+      "그레나딘 시럽 5 ml",
+      "오렌지 1 pc"
+    ],
+    "volume": 170,
+    "ABV": 30.7
+  },
+  {
+    "name": "Bellini",
+    "korName": " 벨리니",
+    "korIngredients": ["샴페인 100 ml", "복숭아 리큐르 (피치 트리) 50 ml"],
+    "volume": 45,
+    "ABV": 15.4
+  },
+  {
+    "name": "Between The Sheets",
+    "korName": " 비트윈 더 시트",
+    "korIngredients": [
+      "화이트 럼 (라이트 럼) 30 ml",
+      "브랜디 30 ml",
+      "오렌지 리큐르 (코앵트로, 트리플섹) 30 ml",
+      "레몬 주스 20 ml"
+    ],
+    "volume": 70,
+    "ABV": 40.0
+  },
+  {
+    "name": "Black Russian",
+    "korName": " 블랙 러시안",
+    "korIngredients": ["보드카 50 ml", "깔루아 20 ml"],
+    "volume": 60,
+    "ABV": 26.7
+  },
+  {
+    "name": "Bloody Mary",
+    "korName": " 블러디 메리",
+    "korIngredients": [
+      "보드카 45 ml",
+      "토마토 주스 90 ml",
+      "레몬 주스 15 ml",
+      "우스터소스 1.25 ml",
+      "타바스코소스 1.25 ml",
+      "후추 1 pinch",
+      "소금 1 pinch"
+    ],
+    "volume": 100,
+    "ABV": 8.0
+  },
+  {
+    "name": "Blue Hawaiian",
+    "korName": " 블루 하와이안",
+    "korIngredients": [
+      "화이트 럼 (라이트 럼) 20 ml",
+      "블루 큐라소 15 ml",
+      "보드카 20 ml",
+      "스윗 앤 사워 30 ml",
+      "파인애플 주스 90 ml"
+    ],
+    "volume": 190,
+    "ABV": 19.5
+  },
+  {
+    "name": "Blue Lagoon",
+    "korName": " 블루 라군",
+    "korIngredients": [
+      "보드카 50 ml",
+      "블루 큐라소 20 ml",
+      "레몬 주스 100 ml",
+      "오렌지 1 pc",
+      "얼음 8 pc"
+    ],
+    "volume": 60,
+    "ABV": 32.5
+  },
+  {
+    "name": "A.M.F",
+    "korName": " A.M.F",
+    "korIngredients": [
+      "얼음 2 cup",
+      "보드카 25 ml",
+      "테킬라 25 ml",
+      "진 25 ml",
+      "블루 큐라소 25 ml",
+      "스윗 앤 사워 0.625 ml",
+      "사이다 60 ml",
+      "레몬 1 pc"
+    ],
+    "volume": 185,
+    "ABV": 25.0
+  },
+  {
+    "name": "Caipirinha",
+    "korName": " 카이피리냐",
+    "korIngredients": ["카샤사 60 ml", "라임 1 pc", "설탕 20 ml"],
+    "volume": 60,
+    "ABV": 40.0
+  },
+  {
+    "name": "Campari Fizz",
+    "korName": " 캄파리 피즈",
+    "korIngredients": [
+      "캄파리 30 ml",
+      "레몬 주스 30 ml",
+      "심플 시럽 15 ml",
+      "탄산수 60 ml",
+      "오렌지 1 pc"
+    ],
+    "volume": 150,
+    "ABV": 15.4
+  },
+  {
+    "name": "Campari Orange",
+    "korName": " 캄파리 오렌지",
+    "korIngredients": ["오렌지 주스 90 ml", "캄파리 30 ml"],
+    "volume": 160,
+    "ABV": 6.2
+  },
+  {
+    "name": "Cape Cod",
+    "korName": " 케이프 코드",
+    "korIngredients": ["보드카 45 ml", "크랜베리 주스 80 ml", "라임 1 pc"],
+    "volume": 140,
+    "ABV": 4.3
+  },
+  {
+    "name": "Cosmopolitan",
+    "korName": " 코스모폴리탄",
+    "korIngredients": [
+      "보드카 40 ml",
+      "오렌지 리큐르 (코앵트로, 트리플섹) 15 ml",
+      "라임 주스 15 ml",
+      "크랜베리 주스 30 ml"
+    ],
+    "volume": 70,
+    "ABV": 20.0
+  },
+  {
+    "name": "Cuba Libre",
+    "korName": " 쿠바 리브레",
+    "korIngredients": [
+      "화이트 럼 (라이트 럼) 50 ml",
+      "라임 주스 10 ml",
+      "콜라 120 ml"
+    ],
+    "volume": 210,
+    "ABV": 7.6
+  },
+  {
+    "name": "Daiquiri",
+    "korName": " 라임 다이키리",
+    "korIngredients": [
+      "화이트 럼 (라이트 럼) 60 ml",
+      "라임 주스 20 ml",
+      "설탕 10 ml"
+    ],
+    "volume": 100,
+    "ABV": 40.0
+  },
+  {
+    "name": "Dark 'N' Stormy",
+    "korName": " 다크 앤 스토미",
+    "korIngredients": [
+      "다크 럼 (헤비 럼) 60 ml",
+      "진저 비어 100 ml",
+      "라임 1 pc"
+    ],
+    "volume": 240,
+    "ABV": 40.0
+  },
+  {
+    "name": "Martini",
+    "korName": "마티니",
+    "korIngredients": [
+      "드라이 베르무트 10 ml",
+      "진 60 ml",
+      "올리브 1 pc",
+      "얼음 3 pc"
+    ],
+    "volume": 60,
+    "ABV": 32.3
+  },
+  {
+    "name": "Espresso Martini",
+    "korName": " 에스프레소 마티니",
+    "korIngredients": [
+      "보드카 50 ml",
+      "깔루아 30 ml",
+      "에스프레소 20 ml",
+      "설탕 시럽 10 ml",
+      "커피빈 3 pc",
+      "얼음 5 pc"
+    ],
+    "volume": 100,
+    "ABV": 20.0
+  },
+  {
+    "name": "French 75",
+    "korName": " 프렌치 75",
+    "korIngredients": [
+      "진 30 ml",
+      "레몬 주스 15 ml",
+      "샴페인 60 ml",
+      "설탕 시럽 5 ml"
+    ],
+    "volume": 40,
+    "ABV": 30.0
+  },
+  {
+    "name": "Frozen Margarita",
+    "korName": " 프로즌 마가리타",
+    "korIngredients": [
+      "라임 주스 30 ml",
+      "오렌지 리큐르 (코앵트로, 트리플섹) 20 ml",
+      "테킬라 60 ml",
+      "소금 1 pinch",
+      "라임 1  wheel"
+    ],
+    "volume": 90,
+    "ABV": 22.2
+  },
+  {
+    "name": "Gin Fizz",
+    "korName": " 진 피즈",
+    "korIngredients": [
+      "진 45 ml",
+      "레몬 30 ml",
+      "설탕 시럽 10 ml",
+      "얼음 6 pc",
+      "탄산수 120 ml",
+      "레몬 2 pc"
+    ],
+    "volume": 250,
+    "ABV": 8.0
+  },
+  {
+    "name": "Gin Tonic",
+    "korName": " 진 토닉",
+    "korIngredients": [
+      "얼음 4 pc",
+      "진 60 ml",
+      "토닉 워터 120 ml",
+      "레몬 주스 10 ml",
+      "라임 1 pc"
+    ],
+    "volume": 195,
+    "ABV": 12.3
+  },
+  {
+    "name": "Gluehwein",
+    "korName": " 글루바인",
+    "korIngredients": [
+      "물 180 ml",
+      "설탕 시럽 90 ml",
+      "시나몬 1 pc  stick",
+      "오렌지 2 pc",
+      "사과 1 pc",
+      "정향 10 pc s",
+      "레드 와인 750 ml"
+    ],
+    "volume": 930,
+    "ABV": 9.7
+  },
+  {
+    "name": "Grasshopper",
+    "korName": " 그래스호퍼",
+    "korIngredients": [
+      "민트 리큐르 (크렘 드 민트) 20 ml",
+      "크림 20 ml",
+      "카카오 리큐르 (크렘 드 카카오) 20 ml"
+    ],
+    "volume": 140,
+    "ABV": 0.0
+  },
+  {
+    "name": "Whiskey Highball",
+    "korName": " 위스키 하이볼",
+    "korIngredients": ["위스키 60 ml", "진저 에일 200 ml", "레몬 1 pc"],
+    "volume": 251,
+    "ABV": 39.8
+  },
+  {
+    "name": "Hot Toddy",
+    "korName": " 핫 토디",
+    "korIngredients": [
+      "물 60 ml",
+      "위스키 45 ml",
+      "꿀 5 ml",
+      "정향 3 pc s",
+      "시나몬 1 pc  stick",
+      "레몬 1 pc",
+      "넛맥 1 pinch"
+    ],
+    "volume": 80,
+    "ABV": 7.5
+  },
+  {
+    "name": "Hugo",
+    "korName": " 휴고",
+    "korIngredients": [
+      "라임 주스 20 ml",
+      "탄산수 150 ml",
+      "샴페인 50 ml",
+      "민트 6 sheet"
+    ],
+    "volume": 220,
+    "ABV": 3.0
+  },
+  {
+    "name": "Hurricane",
+    "korName": " 허리케인",
+    "korIngredients": [
+      "화이트 럼 (라이트 럼) 60 ml",
+      "오버프루프 럼 30 ml",
+      "다크 럼 (헤비 럼) 60 ml",
+      "오렌지 주스 30 ml",
+      "패션프루트 주스 60 ml",
+      "설탕 시럽 15 ml",
+      "라임 1 pc",
+      "오렌지 1 pc",
+      "칵테일 체리 1 pc",
+      "그레나딘 시럽 15 ml",
+      "얼음 4 pc"
+    ],
+    "volume": 170,
+    "ABV": 18.8
+  },
+  {
+    "name": "Irish Coffee",
+    "korName": " 아이리쉬 커피",
+    "korIngredients": [
+      "얼음 7 pc",
+      "에스프레소 120 ml",
+      "크림 50 ml",
+      "위스키 50 ml Irish"
+    ],
+    "volume": 270,
+    "ABV": 3.0
+  },
+  {
+    "name": "Kir Royal",
+    "korName": " 키르 로얄",
+    "korIngredients": ["샴페인 90 ml", "커런트 리큐르 (크렘 드 카시스) 10 ml"],
+    "volume": 50,
+    "ABV": 10.4
+  },
+  {
+    "name": "London Mule",
+    "korName": " 런던 뮬",
+    "korIngredients": [
+      "라임 주스 15 ml",
+      "진 60 ml",
+      "진저 비어 90 ml",
+      "라임 1 pc"
+    ],
+    "volume": 150,
+    "ABV": 40.0
+  },
+  {
+    "name": "Long Island Iced Tea",
+    "korName": " 롱 아일랜드 아이스 티",
+    "korIngredients": [
+      "얼음 12 pc",
+      "화이트 럼 (라이트 럼) 15 ml",
+      "테킬라 15 ml",
+      "오렌지 리큐르 (코앵트로, 트리플섹) 15 ml",
+      "보드카 15 ml",
+      "진 15 ml",
+      "콜라 30 ml",
+      "심플 시럽 20 ml",
+      "레몬 1 pc"
+    ],
+    "volume": 110,
+    "ABV": 32.7
+  },
+  {
+    "name": "Mai Tai",
+    "korName": " 마이 타이",
+    "korIngredients": [
+      "얼음 10 pc",
+      "화이트 럼 (라이트 럼) 37.5 ml",
+      "오렌지 주스 30 ml",
+      "라임 주스 30 ml",
+      "그레나딘 시럽 7.5 ml",
+      "파인애플 주스 30 ml",
+      "오렌지 리큐르 (코앵트로, 트리플섹) 22.5 ml",
+      "칵테일 체리 2 pc",
+      "오렌지 1 pc"
+    ],
+    "volume": 150,
+    "ABV": 34.7
+  },
+  {
+    "name": "Malibu Sea Breeze",
+    "korName": " 말리부 시 브리즈",
+    "korIngredients": [
+      "크랜베리 주스 60 ml",
+      "말리부 45 ml",
+      "파인애플 주스 60 ml"
+    ],
+    "volume": 220,
+    "ABV": 3.8
+  },
+  {
+    "name": "Manhattan",
+    "korName": " 맨하탄",
+    "korIngredients": [
+      "라이 위스키 50 ml",
+      "스윗 베르무트 20 ml",
+      "비터스 5 ml",
+      "얼음 1 cup",
+      "칵테일 체리 1 pc"
+    ],
+    "volume": 75,
+    "ABV": 35.4
+  },
+  {
+    "name": "Margarita",
+    "korName": " 스트로베리 마가리타",
+    "korIngredients": [
+      "소금 1 pinch",
+      "라임 주스 15 ml",
+      "오렌지 리큐르 (코앵트로, 트리플섹) 20 ml",
+      "테킬라 50 ml",
+      "얼음 4 pc"
+    ],
+    "volume": 80,
+    "ABV": 27.5
+  },
+  {
+    "name": "Mimosa",
+    "korName": " 미모사",
+    "korIngredients": ["샴페인 90 ml", "오렌지 주스 45 ml"],
+    "volume": 145,
+    "ABV": 7.0
+  },
+  {
+    "name": "Mojito",
+    "korName": " 모히토",
+    "korIngredients": [
+      "화이트 럼 (라이트 럼) 45 ml",
+      "탄산수 60 ml",
+      "라임 주스 20 ml",
+      "라임 1 pc",
+      "설탕 2 teaspoon",
+      "민트 6 sheet"
+    ],
+    "volume": 110,
+    "ABV": 36.4
+  },
+  {
+    "name": "Moscow Mule",
+    "korName": " 모스코 뮬",
+    "korIngredients": [
+      "라임 주스 10 ml",
+      "보드카 45 ml",
+      "얼음 10 pc",
+      "진저 비어 120 ml",
+      "라임 3 pc"
+    ],
+    "volume": 370,
+    "ABV": 40.0
+  },
+  {
+    "name": "Negroni",
+    "korName": " 네그로니",
+    "korIngredients": [
+      "캄파리 30 ml",
+      "진 30 ml",
+      "스윗 베르무트 30 ml",
+      "오렌지 1 pc"
+    ],
+    "volume": 90,
+    "ABV": 27.3
+  },
+  {
+    "name": "Old Fashioned",
+    "korName": " 올드 패션드",
+    "korIngredients": [
+      "탄산수 22.5 ml",
+      "비터스 5 ml",
+      "얼음 1 cup",
+      "설탕 1 pc cube",
+      "라이 위스키 52.5 ml",
+      "오렌지 1 pc",
+      "칵테일 체리 1 pc"
+    ],
+    "volume": 61,
+    "ABV": 29.5
+  },
+  {
+    "name": "Paradise",
+    "korName": " 파라다이스",
+    "korIngredients": [
+      "에프리콧 브랜디 22.5 ml",
+      "진 30 ml",
+      "오렌지 주스 15 ml"
+    ],
+    "volume": 100,
+    "ABV": 27.8
+  },
+  {
+    "name": "Punch",
+    "korName": " 파티 펀치",
+    "korIngredients": [
+      "파인애플 주스 360 ml",
+      "오렌지 주스 360 ml",
+      "보드카 360 ml",
+      "오렌지 4 pc",
+      "사과 4 pc",
+      "레몬 4 pc",
+      "얼음 2 pc"
+    ],
+    "volume": 1200,
+    "ABV": 12.0
+  },
+  {
+    "name": "Pina Colada",
+    "korName": " 피나 콜라다",
+    "korIngredients": [
+      "화이트 럼 (라이트 럼) 37.5 ml",
+      "파인애플 주스 50 ml",
+      "코코넛 크림 30 ml",
+      "파인애플 1 pc",
+      "칵테일 체리 1 pc"
+    ],
+    "volume": 140,
+    "ABV": 22.9
+  },
+  {
+    "name": "Planter'S Punch",
+    "korName": " 플랜터즈 펀치",
+    "korIngredients": [
+      "라임 주스 15 ml",
+      "스윗 앤 사워 30 ml",
+      "다크 럼 (헤비 럼) 45 ml"
+    ],
+    "volume": 160,
+    "ABV": 25.0
+  },
+  {
+    "name": "Screw Driver",
+    "korName": " 스크류 드라이버",
+    "korIngredients": ["보드카 30 ml", "오렌지 주스 60 ml", "얼음 6 pc"],
+    "volume": 180,
+    "ABV": 13.3
+  },
+  {
+    "name": "Sea Breeze",
+    "korName": " 시 브리즈",
+    "korIngredients": [
+      "보드카 40 ml",
+      "크랜베리 주스 120 ml",
+      "자몽 주스 30 ml"
+    ],
+    "volume": 200,
+    "ABV": 10.0
+  },
+  {
+    "name": "Sex On The Beach",
+    "korName": " 섹스 온 더 비치",
+    "korIngredients": [
+      "얼음 6 pc",
+      "보드카 40 ml",
+      "복숭아 리큐르 (피치 트리) 20 ml",
+      "크랜베리 주스 40 ml",
+      "오렌지 주스 40 ml",
+      "파인애플 1 pc",
+      "칵테일 체리 1 pc"
+    ],
+    "volume": 360,
+    "ABV": 5.8
+  },
+  {
+    "name": "Sidecar",
+    "korName": " 사이드카",
+    "korIngredients": [
+      "브랜디 50 ml",
+      "오렌지 리큐르 (코앵트로, 트리플섹) 20 ml",
+      "레몬 주스 20 ml",
+      "얼음 6 pc"
+    ],
+    "volume": 90,
+    "ABV": 20.0
+  },
+  {
+    "name": "Singapore Sling",
+    "korName": " 싱가포르 슬링",
+    "korIngredients": [
+      "진 45 ml",
+      "체리 브랜디 15 ml",
+      "레몬 주스 15 ml",
+      "탄산수 60 ml",
+      "설탕 0.5 teaspoon"
+    ],
+    "volume": 60,
+    "ABV": 34.7
+  },
+  {
+    "name": "Strawberry Margarita",
+    "korName": " 스트로베리 마가리타",
+    "korIngredients": [
+      "라임 주스 20 ml",
+      "딸기 30 ml",
+      "오렌지 리큐르 (코앵트로, 트리플섹) 25 ml",
+      "테킬라 45 ml",
+      "설탕 1 pinch"
+    ],
+    "volume": 130,
+    "ABV": 15.4
+  },
+  {
+    "name": "Tequila Sunrise",
+    "korName": " 테킬라 선라이즈",
+    "korIngredients": [
+      "얼음 5 pc",
+      "테킬라 45 ml",
+      "오렌지 주스 90 ml",
+      "그레나딘 시럽 15 ml",
+      "오렌지 1 pc",
+      "칵테일 체리 1 pc"
+    ],
+    "volume": 170,
+    "ABV": 9.4
+  },
+  {
+    "name": "Tom Collins",
+    "korName": " 톰 콜린스",
+    "korIngredients": [
+      "진 60 ml",
+      "레몬 주스 22.5 ml",
+      "설탕 10 ml",
+      "탄산수 60 ml",
+      "레몬 1 pc",
+      "칵테일 체리 1 pc"
+    ],
+    "volume": 70,
+    "ABV": 22.9
+  },
+  {
+    "name": "Vesper",
+    "korName": " 베스퍼",
+    "korIngredients": [
+      "릴레 블랑 7.5 ml",
+      "진 45 ml",
+      "보드카 15 ml",
+      "레몬 1 pc"
+    ],
+    "volume": 90,
+    "ABV": 35.6
+  },
+  {
+    "name": "Vodka Apple",
+    "korName": " 보드카 애플",
+    "korIngredients": [
+      "보드카 30 ml",
+      "사과 30 ml  liquer",
+      "라임 주스 15 ml",
+      "얼음 5 pc",
+      "사과 1 pc"
+    ],
+    "volume": 230,
+    "ABV": 8.7
+  },
+  {
+    "name": "Gimlet",
+    "korName": " 김렛",
+    "korIngredients": [
+      "진 45 ml",
+      "라임 주스 25 ml",
+      "설탕 1 pinch",
+      "얼음 3 pc"
+    ],
+    "volume": 60,
+    "ABV": 26.7
+  },
+  {
+    "name": "Vodka Martini",
+    "korName": " 보드카 마티니",
+    "korIngredients": [
+      "레몬 1 pc",
+      "보드카 45 ml",
+      "드라이 베르무트 15 ml",
+      "얼음 4 pc"
+    ],
+    "volume": 80,
+    "ABV": 34.2
+  },
+  {
+    "name": "Vodka Sour",
+    "korName": " 보드카 사워",
+    "korIngredients": [
+      "보드카 45 ml",
+      "레몬 주스 15 ml",
+      "설탕 10 ml",
+      "탄산수 30 ml",
+      "레몬 3 pc"
+    ],
+    "volume": 100,
+    "ABV": 20.0
+  },
+  {
+    "name": "Whiskey Cola",
+    "korName": " 위스키 콜라",
+    "korIngredients": ["콜라 150 ml", "위스키 45 ml"],
+    "volume": 40,
+    "ABV": 40.0
+  },
+  {
+    "name": "Whiskey Sour",
+    "korName": " 위스키 사워",
+    "korIngredients": [
+      "위스키 45 ml",
+      "레몬 주스 15 ml",
+      "설탕 10 ml",
+      "탄산수 30 ml",
+      "레몬 3 pc"
+    ],
+    "volume": 100,
+    "ABV": 20.0
+  },
+  {
+    "name": "White Lady",
+    "korName": " 화이트 레이디",
+    "korIngredients": [
+      "레몬 주스 15 ml",
+      "오렌지 리큐르 (코앵트로, 트리플섹) 15 ml",
+      "진 30 ml"
+    ],
+    "volume": 80,
+    "ABV": 25.0
+  },
+  {
+    "name": "White Russian",
+    "korName": " 화이트 러시안",
+    "korIngredients": ["크림 30 ml", "보드카 50 ml", "깔루아 20 ml"],
+    "volume": 90,
+    "ABV": 13.3
+  },
+  {
+    "name": "Zombie",
+    "korName": " 좀비",
+    "korIngredients": [
+      "오렌지 리큐르 (코앵트로, 트리플섹) 20 ml",
+      "얼음 0.2 l",
+      "파인애플 주스 60 ml",
+      "레몬 주스 20 ml",
+      "오렌지 주스 40 ml",
+      "패션프루트 시럽 20 ml",
+      "그레나딘 시럽 20 ml",
+      "오버프루프 럼 20 ml",
+      "골드 럼 (미디움 럼) 40 ml",
+      "화이트 럼 (라이트 럼) 40 ml",
+      "오렌지 1 pc"
+    ],
+    "volume": 280,
+    "ABV": 27.1
+  }
+]

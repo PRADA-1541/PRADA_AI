@@ -34,13 +34,16 @@ class UserService:
             with open(self.path, 'rb') as f:
                 user_dict = pickle.load(f)
                 # pickle 파일이 빈 dict라면
-        self.last_mapping_id = 0 if user_dict == {} else max(user_dict.values())
+        self.last_mapping_id = None if user_dict == {} else max(user_dict.values())
         
         for user_id, mapping_id in user_dict.items():
             self.users.append(User(userId= user_id, mappingId = mapping_id))
 
         # 할당되지 않은 mapping id를 저장
-        self.not_assigned_indices = [id for id in range(self.last_mapping_id) if id not in user_dict.values()]
+        if self.last_mapping_id is None:
+            self.not_assigned_indices = []
+        else:
+            self.not_assigned_indices = [id for id in range(self.last_mapping_id) if id not in user_dict.values()]
 
     def get_all_users(self):
         """
@@ -83,7 +86,7 @@ class UserService:
         새로운 유저를 추가
         """
         logging.info("서비스 유저 추가 : " + str(users) + "")
-        user_id_list = [user.userId for user in self.users]
+        user_id_list = [str(user.userId) for user in self.users]
         new_users = []
 
         for user in users:
@@ -146,11 +149,15 @@ class UserService:
         """
         새로운 유저에게 mapping id를 할당
         """
+        if self.last_mapping_id is None:
+            self.last_mapping_id = 0
+            return self.last_mapping_id
+        
         if len(self.not_assigned_indices) > 0:
             return self.not_assigned_indices.pop(0)
-        else:
-            self.last_mapping_id += 1
-            return self.last_mapping_id
+        
+        self.last_mapping_id += 1
+        return self.last_mapping_id
 
 
     def clear_all(self):
@@ -160,7 +167,7 @@ class UserService:
         self.users = []
         self.not_assigned_indices = []
         self.create_user_dict()
-        self.last_mapping_id = 0
+        self.last_mapping_id = None
 
 
 class CocktailService:
@@ -179,13 +186,16 @@ class CocktailService:
             with open(self.path, 'rb') as f:
                 cocktail_dict = pickle.load(f)
                 # pickle 파일이 빈 dict라면
-        self.last_mapping_id = 0 if cocktail_dict == {} else max(cocktail_dict.values())
+        self.last_mapping_id = None if cocktail_dict == {} else max(cocktail_dict.values())
         
         for cocktail_id, mapping_id in cocktail_dict.items():
             self.cocktails.append(Cocktail(cocktailName= cocktail_id, mappingId = mapping_id))
 
         # 할당되지 않은 mapping id를 저장
-        self.not_assigned_indices = [id for id in range(self.last_mapping_id) if id not in cocktail_dict.values()]
+        if self.last_mapping_id is None:
+            self.not_assigned_indices = []
+        else:
+            self.not_assigned_indices = [id for id in range(self.last_mapping_id) if id not in cocktail_dict.values()]
 
     def get_all_cocktails(self):
         """
@@ -234,6 +244,7 @@ class CocktailService:
         for cocktail in cocktails:
             if cocktail not in cocktail_id_list:
                 new_mapping_id = self.assign_new_mapping_id()
+                print(new_mapping_id)
                 new_cocktails.append(Cocktail(cocktailName = cocktail, mappingId = new_mapping_id))
 
         self.save_new_cocktails(new_cocktails)
@@ -291,11 +302,15 @@ class CocktailService:
         """
         새로운 칵테일에게 mapping id를 할당
         """
+        if self.last_mapping_id is None:
+            self.last_mapping_id = 0
+            return self.last_mapping_id
+        
         if len(self.not_assigned_indices) > 0:
             return self.not_assigned_indices.pop(0)
-        else:
-            self.last_mapping_id += 1
-            return self.last_mapping_id
+        
+        self.last_mapping_id += 1
+        return self.last_mapping_id
 
 
     def clear_all(self):
@@ -305,7 +320,7 @@ class CocktailService:
         self.cocktails = []
         self.not_assigned_indices = []
         self.create_cocktail_dict()
-        self.last_mapping_id = 0
+        self.last_mapping_id = None
 
     
 class RatingService:
@@ -338,7 +353,13 @@ class RatingService:
         새로운 평점을 추가
         """
         logging.info("서비스 평점 추가 : " + str(ratings) + "")
-        rating_df = pd.DataFrame(ratings).drop(columns=['timestamp'])
+        print("ratings: ", ratings)
+
+        rating_df = pd.DataFrame(ratings)
+        if "timestamp" in ratings[0].keys():
+            rating_df = rating_df.drop(columns=['timestamp'])
+        if "Review" in ratings[0].keys():
+            rating_df = rating_df.drop(columns=['Review'])
 
         # train, test split
         new_train, new_test = train_test_split(rating_df, test_size=0.1)
@@ -349,6 +370,10 @@ class RatingService:
 
         train = pd.concat([train, new_train])
         test = pd.concat([test, new_test])
+
+        # 중복 데이터 제거
+        train.drop_duplicates(subset=['userId', 'cocktailId'], keep='last', inplace=True)
+        test.drop_duplicates(subset=['userId', 'cocktailId'], keep='last', inplace=True)
 
         train.to_csv(self.train_path, index=False)
         test.to_csv(self.test_path, index=False)
@@ -362,14 +387,14 @@ class RatingService:
         train, test 데이터를 DataLoader로 반환
         """
         train, test = self.get_train_test_ratings_df()
-        print(":::", train, test)
         # 각 user, cocktail에 mapping id 부여
         train['userId'] = train['userId'].apply(lambda x: user_id_mapper[str(x)])
         train['cocktailId'] = train['cocktailId'].apply(lambda x: cocktail_id_mapper[str(x)])
         test['userId'] = test['userId'].apply(lambda x: user_id_mapper[str(x)])
         test['cocktailId'] = test['cocktailId'].apply(lambda x: cocktail_id_mapper[str(x)])
-        print(":::", train, test)
 
+
+        #train['cocktailId'] < 0인 데이터 삭제
 
         train, val = train_test_split(train, test_size=0.1)
 
@@ -377,9 +402,9 @@ class RatingService:
         val_dataset = Dataset(val, is_training=False)
         test_dataset = Dataset(test, is_training=False)
         
-        train_loader = train_dataset.get_loader(128)
-        val_loader = val_dataset.get_loader(128)
-        test_loader = test_dataset.get_loader(128)
+        train_loader = train_dataset.get_loader(32)
+        val_loader = val_dataset.get_loader(32)
+        test_loader = test_dataset.get_loader(32)
 
         return train_loader, val_loader, test_loader
 
@@ -392,11 +417,14 @@ class RecommenderService:
         #self.sub_weight_path = os.path.join(self.weight_path, 'sub_weights.pth')
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-        self.load_model(NCF(num_users, num_items, 5, 0.4, 3), self.whole_weight_path)
+        self.load_model(num_users, num_items, self.whole_weight_path)
         
-    def load_model(self, model, weights):
+        
+        
+    def load_model(self, num_users, num_items, weights):
         print("모델 로드")
-        self.model = model
+        self.model = NCF(num_users, num_items, 5, 0.4, 3)
+        if weights is None : weights = self.whole_weight_path
         checkpoint = torch.load(weights, map_location=self.device)
         sub_checkpoint = OrderedDict([(layer, checkpoint[layer]) for layer in checkpoint if '_embedding_' not in layer])
         self.model.load_state_dict(sub_checkpoint, strict=False)
@@ -404,15 +432,18 @@ class RecommenderService:
             
 
     def fit(self, train_loader, val_loader, test_loader):
+        # 모델 구조
         print("학습 시작")
         self.model.eval()
+        # 모델 구조
+        print(self.model)
 
         criterion = nn.MSELoss()
         optimizer = optim.SGD(self.model.parameters(), lr=0.001, momentum=0.7) # Best
         scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, mode='min', factor=0.8, patience=20, verbose=True)
 
         best_rmse = 1000
-        for epoch in range(200):
+        for epoch in range(10):
             if epoch % 10 == 0:
                 print("epoch : ", epoch)
             self.model.train() # enable dropout if used
@@ -421,7 +452,7 @@ class RecommenderService:
 
             for users, items, ratings in train_loader:
                 users, items, ratings = users.to(self.device), items.to(self.device), ratings.to(self.device)
-                
+
                 self.model.zero_grad()
                 prediction = self.model(users, items)
                 loss = criterion(prediction, ratings)
@@ -464,7 +495,6 @@ class RecommenderService:
             test_rmse /= num_items
             test_rmse = np.sqrt(test_rmse)
 
-        return self.recommends.extend(ratings)
     
     def predict(self, user_id, top_k):
         self.model.eval()
@@ -473,3 +503,22 @@ class RecommenderService:
             top_k = torch.topk(prediction, top_k).indices.cpu().numpy()
             print(top_k)
             return prediction.cpu().numpy()
+        
+    def predict_all(self, user_dict, cocktail_dict):
+        results = []
+        self.model.eval()
+        with torch.no_grad():
+            for userId, user_mapping_id in user_dict.items():
+                result_per_user = []
+                out_per_user = []
+                for cocktailName, cocktail_mapping_id in cocktail_dict.items():
+                    prediction = self.model(torch.tensor([user_mapping_id]).to(self.device), torch.tensor([cocktail_mapping_id]).to(self.device)).cpu().detach().numpy()
+                    result_per_user.append((cocktailName, prediction[0]))
+                result_per_user.sort(key=lambda x: x[1], reverse=True)
+                top_5_per_user = result_per_user[:5]
+                for (cocktailName, pred) in top_5_per_user:
+                    out_per_user.append({'cocktail': cocktailName, 'prediction': float(pred)})
+                results.append({'userId': userId, 'items': out_per_user})
+
+        return results
+                

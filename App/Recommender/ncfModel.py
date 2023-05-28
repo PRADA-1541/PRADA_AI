@@ -12,7 +12,7 @@ class NCF(nn.Module):
         :param GMF: pretrained GMF model
         :param MLP: pretrained MLP model
     """
-    def __init__(self, num_users, num_items, num_factors=40, dropout=0.02, num_layers=10, model=None, GMF=None, MLP=None):
+    def __init__(self, num_users, num_items, num_factors=5, dropout=0.04, num_layers=3, model=None, GMF=None, MLP=None):
         super(NCF, self).__init__()
 
         self.num_factors = num_factors

@@ -14,8 +14,8 @@ class Dataset(data.Dataset):
     
     def __getitem__(self, idx):
         # user의 경우 1부터 시작하므로 1을 빼준다.
-        user = (self.dataset[idx][0] - 1).astype(np.int64)
-        item = (self.dataset[idx][1] - 1).astype(np.int64)
+        user = (self.dataset[idx][0]).astype(np.int64)
+        item = (self.dataset[idx][1]).astype(np.int64)
         rating = self.dataset[idx][2].astype(np.float32)
 
         return user, item, rating
